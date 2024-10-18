@@ -1,0 +1,50 @@
+{% include head-post.html %}
+{% include nav.html %}
+{% include search.html %}
+<main>
+    <section class="container flex post-header">
+        <div class="post-header-content">
+            <p class="post-review">{{ page.note }}</p>
+            <h1>{{ page.title }}</h1>
+            <p class="post-review-comment">{{ page.comment }}</p>
+        </div>
+        
+        <figure class="post-image">
+            <img src="{{ page.image }}" alt="Photographie du fromage : {{ page.title }}" />
+            <figcaption>{{ page.image-credit }}</figcaption>
+          </figure>
+    </section>
+
+    <section class="container">
+        {{ page.content }}
+    </section>
+
+    <section class="container">
+        <h2>Fromages similaires</h2>
+
+        {% assign maxRelated = 5 %}
+        {% assign minCommonTags =  1 %}
+        {% assign maxRelatedCounter = 0 %}
+       
+        <ul class="related-posts">
+        {% for post in site.posts %}
+           {% assign sameTagCount = 0 %}
+           {% for tag in post.tags %}
+               {% if post.url != page.url %}
+                   {% if page.tags contains tag %}
+                       {% assign sameTagCount = sameTagCount | plus: 1 %}
+                   {% endif %}
+               {% endif %}
+           {% endfor %}
+           {% if sameTagCount >= minCommonTags %}
+               <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+               {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+               {% if maxRelatedCounter >= maxRelated %}
+                   {% break %}
+               {% endif %}
+           {% endif %}
+        {% endfor %}
+        </ul>
+    </section>
+</main>
+{% include footer.html %}

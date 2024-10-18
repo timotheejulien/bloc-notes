@@ -1,0 +1,11 @@
+author:
+  name: Timothée JULIEN
+title: Notes
+description: Centralisation de mes notes et liens en tout genre.
+url: https://timotheejulien.github.io/notes/
+permalink: /:categories/:title.html
+
+collections:
+  previews:
+    output: true
+    permalink: /previews/:slug/

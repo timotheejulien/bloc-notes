@@ -1,0 +1,28 @@
+{% include head.html %}
+{% include nav.html %}  
+{% include search.html %}
+<main id="main-famille-fromage">
+  <section class="container hero">
+    <h1>{{ page.title }}</h1>
+    <p>Classement de mes fromages dégustés, selon leurs types de pâtes.</p>
+    <div class="divider"></div>
+  </section>
+
+  {% assign sorted_cats = site.tags | title %}
+  {% for tag in sorted_cats %}
+  {% assign sorted_posts = tag[1] | reverse | sort: 'title' %}
+  <section class="section-fromage container flex">
+    <div class="third-width">
+      <h2>{{tag[0] | capitalize}}</h2>
+    </div>
+    <div>
+      <ul class="listing">
+        {% for post in sorted_posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  <div class="section-fromage-divider"></div>
+  {% endfor %}
+{% include footer.html %}
