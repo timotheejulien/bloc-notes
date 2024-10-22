@@ -1,9 +1,9 @@
 author:
   name: Timothée JULIEN
-title: Notes
+title: Bloc-notes
 description: Centralisation de mes notes et liens en tout genre.
 url: https://timotheejulien.github.io/notes/
-permalink: /:categories/:title.html
+permalink: /:categories/:year/:month/:day/:title/
 
 collections:
   previews:

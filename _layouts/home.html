@@ -1,28 +1,22 @@
 {% include head.html %}
 {% include nav.html %}
 {% include search.html %}
-<main>
-  <section class="container hero">
-    <h1>Amateur de fromages, depuis toujours</h1>
-    <p>J'ai décidé il y a quelques temps de créer une fiche sur chaque fromage que je déguste. J'essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces notes.</p>
-    <div class="divider"></div>
-  </section>
+<main class="main">
+   <nav class="">
+      <p>Block notes</p>
+   <div class="divider"></div>
+   </nav>
 
-  <section class="section-fromage container flex">
-    <div class="third-width">
-      <span class="h2">Plaisirs gustatifs</span>
-      <h2 class="color-text-secondary">Fromages dégustés</h2>
-    </div>
-    
-    <div>
-      <ul class="listing">
-      {% assign posts = site.posts | sort: 'title' %}
-      {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </div>
-  </section>
+   <section class="section container flex">
+      <div>
+         <ul class="listing">
+         {% assign posts = site.posts | sort: 'title' %}
+         {% for post in posts %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+         {% endfor %}
+         </ul>
+      </div>
+   </section>
 </main>
 
 {% include footer.html %}

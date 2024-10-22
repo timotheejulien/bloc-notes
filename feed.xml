@@ -1,0 +1,32 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+   <title type="text" xml:lang="fr">{{ site.title }}</title>
+   <link type="application/atom+xml" href="{{ site.url }}/feed.xml" rel="self"/>
+   <link type="text/html" href="{{ site.url }}/feed" rel="alternate"/>
+   <updated>{{ site.time | date_to_xmlschema }}</updated>
+   <id>https://fromages.timotheejulien.fr/feed.xml</id>
+   <author>
+      <email>email@timotheejulien.fr</email>
+      <name>Timothée JULIEN</name>
+   </author>
+   <generator uri="https://jekyllrb.com/" version="v{{ jekyll.version }}">Jekyll v{{ jekyll.version }}</generator>
+   <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
+
+   {% for post in site.posts %}
+      <entry>
+         <title>{{ post.title }}</title>
+         <link href="{{ post.url }}"/>
+         <updated>{{ post.date | date_to_xmlschema }}</updated>
+         <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
+
+         <content type="html">
+            &lt;p&gt;&lt;img src=&quot;{{ site.url }}{{ post.image }}&quot; alt=&quot;Photographie du fromage {{ post.title }}&quot; /&gt;&lt;/p&gt;
+            {{ post.comment | xml_escape }}
+            {{ post.content | xml_escape }}
+         </content>
+      </entry>
+   {% endfor %}
+</feed>
