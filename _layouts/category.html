@@ -4,8 +4,12 @@
    {% include nav.html %}
 
    <section class="section list-article">
-      {% assign posts = site.posts %}
-      {% for post in posts %}
+      <header class="page-header-tag">
+         <div class="page-header-icon article-icon-{{ page.category }}"></div>
+         <h2 class="page-title-tag">{{ page.category }}</h2>
+      </header>
+   
+      {%- for post in site.categories[page.category] -%}
       <article class="article">
          <header>
             <div class="article-icon article-icon-{{ post.categories }}"></div>
@@ -26,7 +30,7 @@
          </footer>
          </a>
       </article>
-      {% endfor %}
+      {%- endfor -%}
    </section>
 </main>
 
