@@ -11,7 +11,7 @@ tags:
    - développement
    - design
    - UI
-tags-preview: "développement, design, test"
+og-tags: "développement, design, test"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

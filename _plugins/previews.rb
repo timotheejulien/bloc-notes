@@ -35,7 +35,7 @@ module Previews
               </div>
               <div class='content'>
                   <h2 id='content-h2'>#{p.data['title']}</h2>
-                  <p class='content-p'>#{p.data['tags-preview']}</p>
+                  <p class='content-p'>#{p.data['og-tags']}</p>
               </div>
             </body>
           </html>",

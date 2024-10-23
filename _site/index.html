@@ -31,17 +31,6 @@
 </html>
 <body>
 
-<header>
-    <div class="container">
-        <nav>
-            <ul>
-                <li><a class="nav-item" href="/" title="Notes caséologiques">Accueil</a></li>
-                <li><a class="nav-item" href="/familles.html">Catégories</a></li>
-                <li><a class="nav-item" href="#" onclick='search_modal()'>Recherche</a></li>
-            </ul>
-        </nav>
-    </div>
-</header>
 <div id="search_modal">
       <div id="search-container">
             <div class="search-modal-header">
@@ -62,10 +51,37 @@
       </script>
 </div>
 <main class="main">
-   <nav class="">
-      <p>Block notes</p>
-   <div class="divider"></div>
-   </nav>
+   <nav class="nav-mobile">
+   <ul>
+      <li>
+         <a class="nav-item" href="/">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#000000" viewBox="0 0 256 256" style="--darkreader-inline-fill: #000000;" data-darkreader-inline-fill=""><path d="M192,24H96A16,16,0,0,0,80,40V56H64A16,16,0,0,0,48,72V224a8,8,0,0,0,12.65,6.51L112,193.83l51.36,36.68A8,8,0,0,0,176,224V184.69l19.35,13.82A8,8,0,0,0,208,192V40A16,16,0,0,0,192,24ZM160,208.46l-43.36-31a8,8,0,0,0-9.3,0L64,208.45V72h96Zm32-32L176,165V72a16,16,0,0,0-16-16H96V40h96Z"></path></svg>
+            <span>Tous</span>
+         </a>
+      </li>
+
+      <li>
+         <a class="nav-item" href="/">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 256 256"><path d="M240,88.23a54.43,54.43,0,0,1-16,37L189.25,160a54.27,54.27,0,0,1-38.63,16h-.05A54.63,54.63,0,0,1,96,119.84a8,8,0,0,1,16,.45A38.62,38.62,0,0,0,150.58,160h0a38.39,38.39,0,0,0,27.31-11.31l34.75-34.75a38.63,38.63,0,0,0-54.63-54.63l-11,11A8,8,0,0,1,135.7,59l11-11A54.65,54.65,0,0,1,224,48,54.86,54.86,0,0,1,240,88.23ZM109,185.66l-11,11A38.41,38.41,0,0,1,70.6,208h0a38.63,38.63,0,0,1-27.29-65.94L78,107.31A38.63,38.63,0,0,1,144,135.71a8,8,0,0,0,16,.45A54.86,54.86,0,0,0,144,96a54.65,54.65,0,0,0-77.27,0L32,130.75A54.62,54.62,0,0,0,70.56,224h0a54.28,54.28,0,0,0,38.64-16l11-11A8,8,0,0,0,109,185.66Z"></path></svg>
+            <span>Liens</span>
+         </a>
+      </li>
+
+      <li>
+         <a class="nav-item" href="/">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#000000" viewBox="0 0 256 256"><path d="M100,56H40A16,16,0,0,0,24,72v64a16,16,0,0,0,16,16h60v8a32,32,0,0,1-32,32,8,8,0,0,0,0,16,48.05,48.05,0,0,0,48-48V72A16,16,0,0,0,100,56Zm0,80H40V72h60ZM216,56H156a16,16,0,0,0-16,16v64a16,16,0,0,0,16,16h60v8a32,32,0,0,1-32,32,8,8,0,0,0,0,16,48.05,48.05,0,0,0,48-48V72A16,16,0,0,0,216,56Zm0,80H156V72h60Z"></path></svg>
+            <span>Citations</span>
+         </a>
+      </li>
+
+      <li>
+         <a class="nav-item" href="/" onclick='search_modal()'>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#000000" viewBox="0 0 256 256"><path d="M229.66,218.34l-50.07-50.06a88.11,88.11,0,1,0-11.31,11.31l50.06,50.07a8,8,0,0,0,11.32-11.32ZM40,112a72,72,0,1,1,72,72A72.08,72.08,0,0,1,40,112Z"></path></svg>
+            <span>Recherche</span>
+         </a>
+      </li>
+   </ul>
+</nav>
 
    <section class="section container flex">
       <div>
@@ -97,7 +113,7 @@
                   <div class="flex-width-1">
                         <h4>À propos de ce projet</h4>
                         <p><a href="/feed.xml" target="_blank">Flux RSS</a></p>
-                        <p>Il s'agit d'un projet open-source. Si vous souhaitez me faire part d'une erreur ou suggérer une amélioration, ce projet est disponible sur <a href="https://github.com/timotheejulien/fromages/" target="_blank">Github</a>.</p>
+                        <p>Il s'agit d'un projet open-source. Si vous souhaitez me faire part d'une erreur ou suggérer une amélioration, ce projet est disponible sur <a href="https://github.com/timotheejulien/notes/" target="_blank">Github</a>.</p>
                   </div>
                 <div class="flex-width-1">
                   <h4>Me suivre</h4>
