@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le « permacomputing », ou quand la permaculture s’applique à l&#039;informatique"
+title: "Le « permacomputing », ou quand la permaculture s’applique à l'informatique"
 link: "https://usbeketrica.com/fr/article/le-permacomputing-ou-quand-la-permaculture-s-applique-a-l-informatique"
 author: Sophie Kloetzli
 published_date: "23/10/2024"
