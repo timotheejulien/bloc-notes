@@ -250,6 +250,10 @@ body {
    background-repeat: no-repeat;
 }
 
+#search-button:hover {
+   cursor: pointer;
+}
+
 #search_modal {
    width: 100%;
    height: 100%;
@@ -580,8 +584,8 @@ ul.footer-nav li {
    }
 
    .nav-item-icon {
-      width: 20px;
-      height: 20px;
+      width: 24px;
+      height: 24px;
       background-position: center;
       background-repeat: no-repeat;
    }
