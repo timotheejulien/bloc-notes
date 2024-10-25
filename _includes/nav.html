@@ -8,7 +8,7 @@
       </li>
       {%- for category in site.categories -%}
       <li>
-         <a class="nav-item" href="{{ site.baseurl }}/category/{{ category[0] | slugify }}">
+         <a class="nav-item" href="{{ site.baseurl }}/{{ category[0] | slugify }}">
             <div class="nav-item-icon article-icon-{{ category[0] }}"></div>
             <span>{{ category[0] }}</span>
          </a>
@@ -42,7 +42,7 @@
 
       {%- for category in site.categories -%}
       <li>
-         <a class="nav-item" href="{{ site.baseurl }}/category/{{ category[0] | slugify }}">
+         <a class="nav-item" href="{{ site.baseurl }}/{{ category[0] | slugify }}">
             <div class="nav-item-icon article-icon-{{ category[0] }}"></div>
             <span>{{ category[0] }} ({{ category[1].size }})</span>
          </a>

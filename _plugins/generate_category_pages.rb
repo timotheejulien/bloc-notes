@@ -13,7 +13,7 @@ module Jekyll
      def initialize(site, category)
        @site = site
        @base = site.source
-       @dir  = File.join('category', category)
+       @dir  = category # Place each category page in the root with the category name as the folder
        @name = 'index.html'
  
        self.process(@name)
@@ -22,5 +22,4 @@ module Jekyll
        self.data['title'] = "Posts in category: #{category}"
      end
    end
- end
- 
+ end 
