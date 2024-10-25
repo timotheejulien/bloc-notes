@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ux deliverables: glossary"
+title: "UX deliverables: glossary"
 link: "https://www.nngroup.com/articles/ux-deliverables-glossary/"
 author: N/A
 published_date: "27/08/2024"

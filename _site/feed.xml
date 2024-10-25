@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-25T10:18:39+02:00</updated>
+   <updated>2024-10-25T10:46:12+02:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -224,13 +224,13 @@
       </entry>
    
       <entry>
-         <title>Ia : la guerre des données aura-t-elle lieu ?</title>
+         <title>IA : la guerre des données aura-t-elle lieu ?</title>
          <link href="/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/"/>
          <updated>2024-09-15T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/</id>
 
          <content type="html">
-            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage Ia : la guerre des données aura-t-elle lieu ?&quot; /&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage IA : la guerre des données aura-t-elle lieu ?&quot; /&gt;&lt;/p&gt;
             
             
 
@@ -336,13 +336,13 @@
       </entry>
    
       <entry>
-         <title>Ux deliverables: glossary</title>
+         <title>UX deliverables: glossary</title>
          <link href="/liens/2024/08/27/ux-deliverables-glossary/"/>
          <updated>2024-08-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/27/ux-deliverables-glossary/</id>
 
          <content type="html">
-            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage Ux deliverables: glossary&quot; /&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage UX deliverables: glossary&quot; /&gt;&lt;/p&gt;
             
             
 

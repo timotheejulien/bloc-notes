@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ia : la guerre des données aura-t-elle lieu ?"
+title: "IA : la guerre des données aura-t-elle lieu ?"
 link: "https://usbeketrica.com/fr/article/ia-la-guerre-des-donnees-aura-t-elle-lieu-data-synthetiques"
 author: N/A
 published_date: "15/09/2024"
