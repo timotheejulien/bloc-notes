@@ -26,7 +26,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'   # Specify Ruby version compatible with your site
+          ruby-version: '4.3.4'   # Specify Ruby version compatible with your site
           bundler-cache: true   # Enable bundler caching for faster builds
 
       - name: Install dependencies
