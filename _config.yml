@@ -2,7 +2,7 @@ author:
   name: Timothée JULIEN
 title: Bloc-notes
 description: Centralisation de mes notes et liens en tout genre.
-url: https://timotheejulien.github.io/notes/
+url: https://dev.timotheejulien.fr/bloc-notes
 permalink: /:categories/:year/:month/:day/:title/
 
 collections:
