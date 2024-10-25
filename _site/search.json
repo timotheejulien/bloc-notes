@@ -64,6 +64,13 @@
       ,
   
             {
+                  "title"    : "Template Post",
+                  "url"      : "/liens/citations/2024/10/10/template-post/",
+                  "tags"     : ""
+            } 
+      ,
+  
+            {
                   "title"    : "Les mythes de l’ia",
                   "url"      : "/liens/2024/10/08/les-mythes-de-lia/",
                   "tags"     : "Technologie, Algorithme"
