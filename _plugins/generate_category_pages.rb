@@ -19,7 +19,7 @@ module Jekyll
        self.process(@name)
        self.read_yaml(File.join(@base, '_layouts'), 'category.html')
        self.data['category'] = category
-       self.data['title'] = "Posts in category: #{category}"
+       self.data['title'] = "#{category}"
      end
    end
  end 
