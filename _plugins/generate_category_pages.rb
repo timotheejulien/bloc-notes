@@ -19,7 +19,7 @@
        self.process(@name)
        self.read_yaml(File.join(@base, '_layouts'), 'category.html')
        self.data['category'] = category
-       self.data['title'] = "Posts in category: #{category.capitalize}"
+       self.data['title'] = "#{category.capitalize}"
      end
    end
  end

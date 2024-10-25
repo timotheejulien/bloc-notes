@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Talk statut, tjm et clients, la base du freelance"
+title: "Statut, tjm et clients, la base du freelance"
 link: "https://mixitconf.org/2023/statut-tjm-et-clients-la-base-du-freelance"
-author: N/A
+author: Raphaël Yharrassarry
 published_date: "19/05/2024"
 description: ""
 language: fr

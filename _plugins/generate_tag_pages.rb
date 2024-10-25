@@ -27,7 +27,7 @@ module Jekyll
        self.process(@name)
        self.read_yaml(File.join(base, '_layouts'), 'tag.html')  # Utilise le layout 'tag.html'
        self.data['tag'] = tag                                    # Passe la variable 'tag' au layout
-       self.data['title'] = "Notes avec le tag #{tag}"        # Titre de la page
+       self.data['title'] = "##{tag}"        # Titre de la page
      end
    end
  end
