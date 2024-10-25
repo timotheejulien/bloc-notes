@@ -1,25 +1,25 @@
-module Jekyll
+ module Jekyll
    class CategoryPageGenerator < Generator
      safe true
  
      def generate(site)
        site.categories.each do |category|
-         site.pages << CategoryPage.new(site, category[0])
+         site.pages << CategoryPage.new(site, site.source, category[0])
        end
      end
    end
  
    class CategoryPage < Page
-     def initialize(site, category)
+     def initialize(site, base, category)
        @site = site
-       @base = site.source
-       @dir  = category # Place each category page in the root with the category name as the folder
-       @name = 'index.html'
+       @base = base
+       @dir = '/' # Root directory for each category page
+       @name = "#{category}.html" # Each category page is named after the category
  
        self.process(@name)
        self.read_yaml(File.join(@base, '_layouts'), 'category.html')
        self.data['category'] = category
-       self.data['title'] = "#{category}"
+       self.data['title'] = "Posts in category: #{category.capitalize}"
      end
    end
- end 
+ end
