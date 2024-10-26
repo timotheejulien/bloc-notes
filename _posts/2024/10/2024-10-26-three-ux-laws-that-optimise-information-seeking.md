@@ -10,7 +10,7 @@ categories:
    - Liens
 tags: 
    - Design
-- UX
-- UI
+   - UX
+   - UI
 permalink: /:categories/:year/:month/:day/:title/
 ---
