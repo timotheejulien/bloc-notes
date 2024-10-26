@@ -27,6 +27,10 @@
    --space-xxx-large: 96px;
 }
 
+body {
+   padding-bottom: env(safe-area-inset-bottom);
+}
+
 /* COLOR */
 .color-text-secondary {
    color: var(--color-text-secondary);
@@ -226,7 +230,7 @@ body {
 
 .nav-item {
    width: 100%;
-   padding: var(--space-x-small) var(--space-xx-small) var(--space-x-small) var(--space-xx-small); 
+   padding: var(--space-small) var(--space-xx-small) var(--space-small) var(--space-xx-small); 
    position: relative;
    display: flex;
    flex-direction: column;
@@ -784,4 +788,3 @@ ul.footer-nav li {
    #search-input {
       background: var(--color-background);
    }
-}
