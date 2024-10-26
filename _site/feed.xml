@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-26T16:18:43+02:00</updated>
+   <updated>2024-10-26T16:32:37+02:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,20 @@
 
          <content type="html">
             &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage Yes, design can save you millions&quot; /&gt;&lt;/p&gt;
+            
+            
+
+         </content>
+      </entry>
+   
+      <entry>
+         <title>UX Cognitive Bias Cards & Workshop</title>
+         <link href="/liens/2024/10/25/ux-cognitive-bias-cards-workshop/"/>
+         <updated>2024-10-25T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2024/10/25/ux-cognitive-bias-cards-workshop/</id>
+
+         <content type="html">
+            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage UX Cognitive Bias Cards & Workshop&quot; /&gt;&lt;/p&gt;
             
             
 
