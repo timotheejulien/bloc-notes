@@ -331,6 +331,10 @@ body {
    padding: var(--space-medium) var(--space-medium) var(--space-none) var(--space-medium);
 }
 
+.hero p {
+   margin-bottom: var(--space-large);
+}
+
 .page-header-tag {
    padding-bottom: var(--space-regular);
    display: flex;
@@ -674,6 +678,10 @@ ul.footer-nav li {
       box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
       -webkit-box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
       -moz-box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
+   }
+
+   .hero p {
+      margin-bottom: var(--space-x-large);
    }
 
    .page-header-tag {

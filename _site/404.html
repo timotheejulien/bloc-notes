@@ -34,7 +34,28 @@
 </html>
 <body>
 
-<nav class="nav-mobile">
+<div id="search_modal">
+      <div id="search-container">
+            <div class="search-modal-header">
+                  <a href="#" onclick='search_modal()'>Fermer</a>
+            </div>
+            <input type="text" id="search-input" placeholder="Rechercher une note">
+            <ul id="results-container"></ul>
+      </div>
+      <!-- Script pointing to search-script.js -->
+      <script src="/assets/search.js" type="text/javascript"></script>
+      <!-- Configuration -->
+      <script>
+            SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '/search.json'
+            })
+      </script>
+</div>
+
+<main class="main container">
+   <nav class="nav-mobile">
    <ul>
       <li>
          <a class="nav-item" href="/">
@@ -831,28 +852,9 @@
       </li></ul>
 </ul>
 </nav>
-<div id="search_modal">
-      <div id="search-container">
-            <div class="search-modal-header">
-                  <a href="#" onclick='search_modal()'>Fermer</a>
-            </div>
-            <input type="text" id="search-input" placeholder="Rechercher une note">
-            <ul id="results-container"></ul>
-      </div>
-      <!-- Script pointing to search-script.js -->
-      <script src="/assets/search.js" type="text/javascript"></script>
-      <!-- Configuration -->
-      <script>
-            SimpleJekyllSearch({
-            searchInput: document.getElementById('search-input'),
-            resultsContainer: document.getElementById('results-container'),
-            json: '/search.json'
-            })
-      </script>
-</div>
-<main>
-  <section class="container hero">
-    <h1>Erreur 404</h1>
+
+  <section class="hero">
+    <h1 class="h2">Erreur 404</h1>
     <p>Oups ! la page que vous recherchez n’est pas ou plus disponible.</p>
     <a class="btn btn-primary" href="/" title="Retour à l'accueil">Retour à l'accueil</a>
   </section>
