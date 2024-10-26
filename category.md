@@ -1,5 +1,6 @@
 ---
 layout: category
 title: Les articles d'une catégorie
-permalink: /:categories/:title/
+paginate: true
+paginate_path: "/page:num/"
 ---

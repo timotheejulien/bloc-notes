@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les mythes de l’ia"
+title: "Les mythes de l’IA"
 link: "https://danslesalgorithmes.net/2024/10/02/les-mythes-de-lia/"
 author: N/A
 published_date: "08/10/2024"

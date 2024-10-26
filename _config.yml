@@ -12,8 +12,8 @@ collections:
     output: true
     permalink: /previews/:slug/
 
-# plugins:
-#   - jekyll-paginate
+plugins:
+  - jekyll-paginate
 
-# paginate: 1       # Nombre de posts par page
-# paginate_path: "/page:num/"  # Le chemin pour les pages paginées
+paginate: 30       # Nombre de posts par page
+paginate_path: "/page:num/"  # Le chemin pour les pages paginées

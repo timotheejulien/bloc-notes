@@ -1,0 +1,50 @@
+{% include head.html %}
+{% include search.html %}
+<main class="main container">
+   {% include nav.html %}
+
+   <div>
+      <section class="list-article">
+         {% for post in paginator.posts %}
+         <article class="article">
+            <header>
+               <div class="article-icon article-icon-{{ post.categories }}"></div>
+               <div class="article-meta">
+                  <p>{{ post.author }} • {{ post.published_date }}</p>
+                  <a href="{{ post.link }}" target="_blank">{{ post.link }}</a>
+               </div>
+            </header>
+            <a href="{{ post.url }}">
+               <h2 class="h3">{{ post.title }}</h2>
+               <p class="article-description">{{ post.description }}</p>
+               <footer class="article-footer">
+                  <ul>
+                     {% for tag in post.tags %}
+                     <li class="tag">{{tag}}</li>
+                     {% endfor %}
+                  </ul>
+            </footer>
+            </a>
+         </article>
+         {% endfor %}
+      </section>
+
+      <section class="pagination">
+         <ul>
+            {% if paginator.previous_page %}
+            <li><a href="{{ paginator.previous_page_path }}"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path></svg></a></li>
+            {% endif %}
+         
+            {% for i in (1..paginator.total_pages) %}
+            <li><a href="/page{{ i }}" {% if i == paginator.page %}id="pagination-active"{% endif %}>{{ i }}</a></li>
+            {% endfor %}
+         
+            {% if paginator.next_page %}
+            <li><a href="{{ paginator.next_page_path }}"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"></path></svg></a></li>
+            {% endif %}
+         </ul>
+      </section>
+   </div>
+</main>
+
+{% include footer.html %}

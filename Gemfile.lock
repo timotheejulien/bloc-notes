@@ -36,6 +36,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-watch (2.2.1)
@@ -74,6 +75,7 @@ DEPENDENCIES
   fileutils (~> 1.7)
   imgkit (~> 1.6)
   jekyll (~> 4.3.4)
+  jekyll-paginate
   wkhtmltoimage-binary (~> 0.12.5)
 
 BUNDLED WITH

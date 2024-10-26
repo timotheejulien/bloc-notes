@@ -64,14 +64,7 @@
       ,
   
             {
-                  "title"    : "Template Post",
-                  "url"      : "/liens/citations/2024/10/10/template-post/",
-                  "tags"     : ""
-            } 
-      ,
-  
-            {
-                  "title"    : "Les mythes de l’ia",
+                  "title"    : "Les mythes de l’IA",
                   "url"      : "/liens/2024/10/08/les-mythes-de-lia/",
                   "tags"     : "Technologie, Algorithme"
             } 
@@ -281,7 +274,7 @@
       ,
   
             {
-                  "title"    : "Making a positive change: pdf to html",
+                  "title"    : "Making a positive change: PDF to HTML",
                   "url"      : "/liens/2024/08/04/making-a-positive-change-pdf-to-html/",
                   "tags"     : "Web, Technologie, Accessibilité, Numérique"
             } 
@@ -953,7 +946,7 @@
       ,
   
             {
-                  "title"    : "Tout comprendre au dsa : la loi européenne qui encadre les géants du web",
+                  "title"    : "Tout comprendre au DSA : la loi européenne qui encadre les géants du web",
                   "url"      : "/liens/2024/05/19/tout-comprendre-au-dsa-la-loi-europenne-qui-encadre-les-gants-du-web/",
                   "tags"     : "ViePrivée, App, Web"
             } 
