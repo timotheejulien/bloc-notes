@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "Open source"
+- "OpenSource"
 - "Salariat"
 
 og-tags: "Open source, Salariat"

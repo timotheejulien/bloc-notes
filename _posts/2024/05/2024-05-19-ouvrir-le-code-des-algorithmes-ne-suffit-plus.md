@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "IA"
-- "Open source"
+- "OpenSource"
 - "Éthique"
 
 og-tags: "IA, Open source, Éthique"

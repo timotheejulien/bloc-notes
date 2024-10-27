@@ -12,7 +12,7 @@ categories:
 tags:
 - "Design"
 - "Airbnb"
-- "Stratégie business"
+- "StratégieBusiness"
 
 og-tags: "Design, Airbnb, Stratégie business"
 permalink: /:categories/:year/:month/:day/:title/

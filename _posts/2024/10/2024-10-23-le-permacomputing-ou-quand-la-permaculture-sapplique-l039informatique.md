@@ -16,8 +16,8 @@ tags:
 - "Technologie"
 - "Éco-conception"
 - "Numérique"
-- "Low-tech"
+- "LowTech"
 
-og-tags: "IA, Écologie, Web, Technologie, Éco-conception, Numérique, Low-tech"
+og-tags: "IA, Écologie, Web, Technologie, Éco-conception, Numérique, LowTech"
 permalink: /:categories/:year/:month/:day/:title/
 ---

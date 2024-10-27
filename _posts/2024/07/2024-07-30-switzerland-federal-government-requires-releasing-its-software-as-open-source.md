@@ -13,7 +13,7 @@ categories:
 
 tags:
 - "App"
-- "Open source"
+- "OpenSource"
 
 og-tags: "App, Open source"
 permalink: /:categories/:year/:month/:day/:title/

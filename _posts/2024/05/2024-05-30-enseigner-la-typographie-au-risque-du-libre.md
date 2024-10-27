@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - "Design"
-   - "Open source"
+   - "OpenSource"
    - "Font"
 og-tags: "Design, Open source, Font"
 permalink: /:categories/:year/:month/:day/:title/

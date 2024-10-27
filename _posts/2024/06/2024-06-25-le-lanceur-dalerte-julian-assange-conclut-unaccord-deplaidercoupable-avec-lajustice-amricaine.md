@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le lanceur d’alerte julian assange conclut un accord de plaider-coupable avec la justice américaine"
+title: "Le lanceur d’alerte Julian Assange conclut un accord de plaider-coupable avec la justice américaine"
 link: "https://www.lemonde.fr/pixels/article/2024/06/25/le-lanceur-d-alerte-julian-assange-conclut-un-accord-de-plaider-coupable-avec-la-justice-americaine_6243463_4408996.html"
 author: N/A
 published_date: "25/06/2024"
@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "Société"
-- "Lanceur d’alerte"
+- "LanceurDAlerte"
 
 og-tags: "Société, Lanceur d’alerte"
 permalink: /:categories/:year/:month/:day/:title/

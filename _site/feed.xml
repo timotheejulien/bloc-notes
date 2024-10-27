@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-27T18:25:32+01:00</updated>
+   <updated>2024-10-27T20:14:05+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,17 +14,6 @@
 
    
       <entry>
-         <title>Acculés dans les stéréotypes</title>
-         <link href="/liens/2024/10/27/accules-dans-les-stereotypes/"/>
-         <updated>2024-10-27T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/10/27/accules-dans-les-stereotypes/</id>
-
-         <content type="html">
-            Les images produites par l’IA sont la somme de toutes nos représentations qu’elles renforcent. Alors que beaucoup d’entre nous souhaiteraient mettre fin aux stéréotypes, les machinent les ravivent comme nulles autres. Reste à savoir si cela va nous servir à mieux identifier les clichés ou à nous submerger sous le conformisme.
-         </content>
-      </entry>
-   
-      <entry>
          <title>Comment changer d’instance Mastodon ?</title>
          <link href="/liens/2024/10/27/comment-changer-dinstance-mastodon/"/>
          <updated>2024-10-27T00:00:00+02:00</updated>
@@ -32,6 +21,17 @@
 
          <content type="html">
             L&apos;un des arguments de Mastodon, c&apos;est que le service permet de déménager un compte d&apos;un serveur à un autre. Encore faut-il savoir comment faire cela. Dans quelques minutes, cette manipulation en quelques étapes (simples) n&apos;aura plus de secrets pour vous.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Acculés dans les stéréotypes</title>
+         <link href="/liens/2024/10/27/accules-dans-les-stereotypes/"/>
+         <updated>2024-10-27T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2024/10/27/accules-dans-les-stereotypes/</id>
+
+         <content type="html">
+            Les images produites par l’IA sont la somme de toutes nos représentations qu’elles renforcent. Alors que beaucoup d’entre nous souhaiteraient mettre fin aux stéréotypes, les machinent les ravivent comme nulles autres. Reste à savoir si cela va nous servir à mieux identifier les clichés ou à nous submerger sous le conformisme.
          </content>
       </entry>
    
@@ -289,7 +289,7 @@
       </entry>
    
       <entry>
-         <title>Pique et pique et telegram. plus durov sera la chute.</title>
+         <title>Pique et pique et Telegram. Plus Durov sera la chute.</title>
          <link href="/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/"/>
          <updated>2024-09-05T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/</id>
@@ -619,7 +619,7 @@ By Isabelle Hamlin, Experience Design Manager, Spectrum
       </entry>
    
       <entry>
-         <title>Designers ui/ux et logiciel libre – Maiwann</title>
+         <title>Designers UI/UX et logiciel libre – Maiwann</title>
          <link href="/liens/2024/07/22/designers-uiux-et-logiciel-libre-maiwann/"/>
          <updated>2024-07-22T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/22/designers-uiux-et-logiciel-libre-maiwann/</id>
@@ -799,7 +799,7 @@ Today we’re announcing a new end-to-end encrypted, collaborative document edit
       </entry>
    
       <entry>
-         <title>Le lanceur d’alerte julian assange conclut un accord de plaider-coupable avec la justice américaine</title>
+         <title>Le lanceur d’alerte Julian Assange conclut un accord de plaider-coupable avec la justice américaine</title>
          <link href="/liens/2024/06/25/le-lanceur-dalerte-julian-assange-conclut-unaccord-deplaidercoupable-avec-lajustice-amricaine/"/>
          <updated>2024-06-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/25/le-lanceur-dalerte-julian-assange-conclut-unaccord-deplaidercoupable-avec-lajustice-amricaine/</id>
@@ -1440,13 +1440,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Un smartphone android sans google, c’est possible : qu’en pensent les utilisateurs ?</title>
+         <title>Un smartphone Android sans Google, c’est possible : qu’en pensent les utilisateurs ?</title>
          <link href="/liens/2024/05/19/un-smartphone-android-sans-google-cest-possible-quen-pensent-les-utilisateurs/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/un-smartphone-android-sans-google-cest-possible-quen-pensent-les-utilisateurs/</id>
 
          <content type="html">
-            
+            Graphene, Lineage, Calyx, /e/ou Iodé : les systèmes d’exploitation fondés sur Android, mais sans Google, séduisent les personnes avides de se défaire de l’emprise du géant américain. Ces smartphones fonctionnent-ils vraiment bien au quotidien ? 
          </content>
       </entry>
    
@@ -1605,7 +1605,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>This guy has built an open source search engine as an alternative to google in his spare time</title>
+         <title>This guy has built an open source search engine as an alternative to Google in his spare time</title>
          <link href="/liens/2024/05/19/this-guy-has-built-an-open-source-search-engine-as-an-alternative-to-google-in-his-spare-time/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/this-guy-has-built-an-open-source-search-engine-as-an-alternative-to-google-in-his-spare-time/</id>
@@ -1781,7 +1781,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Sf symbols 5 et ses 700 nouvelles icônes sortent de bêta</title>
+         <title>SF Symbols 5 et ses 700 nouvelles icônes sortent de bêta</title>
          <link href="/liens/2024/05/19/sf-symbols-5-et-ses-700-nouvelles-icnes-sortent-de-bta/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/sf-symbols-5-et-ses-700-nouvelles-icnes-sortent-de-bta/</id>
@@ -2023,13 +2023,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Pourquoi sommes-nous tellement accros à google maps et waze ?</title>
+         <title>Pourquoi sommes-nous tellement accros à Google Maps et Waze ?</title>
          <link href="/liens/2024/05/19/pourquoi-sommesnous-tellement-accros-google-maps-et-waze/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/pourquoi-sommesnous-tellement-accros-google-maps-et-waze/</id>
 
          <content type="html">
-            
+            S’il y’a bien un logiciel propriétaire difficile à lâcher, c’est Google Maps. Ou Waze, qui appartient également à Google. Pourquoi est-ce si compliqué de produire un logiciel de navigation libre ? Ayant passé quelques années dans cette industrie, je vais vous expliquer les différents composants d’un logiciel de navigation. Les briques de base d’un logiciel de navigation sont la position, les données, le mapmatching, le routing, la recherche et les données temps réel. Pour chaque composant, je propose une explication et une analyse des solutions libres.
          </content>
       </entry>
    
@@ -3101,7 +3101,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Le blues du dpo</title>
+         <title>Le blues du DPO</title>
          <link href="/liens/2024/05/19/le-blues-du-dpo/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/le-blues-du-dpo/</id>
@@ -3508,7 +3508,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Introducing crash analytics for matomo</title>
+         <title>Introducing crash analytics for Matomo</title>
          <link href="/liens/2024/05/19/introducing-crash-analytics-for-matomo/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/introducing-crash-analytics-for-matomo/</id>
@@ -3519,13 +3519,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Intelligence artificielle : un accord de partenariat entre « le monde » et openai</title>
+         <title>Intelligence artificielle : un accord de partenariat entre « Le Monde » et OpenAI</title>
          <link href="/liens/2024/05/19/intelligence-artificielle-un-accord-de-partenariat-entre-le-monde-et-openai/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/intelligence-artificielle-un-accord-de-partenariat-entre-le-monde-et-openai/</id>
 
          <content type="html">
-            
+            Cet accord pluriannuel, le premier entre un média français et un acteur majeur de l’IA, permettra à la société de s’appuyer sur le corpus du journal pour établir et fiabiliser les réponses de son outil ChatGPT, moyennant une source significative de revenus supplémentaires. 
          </content>
       </entry>
    
@@ -3855,7 +3855,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/face-au-secret-des-affaires-comment-mieux-protger-les-lanceuses-et-lanceurs-dalerte/</id>
 
          <content type="html">
-            
+            Depuis l’adoption en 2018 de la « loi secret des affaires » voulue par Emmanuel Macron, « les avocats d’affaires peuvent s’en donner à cœur joie pour faire condamner les lanceurs d’alerte », avertit Marie-Christine Blandin, à l’origine de la première loi visant à les protéger.
          </content>
       </entry>
    
@@ -3904,13 +3904,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>En france, la protection des lanceurs d’alerte est sans cesse attaquée par des textes de loi</title>
+         <title>En France, la protection des lanceurs d’alerte est sans cesse attaquée par des textes de loi</title>
          <link href="/liens/2024/05/19/en-france-la-protection-des-lanceurs-dalerte-est-sans-cesse-attaque-par-des-textes-de-loi/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/en-france-la-protection-des-lanceurs-dalerte-est-sans-cesse-attaque-par-des-textes-de-loi/</id>
 
          <content type="html">
-            
+            Depuis 2022, la directive européenne dite de protection des lanceurs d’alerte s’impose à la France et sa transposition a permis de corriger une partie des restrictions de la loi Sapin. Hélas, la loi de 2018 sur le secret des affaires en gomme les effets.
          </content>
       </entry>
    
@@ -4003,13 +4003,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Droits voisins : mediapart lance la bataille de la transparence contre google</title>
+         <title>Droits voisins : Mediapart lance la bataille de la transparence contre google</title>
          <link href="/liens/2024/05/19/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google/</id>
 
          <content type="html">
-            
+            En raison des clauses de confidentialité imposées par Google, Mediapart n’encaissera pas l’argent que lui doit l’entreprise au titre de la propriété intellectuelle. Une question de confiance avec notre lectorat. Contre l’opacité des Gafam, un front uni du secteur est plus que jamais nécessaire.
          </content>
       </entry>
    
@@ -4190,7 +4190,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Dans un défi à openai, meta ouvre son modèle de langage aux entreprises</title>
+         <title>Dans un défi à OpenAI, Meta ouvre son modèle de langage aux entreprises</title>
          <link href="/liens/2024/05/19/dans-un-dfi-openai-meta-ouvre-son-modle-de-langage-aux-entreprises/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/dans-un-dfi-openai-meta-ouvre-son-modle-de-langage-aux-entreprises/</id>
@@ -4350,7 +4350,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/comment-construire-un-petit-systme-nergie-solaire/</id>
 
          <content type="html">
-            
+            Ce guide explique tout ce qu’il faut savoir pour construire des systèmes photovoltaïques autonomes capables d’alimenter presque tout ce que vous voulez. 
          </content>
       </entry>
    

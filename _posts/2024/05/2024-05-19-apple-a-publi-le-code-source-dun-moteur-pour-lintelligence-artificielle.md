@@ -12,7 +12,7 @@ categories:
 tags:
 - "IA"
 - "Apple"
-- "Open source"
+- "OpenSource"
 
 og-tags: "IA, Apple, Open source"
 permalink: /:categories/:year/:month/:day/:title/

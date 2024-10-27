@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "IA"
-- "Open source"
+- "OpenSource"
 
 og-tags: "IA, Open source"
 permalink: /:categories/:year/:month/:day/:title/

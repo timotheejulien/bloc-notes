@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pique et pique et telegram. plus durov sera la chute."
+title: "Pique et pique et Telegram. Plus Durov sera la chute."
 link: "https://affordance.framasoft.org/2024/09/pique-pique-et-telegram/"
 author: N/A
 published_date: "05/09/2024"
@@ -14,11 +14,11 @@ categories:
 tags:
 - "App"
 - "Surveillance"
-- "Réseau social"
+- "RéseauSocial"
 - "Chiffrement"
 - "Technologie"
 - "Gouvernement"
-- "Données personnelles"
+- "DonnéesPersonnelles"
 - "Telegram"
 
 og-tags: "App, Surveillance, Réseau social, Chiffrement, Technologie, Gouvernement, Données personnelles, Telegram"

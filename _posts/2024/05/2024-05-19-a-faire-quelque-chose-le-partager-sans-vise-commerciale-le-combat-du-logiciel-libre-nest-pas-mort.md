@@ -12,7 +12,7 @@ categories:
 tags:
 - "App"
 - "Technologie"
-- "Open source"
+- "OpenSource"
 
 og-tags: "App, Technologie, Open source"
 permalink: /:categories/:year/:month/:day/:title/

@@ -12,7 +12,7 @@ categories:
 - Liens
 
 tags:
-- "Données personnelles"
+- "DonnéesPersonnelles"
 - "Famille"
 
 og-tags: "Données personnelles, Famille"

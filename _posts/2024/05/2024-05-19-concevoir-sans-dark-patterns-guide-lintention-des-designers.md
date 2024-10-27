@@ -13,7 +13,7 @@ tags:
 - "Design"
 - "UI"
 - "UX"
-- "Dark Pattern"
+- "DarkPattern"
 
 og-tags: "Design, UI, UX, Dark Pattern"
 permalink: /:categories/:year/:month/:day/:title/

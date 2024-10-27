@@ -12,7 +12,7 @@ categories:
 tags:
 - "Design"
 - "Association"
-- "Retour d'expérience"
+- "RetourDExpérience"
 
 og-tags: "Design, Association, Retour d'expérience"
 permalink: /:categories/:year/:month/:day/:title/
