@@ -9,8 +9,7 @@ language:
 categories: 
    - Liens
    - Citations
-tags: 
-   - 
+tags: ""
 og-tags: ""
 permalink: /:categories/:year/:month/:day/:title/
 ---

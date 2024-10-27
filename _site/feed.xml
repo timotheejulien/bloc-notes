@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-26T23:38:57+02:00</updated>
+   <updated>2024-10-27T09:09:49+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,20 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Acculés dans les stéréotypes</title>
+         <link href="/liens/2024/10/27/accules-dans-les-stereotypes/"/>
+         <updated>2024-10-27T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2024/10/27/accules-dans-les-stereotypes/</id>
+
+         <content type="html">
+            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage Acculés dans les stéréotypes&quot; /&gt;&lt;/p&gt;
+            
+            
+
+         </content>
+      </entry>
    
       <entry>
          <title>Three UX laws that optimize information seeking</title>
@@ -42,13 +56,27 @@
       </entry>
    
       <entry>
-         <title>UX Cognitive Bias Cards & Workshop</title>
+         <title>UX Cognitive Bias Cards and Workshop</title>
          <link href="/liens/2024/10/25/ux-cognitive-bias-cards-workshop/"/>
          <updated>2024-10-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/25/ux-cognitive-bias-cards-workshop/</id>
 
          <content type="html">
-            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage UX Cognitive Bias Cards & Workshop&quot; /&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage UX Cognitive Bias Cards and Workshop&quot; /&gt;&lt;/p&gt;
+            
+            
+
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’imagination est plus importante que le savoir</title>
+         <link href="/citations/2024/10/25/imagination-importante-savoir/"/>
+         <updated>2024-10-25T00:00:00+02:00</updated>
+         <id>http://localhost:4000/citations/2024/10/25/imagination-importante-savoir/</id>
+
+         <content type="html">
+            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage L’imagination est plus importante que le savoir&quot; /&gt;&lt;/p&gt;
             
             
 
@@ -6223,20 +6251,6 @@
 
          <content type="html">
             &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage 10 000 pas par jour… d’où vient le mythe préconisé par les montres connectées ?&quot; /&gt;&lt;/p&gt;
-            
-            
-
-         </content>
-      </entry>
-   
-      <entry>
-         <title>L’imagination est plus importante que le savoir</title>
-         <link href="/citations/1940/06/15/imagination-importante-savoir/"/>
-         <updated>1940-06-15T00:00:00+02:00</updated>
-         <id>http://localhost:4000/citations/1940/06/15/imagination-importante-savoir/</id>
-
-         <content type="html">
-            &lt;p&gt;&lt;img src=&quot;http://localhost:4000&quot; alt=&quot;Photographie du fromage L’imagination est plus importante que le savoir&quot; /&gt;&lt;/p&gt;
             
             
 
