@@ -23,9 +23,7 @@ layout: null
          <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
 
          <content type="html">
-            &lt;p&gt;&lt;img src=&quot;{{ site.url }}{{ post.image }}&quot; alt=&quot;Photographie du fromage {{ post.title }}&quot; /&gt;&lt;/p&gt;
-            {{ post.comment | xml_escape }}
-            {{ post.content | xml_escape }}
+            {{ post.description | xml_escape }}
          </content>
       </entry>
    {% endfor %}
