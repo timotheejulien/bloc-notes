@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L'arrestation de pavel durov : au delà du bruit médiatique"
+title: "L'arrestation de Pavel Durov : au delà du bruit médiatique"
 link: "https://reflets.info/articles/l-arrestation-de-pavel-durov-au-dela-du-bruit-mediatique"
 author: N/A
 published_date: "28/08/2024"
@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "App"
-- "Réseau social"
+- "RéseauSocial"
 - "Chiffrement"
 - "Numérique"
 - "Législation"

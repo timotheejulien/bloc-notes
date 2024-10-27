@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Partitions. par-delà les propagations."
+title: "Partitions. Par-delà les propagations."
 link: "https://affordance.framasoft.org/2024/01/partitions-par-dela-les-propagations"
-author: N/A
+author: Affordance
 published_date: "19/05/2024"
 description: ""
 language: fr
@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "Réseau social"
+- "RéseauSocial"
 - "Algorithme"
 
 og-tags: "Réseau social, Algorithme"

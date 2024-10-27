@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-27T20:14:05+01:00</updated>
+   <updated>2024-10-27T20:47:30+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -301,7 +301,7 @@ L’occasion de l’arrestation de Pavel Durov (aussi orthographié Dourov), pat
       </entry>
    
       <entry>
-         <title>L'arrestation de pavel durov : au delà du bruit médiatique</title>
+         <title>L'arrestation de Pavel Durov : au delà du bruit médiatique</title>
          <link href="/liens/2024/08/28/larrestation-de-pavel-durov-au-del-du-bruit-mdiatique/"/>
          <updated>2024-08-28T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/28/larrestation-de-pavel-durov-au-del-du-bruit-mdiatique/</id>
@@ -379,7 +379,7 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
       </entry>
    
       <entry>
-         <title>Pavel durov, le patron de telegram, interpellé à l’aéroport du bourget</title>
+         <title>Pavel Durov, le patron de Telegram, interpellé à l’aéroport du bourget</title>
          <link href="/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/"/>
          <updated>2024-08-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/</id>
@@ -1253,7 +1253,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Why mozilla is betting on a decentralized social networking future</title>
+         <title>Why Mozilla is betting on a decentralized social networking future</title>
          <link href="/liens/2024/05/19/why-mozilla-is-betting-on-a-decentralized-social-networking-future/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/why-mozilla-is-betting-on-a-decentralized-social-networking-future/</id>
@@ -1297,7 +1297,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>What to know about threads</title>
+         <title>What to know about Threads</title>
          <link href="/liens/2024/05/19/what-to-know-about-threads/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/what-to-know-about-threads/</id>
@@ -1594,7 +1594,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Tiktok : danger ou non pour les enfants ?</title>
+         <title>TikTok : danger ou non pour les enfants ?</title>
          <link href="/liens/2024/05/19/tiktok-danger-ou-non-pour-les-enfants/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/tiktok-danger-ou-non-pour-les-enfants/</id>
@@ -2056,7 +2056,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Pourquoi j’ai supprimé mon compte twitter (et pourquoi vous pouvez probablement en faire autant sans hésiter)</title>
+         <title>Pourquoi j’ai supprimé mon compte Twitter (et pourquoi vous pouvez probablement en faire autant sans hésiter)</title>
          <link href="/liens/2024/05/19/pourquoi-jai-supprim-mon-compte-twitter-et-pourquoi-vous-pouvez-probablement-en-faire-autant-sans-hsiter/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/pourquoi-jai-supprim-mon-compte-twitter-et-pourquoi-vous-pouvez-probablement-en-faire-autant-sans-hsiter/</id>
@@ -2166,7 +2166,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Pay for privacy. si c’est fini le gratuit … qui est le produit ?</title>
+         <title>Pay for privacy. Si c’est fini le gratuit… qui est le produit ?</title>
          <link href="/liens/2024/05/19/pay-for-privacy-si-cest-fini-le-gratuit-qui-est-le-produit/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/pay-for-privacy-si-cest-fini-le-gratuit-qui-est-le-produit/</id>
@@ -2177,7 +2177,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Partitions. par-delà les propagations.</title>
+         <title>Partitions. Par-delà les propagations.</title>
          <link href="/liens/2024/05/19/partitions-pardel-les-propagations/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/partitions-pardel-les-propagations/</id>
@@ -2315,7 +2315,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/ne-vous-laissez-plus-dposseder-de-vos-contenus/</id>
 
          <content type="html">
-            
+            Nous sommes de plus en plus soucieux des dérives des GAFAM et autres acteurs majeurs du web dans l’usage de nos données personnelles ou le contrôle de nos actions. Nous y restons pourtant massivement, par facilité bien sûr (qui n’a jamais loué la facilité de publications sur Medium ?), mais aussi au prétexte que c’est là que nos familles, amis et autres “followers” se trouvent. Nous pensons donc incontournable d’y aller mettre nos contenus, au point de négliger d’autres pistes. […] Ce n’est pas forcément aussi compliqué que beaucoup le pensent, notamment grâce aux pistes et outils déjà référencés ou conçus et proposés par le mouvement IndieWeb, avec le principe POSSE : Publish (on your) Own Site, Syndicate Elsewhere.
          </content>
       </entry>
    
@@ -2379,17 +2379,6 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <link href="/liens/2024/05/19/monaspace-la-police-monochasse-mais-pas-monotone-de-github/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/monaspace-la-police-monochasse-mais-pas-monotone-de-github/</id>
-
-         <content type="html">
-            
-         </content>
-      </entry>
-   
-      <entry>
-         <title>Émojis accessibles – réseaux sociaux et accessibilité</title>
-         <link href="/liens/2024/05/19/mojis-accessibles-rseaux-sociaux-et-accessibilit/"/>
-         <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/mojis-accessibles-rseaux-sociaux-et-accessibilit/</id>
 
          <content type="html">
             
@@ -2518,7 +2507,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Mark zuckerberg a personnellement rejeté les propositions de meta visant à améliorer la santé mentale des adolescents</title>
+         <title>Mark Zuckerberg a personnellement rejeté les propositions de Meta visant à améliorer la santé mentale des adolescents</title>
          <link href="/liens/2024/05/19/mark-zuckerberg-a-personnellement-rejet-les-propositions-de-meta-visant-amliorer-la-sant-mentale-des-adolescents/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/mark-zuckerberg-a-personnellement-rejet-les-propositions-de-meta-visant-amliorer-la-sant-mentale-des-adolescents/</id>
@@ -3024,7 +3013,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Le kirghizstan va interdire tiktok pour protéger la santé des enfants</title>
+         <title>Le Kirghizstan va interdire TikTok pour protéger la santé des enfants</title>
          <link href="/liens/2024/05/19/le-kirghizstan-va-interdire-tiktok-pour-protger-la-sant-des-enfants/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/le-kirghizstan-va-interdire-tiktok-pour-protger-la-sant-des-enfants/</id>
@@ -3167,7 +3156,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>L'algorithme de facebook ne modifie pas les croyances politiques des usagers, selon des études américaines</title>
+         <title>L'algorithme de Facebook ne modifie pas les croyances politiques des usagers, selon des études américaines</title>
          <link href="/liens/2024/05/19/lalgorithme-de-facebook-ne-modifie-pas-les-croyances-politiques-des-usagers-selon-des-tudes-amricaines/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/lalgorithme-de-facebook-ne-modifie-pas-les-croyances-politiques-des-usagers-selon-des-tudes-amricaines/</id>
@@ -3420,7 +3409,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Je s’appelle grok. la première ia de l’altright ?</title>
+         <title>Je s’appelle Grok. La première IA de l’altright ?</title>
          <link href="/liens/2024/05/19/je-sappelle-grok-la-premire-ia-de-laltright/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/je-sappelle-grok-la-premire-ia-de-laltright/</id>
@@ -3651,7 +3640,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>How signal walks the line between anarchism and pragmatism</title>
+         <title>How Signal walks the line between anarchism and pragmatism</title>
          <link href="/liens/2024/05/19/how-signal-walks-the-line-between-anarchism-and-pragmatism/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/how-signal-walks-the-line-between-anarchism-and-pragmatism/</id>
@@ -3911,6 +3900,17 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
 
          <content type="html">
             Depuis 2022, la directive européenne dite de protection des lanceurs d’alerte s’impose à la France et sa transposition a permis de corriger une partie des restrictions de la loi Sapin. Hélas, la loi de 2018 sur le secret des affaires en gomme les effets.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Émojis accessibles – réseaux sociaux et accessibilité</title>
+         <link href="/liens/2024/05/19/emojis-accessibles-reseaux-sociaux-et-accessibilit/"/>
+         <updated>2024-05-19T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2024/05/19/emojis-accessibles-reseaux-sociaux-et-accessibilit/</id>
+
+         <content type="html">
+            
          </content>
       </entry>
    

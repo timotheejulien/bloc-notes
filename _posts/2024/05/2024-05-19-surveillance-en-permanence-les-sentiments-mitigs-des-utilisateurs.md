@@ -12,7 +12,7 @@ categories:
 tags:
 - "ViePrivée"
 - "Surveillance"
-- "Réseau social"
+- "RéseauSocial"
 - "Société"
 
 og-tags: "ViePrivée, Surveillance, Réseau social, Société"

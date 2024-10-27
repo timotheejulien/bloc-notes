@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "App"
-- "Réseau social"
+- "RéseauSocial"
 - "Design"
 - "Web"
 - "Éco-conception"

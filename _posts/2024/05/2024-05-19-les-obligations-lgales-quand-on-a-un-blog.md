@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "Réseau social"
+- "RéseauSocial"
 - "Blog"
 
 og-tags: "Réseau social, Blog"

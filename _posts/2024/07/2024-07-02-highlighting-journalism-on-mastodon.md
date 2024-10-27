@@ -9,7 +9,7 @@ language: en
 categories:
    - Liens
 tags:
-   - "Réseau social"
+   - "RéseauSocial"
    - "Mastodon"
 og-tags: "Réseau social, Mastodon"
 permalink: /:categories/:year/:month/:day/:title/

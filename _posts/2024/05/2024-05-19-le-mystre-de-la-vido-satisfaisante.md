@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "Réseau social"
+- "RéseauSocial"
 - "Société"
 - "Vidéos"
 - "Science"

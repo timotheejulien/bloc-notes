@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "ViePrivée"
-- "Réseau social"
+- "RéseauSocial"
 - "Société"
 
 og-tags: "ViePrivée, Réseau social, Société"

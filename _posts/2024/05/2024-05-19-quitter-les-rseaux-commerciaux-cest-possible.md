@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "Réseau social"
+- "RéseauSocial"
 
 og-tags: "Réseau social"
 permalink: /:categories/:year/:month/:day/:title/

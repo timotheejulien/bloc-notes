@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pavel durov, le patron de telegram, interpellé à l’aéroport du bourget"
+title: "Pavel Durov, le patron de Telegram, interpellé à l’aéroport du bourget"
 link: "https://www.lemonde.fr/societe/article/2024/08/25/pavel-durov-le-patron-de-telegram-interpelle-a-l-aeroport-du-bourget_6293756_3224.html"
 author: N/A
 published_date: "25/08/2024"
@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "App"
-- "Réseau social"
+- "RéseauSocial"
 - "Législation"
 - "Russie"
 - "Message"

@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "ViePrivée"
-- "Réseau social"
+- "RéseauSocial"
 - "Meta"
 - "Facebook"
 - "Instagram"

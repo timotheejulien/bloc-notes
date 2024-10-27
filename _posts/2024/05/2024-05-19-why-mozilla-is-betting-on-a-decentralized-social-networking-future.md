@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why mozilla is betting on a decentralized social networking future"
+title: "Why Mozilla is betting on a decentralized social networking future"
 link: "https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future"
 author: N/A
 published_date: "19/05/2024"
@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "Mozilla"
-- "Réseau social"
+- "RéseauSocial"
 - "Fediverse"
 
 og-tags: "Mozilla, Réseau social, Fediverse"
