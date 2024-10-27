@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-27T09:29:06+01:00</updated>
+   <updated>2024-10-27T18:25:32+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Les images produites par l’IA sont la somme de toutes nos représentations qu’elles renforcent. Alors que beaucoup d’entre nous souhaiteraient mettre fin aux stéréotypes, les machinent les ravivent comme nulles autres. Reste à savoir si cela va nous servir à mieux identifier les clichés ou à nous submerger sous le conformisme.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Comment changer d’instance Mastodon ?</title>
+         <link href="/liens/2024/10/27/comment-changer-dinstance-mastodon/"/>
+         <updated>2024-10-27T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2024/10/27/comment-changer-dinstance-mastodon/</id>
+
+         <content type="html">
+            L&apos;un des arguments de Mastodon, c&apos;est que le service permet de déménager un compte d&apos;un serveur à un autre. Encore faut-il savoir comment faire cela. Dans quelques minutes, cette manipulation en quelques étapes (simples) n&apos;aura plus de secrets pour vous.
          </content>
       </entry>
    
