@@ -12,6 +12,6 @@ categories:
 tags:
 - "OpenSource"
 
-og-tags: "Open source"
+og-tags: "OpenSource"
 permalink: /:categories/:year/:month/:day/:title/
 ---

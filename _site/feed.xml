@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-28T10:35:06+01:00</updated>
+   <updated>2024-10-28T17:58:38+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -4163,7 +4163,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/de-la-merdification-des-choses/</id>
 
          <content type="html">
-            
+            Les vieux ressassent souvent que « c’était mieux avant » et que « tout se désagrège ». Le trope semble éculé. Mais s’il contenait une part de vérité ? Et si, réellement, nous étions dans une période où la plupart des services devenaient merdiques ? Et si le capitalo-consumérime était entré dans sa phase de « merdification » ?
          </content>
       </entry>
    
