@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-28T21:52:02+01:00</updated>
+   <updated>2024-10-28T22:21:10+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -4874,7 +4874,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/50-livres-de-sf-du-21e-sicle-lire-une-fois-dans-sa-vie/</id>
 
          <content type="html">
-            
+            Oui c&apos;est un GRAND guide.
          </content>
       </entry>
    
@@ -4896,7 +4896,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/2023-anne-calme-en-nouveaux-mojis/</id>
 
          <content type="html">
-            
+            L&apos;automne prochain verra arriver la traditionnelle nouvelle fournée d&apos;emojis. Ce sera un (maigre) assortiment de nouveaux venus et de symboles qui vont adopter un sens supplémentaire de représentation.
          </content>
       </entry>
    
@@ -4907,7 +4907,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/18-design-principles-to-keep-in-mind-when-designing-for-apples-vision-pro/</id>
 
          <content type="html">
-            
+            Apple’s Vision Pro has ushered in a new age for designers, and it’s exciting. New set of principles to learn for colours, typography, sizes, accessibility, and so on. Let’s check out some of those guiding principles.
          </content>
       </entry>
    
@@ -4918,7 +4918,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/100-usersupported/</id>
 
          <content type="html">
-            
+            Why Obsidian is 100% user-supported and not backed by venture capital investors.
          </content>
       </entry>
    
@@ -4929,7 +4929,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/100-things-you-can-do-on-your-personal-website/</id>
 
          <content type="html">
-            
+            One of my favourite things to do in my free time is to tinker with this website. Indeed, this website is the culmination of years of tinkering. I have added features like coffee shop maps that I can share with friends, a way for me to share my bio in two languages, a sitemap.xml file to help search engines find pages on my website, and more.
          </content>
       </entry>
    
@@ -4940,7 +4940,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/10-chiffres-connatre-sur-lavion-et-le-climat/</id>
 
          <content type="html">
-            
+            Si le fait que l’avion a un impact important sur le réchauffement climatique commence à faire du chemin, de nombreuses idées reçues continuent de circuler, permettant notamment de relativiser son importance. Ce ne serait que “2% des émissions alors qu’internet c’est 4%…” , ou encore il serait possible de faire un vol long courrier par an sans que cela ait vraiment un impact. C’est malheureusement loin d’être le cas. Pour démêler le vrai du faux, voici dix chiffres sur l’avion et le climat.
          </content>
       </entry>
    
