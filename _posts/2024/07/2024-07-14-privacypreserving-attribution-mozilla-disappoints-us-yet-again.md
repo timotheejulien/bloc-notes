@@ -2,7 +2,7 @@
 layout: post
 title: "Privacy-preserving attribution: mozilla disappoints us yet again"
 link: "https://blog.privacyguides.org/2024/07/14/mozilla-disappoints-us-yet-again-2/"
-author: N/A
+author: Jonah Aragon
 published_date: "14/07/2024"
 description: "No shady privacy policies or back doors for advertisers proclaims the Firefox homepage, but that's no longer true in Firefox 128."
 language: en

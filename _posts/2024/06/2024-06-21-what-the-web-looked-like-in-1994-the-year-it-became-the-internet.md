@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "What the web looked like in 1994, the year it became the internet"
+title: "What the internet looked like in 1994, according to 15 webpages born that year"
 link: "https://www.fastcompany.com/91140068/how-the-internet-went-mainstream-in-1994"
-author: N/A
+author: Alex Pasternack
 published_date: "21/06/2024"
-description: "fastcompany.com"
+description: "Thirty years ago, the baby web was just starting to go mainstream, but you could already see a pixelated vision of the world to come."
 language: en
 categories:
 - Liens

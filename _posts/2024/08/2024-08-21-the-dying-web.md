@@ -2,7 +2,7 @@
 layout: post
 title: "The dying web"
 link: "https://endler.dev/2024/the-dying-web/"
-author: N/A
+author: I look left and right, and I’m the only one who still uses Firefox.
 published_date: "21/08/2024"
 description: "The Dying Web | Matthias Endler"
 language: en

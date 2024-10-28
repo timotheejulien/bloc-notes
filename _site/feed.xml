@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-28T17:58:38+01:00</updated>
+   <updated>2024-10-28T21:52:02+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             The internet is in the midst of undergoing the biggest change since its inception. It&apos;s huge. And there is no going back.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>LocalSend</title>
+         <link href="/liens/2024/10/28/localsend/"/>
+         <updated>2024-10-28T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/10/28/localsend/</id>
+
+         <content type="html">
+            Partagez des fichiers avec vos appareils à proximité. Gratuit, open-source et cross-plateforme.
          </content>
       </entry>
    
@@ -179,6 +190,17 @@
       </entry>
    
       <entry>
+         <title>Big data : La Norvège retire ses billes de Palantir pour dénoncer son implication dans la guerre au Moyen-Orient</title>
+         <link href="/liens/2024/10/10/big-data-la-norvege-retire-ses-billes-de-palantir-pour-denoncer-son-implication-dans-la-guerre-au-moyen-orient/"/>
+         <updated>2024-10-10T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2024/10/10/big-data-la-norvege-retire-ses-billes-de-palantir-pour-denoncer-son-implication-dans-la-guerre-au-moyen-orient/</id>
+
+         <content type="html">
+            L&apos;investisseur norvégien Storebrand a vendu sa participation dans Palantir du fait des liens de cette société américaine spécialisée dans les logiciels et l’analyse des données avec Tsahal. Le fonds norvégien, qui gère un portefeuille de plus cent milliards d’actifs, exprime ainsi son inquiétude sur la question du viol du droit international humanitaire et des droits de l&apos;homme, dans les opérations en cours à Gaza. Reuters précise que Storebrand déclare se désinvestir de Palantir « en raison de ses ventes de produits et services à Israël pour une utilisation dans les territoires palestiniens occupés ».
+         </content>
+      </entry>
+   
+      <entry>
          <title>Les mythes de l’IA</title>
          <link href="/liens/2024/10/08/les-mythes-de-lia/"/>
          <updated>2024-10-08T00:00:00+02:00</updated>
@@ -273,18 +295,18 @@
          <id>http://localhost:4000/liens/2024/09/09/une-qualit-essentielle-de-la-typographie-rapparat-aprs-50-ans-doubli/</id>
 
          <content type="html">
-            
+            À l’époque de la typographie au plomb, il allait de soi que le dessin d’un caractère présentait des variations selon les corps auxquelles il était destiné. Le passage au numérique avait aboli cette pratique, pourtant fondamentale. Elle revient enfin en grâce, avec les fontes variables, les corps optiques, et la dernière mise à jour d’InDesign.
          </content>
       </entry>
    
       <entry>
-         <title>L’ia peut-elle nous réconcilier avec le travail ?</title>
+         <title>L’IA peut-elle nous réconcilier avec le travail ?</title>
          <link href="/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/"/>
          <updated>2024-09-06T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/</id>
 
          <content type="html">
-            « J’suis pas heureux, mais j’en ai l’air, j’ai perdu le sens de l’humour depuis que j’ai le sens des affaires », chantait le businessman dans Starmania. La célèbre chanson de Michel Berger et de Luc Plamondon date de 1978, mais elle n’a jamais été aussi actuelle que ces dernières années. La Grande Démission connaît sa consécration au printemps 2021 aux États-Unis : en pleine pandémie, près de 48 millions d’Américains quittent leur travail. En France, on observe la même tendance où entre juillet 2019 et juillet 2021, le nombre de démissions aurait augmenté de 20% selon la Dares.
+            Avec l’introduction des outils d’IA générative auprès du grand public, l’histoire entre technologies et monde du travail se poursuit. Et si l’IA générative devenait notre Best Work Buddy (meilleur partenaire de travail en anglais), à quoi ressemblerait le travail – et notre relation avec lui ? La réponse en trois hypothèses tirées du HP Work Relationship Index.
          </content>
       </entry>
    
@@ -306,8 +328,7 @@
          <id>http://localhost:4000/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/</id>
 
          <content type="html">
-            Le monde (numérique) se divise en 2 catégories. Ceux qui ont un pistolet chargé pensent que la liberté d’expression doit y être totale, et ceux qui creusent pensent qu’elle doit y être encadrée comme dans tout espace public.
-L’occasion de l’arrestation de Pavel Durov (aussi orthographié Dourov), patron du réseau social Telegram, soulève une infinité de questions passionnantes dans le contexte politique actuel de nos usages et environnements numériques.
+            Le monde (numérique) se divise en 2 catégories. Ceux qui ont un pistolet chargé pensent que la liberté d’expression doit y être totale, et ceux qui creusent pensent qu’elle doit y être encadrée comme dans tout espace public. L’occasion de l’arrestation de Pavel Durov (aussi orthographié Dourov), patron du réseau social Telegram, soulève une infinité de questions passionnantes dans le contexte politique actuel de nos usages et environnements numériques.
          </content>
       </entry>
    
@@ -318,7 +339,7 @@ L’occasion de l’arrestation de Pavel Durov (aussi orthographié Dourov), pat
          <id>http://localhost:4000/liens/2024/08/28/larrestation-de-pavel-durov-au-del-du-bruit-mdiatique/</id>
 
          <content type="html">
-            L&apos;arrestation de Pavel Durov, patron de Telegram est-elle un coup porté à la liberté d’expression ? Contrairement aux apparences, ce n’est pas du tout aussi simple que cela.
+            L&apos;arrestation de Pavel Durov, patron de Telegram est-elle un coup porté à la liberté d’expression ? Contrairement aux apparences, ce n’est pas du tout aussi simple que cela.
          </content>
       </entry>
    
@@ -329,8 +350,7 @@ L’occasion de l’arrestation de Pavel Durov (aussi orthographié Dourov), pat
          <id>http://localhost:4000/liens/2024/08/28/file-over-app/</id>
 
          <content type="html">
-            File over app is a philosophy: if you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Use tools that give you this freedom.
-File over app is an appeal to tool makers: accept that all software is ephemeral, and give people ownership over their data.
+            File over app is a philosophy: if you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Use tools that give you this freedom. File over app is an appeal to tool makers: accept that all software is ephemeral, and give people ownership over their data.
          </content>
       </entry>
    
@@ -352,7 +372,7 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
          <id>http://localhost:4000/liens/2024/08/27/ux-deliverables-glossary/</id>
 
          <content type="html">
-            
+            Use this glossary to quickly clarify key terms and concepts related to UX deliverables. 
          </content>
       </entry>
    
@@ -363,7 +383,7 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
          <id>http://localhost:4000/liens/2024/08/26/telegram-nest-pas-une-messagerie-scurise/</id>
 
          <content type="html">
-            Depuis l&apos;arrestation du PDG de Telegram, les médias en parle beaucoup en qualifiant systématiquement Telegram de “messagerie cryptée”. C&apos;est complètement faux, Telegram n&apos;est pas une messagerie sécurisée. C&apos;est un véritable problème qu&apos;une telle fausse information soit ainsi propagée, et ce pour plusieurs raisons
+            Le fondateur et dirigeant de Telegram, Pavel Durov, est détenu en France à la surprise générale. Il a été interpellé près de Paris alors qu’il venait d’arriver avec son jet privé. L’arrestation du patron de l’une des applications les plus utilisées au monde, notamment en Ukraine et en Russie, provoque depuis de nombreux commentaires, y compris sur le thème de la liberté d’expression.
          </content>
       </entry>
    
@@ -379,7 +399,7 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
       </entry>
    
       <entry>
-         <title>Affaire telegram : un test pour l’union européenne</title>
+         <title>Affaire Telegram : un test pour l’union européenne</title>
          <link href="/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/"/>
          <updated>2024-08-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/</id>
@@ -401,7 +421,7 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
       </entry>
    
       <entry>
-         <title>Moteurs de recherche et ia : à la recherche de l’aiguille dans la botte de data.</title>
+         <title>Moteurs de recherche et IA : à la recherche de l’aiguille dans la botte de data.</title>
          <link href="/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/"/>
          <updated>2024-08-24T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/</id>
@@ -418,7 +438,7 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
          <id>http://localhost:4000/liens/2024/08/23/la-rvolution-visuelle-quapporte-figma-aux-nondesigners/</id>
 
          <content type="html">
-            La révolution visuelle qu&apos;apporte Figma aux non-designers
+            Pourquoi Figma, en tant qu&apos;outil de travail, facilite la collaboration et l&apos;échange de feedback pour les Knowledge Worker
          </content>
       </entry>
    
@@ -434,13 +454,13 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
       </entry>
    
       <entry>
-         <title>People are falling in love with — and getting addicted to — ai voices</title>
+         <title>People are falling in love with — and getting addicted to — AI voices</title>
          <link href="/liens/2024/08/19/people-are-falling-in-love-with-and-getting-addicted-to-ai-voices/"/>
          <updated>2024-08-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/19/people-are-falling-in-love-with-and-getting-addicted-to-ai-voices/</id>
 
          <content type="html">
-            
+            Even OpenAI warns that chatting with an AI voice can breed “emotional reliance.”
          </content>
       </entry>
    
@@ -473,11 +493,7 @@ File over app is an appeal to tool makers: accept that all software is ephemeral
          <id>http://localhost:4000/liens/2024/08/08/mozilla-wants-you-to-love-firefox-again/</id>
 
          <content type="html">
-            Last month, Mozilla made a quiet change in Firefox that caused some diehard users to revolt.
-Deep in the browser’s privacy settings, Firefox introduced an experimental “privacy-preserving ad measurement” toggle, enabling it by default without explanation or disclosure. It’s a system that Mozilla designed in partnership with Meta, allowing advertisers to measure the success of their campaigns without collecting individual user data.
-Privacy experts say the new toggle is mostly harmless, but Firefox users saw it as a betrayal. The Mozilla Corporation, which operates Firefox as a subsidiary of the nonprofit Mozilla Foundation, has always claimed to put people ahead of business interests, yet here it was offering a gift to the ad industry while keeping users in the dark.
-“They made this technology for advertisers, specifically,” says Jonah Aragon, founder of the Privacy Guides website. “There’s no direct benefit to the user in creating this. It’s software that only serves a party other than the user.”
-The episode shows how Mozilla risks alienating longtime fans as it tries to revitalize its once-beloved web browser. Laura Chambers, who stepped into an interim CEO role at Mozilla in February, says the company is reinvesting in Firefox after letting it languish in recent years, hoping to reestablish the browser as independent alternative to the likes of Google’s Chrome and Apple’s Safari. But some of those investments, which also include forays into generative AI, may further upset the community that’s been sticking with Firefox all these years.
+            But can it avoid upsetting its most loyal users along the way? Last month, Mozilla made a quiet change in Firefox that caused some diehard users to revolt.
          </content>
       </entry>
    
@@ -488,8 +504,7 @@ The episode shows how Mozilla risks alienating longtime fans as it tries to revi
          <id>http://localhost:4000/liens/2024/08/05/formations-et-ressources-en-accessibilit-web-et-numrique/</id>
 
          <content type="html">
-            Les enjeux, les normes et les bonnes pratiques de l’accessibilité web (et numérique plus généralement) sont malheureusement encore trop méconnues par nombre d’enseignant·es et de profesionnel·les du design, du développement et de la rédaction web.
-N’ayant pas du tout été sensibilisé à ce sujet durant mes études, j’ai voulu progressivement monter en compétences ces dernières années, en suivant certaines formations et en parcourant livres, blogs, sites et autres ressources spécialisées. Afin d’encourager et de faciliter cet apprentissage par tout un chacun, je vous partage ici une sélection des meilleures d’entre elles.
+            Les enjeux, les normes et les bonnes pratiques de l’accessibilité web (et numérique plus généralement) sont malheureusement encore trop méconnues par nombre d’enseignant·es et de profesionnel·les du design, du développement et de la rédaction web. N’ayant pas du tout été sensibilisé à ce sujet durant mes études, j’ai voulu progressivement monter en compétences ces dernières années, en suivant certaines formations et en parcourant livres, blogs, sites et autres ressources spécialisées. Afin d’encourager et de faciliter cet apprentissage par tout un chacun, je vous partage ici une sélection des meilleures d’entre elles.
          </content>
       </entry>
    
@@ -527,7 +542,7 @@ N’ayant pas du tout été sensibilisé à ce sujet durant mes études, j’ai 
       </entry>
    
       <entry>
-         <title>Figma ai tools: i’m not worried about my job anytime soon</title>
+         <title>Figma AI tools: i’m not worried about my job anytime soon</title>
          <link href="/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/"/>
          <updated>2024-08-02T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/</id>
@@ -555,19 +570,18 @@ N’ayant pas du tout été sensibilisé à ce sujet durant mes études, j’ai 
          <id>http://localhost:4000/liens/2024/07/30/switzerland-federal-government-requires-releasing-its-software-as-open-source/</id>
 
          <content type="html">
-            Several European countries are betting on open-source software. In the United States, eh, not so much. In the latest news from across the Atlantic, Switzerland has taken a major step forward with its Federal Law on the Use of Electronic Means for the Fulfillment of Government Tasks (EMBAG). This groundbreaking legislation mandates releasing open-source software (OSS) of the Federal government.
-This new law requires all public bodies to disclose the source code of software developed by or for them unless third-party rights or security concerns prevent it. This public money, public code approach aims to enhance government operations&apos; transparency, security, and efficiency.
+             The United States remains reluctant to work with open source, but European countries are bolder.
          </content>
       </entry>
    
       <entry>
-         <title>Les annonceurs vont suivre les performances des annonces sur firefox</title>
+         <title>Les annonceurs vont suivre les performances des annonces sur Firefox</title>
          <link href="/liens/2024/07/30/les-annonceurs-vont-suivre-les-performances-des-annonces-sur-firefox/"/>
          <updated>2024-07-30T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/30/les-annonceurs-vont-suivre-les-performances-des-annonces-sur-firefox/</id>
 
          <content type="html">
-            
+            Mozilla, une société qui s&apos;est toujours targuée d&apos;accorder la priorité à la protection de la vie privée, est confrontée à une levée de boucliers de la part des utilisateurs à propos d&apos;une fonction de collecte de données de Firefox conçue pour aider les annonceurs à suivre les performances de leurs publicités. Pour ne rien arranger, cette fonction, appelée « Attribution préservant la vie privée » (PPA), est activée par défaut dans la dernière version du navigateur.
          </content>
       </entry>
    
@@ -589,26 +603,23 @@ This new law requires all public bodies to disclose the source code of software 
          <id>http://localhost:4000/liens/2024/07/27/obsidian-miscellany/</id>
 
          <content type="html">
-            I’ve switched up my note-taking app a few times over the years:
-I enjoyed Evernote for a long time until the start of their slow, sad descent. The pain of rescuing my Evernote data led me to Simplenote. It’s a lot more portable, but proved too barebones for my needs. I moved from Simplenote to Bear, which was (and still is) delightful. But it’s Apple-only, and I really missed my notes on my gaming PC, Linux laptop, etc. (I held out hope that the promised web app would materialize, but decided to believe Shiny Frog when they say it’s still “a ways off.”) Along the way, I also tried or considered Anytype, Apple Notes, Google Keep, Heynote, Joplin, Jotsy, Logseq, Microsoft OneNote, Muse, nb, TiddlyWiki, Tot, and probably a few others I’m forgetting.
-But for the last year or so, I’ve settled on Obsidian.
+            I’ve switched up my note-taking app a few times over the years…
          </content>
       </entry>
    
       <entry>
-         <title>Designing design systems: constructing an icon system | by adobe design | thinking design | jul, 2024 | medium</title>
+         <title>Designing design systems: constructing an icon system</title>
          <link href="/liens/2024/07/26/designing-design-systems-constructing-an-icon-system-by-adobe-design-thinking-design-jul-2024-medium/"/>
          <updated>2024-07-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/26/designing-design-systems-constructing-an-icon-system-by-adobe-design-thinking-design-jul-2024-medium/</id>
 
          <content type="html">
             A process for creating a unified brand experience through iconography
-By Isabelle Hamlin, Experience Design Manager, Spectrum
          </content>
       </entry>
    
       <entry>
-         <title>Apple maps launches in beta on the web</title>
+         <title>Apple Maps launches in beta on the web</title>
          <link href="/liens/2024/07/24/apple-maps-launches-in-beta-on-the-web/"/>
          <updated>2024-07-24T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/24/apple-maps-launches-in-beta-on-the-web/</id>
@@ -619,7 +630,7 @@ By Isabelle Hamlin, Experience Design Manager, Spectrum
       </entry>
    
       <entry>
-         <title>Paul watson, fondateur de sea sheperd, a été arrêté par la police danoise</title>
+         <title>Paul Watson, fondateur de Sea Sheperd, a été arrêté par la police danoise</title>
          <link href="/liens/2024/07/22/paul-watson-fondateur-de-sea-sheperd-a-t-arrt-par-la-police-danoise/"/>
          <updated>2024-07-22T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/22/paul-watson-fondateur-de-sea-sheperd-a-t-arrt-par-la-police-danoise/</id>
@@ -647,8 +658,7 @@ By Isabelle Hamlin, Experience Design Manager, Spectrum
          <id>http://localhost:4000/liens/2024/07/21/pour-une-mmoire-commune-numrique/</id>
 
          <content type="html">
-            Internet est un lieu d’échange, mais sa mémoire est volatile. Nous avons tous connu des sites qui disparaissent, des ressources qui deviennent inaccessibles. Personnellement, j’ai perdu tous mes sites web avant ce blog. J’ai perdu tout ce que j’ai posté sur les réseaux sociaux, particulièrement Google+ où j’étais très actif.
-Cela m’a servi de leçon. La simplification à outrance de ce blog est une manière pour moi de le pérenniser.
+            Internet est un lieu d’échange, mais sa mémoire est volatile. Nous avons tous connu des sites qui disparaissent, des ressources qui deviennent inaccessibles. Personnellement, j’ai perdu tous mes sites web avant ce blog. J’ai perdu tout ce que j’ai posté sur les réseaux sociaux, particulièrement Google+ où j’étais très actif. Cela m’a servi de leçon. La simplification à outrance de ce blog est une manière pour moi de le pérenniser.
          </content>
       </entry>
    
@@ -659,9 +669,7 @@ Cela m’a servi de leçon. La simplification à outrance de ce blog est une man
          <id>http://localhost:4000/liens/2024/07/17/criture-inclusive-le-point-dhyphnation-rendtil-vraiment-meilleure-la-lecture-par-les-lecteurs-dcran/</id>
 
          <content type="html">
-            Ces derniers mois, je me suis retrouvée dans plusieurs discussions sur l’écriture inclusive où des personnes partageaient un article qui dit qu’il faudrait utiliser le point d’hyphénation plutôt que le point médian lorsqu’on utilise des abréviations inclusives parce que la lecture par les lecteurs d’écran serait meilleure. Cet article s’intitule « Point médian final : point d’hyphénation ‧ » et a été écrit par Matti Schneider en 2019.
-Si cet article n’est pas inintéressant, il y a malgré tout un problème de taille : un seul lecteur d’écran a été testé, VoiceOver sur MacOS. Or, il existe différents lecteurs d’écran et tous ne se comportent pas de la même façon. Le synthétiseur se trouvant dans ces logiciels peut aussi faire varier les choses ainsi que la voix utilisée. De plus, tout ceci évolue dans le temps.
-Qu’en est-il concrètement ?
+            Ces derniers mois, je me suis retrouvée dans plusieurs discussions sur l’écriture inclusive où des personnes partageaient un article qui dit qu’il faudrait utiliser le point d’hyphénation plutôt que le point médian lorsqu’on utilise des abréviations inclusives parce que la lecture par les lecteurs d’écran serait meilleure. Cet article s’intitule « Point médian final : point d’hyphénation ‧ » et a été écrit par Matti Schneider en 2019. Si cet article n’est pas inintéressant, il y a malgré tout un problème de taille : un seul lecteur d’écran a été testé, VoiceOver sur MacOS. Or, il existe différents lecteurs d’écran et tous ne se comportent pas de la même façon. Le synthétiseur se trouvant dans ces logiciels peut aussi faire varier les choses ainsi que la voix utilisée. De plus, tout ceci évolue dans le temps. Qu’en est-il concrètement ?
          </content>
       </entry>
    
@@ -699,7 +707,7 @@ Qu’en est-il concrètement ?
       </entry>
    
       <entry>
-         <title>L’ia générative, une bulle ? goldman sachs met les pieds dans le plat</title>
+         <title>L’IA générative, une bulle ? Goldman Sachs met les pieds dans le plat</title>
          <link href="/liens/2024/07/11/lia-gnrative-une-bulle-goldman-sachs-met-les-pieds-dans-le-plat/"/>
          <updated>2024-07-11T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/11/lia-gnrative-une-bulle-goldman-sachs-met-les-pieds-dans-le-plat/</id>
@@ -732,19 +740,18 @@ Qu’en est-il concrètement ?
       </entry>
    
       <entry>
-         <title>Introducing docs in proton drive – collaborative document editing that’s actually private</title>
+         <title>Introducing Docs in Proton Drive – Collaborative document editing that’s actually private</title>
          <link href="/liens/2024/07/03/introducing-docs-in-proton-drive-collaborative-document-editing-thats-actually-private/"/>
          <updated>2024-07-03T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/03/introducing-docs-in-proton-drive-collaborative-document-editing-thats-actually-private/</id>
 
          <content type="html">
-            Billions of people use online document editors like Google Docs or Microsoft 365 to write reports, collaborate on projects, and keep track of meeting notes. But there is a growing concern about Big Tech platforms having access to your content, tracking you across the web, and collecting data to train privacy-invading AI models.
-Today we’re announcing a new end-to-end encrypted, collaborative document editor that puts your privacy first. Docs in Proton Drive are built on the same privacy and security principles as all our services, starting with end-to-end encryption. Docs let you collaborate in real time, leave comments, add photos, and store your files securely. Best of all, it’s all private — even keystrokes and cursor movements are encrypted.
+            Billions of people use online document editors like Google Docs or Microsoft 365 to write reports, collaborate on projects, and keep track of meeting notes. But there is a growing concern about Big Tech platforms having access to your content, tracking you across the web, and collecting data to train privacy-invading AI models.Today we’re announcing a new end-to-end encrypted, collaborative document editor that puts your privacy first. Docs in Proton Drive are built on the same privacy and security principles as all our services, starting with end-to-end encryption. Docs let you collaborate in real time, leave comments, add photos, and store your files securely. Best of all, it’s all private — even keystrokes and cursor movements are encrypted.
          </content>
       </entry>
    
       <entry>
-         <title>Don’t be fooled by figma’s new ai features</title>
+         <title>Don’t be fooled by Figma’s new AI features</title>
          <link href="/liens/2024/07/03/dont-be-fooled-by-figmas-new-ai-features/"/>
          <updated>2024-07-03T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/03/dont-be-fooled-by-figmas-new-ai-features/</id>
@@ -794,7 +801,7 @@ Today we’re announcing a new end-to-end encrypted, collaborative document edit
          <id>http://localhost:4000/liens/2024/06/26/linternet-que-nous-aurions-puavoir/</id>
 
          <content type="html">
-            Dans ce texte initialement paru en 2022, l’anthropologue du numérique Christopher Kelty revient sur les transformations d’internet et ses promesses brisées. Dans un style singulier et personnel, il raconte comment les ambitions d’ouverture et d’accès à la connaissance, dont il a été à la fois témoin et acteur, ont paradoxalement nourri la clôture autoritaire de l’utopie numérique. Il révèle ainsi cet étrange retournement : comment se fait-il que l’internet que nous aurions pu avoir ait contribué à faire advenir l’internet que nous avons ?
+            Dans ce texte initialement paru en 2022, l’anthropologue du numérique Christopher Kelty revient sur les transformations d’internet et ses promesses brisées. Dans un style singulier et personnel, il raconte comment les ambitions d’ouverture et d’accès à la connaissance, dont il a été à la fois témoin et acteur, ont paradoxalement nourri la clôture autoritaire de l’utopie numérique. Il révèle ainsi cet étrange retournement : comment se fait-il que l’internet que nous aurions pu avoir ait contribué à faire advenir l’internet que nous avons ?
          </content>
       </entry>
    
@@ -832,13 +839,13 @@ Today we’re announcing a new end-to-end encrypted, collaborative document edit
       </entry>
    
       <entry>
-         <title>What the web looked like in 1994, the year it became the internet</title>
+         <title>What the internet looked like in 1994, according to 15 webpages born that year</title>
          <link href="/liens/2024/06/21/what-the-web-looked-like-in-1994-the-year-it-became-the-internet/"/>
          <updated>2024-06-21T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/21/what-the-web-looked-like-in-1994-the-year-it-became-the-internet/</id>
 
          <content type="html">
-            fastcompany.com
+            Thirty years ago, the baby web was just starting to go mainstream, but you could already see a pixelated vision of the world to come.
          </content>
       </entry>
    
@@ -849,7 +856,7 @@ Today we’re announcing a new end-to-end encrypted, collaborative document edit
          <id>http://localhost:4000/liens/2024/06/21/je-quitte-spotify-pour-mon-propre-cloud-musical-autohberg/</id>
 
          <content type="html">
-            Je quitte Spotify pour mon propre cloud musical autohébergé&amp;nbsp;! - FLOZz&apos; Blog
+            Ça y est, c&apos;est décidé, je quitte Spotify ! Cette décision ne s&apos;est pas prise sur un coup de tête, j&apos;y réfléchis depuis quelques mois déjà, pour un ensemble de raisons diffuses dont on reparlera un peu plus tard. Les choses se sont cependant accélérées il y a quelques semaines.
          </content>
       </entry>
    
@@ -975,13 +982,13 @@ Today we’re announcing a new end-to-end encrypted, collaborative document edit
       </entry>
    
       <entry>
-         <title>Qwant maps, an online privacy-respecting google maps alternative, has been discontinued</title>
+         <title>Qwant Maps, an online privacy-respecting Google Maps alternative, has been discontinued</title>
          <link href="/liens/2024/06/04/qwant-maps-an-online-privacyrespecting-google-maps-alternative-has-been-discontinued/"/>
          <updated>2024-06-04T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/04/qwant-maps-an-online-privacyrespecting-google-maps-alternative-has-been-discontinued/</id>
 
          <content type="html">
-            Just a moment...
+            Earlier this month, Qwant Maps, a free and privacy-respecting online map service built on OpenStreetMap by the creators of the Qwant search engine, was completely shut down. In a post on X, Qwant announced that following its acquisition by Synfonium, the Qwant Maps service was deactivated. Instead, a “maps module” has been integrated into the search function, though I was unable to access it when looking for places or addresses… Qwant stated that they are prioritizing enhancing the search experience with new features, while acknowledging that this decision may not be well-received by all users.
          </content>
       </entry>
    

@@ -2,9 +2,9 @@
 layout: post
 title: "UX deliverables: glossary"
 link: "https://www.nngroup.com/articles/ux-deliverables-glossary/"
-author: N/A
-published_date: "27/08/2024"
-description: ""
+author: Huei-Hsin Wang
+published_date: "09/08/2024"
+description: "Use this glossary to quickly clarify key terms and concepts related to UX deliverables. "
 language: en
 categories:
 - Liens

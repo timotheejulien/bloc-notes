@@ -2,10 +2,10 @@
 layout: post
 title: "Abonnement bnf"
 link: "https://julianoe.eu.org/notes/abonnement-bnf/"
-author: N/A
-published_date: "04/07/2024"
+author: Julianoë
+published_date: "28/02/2024"
 description: "Possibilité d'avoir accès à pleins de médias via un abonnement unique à la BNF"
-language: en
+language: fr
 categories:
 - Liens
 

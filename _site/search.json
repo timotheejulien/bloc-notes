@@ -8,6 +8,13 @@
       ,
   
             {
+                  "title"    : "LocalSend",
+                  "url"      : "/liens/2024/10/28/localsend/",
+                  "tags"     : "App, Utilitaires, OpenSource"
+            } 
+      ,
+  
+            {
                   "title"    : "Comment changer d’instance Mastodon ?",
                   "url"      : "/liens/2024/10/27/comment-changer-dinstance-mastodon/",
                   "tags"     : "Mastodon, RéseauxSociaux"
@@ -106,6 +113,13 @@
       ,
   
             {
+                  "title"    : "Big data : La Norvège retire ses billes de Palantir pour dénoncer son implication dans la guerre au Moyen-Orient",
+                  "url"      : "/liens/2024/10/10/big-data-la-norvege-retire-ses-billes-de-palantir-pour-denoncer-son-implication-dans-la-guerre-au-moyen-orient/",
+                  "tags"     : "BigData, Surveillance, Société, Économie, Éthique"
+            } 
+      ,
+  
+            {
                   "title"    : "Les mythes de l’IA",
                   "url"      : "/liens/2024/10/08/les-mythes-de-lia/",
                   "tags"     : "Technologie, Algorithme"
@@ -169,7 +183,7 @@
       ,
   
             {
-                  "title"    : "L’ia peut-elle nous réconcilier avec le travail ?",
+                  "title"    : "L’IA peut-elle nous réconcilier avec le travail ?",
                   "url"      : "/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/",
                   "tags"     : "IA, Société"
             } 
@@ -232,7 +246,7 @@
       ,
   
             {
-                  "title"    : "Affaire telegram : un test pour l’union européenne",
+                  "title"    : "Affaire Telegram : un test pour l’union européenne",
                   "url"      : "/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/",
                   "tags"     : "App, Législation, Telegram"
             } 
@@ -246,7 +260,7 @@
       ,
   
             {
-                  "title"    : "Moteurs de recherche et ia : à la recherche de l’aiguille dans la botte de data.",
+                  "title"    : "Moteurs de recherche et IA : à la recherche de l’aiguille dans la botte de data.",
                   "url"      : "/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/",
                   "tags"     : "IA, Web, Algorithme"
             } 
@@ -255,7 +269,7 @@
             {
                   "title"    : "La révolution visuelle qu&#39;apporte figma aux non-designers",
                   "url"      : "/liens/2024/08/23/la-rvolution-visuelle-quapporte-figma-aux-nondesigners/",
-                  "tags"     : "Méthodologie, Figma"
+                  "tags"     : "Méthodologie, Figma, App"
             } 
       ,
   
@@ -267,7 +281,7 @@
       ,
   
             {
-                  "title"    : "People are falling in love with — and getting addicted to — ai voices",
+                  "title"    : "People are falling in love with — and getting addicted to — AI voices",
                   "url"      : "/liens/2024/08/19/people-are-falling-in-love-with-and-getting-addicted-to-ai-voices/",
                   "tags"     : "IA, Société"
             } 
@@ -323,7 +337,7 @@
       ,
   
             {
-                  "title"    : "Figma ai tools: i’m not worried about my job anytime soon",
+                  "title"    : "Figma AI tools: i’m not worried about my job anytime soon",
                   "url"      : "/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/",
                   "tags"     : "App, IA, Design, Figma"
             } 
@@ -344,7 +358,7 @@
       ,
   
             {
-                  "title"    : "Les annonceurs vont suivre les performances des annonces sur firefox",
+                  "title"    : "Les annonceurs vont suivre les performances des annonces sur Firefox",
                   "url"      : "/liens/2024/07/30/les-annonceurs-vont-suivre-les-performances-des-annonces-sur-firefox/",
                   "tags"     : "App, Firefox, Publicité"
             } 
@@ -365,21 +379,21 @@
       ,
   
             {
-                  "title"    : "Designing design systems: constructing an icon system | by adobe design | thinking design | jul, 2024 | medium",
+                  "title"    : "Designing design systems: constructing an icon system",
                   "url"      : "/liens/2024/07/26/designing-design-systems-constructing-an-icon-system-by-adobe-design-thinking-design-jul-2024-medium/",
-                  "tags"     : "Design, DesignSystem"
+                  "tags"     : "Design, DesignSystem, Icônes"
             } 
       ,
   
             {
-                  "title"    : "Apple maps launches in beta on the web",
+                  "title"    : "Apple Maps launches in beta on the web",
                   "url"      : "/liens/2024/07/24/apple-maps-launches-in-beta-on-the-web/",
                   "tags"     : "Apple, Web"
             } 
       ,
   
             {
-                  "title"    : "Paul watson, fondateur de sea sheperd, a été arrêté par la police danoise",
+                  "title"    : "Paul Watson, fondateur de Sea Sheperd, a été arrêté par la police danoise",
                   "url"      : "/liens/2024/07/22/paul-watson-fondateur-de-sea-sheperd-a-t-arrt-par-la-police-danoise/",
                   "tags"     : "Écologie, Société, Éthique"
             } 
@@ -428,7 +442,7 @@
       ,
   
             {
-                  "title"    : "L’ia générative, une bulle ? goldman sachs met les pieds dans le plat",
+                  "title"    : "L’IA générative, une bulle ? Goldman Sachs met les pieds dans le plat",
                   "url"      : "/liens/2024/07/11/lia-gnrative-une-bulle-goldman-sachs-met-les-pieds-dans-le-plat/",
                   "tags"     : "IA"
             } 
@@ -449,14 +463,14 @@
       ,
   
             {
-                  "title"    : "Introducing docs in proton drive – collaborative document editing that’s actually private",
+                  "title"    : "Introducing Docs in Proton Drive – Collaborative document editing that’s actually private",
                   "url"      : "/liens/2024/07/03/introducing-docs-in-proton-drive-collaborative-document-editing-thats-actually-private/",
                   "tags"     : "App, Proton"
             } 
       ,
   
             {
-                  "title"    : "Don’t be fooled by figma’s new ai features",
+                  "title"    : "Don’t be fooled by Figma’s new AI features",
                   "url"      : "/liens/2024/07/03/dont-be-fooled-by-figmas-new-ai-features/",
                   "tags"     : "IA, Design, UX, Figma"
             } 
@@ -512,7 +526,7 @@
       ,
   
             {
-                  "title"    : "What the web looked like in 1994, the year it became the internet",
+                  "title"    : "What the internet looked like in 1994, according to 15 webpages born that year",
                   "url"      : "/liens/2024/06/21/what-the-web-looked-like-in-1994-the-year-it-became-the-internet/",
                   "tags"     : "Web, Internet"
             } 
@@ -603,7 +617,7 @@
       ,
   
             {
-                  "title"    : "Qwant maps, an online privacy-respecting google maps alternative, has been discontinued",
+                  "title"    : "Qwant Maps, an online privacy-respecting Google Maps alternative, has been discontinued",
                   "url"      : "/liens/2024/06/04/qwant-maps-an-online-privacyrespecting-google-maps-alternative-has-been-discontinued/",
                   "tags"     : "App"
             } 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "L’ia peut-elle nous réconcilier avec le travail ?"
+title: "L’IA peut-elle nous réconcilier avec le travail ?"
 link: "https://usbeketrica.com/fr/article/l-ia-peut-elle-nous-reconcilier-avec-le-travail"
-author: N/A
-published_date: "06/09/2024"
-description: "« J’suis pas heureux, mais j’en ai l’air, j’ai perdu le sens de l’humour depuis que j’ai le sens des affaires », chantait le businessman dans Starmania. La célèbre chanson de Michel Berger et de Luc Plamondon date de 1978, mais elle n’a jamais été aussi actuelle que ces dernières années. La Grande Démission connaît sa consécration au printemps 2021 aux États-Unis : en pleine pandémie, près de 48 millions d’Américains quittent leur travail. En France, on observe la même tendance où entre juillet 2019 et juillet 2021, le nombre de démissions aurait augmenté de 20% selon la Dares."
+author: HP
+published_date: "28/08/2024"
+description: "Avec l’introduction des outils d’IA générative auprès du grand public, l’histoire entre technologies et monde du travail se poursuit. Et si l’IA générative devenait notre Best Work Buddy (meilleur partenaire de travail en anglais), à quoi ressemblerait le travail – et notre relation avec lui ? La réponse en trois hypothèses tirées du HP Work Relationship Index."
 language: fr
 categories:
 - Liens
