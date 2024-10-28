@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-27T20:47:30+01:00</updated>
+   <updated>2024-10-28T09:52:01+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>The zero click Internet</title>
+         <link href="/liens/2024/10/28/the-zero-click-internet/"/>
+         <updated>2024-10-28T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/10/28/the-zero-click-internet/</id>
+
+         <content type="html">
+            The internet is in the midst of undergoing the biggest change since its inception. It&apos;s huge. And there is no going back.
+         </content>
+      </entry>
    
       <entry>
          <title>Comment changer d’instance Mastodon ?</title>
