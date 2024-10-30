@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abonnement bnf"
+title: "Abonnement BNF"
 link: "https://julianoe.eu.org/notes/abonnement-bnf/"
 author: Julianoë
 published_date: "28/02/2024"

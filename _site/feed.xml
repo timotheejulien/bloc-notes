@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-30T11:48:33+01:00</updated>
+   <updated>2024-10-30T16:08:21+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Et si l&apos;Apocalypse avait déjà eu lieu... sur internet ? La preuve : des images de Jésus en crevette qui envahissent nos fils d’actualité Facebook abandonnés et amassent des millions de likes et de commentaires. “Shrimp Jesus”, seigneur des crustacés version intelligence artificielle, est l&apos;une des nombreuses manifestations de la théorie de l&apos;Internet mort, une théorie du complot un peu barge qui révèle pourtant un changement bien réel sur le web : les bots sont en train de nous grand remplacer. Aujourd&apos;hui, plus de la moitié du trafic Internet est généré par des bots, et la plupart de nos interactions en ligne n&apos;ont donc quasiment plus rien d&apos;humain. Tracks part à la rencontre des artistes qui préparent les funérailles du World Wide Web, et imaginent la vie après la déconnexion. L&apos;artiste Aleks Slota, habitué des performances extrêmes, est devenu collectionneur des images pieuses générées par IA sur un internet zombie qui vit ses dernières heures, le duo ! Mediengruppe Bitnik recherche la source des diktats algorithmiques qui influencent notre vision du monde, tandis que Lou Fauroux nous emmène en cure de désintoxication après l’effondrement du web. Internet, 1983 - ? RIP.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Designing for anyone: The power of accessible products</title>
+         <link href="/liens/2024/10/30/designing-for-anyone-the-power-of-accessible-products/"/>
+         <updated>2024-10-30T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/10/30/designing-for-anyone-the-power-of-accessible-products/</id>
+
+         <content type="html">
+            For years, I viewed accessible design as a set of boring and restrictive rules. Text contrast ratios, focus states for buttons - these were things I thought made design worse, not better. I wasn&apos;t alone in this mindset. I&apos;ve heard colleagues dismiss accessibility concerns, saying things like, « We&apos;re not going to have any blind users, so it&apos;s not going to be a problem.» Or designers insisting that light grey text is perfectly readable because they can see it with their poor eyesight. But lately, I&apos;ve been trying to shift my mindset on accessibility. I&apos;ve realized that accessible design isn&apos;t just about adhering to technical guidelines - it&apos;s about creating products that work for anyone, in any situation.
          </content>
       </entry>
    
@@ -751,7 +762,7 @@
       </entry>
    
       <entry>
-         <title>Abonnement bnf</title>
+         <title>Abonnement BNF</title>
          <link href="/liens/2024/07/04/abonnement-bnf/"/>
          <updated>2024-07-04T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/04/abonnement-bnf/</id>
