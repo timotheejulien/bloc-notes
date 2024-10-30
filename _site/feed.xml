@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-29T21:44:29+01:00</updated>
+   <updated>2024-10-30T11:48:33+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Internet est mort, vive internet !</title>
+         <link href="/liens/2024/10/30/internet-est-mort-vive-internet/"/>
+         <updated>2024-10-30T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/10/30/internet-est-mort-vive-internet/</id>
+
+         <content type="html">
+            Et si l&apos;Apocalypse avait déjà eu lieu... sur internet ? La preuve : des images de Jésus en crevette qui envahissent nos fils d’actualité Facebook abandonnés et amassent des millions de likes et de commentaires. “Shrimp Jesus”, seigneur des crustacés version intelligence artificielle, est l&apos;une des nombreuses manifestations de la théorie de l&apos;Internet mort, une théorie du complot un peu barge qui révèle pourtant un changement bien réel sur le web : les bots sont en train de nous grand remplacer. Aujourd&apos;hui, plus de la moitié du trafic Internet est généré par des bots, et la plupart de nos interactions en ligne n&apos;ont donc quasiment plus rien d&apos;humain. Tracks part à la rencontre des artistes qui préparent les funérailles du World Wide Web, et imaginent la vie après la déconnexion. L&apos;artiste Aleks Slota, habitué des performances extrêmes, est devenu collectionneur des images pieuses générées par IA sur un internet zombie qui vit ses dernières heures, le duo ! Mediengruppe Bitnik recherche la source des diktats algorithmiques qui influencent notre vision du monde, tandis que Lou Fauroux nous emmène en cure de désintoxication après l’effondrement du web. Internet, 1983 - ? RIP.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Vrais et faux risques de l’intelligence artificielle</title>
+         <link href="/liens/2024/10/29/vrais-et-faux-risques-de-lintelligence-artificielle/"/>
+         <updated>2024-10-29T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/10/29/vrais-et-faux-risques-de-lintelligence-artificielle/</id>
+
+         <content type="html">
+            Ceux qui suivent depuis un moment les développements de l’intelligence artificielle (IA) l’auront noté : c’est de manière cyclique que surgissent d’une part les bouquets de promesses, de l’autre les peurs et les doutes. Ainsi la décennie 2010 aura suscité tous les espoirs, après la sortie d’un long « hiver de l’IA » et l’émergence des modèles d’apprentissage profond. Dès 2015, une rafale de critiques vient néanmoins plomber l’ambiance, pointant les controverses sociotechniques liées à ces progrès, le tout alimenté de nombreux ouvrages en sciences humaines et en France, la publication du très lu Rapport Villani. Un nouveau cycle de promesses s’amorce à l’orée de l’année 2023, avec le déploiement des grands modèles de langage, aussitôt suivi de questionnements quant à leurs impacts social et environnemental. De ce mouvement de balancier, nous pourrions espérer une plus grande maturité collective dans l’appréhension commune des enjeux liés à l’IA. Celle-ci est loin d’être acquise. Dans la cacophonie médiatique comme dans le fond des sujets, l’appréhension et la hiérarchisation des risques de l’intelligence artificielle vise souvent à côté, et les réponses aux antédiluviennes questions sur les dégâts du progrès sont toujours attendues. Nous souhaitons avec ce texte, réarmer le débat sur l’IA en portant l’attention – un peu arbitrairement peut-être –  sur cinq angles morts qui le polluent actuellement.
+         </content>
+      </entry>
    
       <entry>
          <title>The zero click Internet</title>

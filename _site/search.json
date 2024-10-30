@@ -1,6 +1,20 @@
 [
       
             {
+                  "title"    : "Internet est mort, vive internet !",
+                  "url"      : "/liens/2024/10/30/internet-est-mort-vive-internet/",
+                  "tags"     : "Internet, Vidéos, IA"
+            } 
+      ,
+  
+            {
+                  "title"    : "Vrais et faux risques de l’intelligence artificielle",
+                  "url"      : "/liens/2024/10/29/vrais-et-faux-risques-de-lintelligence-artificielle/",
+                  "tags"     : "IA, Éthique"
+            } 
+      ,
+  
+            {
                   "title"    : "The zero click Internet",
                   "url"      : "/liens/2024/10/28/the-zero-click-internet/",
                   "tags"     : "Internet, Web, UX"
