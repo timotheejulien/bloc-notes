@@ -1,6 +1,20 @@
 [
       
             {
+                  "title"    : "Matignon veut suivre vos recherches sur le web et les réseaux sociaux",
+                  "url"      : "/liens/2024/10/31/matignon-veut-suivre-vos-recherches-sur-le-web-et-les-reseaux-sociaux/",
+                  "tags"     : "Législation, Politique, ViePrivée, Surveillance, RéseauSocial"
+            } 
+      ,
+  
+            {
+                  "title"    : "L’IA Open Source existe-t-elle vraiment ?",
+                  "url"      : "/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/",
+                  "tags"     : "IA, OpenSource"
+            } 
+      ,
+  
+            {
                   "title"    : "Internet est mort, vive internet !",
                   "url"      : "/liens/2024/10/30/internet-est-mort-vive-internet/",
                   "tags"     : "Internet, Vidéos, IA"
@@ -38,7 +52,7 @@
             {
                   "title"    : "Comment changer d’instance Mastodon ?",
                   "url"      : "/liens/2024/10/27/comment-changer-dinstance-mastodon/",
-                  "tags"     : "Mastodon, RéseauxSociaux"
+                  "tags"     : "Mastodon, RéseauSocial"
             } 
       ,
   

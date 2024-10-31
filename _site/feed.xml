@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-30T17:40:26+01:00</updated>
+   <updated>2024-10-31T15:11:17+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Matignon veut suivre vos recherches sur le web et les réseaux sociaux</title>
+         <link href="/liens/2024/10/31/matignon-veut-suivre-vos-recherches-sur-le-web-et-les-reseaux-sociaux/"/>
+         <updated>2024-10-31T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/10/31/matignon-veut-suivre-vos-recherches-sur-le-web-et-les-reseaux-sociaux/</id>
+
+         <content type="html">
+            Les Français pourraient prochainement voir leurs activités numériques plus étroitement analysées par le gouvernement. Un nouvel appel d’offre vient d’être lancé par le service d’informations de ce dernier. Il concerne la surveillance des recherches effectuées sur les principales plateformes numériques, incluant Google, TikTok et Instagram.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’IA Open Source existe-t-elle vraiment ?</title>
+         <link href="/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/"/>
+         <updated>2024-10-31T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/</id>
+
+         <content type="html">
+            À l’heure où tous les mastodontes du numérique, GAFAM comme instituts de recherche comme nouveaux entrants financés par le capital risque se mettent à publier des modèles en masse (la plateforme Hugging Face a ainsi dépassé le million de modèles déposés le mois dernier), la question du caractère « open-source » de l’IA se pose de plus en plus.
+         </content>
+      </entry>
    
       <entry>
          <title>Internet est mort, vive internet !</title>
