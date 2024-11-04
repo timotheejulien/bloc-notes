@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-10-31T15:11:17+01:00</updated>
+   <updated>2024-11-04T08:57:35+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Sortir du techno-pessimisme</title>
+         <link href="/liens/2024/11/04/sortir-du-techno-pessimisme/"/>
+         <updated>2024-11-04T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/04/sortir-du-techno-pessimisme/</id>
+
+         <content type="html">
+            Les critiques des technologies seraient-elles excessivement occidentalo-centrées ? Qu’il s’agisse de surveillance, d’usage des réseaux sociaux, jusqu’au rapport aux sites pornographiques… nombres d’analyses émanant du Nord adoptent des perspectives qui excluent le plus souvent les pays du sud. C’est tout le propos du dernier ouvrage de l’anthropologue et professeure à la Utrecht University, Payal Arora, From pessimism to promise, Lessons from the global south on designing inclusive tech (MIT Press, 2024). Dans la lignée du livre précédent (The Next billion users, dont nous avions également rendu compte), Arora offre une enquête fouillée des pratiques des utilisateurs du numérique dans le sud global, et plaide pour une meilleure prise en compte de leurs existences et de leurs besoins, mais aussi de l’élan d’optimisme dont ils peuvent témoigner dans leur relation à la technologie.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La supercherie de l’universalité du web</title>
+         <link href="/liens/2024/11/04/la-supercherie-de-luniversalite-du-web/"/>
+         <updated>2024-11-04T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/04/la-supercherie-de-luniversalite-du-web/</id>
+
+         <content type="html">
+            Le web a été totalement travesti ces dernières années, voire décennies. De plus en plus de merdification, de monopoles, de silotages et de nivellement par le bas. Quand j&apos;étais gamin, je voyais le web – au sens large – comme quelque chose d&apos;universel. J&apos;ai écrit mes premières lignes de code pour des pages web via le Site du Zéro. Je me rends compte qu&apos;en l&apos;état actuel des choses, cette universalité est une supercherie, une fumisterie grotesque. Ce billet de blog a un gros côté « Team Vieux Cons », je préviens.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Est ce qu'il faut bloquer les chatbots IA sur son site web ?</title>
+         <link href="/liens/2024/11/01/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/"/>
+         <updated>2024-11-01T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/01/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/</id>
+
+         <content type="html">
+            Il semble qu&apos;il y ait un débat sur l&apos;opportunité d&apos;empêcher ou non les chatbots IA d&apos;explorer et d&apos;accéder aux sites web. Alors que certains soutiennent que le blocage des robots IA pourrait limiter la visibilité et l&apos;engagement des utilisateurs qui s&apos;appuient sur ces outils pour la découverte et l&apos;interaction de contenu, d&apos;autres s&apos;inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l&apos;IA.
+         </content>
+      </entry>
    
       <entry>
          <title>Matignon veut suivre vos recherches sur le web et les réseaux sociaux</title>
