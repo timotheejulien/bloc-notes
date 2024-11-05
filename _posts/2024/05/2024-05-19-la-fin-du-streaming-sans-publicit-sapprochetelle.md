@@ -13,9 +13,9 @@ tags:
 - "ViePrivée"
 - "Surveillance"
 - "Streaming"
-- "Amazon"
+- "amazon"
 - "Netflix"
 
-og-tags: "ViePrivée, Surveillance, Streaming, Amazon, Netflix"
+og-tags: "ViePrivée, Surveillance, Streaming, amazon, Netflix"
 permalink: /:categories/:year/:month/:day/:title/
 ---
