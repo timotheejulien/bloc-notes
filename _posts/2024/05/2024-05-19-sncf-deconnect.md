@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Design"
 - "UX"
 - "SNCF"
 
-og-tags: "App, Design, UX, SNCF"
+og-tags: "app, Design, UX, SNCF"
 permalink: /:categories/:year/:month/:day/:title/
 ---

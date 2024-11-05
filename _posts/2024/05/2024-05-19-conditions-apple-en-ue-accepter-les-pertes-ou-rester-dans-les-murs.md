@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Apple"
+- "apple"
 - "Législation"
 
-og-tags: "Apple, Législation"
+og-tags: "apple, Législation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

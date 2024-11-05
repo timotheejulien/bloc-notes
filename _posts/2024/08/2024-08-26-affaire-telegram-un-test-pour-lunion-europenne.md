@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Législation"
 - "Telegram"
 
-og-tags: "App, Législation, Telegram"
+og-tags: "app, Législation, Telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---

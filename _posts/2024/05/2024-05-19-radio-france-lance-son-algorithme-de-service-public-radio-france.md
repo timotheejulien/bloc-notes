@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Technologie"
 
-og-tags: "ViePrivée, App, Technologie"
+og-tags: "ViePrivée, app, Technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

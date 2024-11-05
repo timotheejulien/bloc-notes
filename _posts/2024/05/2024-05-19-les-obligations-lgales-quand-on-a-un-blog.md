@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "RéseauSocial"
-- "Blog"
+- "blog"
 
-og-tags: "Réseau social, Blog"
+og-tags: "Réseau social, blog"
 permalink: /:categories/:year/:month/:day/:title/
 ---

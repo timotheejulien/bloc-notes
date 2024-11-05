@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Apple"
+- "apple"
 - "VisionPro"
 
-og-tags: "Apple, VisionPro"
+og-tags: "apple, VisionPro"
 permalink: /:categories/:year/:month/:day/:title/
 ---

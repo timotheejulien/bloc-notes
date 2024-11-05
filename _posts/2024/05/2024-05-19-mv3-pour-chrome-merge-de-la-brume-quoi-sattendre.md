@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Surveillance"
 - "Web"
 - "Technologie"
 
-og-tags: "ViePrivée, App, Surveillance, Web, Technologie"
+og-tags: "ViePrivée, app, Surveillance, Web, Technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

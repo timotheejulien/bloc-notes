@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Chiffrement"
 - "Proton"
 - "Photos"
 
-og-tags: "App, Chiffrement, Proton, Photos"
+og-tags: "app, Chiffrement, Proton, Photos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

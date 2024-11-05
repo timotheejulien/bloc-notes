@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Zoom"
 
-og-tags: "ViePrivée, App, Zoom"
+og-tags: "ViePrivée, app, Zoom"
 permalink: /:categories/:year/:month/:day/:title/
 ---

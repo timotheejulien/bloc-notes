@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "ViePrivée"
-- "WhatsApp"
-- "App"
+- "Whatsapp"
+- "app"
 
-og-tags: "ViePrivée, WhatsApp, App"
+og-tags: "ViePrivée, Whatsapp, app"
 permalink: /:categories/:year/:month/:day/:title/
 ---

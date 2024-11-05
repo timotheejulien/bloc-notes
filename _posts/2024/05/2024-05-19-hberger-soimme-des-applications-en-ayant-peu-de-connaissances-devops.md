@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Auto-hébergement"
+- "auto-hébergement"
 - "Indie"
 - "Développement"
 
-og-tags: "Auto-hébergement, Indie, Développement"
+og-tags: "auto-hébergement, Indie, Développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

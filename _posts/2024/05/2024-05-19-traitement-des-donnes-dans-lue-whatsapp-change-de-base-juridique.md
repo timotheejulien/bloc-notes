@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "ViePrivée"
-- "WhatsApp"
+- "Whatsapp"
 - "GAFAM"
 
-og-tags: "ViePrivée, WhatsApp, GAFAM"
+og-tags: "ViePrivée, Whatsapp, GAFAM"
 permalink: /:categories/:year/:month/:day/:title/
 ---

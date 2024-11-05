@@ -9,7 +9,7 @@ language: fr
 categories:
 - Liens
 
-tags: "Méthodologie Figma App"
+tags: "Méthodologie Figma app"
 
 og-tags: "Méthodologie, Figma"
 permalink: /:categories/:year/:month/:day/:title/

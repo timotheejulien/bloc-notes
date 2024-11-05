@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Telegram"
 
-og-tags: "App, Telegram"
+og-tags: "app, Telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---

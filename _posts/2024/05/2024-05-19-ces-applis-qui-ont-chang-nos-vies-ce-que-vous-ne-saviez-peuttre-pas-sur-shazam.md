@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Web"
 
-og-tags: "App, Web"
+og-tags: "app, Web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

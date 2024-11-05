@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "Web"
-- "Auto-hébergement"
+- "auto-hébergement"
 - "Indie"
 
-og-tags: "Web, Auto-hébergement, Indie"
+og-tags: "Web, auto-hébergement, Indie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

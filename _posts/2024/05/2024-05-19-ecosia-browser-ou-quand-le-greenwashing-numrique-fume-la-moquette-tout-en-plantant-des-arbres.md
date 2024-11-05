@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Écologie"
 - "Technologie"
 - "Greenwashing"
 
-og-tags: "App, Écologie, Technologie, Greenwashing"
+og-tags: "app, Écologie, Technologie, Greenwashing"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "WhatsApp"
+- "Whatsapp"
 - "Signal"
 - "Entreprise"
 
-og-tags: "WhatsApp, Signal, Entreprise"
+og-tags: "Whatsapp, Signal, Entreprise"
 permalink: /:categories/:year/:month/:day/:title/
 ---

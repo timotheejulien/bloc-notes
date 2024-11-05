@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comment acheter un ticket de métro ou passe Navigo sur son smartphone ? (iPhone et Android)"
+title: "Comment acheter un ticket de métro ou passe Navigo sur son smartphone ? (iPhone et android)"
 link: "https://www.numerama.com/vroom/1746356-comment-mettre-son-passe-navigo-sur-son-iphone.html"
 author:  Nicolas Lellouche & Adam Langumier
 published_date: "21/05/2024"

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Surveillance"
 - "Gouvernement"
 
-og-tags: "App, Surveillance, Gouvernement"
+og-tags: "app, Surveillance, Gouvernement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

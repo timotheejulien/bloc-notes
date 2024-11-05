@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Signal"
 - "Web"
 
-og-tags: "ViePrivée, App, Signal, Web"
+og-tags: "ViePrivée, app, Signal, Web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

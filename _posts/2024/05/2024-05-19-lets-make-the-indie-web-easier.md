@@ -12,9 +12,9 @@ categories:
 tags:
 - "Web"
 - "Technologie"
-- "Auto-hébergement"
+- "auto-hébergement"
 - "Indie"
 
-og-tags: "Web, Technologie, Auto-hébergement, Indie"
+og-tags: "Web, Technologie, auto-hébergement, Indie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

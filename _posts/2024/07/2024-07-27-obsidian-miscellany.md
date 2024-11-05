@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Obsidian"
 
-og-tags: "App, Obsidian"
+og-tags: "app, Obsidian"
 permalink: /:categories/:year/:month/:day/:title/
 ---

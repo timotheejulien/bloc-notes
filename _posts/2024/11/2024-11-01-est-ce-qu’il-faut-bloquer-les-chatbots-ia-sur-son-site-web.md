@@ -8,7 +8,7 @@ description: "Il semble qu'il y ait un débat sur l'opportunité d'empêcher ou 
 Alors que certains soutiennent que le blocage des robots IA pourrait limiter la visibilité et l'engagement des utilisateurs qui s'appuient sur ces outils pour la découverte et l'interaction de contenu, d'autres s'inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l'IA."
 language: fr
 categories: "Liens"
-tags: "IA Blog Google"
-og-tags: "IA Blog Google"
+tags: "IA blog Google"
+og-tags: "IA blog Google"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Surveillance"
 - "Microsoft"
 
-og-tags: "ViePrivée, App, Surveillance, Microsoft"
+og-tags: "ViePrivée, app, Surveillance, Microsoft"
 permalink: /:categories/:year/:month/:day/:title/
 ---

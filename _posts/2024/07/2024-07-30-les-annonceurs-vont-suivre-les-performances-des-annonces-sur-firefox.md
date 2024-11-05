@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Firefox"
 - "Publicité"
 
-og-tags: "App, Firefox, Publicité"
+og-tags: "app, Firefox, Publicité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

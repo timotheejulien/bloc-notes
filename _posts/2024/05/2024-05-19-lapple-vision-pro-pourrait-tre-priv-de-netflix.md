@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "GAFAM"
-- "Apple"
+- "apple"
 - "Netflix"
 
-og-tags: "GAFAM, Apple, Netflix"
+og-tags: "GAFAM, apple, Netflix"
 permalink: /:categories/:year/:month/:day/:title/
 ---

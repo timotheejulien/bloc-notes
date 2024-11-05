@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Signal"
 
-og-tags: "ViePrivée, App, Signal"
+og-tags: "ViePrivée, app, Signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

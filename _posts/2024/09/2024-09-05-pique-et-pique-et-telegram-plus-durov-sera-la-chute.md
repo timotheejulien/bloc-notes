@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Surveillance"
 - "RéseauSocial"
 - "Chiffrement"
@@ -19,6 +19,6 @@ tags:
 - "DonnéesPersonnelles"
 - "Telegram"
 
-og-tags: "App, Surveillance, Réseau social, Chiffrement, Technologie, Gouvernement, Données personnelles, Telegram"
+og-tags: "app, Surveillance, Réseau social, Chiffrement, Technologie, Gouvernement, Données personnelles, Telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---

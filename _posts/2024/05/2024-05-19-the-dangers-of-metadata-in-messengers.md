@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Surveillance"
 
-og-tags: "ViePrivée, App, Surveillance"
+og-tags: "ViePrivée, app, Surveillance"
 permalink: /:categories/:year/:month/:day/:title/
 ---

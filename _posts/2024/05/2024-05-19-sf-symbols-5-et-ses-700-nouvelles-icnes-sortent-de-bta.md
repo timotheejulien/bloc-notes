@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "Apple"
+- "apple"
 - "Design"
 - "DesignSystem"
 - "UI"
 - "Icônes"
 
-og-tags: "Apple, Design, DesignSystem, UI, Icônes, SF Symbols"
+og-tags: "apple, Design, DesignSystem, UI, Icônes, SF Symbols"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -9,8 +9,8 @@ language: en
 categories:
    - Liens
 tags:
-   - App
+   - app
    - Navigateur
-og-tags: "App, Navigateur"
+og-tags: "app, Navigateur"
 permalink: /:categories/:year/:month/:day/:title/
 ---

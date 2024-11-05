@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Surveillance"
 - "Firefox"
 - "Publicité"
 
-og-tags: "ViePrivée, App, Surveillance, Firefox, Publicité"
+og-tags: "ViePrivée, app, Surveillance, Firefox, Publicité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

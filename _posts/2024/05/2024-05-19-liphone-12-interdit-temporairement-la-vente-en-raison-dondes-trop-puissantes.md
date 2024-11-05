@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Apple"
+- "apple"
 - "Santé"
 - "iPhone"
 
-og-tags: "Apple, Santé, iPhone"
+og-tags: "apple, Santé, iPhone"
 permalink: /:categories/:year/:month/:day/:title/
 ---

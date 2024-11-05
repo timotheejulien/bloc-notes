@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Google"
 - "OpenSource"
 
-og-tags: "App, Google, Open source"
+og-tags: "app, Google, Open source"
 permalink: /:categories/:year/:month/:day/:title/
 ---

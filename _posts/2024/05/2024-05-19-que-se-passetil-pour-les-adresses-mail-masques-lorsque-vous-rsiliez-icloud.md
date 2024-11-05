@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Apple"
+- "apple"
 
-og-tags: "Apple"
+og-tags: "apple"
 permalink: /:categories/:year/:month/:day/:title/
 ---

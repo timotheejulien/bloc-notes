@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "RéseauSocial"
 - "Législation"
 - "Russie"
@@ -18,6 +18,6 @@ tags:
 - "Telegram"
 - "Modération"
 
-og-tags: "App, Réseau social, Législation, Russie, Message, Telegram, Modération"
+og-tags: "app, Réseau social, Législation, Russie, Message, Telegram, Modération"
 permalink: /:categories/:year/:month/:day/:title/
 ---

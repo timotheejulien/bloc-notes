@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Musique"
-- "Auto-hébergement"
+- "auto-hébergement"
 
-og-tags: "Musique, Auto-hébergement"
+og-tags: "Musique, auto-hébergement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

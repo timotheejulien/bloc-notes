@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "RéseauSocial"
 - "Design"
 - "Web"
@@ -19,6 +19,6 @@ tags:
 - "Éthique"
 - "LowTech"
 
-og-tags: "App, Réseau social, Design, Web, Éco-conception, Numérique, Éthique, Low-tech"
+og-tags: "app, Réseau social, Design, Web, Éco-conception, Numérique, Éthique, Low-tech"
 permalink: /:categories/:year/:month/:day/:title/
 ---

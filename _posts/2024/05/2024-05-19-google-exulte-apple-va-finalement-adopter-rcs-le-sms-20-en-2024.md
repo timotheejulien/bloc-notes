@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "App"
-- "Android"
+- "app"
+- "android"
 - "iMessage"
 - "Message"
 - "RCS"
 
-og-tags: "App, Android, iMessage, Message, RCS"
+og-tags: "app, android, iMessage, Message, RCS"
 permalink: /:categories/:year/:month/:day/:title/
 ---

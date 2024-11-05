@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "ViePrivée"
-- "Apple"
+- "apple"
 - "Société"
 - "Technologie"
 - "Russie"
 
-og-tags: "ViePrivée, Apple, Société, Technologie, Russie"
+og-tags: "ViePrivée, apple, Société, Technologie, Russie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

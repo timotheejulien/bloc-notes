@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Web"
 - "Technologie"
 
-og-tags: "App, Web, Technologie"
+og-tags: "app, Web, Technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "App"
-- "Apple"
-- "Android"
+- "app"
+- "apple"
+- "android"
 - "Message"
 
-og-tags: "App, Apple, Android, Message"
+og-tags: "app, apple, android, Message"
 permalink: /:categories/:year/:month/:day/:title/
 ---

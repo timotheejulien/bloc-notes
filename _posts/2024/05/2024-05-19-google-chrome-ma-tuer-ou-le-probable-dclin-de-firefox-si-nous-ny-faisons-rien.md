@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Google"
 - "Firefox"
 - "Web"
 
-og-tags: "App, Google, Firefox, Web"
+og-tags: "app, Google, Firefox, Web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

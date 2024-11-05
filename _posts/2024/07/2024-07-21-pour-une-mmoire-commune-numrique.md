@@ -13,9 +13,9 @@ tags:
 - "Web"
 - "Technologie"
 - "Numérique"
-- "Auto-hébergement"
+- "auto-hébergement"
 - "POSSE"
 
-og-tags: "Web, Technologie, Numérique, Auto-hébergement, POSSE"
+og-tags: "Web, Technologie, Numérique, auto-hébergement, POSSE"
 permalink: /:categories/:year/:month/:day/:title/
 ---

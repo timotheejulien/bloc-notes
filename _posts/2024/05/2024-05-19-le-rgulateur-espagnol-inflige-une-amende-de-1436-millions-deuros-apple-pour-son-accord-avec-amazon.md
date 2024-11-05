@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "GAFAM"
-- "Apple"
+- "apple"
 - "amazon"
 
-og-tags: "GAFAM, Apple, amazon"
+og-tags: "GAFAM, apple, amazon"
 permalink: /:categories/:year/:month/:day/:title/
 ---

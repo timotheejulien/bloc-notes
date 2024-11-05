@@ -9,10 +9,10 @@ language: fr
 categories:
    - Liens
 tags:
-   - "App"
+   - "app"
    - "Web"
    - "Navigateur"
 
-og-tags: "App, Web, Navigateur"
+og-tags: "app, Web, Navigateur"
 permalink: /:categories/:year/:month/:day/:title/
 ---

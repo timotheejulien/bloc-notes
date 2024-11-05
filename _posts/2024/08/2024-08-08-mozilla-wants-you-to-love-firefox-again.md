@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Mozilla"
 - "Firefox"
 - "Web"
 - "Navigateur"
 
-og-tags: "App, Mozilla, Firefox, Web, Navigateur"
+og-tags: "app, Mozilla, Firefox, Web, Navigateur"
 permalink: /:categories/:year/:month/:day/:title/
 ---

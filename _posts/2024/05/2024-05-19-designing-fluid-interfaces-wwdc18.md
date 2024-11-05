@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "Apple"
+- "apple"
 - "Design"
 - "UI"
 - "UX"
 - "Vidéos"
 
-og-tags: "Apple, Design, UI, UX, Vidéos"
+og-tags: "apple, Design, UI, UX, Vidéos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

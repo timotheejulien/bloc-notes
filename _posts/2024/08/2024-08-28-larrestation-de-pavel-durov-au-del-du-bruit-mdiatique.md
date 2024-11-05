@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "RéseauSocial"
 - "Chiffrement"
 - "Numérique"
@@ -18,6 +18,6 @@ tags:
 - "Gouvernement"
 - "Telegram"
 
-og-tags: "App, Réseau social, Chiffrement, Numérique, Législation, Gouvernement, Telegram"
+og-tags: "app, Réseau social, Chiffrement, Numérique, Législation, Gouvernement, Telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---

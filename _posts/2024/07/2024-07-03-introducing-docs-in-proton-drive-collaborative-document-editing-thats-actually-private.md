@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Proton"
 
-og-tags: "App, Proton"
+og-tags: "app, Proton"
 permalink: /:categories/:year/:month/:day/:title/
 ---

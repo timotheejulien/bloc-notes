@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Zoom"
 - "IA"
 
-og-tags: "ViePrivée, App, Zoom, IA"
+og-tags: "ViePrivée, app, Zoom, IA"
 permalink: /:categories/:year/:month/:day/:title/
 ---

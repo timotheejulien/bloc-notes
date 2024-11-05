@@ -38,7 +38,7 @@ jekyll build
 ## Ressources
 
 ### iOS Shortcut
-I created an iOS Shortcut to publish a new note from your Apple devices. You can download it [here](https://www.icloud.com/shortcuts/387f25b03ab54c3b863a35dc2894e0f3)
+I created an iOS Shortcut to publish a new note from your apple devices. You can download it [here](https://www.icloud.com/shortcuts/387f25b03ab54c3b863a35dc2894e0f3)
 
 Open the shortcut and replace some variables inside it:
 * The GitHub API URL: https://api.github.com/repos/YOUR-GITHUB-USERNAME/YOUR-REPO/contents/_posts/fileName.md

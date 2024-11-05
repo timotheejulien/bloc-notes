@@ -8,6 +8,6 @@ description: Partagez des fichiers avec vos appareils à proximité. Gratuit, op
 language: fr
 categories: "Liens"
 tags: 
-   App Utilitaires OpenSource
+   app Utilitaires OpenSource
 permalink: /:categories/:year/:month/:day/:title/
 ---

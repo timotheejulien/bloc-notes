@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Web"
 - "Peertube"
 - "Fediverse"
 
-og-tags: "App, Web, Peertube, Fediverse"
+og-tags: "app, Web, Peertube, Fediverse"
 permalink: /:categories/:year/:month/:day/:title/
 ---

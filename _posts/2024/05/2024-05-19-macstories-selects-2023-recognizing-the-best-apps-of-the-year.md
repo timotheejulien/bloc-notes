@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "App"
-- "Apple"
+- "app"
+- "apple"
 - "iOS"
 - "macOS"
 - "watchOS"
 
-og-tags: "App, Apple, iOS, macOS, watchOS"
+og-tags: "app, apple, iOS, macOS, watchOS"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
+- "app"
 - "Pixelfed"
 
-og-tags: "ViePrivée, App, Pixelfed"
+og-tags: "ViePrivée, app, Pixelfed"
 permalink: /:categories/:year/:month/:day/:title/
 ---

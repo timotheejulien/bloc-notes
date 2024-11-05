@@ -12,8 +12,8 @@ categories:
 tags:
 - "ViePrivée"
 - "GAFAM"
-- "Apple"
+- "apple"
 
-og-tags: "ViePrivée, GAFAM, Apple"
+og-tags: "ViePrivée, GAFAM, apple"
 permalink: /:categories/:year/:month/:day/:title/
 ---

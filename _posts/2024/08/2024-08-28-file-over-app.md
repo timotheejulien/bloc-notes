@@ -10,13 +10,13 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Technologie"
-- "Auto-hébergement"
+- "auto-hébergement"
 - "Gouvernement"
 - "DonnéesPersonnelles"
 - "Obsidian"
 
-og-tags: "App, Technologie, Auto-hébergement, Gouvernement, Données personnelles, Obsidian"
+og-tags: "app, Technologie, auto-hébergement, Gouvernement, Données personnelles, Obsidian"
 permalink: /:categories/:year/:month/:day/:title/
 ---

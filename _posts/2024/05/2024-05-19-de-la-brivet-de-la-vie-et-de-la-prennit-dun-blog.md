@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Auto-hébergement"
-- "Blog"
+- "auto-hébergement"
+- "blog"
 
-og-tags: "Auto-hébergement, Blog"
+og-tags: "auto-hébergement, blog"
 permalink: /:categories/:year/:month/:day/:title/
 ---

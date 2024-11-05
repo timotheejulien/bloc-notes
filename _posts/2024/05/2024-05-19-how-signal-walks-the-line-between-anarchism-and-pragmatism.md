@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "ViePrivée"
-- "App"
-- "Apple"
+- "app"
+- "apple"
 - "RéseauSocial"
 - "Signal"
 
-og-tags: "ViePrivée, App, Apple, Réseau social, Signal"
+og-tags: "ViePrivée, app, apple, Réseau social, Signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

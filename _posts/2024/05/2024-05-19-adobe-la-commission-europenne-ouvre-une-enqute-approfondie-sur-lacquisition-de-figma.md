@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Design"
 - "adobe"
 - "Figma"
 
-og-tags: "App, Design, adobe, Figma"
+og-tags: "app, Design, adobe, Figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

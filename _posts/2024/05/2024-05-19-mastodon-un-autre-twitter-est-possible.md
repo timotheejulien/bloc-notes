@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "App"
+- "app"
 - "Mastodon"
 
-og-tags: "App, Mastodon"
+og-tags: "app, Mastodon"
 permalink: /:categories/:year/:month/:day/:title/
 ---

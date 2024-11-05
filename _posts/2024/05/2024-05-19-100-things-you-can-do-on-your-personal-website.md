@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Indie"
-- "Blog"
+- "blog"
 
-og-tags: "Indie, Blog"
+og-tags: "Indie, blog"
 permalink: /:categories/:year/:month/:day/:title/
 ---

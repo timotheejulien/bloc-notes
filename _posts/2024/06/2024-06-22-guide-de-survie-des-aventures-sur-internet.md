@@ -10,8 +10,8 @@ categories:
 - Liens
 tags:
    - ViePrivée
-   - App
+   - app
    - Ressources
-og-tags: "ViePrivée, App, Ressources"
+og-tags: "ViePrivée, app, Ressources"
 permalink: /:categories/:year/:month/:day/:title/
 ---

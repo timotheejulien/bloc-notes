@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "ViePrivée"
-- "WhatsApp"
-- "App"
+- "Whatsapp"
+- "app"
 - "Surveillance"
 - "Signal"
 
-og-tags: "ViePrivée, WhatsApp, App, Surveillance, Signal"
+og-tags: "ViePrivée, Whatsapp, app, Surveillance, Signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "WhatsApp"
+- "Whatsapp"
 - "Chiffrement"
 - "Meta"
 - "Signal"
 
-og-tags: "WhatsApp, Chiffrement, Meta, Signal"
+og-tags: "Whatsapp, Chiffrement, Meta, Signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---
