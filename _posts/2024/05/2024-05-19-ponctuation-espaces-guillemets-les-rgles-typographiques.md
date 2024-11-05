@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Typographie"
 
-og-tags: "Design, Typographie"
+og-tags: "design, Typographie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

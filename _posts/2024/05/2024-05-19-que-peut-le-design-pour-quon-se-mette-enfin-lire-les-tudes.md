@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "OpenSource"
 
-og-tags: "Design, Open source"
+og-tags: "design, Open source"
 permalink: /:categories/:year/:month/:day/:title/
 ---

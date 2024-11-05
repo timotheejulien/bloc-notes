@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design is compromise"
+title: "design is compromise"
 link: "https://stephanango.com/design-is-compromise"
 author: N/A
 published_date: "19/05/2024"
@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "StratégieBusiness"
 
-og-tags: "Design, Stratégie business"
+og-tags: "design, Stratégie business"
 permalink: /:categories/:year/:month/:day/:title/
 ---

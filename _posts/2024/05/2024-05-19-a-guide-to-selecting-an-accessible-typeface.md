@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Font"
 - "accessibilité"
 
-og-tags: "Design, Font, accessibilité"
+og-tags: "design, Font, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

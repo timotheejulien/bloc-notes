@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design systems: simplifying documentation writing"
+title: "design systems: simplifying documentation writing"
 link: "https://uxdesign.cc/design-systems-simplifying-documentation-writing-5ec240c484fe"
 author: Dean Harrison
 published_date: "14/10/2024"
@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "Méthodologie"
 
-og-tags: "Design, DesignSystem, Méthodologie"
+og-tags: "design, design-system, Méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "X"
 - "branding"
 
-og-tags: "Design, X, branding"
+og-tags: "design, X, branding"
 permalink: /:categories/:year/:month/:day/:title/
 ---

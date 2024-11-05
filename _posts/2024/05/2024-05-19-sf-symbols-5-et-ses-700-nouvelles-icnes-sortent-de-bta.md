@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "apple"
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "UI"
 - "Icônes"
 
-og-tags: "apple, Design, DesignSystem, UI, Icônes, SF Symbols"
+og-tags: "apple, design, design-system, UI, Icônes, SF Symbols"
 permalink: /:categories/:year/:month/:day/:title/
 ---

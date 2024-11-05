@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "IA"
-- "Design"
+- "design"
 - "Figma"
 
-og-tags: "IA, Design, Figma"
+og-tags: "IA, design, Figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

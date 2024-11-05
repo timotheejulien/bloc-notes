@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Figma"
 
-og-tags: "Design, Figma"
+og-tags: "design, Figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

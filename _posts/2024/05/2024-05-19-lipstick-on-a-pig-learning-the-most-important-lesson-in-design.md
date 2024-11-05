@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 
-og-tags: "Design"
+og-tags: "design"
 permalink: /:categories/:year/:month/:day/:title/
 ---

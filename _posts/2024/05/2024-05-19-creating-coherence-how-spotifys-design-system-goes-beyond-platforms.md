@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 
-og-tags: "Design, DesignSystem"
+og-tags: "design, design-system"
 permalink: /:categories/:year/:month/:day/:title/
 ---

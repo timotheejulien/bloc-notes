@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Web"
 - "conférence"
 
-og-tags: "Design, Web, conférence"
+og-tags: "design, Web, conférence"
 permalink: /:categories/:year/:month/:day/:title/
 ---

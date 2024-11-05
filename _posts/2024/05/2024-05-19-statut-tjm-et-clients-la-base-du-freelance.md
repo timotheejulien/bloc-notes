@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Entreprise"
 - "conférence"
 - "Freelance"
 
-og-tags: "Design, Entreprise, conférence, Freelance"
+og-tags: "design, Entreprise, conférence, Freelance"
 permalink: /:categories/:year/:month/:day/:title/
 ---

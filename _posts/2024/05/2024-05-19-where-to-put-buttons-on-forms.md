@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "UI"
 - "UX"
 
-og-tags: "Design, DesignSystem, UI, UX"
+og-tags: "design, design-system, UI, UX"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Écologie"
 - "Web"
 - "Éco-conception"
 - "Développement"
 
-og-tags: "Design, Écologie, Web, Éco-conception, Développement"
+og-tags: "design, Écologie, Web, Éco-conception, Développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

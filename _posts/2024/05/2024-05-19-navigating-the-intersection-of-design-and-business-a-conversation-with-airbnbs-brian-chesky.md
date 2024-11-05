@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "airbnb"
 - "StratégieBusiness"
 
-og-tags: "Design, airbnb, Stratégie business"
+og-tags: "design, airbnb, Stratégie business"
 permalink: /:categories/:year/:month/:day/:title/
 ---

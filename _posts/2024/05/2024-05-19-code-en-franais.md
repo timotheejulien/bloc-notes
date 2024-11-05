@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Développement"
 - "Méthodologie"
 
-og-tags: "Design, Développement, Méthodologie"
+og-tags: "design, Développement, Méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

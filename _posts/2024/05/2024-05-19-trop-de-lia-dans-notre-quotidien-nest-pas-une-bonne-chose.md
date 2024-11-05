@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "IA"
-- "Design"
+- "design"
 - "algorithme"
 
-og-tags: "IA, Design, algorithme"
+og-tags: "IA, design, algorithme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

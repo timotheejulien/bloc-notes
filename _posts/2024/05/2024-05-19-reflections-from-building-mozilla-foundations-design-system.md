@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "Mozilla"
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 
-og-tags: "Mozilla, Design, DesignSystem"
+og-tags: "Mozilla, design, design-system"
 permalink: /:categories/:year/:month/:day/:title/
 ---

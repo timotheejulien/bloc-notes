@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "IA"
-- "Design"
+- "design"
 - "UX"
 - "Figma"
 
-og-tags: "IA, Design, UX, Figma"
+og-tags: "IA, design, UX, Figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

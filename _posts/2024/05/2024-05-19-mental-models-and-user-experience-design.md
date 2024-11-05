@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UX"
 
-og-tags: "Design, UX"
+og-tags: "design, UX"
 permalink: /:categories/:year/:month/:day/:title/
 ---

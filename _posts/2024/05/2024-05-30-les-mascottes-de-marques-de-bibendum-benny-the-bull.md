@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Graphisme"
 
-og-tags: "Design, Graphisme"
+og-tags: "design, Graphisme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

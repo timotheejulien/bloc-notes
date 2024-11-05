@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Législation"
 
-og-tags: "Design, Législation"
+og-tags: "design, Législation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -12,9 +12,9 @@ categories:
 tags:
 - "app"
 - "IA"
-- "Design"
+- "design"
 - "Figma"
 
-og-tags: "app, IA, Design, Figma"
+og-tags: "app, IA, design, Figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

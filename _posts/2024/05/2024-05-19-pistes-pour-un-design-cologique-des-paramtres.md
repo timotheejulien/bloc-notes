@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Éco-conception"
 
-og-tags: "Design, Éco-conception"
+og-tags: "design, Éco-conception"
 permalink: /:categories/:year/:month/:day/:title/
 ---

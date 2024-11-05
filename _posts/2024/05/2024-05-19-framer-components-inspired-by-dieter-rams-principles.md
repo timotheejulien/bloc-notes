@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UI"
 - "Ressources"
 
-og-tags: "Design, UI, Ressources"
+og-tags: "design, UI, Ressources"
 permalink: /:categories/:year/:month/:day/:title/
 ---

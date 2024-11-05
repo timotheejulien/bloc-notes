@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - "IA"
-   - "Design"
-og-tags: "IA, Design"
+   - "design"
+og-tags: "IA, design"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -9,8 +9,8 @@ language: en
 categories:
    - Liens
 tags:
-   - "Design"
+   - "design"
    - "Font"
-og-tags: "Design, Font"
+og-tags: "design, Font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

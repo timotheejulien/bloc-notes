@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "accessibilité"
 - "Ressources"
 
-og-tags: "Design, accessibilité, Ressources"
+og-tags: "design, accessibilité, Ressources"
 permalink: /:categories/:year/:month/:day/:title/
 ---

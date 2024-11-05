@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "Figma"
 
-og-tags: "Design, DesignSystem, Figma"
+og-tags: "design, design-system, Figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

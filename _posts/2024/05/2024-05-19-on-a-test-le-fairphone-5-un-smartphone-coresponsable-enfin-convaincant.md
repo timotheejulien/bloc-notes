@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Écologie"
-- "Device"
+- "device"
 
-og-tags: "Écologie, Device"
+og-tags: "Écologie, device"
 permalink: /:categories/:year/:month/:day/:title/
 ---

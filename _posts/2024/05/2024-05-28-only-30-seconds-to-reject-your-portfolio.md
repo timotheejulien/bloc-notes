@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UX"
 - "Portfolio"
 
-og-tags: "Design, UX, Portfolio"
+og-tags: "design, UX, Portfolio"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "Font"
 
-og-tags: "Design, DesignSystem, Font"
+og-tags: "design, design-system, Font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

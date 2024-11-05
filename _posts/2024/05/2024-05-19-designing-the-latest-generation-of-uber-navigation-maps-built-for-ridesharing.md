@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing the latest generation of uber navigation: maps built for ridesharing"
+title: "designing the latest generation of uber navigation: maps built for ridesharing"
 link: "https://medium.com/uber-design/designing-the-latest-generation-of-uber-navigation-maps-built-for-ridesharing-de3ede031ce1"
 author: N/A
 published_date: "19/05/2024"
@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UI"
 - "UX"
 
-og-tags: "Design, UI, UX"
+og-tags: "design, UI, UX"
 permalink: /:categories/:year/:month/:day/:title/
 ---

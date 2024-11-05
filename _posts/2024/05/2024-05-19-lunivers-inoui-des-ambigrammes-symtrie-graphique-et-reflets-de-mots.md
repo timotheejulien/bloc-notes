@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Font"
 - "Graphisme"
 
-og-tags: "Design, Font, Graphisme"
+og-tags: "design, Font, Graphisme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

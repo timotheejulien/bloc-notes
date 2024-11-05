@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Font"
 - "Microsoft"
 - "Github"
 
-og-tags: "Design, Font, Microsoft, Github"
+og-tags: "design, Font, Microsoft, Github"
 permalink: /:categories/:year/:month/:day/:title/
 ---

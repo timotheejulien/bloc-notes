@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Graphisme"
 - "Illustration"
 - "Marketing"
 
-og-tags: "Design, Graphisme, Illustration, Marketing"
+og-tags: "design, Graphisme, Illustration, Marketing"
 permalink: /:categories/:year/:month/:day/:title/
 ---

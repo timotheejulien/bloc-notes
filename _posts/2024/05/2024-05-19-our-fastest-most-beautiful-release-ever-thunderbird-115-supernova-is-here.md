@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "app"
-- "Design"
+- "design"
 
-og-tags: "app, Design"
+og-tags: "app, design"
 permalink: /:categories/:year/:month/:day/:title/
 ---

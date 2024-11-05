@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "Icônes"
 
-og-tags: "Design, DesignSystem, Icônes"
+og-tags: "design, design-system, Icônes"
 permalink: /:categories/:year/:month/:day/:title/
 ---

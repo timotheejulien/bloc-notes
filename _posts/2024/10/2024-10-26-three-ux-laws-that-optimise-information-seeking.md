@@ -9,7 +9,7 @@ language: en
 categories: 
    - Liens
 tags: 
-   - Design
+   - design
    - UX
    - UI
 permalink: /:categories/:year/:month/:day/:title/

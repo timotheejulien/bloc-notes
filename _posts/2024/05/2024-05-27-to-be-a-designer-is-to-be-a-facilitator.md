@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Méthodologie"
 
-og-tags: "Design, Méthodologie"
+og-tags: "design, Méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

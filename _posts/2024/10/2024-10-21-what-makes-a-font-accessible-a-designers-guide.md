@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UI"
 - "UX"
 - "Font"
 - "Typographie"
 
-og-tags: "Design, UI, UX, Font, Typographie"
+og-tags: "design, UI, UX, Font, Typographie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

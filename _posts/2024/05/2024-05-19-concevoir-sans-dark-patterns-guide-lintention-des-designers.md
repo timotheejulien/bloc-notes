@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UI"
 - "UX"
-- "DarkPattern"
+- "dark-pattern"
 
-og-tags: "Design, UI, UX, Dark Pattern"
+og-tags: "design, UI, UX, Dark Pattern"
 permalink: /:categories/:year/:month/:day/:title/
 ---

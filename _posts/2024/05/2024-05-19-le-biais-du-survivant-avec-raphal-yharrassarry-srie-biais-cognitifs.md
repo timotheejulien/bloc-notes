@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UX"
 - "Podcast"
 
-og-tags: "Design, UX, Podcast"
+og-tags: "design, UX, Podcast"
 permalink: /:categories/:year/:month/:day/:title/
 ---

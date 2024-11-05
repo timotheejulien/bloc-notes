@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Graphisme"
 - "JO"
 
-og-tags: "Design, Graphisme, JO"
+og-tags: "design, Graphisme, JO"
 permalink: /:categories/:year/:month/:day/:title/
 ---

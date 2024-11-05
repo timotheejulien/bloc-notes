@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "UI"
 - "UX"
 - "adobe"
 
-og-tags: "Design, DesignSystem, UI, UX, adobe"
+og-tags: "design, design-system, UI, UX, adobe"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "Emoji"
 
-og-tags: "Design, Emoji"
+og-tags: "design, Emoji"
 permalink: /:categories/:year/:month/:day/:title/
 ---

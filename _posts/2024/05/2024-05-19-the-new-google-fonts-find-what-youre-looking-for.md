@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "Google"
-- "Design"
+- "design"
 - "Font"
 
-og-tags: "Google, Design, Font"
+og-tags: "Google, design, Font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

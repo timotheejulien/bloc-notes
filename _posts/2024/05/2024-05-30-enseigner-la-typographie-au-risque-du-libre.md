@@ -9,9 +9,9 @@ language: fr
 categories:
    - Liens
 tags:
-   - "Design"
+   - "design"
    - "OpenSource"
    - "Font"
-og-tags: "Design, Open source, Font"
+og-tags: "design, Open source, Font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

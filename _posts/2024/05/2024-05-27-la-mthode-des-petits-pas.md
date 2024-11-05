@@ -12,10 +12,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UX"
 - "Méthodologie"
 
-og-tags: "Design, UX, Méthodologie"
+og-tags: "design, UX, Méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

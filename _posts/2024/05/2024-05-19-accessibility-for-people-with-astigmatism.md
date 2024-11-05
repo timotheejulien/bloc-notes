@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "accessibilité"
 
-og-tags: "Design, accessibilité"
+og-tags: "design, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

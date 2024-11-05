@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "app"
-- "Design"
-- "DesignSystem"
+- "design"
+- "design-system"
 - "accessibilité"
 
-og-tags: "app, Design, DesignSystem, accessibilité"
+og-tags: "app, design, design-system, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

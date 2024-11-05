@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing design systems: constructing an icon system"
+title: "designing design systems: constructing an icon system"
 link: "https://medium.com/thinking-design/designing-design-systems-constructing-an-icon-system-85bebc938f6b"
 author: Isabelle Hamlin
 published_date: "25/07/2024"
@@ -9,8 +9,8 @@ language: en
 categories:
 - Liens
 
-tags: "Design DesignSystem Icônes"
+tags: "design design-system Icônes"
 
-og-tags: "Design DesignSystem Icônes"
+og-tags: "design design-system Icônes"
 permalink: /:categories/:year/:month/:day/:title/
 ---

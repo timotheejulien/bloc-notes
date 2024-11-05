@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing for forgiveness: how to create error-tolerant interfaces"
+title: "designing for forgiveness: how to create error-tolerant interfaces"
 link: "https://uxdesign.cc/designing-for-forgiveness-how-to-create-error-tolerant-interfaces-af9146c8072b"
 author: Tetiana Sydorenko
 published_date: "28/07/2024"
@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Design"
+- "design"
 - "UI"
 - "UX"
 
-og-tags: "Design, UI, UX"
+og-tags: "design, UI, UX"
 permalink: /:categories/:year/:month/:day/:title/
 ---
