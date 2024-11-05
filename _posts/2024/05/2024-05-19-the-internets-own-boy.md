@@ -12,9 +12,9 @@ categories:
 tags:
 - "Vidéos"
 - "Web"
-- "Documentaire"
+- "documentaire"
 - "RSS"
 
-og-tags: "Vidéos, Web, Documentaire, RSS"
+og-tags: "Vidéos, Web, documentaire, RSS"
 permalink: /:categories/:year/:month/:day/:title/
 ---

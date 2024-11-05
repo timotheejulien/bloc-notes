@@ -12,8 +12,8 @@ categories:
 tags:
 - "Vidéos"
 - "Fromage"
-- "Documentaire"
+- "documentaire"
 
-og-tags: "Vidéos, Fromage, Documentaire"
+og-tags: "Vidéos, Fromage, documentaire"
 permalink: /:categories/:year/:month/:day/:title/
 ---

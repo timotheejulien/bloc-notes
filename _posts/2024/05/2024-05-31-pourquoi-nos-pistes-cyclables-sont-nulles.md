@@ -15,9 +15,9 @@ categories:
 
 tags:
 - "Vidéos"
-- "Documentaire"
+- "documentaire"
 - "Vélo"
 
-og-tags: "Vidéos, Documentaire, Vélo"
+og-tags: "Vidéos, documentaire, Vélo"
 permalink: /:categories/:year/:month/:day/:title/
 ---

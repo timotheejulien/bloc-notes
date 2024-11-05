@@ -12,9 +12,9 @@ categories:
 tags:
 - "ViePrivée"
 - "Meta"
-- "Documentaire"
+- "documentaire"
 - "Facebook"
 
-og-tags: "ViePrivée, Meta, Documentaire, Facebook"
+og-tags: "ViePrivée, Meta, documentaire, Facebook"
 permalink: /:categories/:year/:month/:day/:title/
 ---
