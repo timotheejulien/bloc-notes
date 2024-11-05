@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Crypto"
+- "crypto"
 - "PayPal"
 
-og-tags: "Crypto, PayPal"
+og-tags: "crypto, PayPal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

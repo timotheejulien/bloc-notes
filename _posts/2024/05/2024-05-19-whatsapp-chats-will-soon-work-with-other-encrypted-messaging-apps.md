@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "Whatsapp"
-- "Chiffrement"
+- "chiffrement"
 - "Meta"
 - "Signal"
 
-og-tags: "Whatsapp, Chiffrement, Meta, Signal"
+og-tags: "Whatsapp, chiffrement, Meta, Signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Presse"
-- "Culture"
+- "culture"
 
-og-tags: "Presse, Culture"
+og-tags: "Presse, culture"
 permalink: /:categories/:year/:month/:day/:title/
 ---

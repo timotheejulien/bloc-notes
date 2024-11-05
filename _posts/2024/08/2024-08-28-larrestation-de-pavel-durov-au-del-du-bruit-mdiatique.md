@@ -12,12 +12,12 @@ categories:
 tags:
 - "app"
 - "RéseauSocial"
-- "Chiffrement"
+- "chiffrement"
 - "Numérique"
 - "Législation"
 - "Gouvernement"
 - "Telegram"
 
-og-tags: "app, Réseau social, Chiffrement, Numérique, Législation, Gouvernement, Telegram"
+og-tags: "app, Réseau social, chiffrement, Numérique, Législation, Gouvernement, Telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---

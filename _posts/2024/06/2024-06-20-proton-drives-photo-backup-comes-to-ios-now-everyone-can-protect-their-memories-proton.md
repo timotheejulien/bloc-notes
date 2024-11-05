@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "app"
-- "Chiffrement"
+- "chiffrement"
 - "Proton"
 - "Photos"
 
-og-tags: "app, Chiffrement, Proton, Photos"
+og-tags: "app, chiffrement, Proton, Photos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

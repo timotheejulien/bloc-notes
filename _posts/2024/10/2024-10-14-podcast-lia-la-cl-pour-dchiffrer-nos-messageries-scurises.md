@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - IA
-   - Chiffrement
-og-tags: "IA, Chiffrement"
+   - chiffrement
+og-tags: "IA, chiffrement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

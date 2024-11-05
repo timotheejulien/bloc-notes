@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "« je n’ai rien fait d’illégal » : une première bd dessinée entièrement par intelligence artificielle autoéditée"
+title: "« Je n’ai rien fait d’illégal » : une première BD dessinée entièrement par intelligence artificielle autoéditée"
 link: "https://www.leparisien.fr/culture-loisirs/livres/je-nai-rien-fait-dillegal-une-premiere-bd-dessinee-entierement-par-intelligence-artificielle-autoeditee-03-10-2023-EJR7YQTAXNCKXPVDFQBVJJHVLE.php"
 author: N/A
 published_date: "19/05/2024"
-description: ""
+description: "Thierry Murat, 55 ans, a fait le choix de se tourner vers un logiciel capable de générer des illustrations sur commande afin d’illustrer son dernier titre. Il l’a autoédité via une campagne de levée de fonds, après le refus de publication de son éditeur."
 language: fr
 categories:
 - Liens
 
 tags:
 - "IA"
-- "Art"
+- "art"
 
-og-tags: "IA, Art"
+og-tags: "IA, art"
 permalink: /:categories/:year/:month/:day/:title/
 ---

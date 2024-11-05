@@ -12,8 +12,8 @@ categories:
 tags:
 - "ViePrivée"
 - "Surveillance"
-- "Chiffrement"
+- "chiffrement"
 
-og-tags: "ViePrivée, Surveillance, Chiffrement"
+og-tags: "ViePrivée, Surveillance, chiffrement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

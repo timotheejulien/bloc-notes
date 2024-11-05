@@ -13,12 +13,12 @@ tags:
 - "app"
 - "Surveillance"
 - "RéseauSocial"
-- "Chiffrement"
+- "chiffrement"
 - "Technologie"
 - "Gouvernement"
 - "DonnéesPersonnelles"
 - "Telegram"
 
-og-tags: "app, Surveillance, Réseau social, Chiffrement, Technologie, Gouvernement, Données personnelles, Telegram"
+og-tags: "app, Surveillance, Réseau social, chiffrement, Technologie, Gouvernement, Données personnelles, Telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---

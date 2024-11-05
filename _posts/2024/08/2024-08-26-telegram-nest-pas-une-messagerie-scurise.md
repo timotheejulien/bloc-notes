@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "app"
-- "Chiffrement"
+- "chiffrement"
 - "Signal"
 - "Telegram"
 
-og-tags: "app, Chiffrement, Signal, Telegram"
+og-tags: "app, chiffrement, Signal, Telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---
