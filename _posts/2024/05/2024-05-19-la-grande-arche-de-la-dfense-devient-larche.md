@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Design"
-- "Branding"
+- "branding"
 
-og-tags: "Design, Branding"
+og-tags: "Design, branding"
 permalink: /:categories/:year/:month/:day/:title/
 ---

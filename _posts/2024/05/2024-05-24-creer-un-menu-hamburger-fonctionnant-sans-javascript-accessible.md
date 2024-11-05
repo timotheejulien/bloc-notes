@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - "Développement"
-   - "CSS"
-og-tags: "Développement, CSS"
+   - "css"
+og-tags: "Développement, css"
 permalink: /:categories/:year/:month/:day/:title/
 ---

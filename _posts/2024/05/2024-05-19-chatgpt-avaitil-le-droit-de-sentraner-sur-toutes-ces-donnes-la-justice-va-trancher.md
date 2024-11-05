@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Chatgpt avait-il le droit de s'entraîner sur toutes ces données ? la justice va trancher"
-link: "https://www.numerama.com/tech/1433758-chatgpt-avait-il-le-droit-de-sentrainer-sur-toutes-ces-donnees-la-justice-va-trancher.html"
+title: "chat-gpt avait-il le droit de s'entraîner sur toutes ces données ? la justice va trancher"
+link: "https://www.numerama.com/tech/1433758-chat-gpt-avait-il-le-droit-de-sentrainer-sur-toutes-ces-donnees-la-justice-va-trancher.html"
 author: N/A
 published_date: "19/05/2024"
 description: ""

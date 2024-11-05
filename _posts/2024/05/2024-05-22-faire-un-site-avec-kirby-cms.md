@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Faire un site avec Kirby CMS"
+title: "Faire un site avec Kirby cms"
 link: "https://blog.hello-bokeh.fr/2021/06/22/faire-un-site-avec-kirby-cms/"
 author: N/A
 published_date: "22/06/2021"
-description: "Faire un site avec Kirby CMS &#8211; Notes"
+description: "Faire un site avec Kirby cms &#8211; Notes"
 language: fr
 categories:
 - Liens
@@ -12,8 +12,8 @@ categories:
 tags:
 - "Développement"
 - "Kirby"
-- "CMS"
+- "cms"
 
-og-tags: "Développement, Kirby, CMS"
+og-tags: "Développement, Kirby, cms"
 permalink: /:categories/:year/:month/:day/:title/
 ---

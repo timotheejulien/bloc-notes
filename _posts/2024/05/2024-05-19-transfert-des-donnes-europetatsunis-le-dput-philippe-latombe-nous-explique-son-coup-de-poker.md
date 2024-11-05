@@ -12,8 +12,8 @@ categories:
 tags:
 - "ViePrivée"
 - "GAFAM"
-- "CNIL"
+- "cnil"
 
-og-tags: "ViePrivée, GAFAM, CNIL"
+og-tags: "ViePrivée, GAFAM, cnil"
 permalink: /:categories/:year/:month/:day/:title/
 ---

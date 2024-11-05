@@ -12,9 +12,9 @@ categories:
 tags:
 - "Design"
 - "Entreprise"
-- "Conférence"
+- "conférence"
 - "Freelance"
 
-og-tags: "Design, Entreprise, Conférence, Freelance"
+og-tags: "Design, Entreprise, conférence, Freelance"
 permalink: /:categories/:year/:month/:day/:title/
 ---

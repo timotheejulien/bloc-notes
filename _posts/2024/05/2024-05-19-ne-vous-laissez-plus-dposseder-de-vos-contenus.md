@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "RéseauSocial"
-- "Conférence"
+- "conférence"
 - "auto-hébergement"
 - "POSSE"
 
-og-tags: "Réseau social, Conférence, auto-hébergement, POSSE"
+og-tags: "Réseau social, conférence, auto-hébergement, POSSE"
 permalink: /:categories/:year/:month/:day/:title/
 ---

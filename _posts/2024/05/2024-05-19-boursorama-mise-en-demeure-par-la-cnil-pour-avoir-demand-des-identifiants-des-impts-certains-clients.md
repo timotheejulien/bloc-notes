@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "ViePrivée"
-- "CNIL"
+- "cnil"
 
-og-tags: "ViePrivée, CNIL"
+og-tags: "ViePrivée, cnil"
 permalink: /:categories/:year/:month/:day/:title/
 ---

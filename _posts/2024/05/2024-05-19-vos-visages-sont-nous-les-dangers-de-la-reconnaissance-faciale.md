@@ -12,9 +12,9 @@ categories:
 tags:
 - "ViePrivée"
 - "Surveillance"
-- "Clearview"
+- "clearview"
 - "Vidéos"
 
-og-tags: "ViePrivée, Surveillance, Clearview, Vidéos"
+og-tags: "ViePrivée, Surveillance, clearview, Vidéos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

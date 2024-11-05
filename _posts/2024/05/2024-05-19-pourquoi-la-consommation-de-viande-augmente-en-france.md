@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Société"
-- "Consommation"
+- "consommation"
 
-og-tags: "Société, Consommation"
+og-tags: "Société, consommation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

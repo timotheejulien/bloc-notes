@@ -13,9 +13,9 @@ tags:
 - "Design"
 - "UI"
 - "Web"
-- "CSS"
+- "css"
 - "HTML"
 
-og-tags: "Design, UI, Web, CSS, HTML"
+og-tags: "Design, UI, Web, css, HTML"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "ViePrivée"
-- "CNIL"
+- "cnil"
 - "Législation"
 - "DonnéesPersonnelles"
 
-og-tags: "ViePrivée, CNIL, Législation, Données personnelles"
+og-tags: "ViePrivée, cnil, Législation, Données personnelles"
 permalink: /:categories/:year/:month/:day/:title/
 ---

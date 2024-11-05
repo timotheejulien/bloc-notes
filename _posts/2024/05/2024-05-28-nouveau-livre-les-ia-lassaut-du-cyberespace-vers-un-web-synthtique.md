@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "IA"
-- "ChatGPT"
+- "chat-gpt"
 - "Livre"
 
-og-tags: "IA, ChatGPT, Livre"
+og-tags: "IA, chat-gpt, Livre"
 permalink: /:categories/:year/:month/:day/:title/
 ---

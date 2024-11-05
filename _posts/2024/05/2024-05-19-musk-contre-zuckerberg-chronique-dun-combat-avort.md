@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Web"
-- "Connerie"
+- "connerie"
 
-og-tags: "Web, Connerie"
+og-tags: "Web, connerie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

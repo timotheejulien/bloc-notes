@@ -12,9 +12,9 @@ categories:
 tags:
 - "ViePrivée"
 - "IA"
-- "CNIL"
+- "cnil"
 - "RGPD"
 
-og-tags: "ViePrivée, IA, CNIL, RGPD"
+og-tags: "ViePrivée, IA, cnil, RGPD"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "IA"
-- "ChatGPT"
+- "chat-gpt"
 
-og-tags: "IA, ChatGPT"
+og-tags: "IA, chat-gpt"
 permalink: /:categories/:year/:month/:day/:title/
 ---
