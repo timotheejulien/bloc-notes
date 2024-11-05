@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "RéseauSocial"
-- "Algorithme"
+- "algorithme"
 
-og-tags: "Réseau social, Algorithme"
+og-tags: "Réseau social, algorithme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

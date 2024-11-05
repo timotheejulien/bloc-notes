@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "Design"
-- "Accessibilité"
+- "accessibilité"
 - "Ressources"
 
-og-tags: "Design, Accessibilité, Ressources"
+og-tags: "Design, accessibilité, Ressources"
 permalink: /:categories/:year/:month/:day/:title/
 ---

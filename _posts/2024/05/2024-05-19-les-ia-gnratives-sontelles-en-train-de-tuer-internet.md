@@ -13,9 +13,9 @@ tags:
 - "IA"
 - "Google"
 - "Web"
-- "Algorithme"
+- "algorithme"
 - "Internet"
 
-og-tags: "IA, Google, Web, Algorithme, Internet"
+og-tags: "IA, Google, Web, algorithme, Internet"
 permalink: /:categories/:year/:month/:day/:title/
 ---

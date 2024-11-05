@@ -12,8 +12,8 @@ categories:
 tags:
 - "IA"
 - "Web"
-- "Algorithme"
+- "algorithme"
 
-og-tags: "IA, Web, Algorithme"
+og-tags: "IA, Web, algorithme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

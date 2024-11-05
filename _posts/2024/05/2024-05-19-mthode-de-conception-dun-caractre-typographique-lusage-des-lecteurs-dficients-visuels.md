@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Font"
-- "Accessibilité"
+- "accessibilité"
 
-og-tags: "Font, Accessibilité"
+og-tags: "Font, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

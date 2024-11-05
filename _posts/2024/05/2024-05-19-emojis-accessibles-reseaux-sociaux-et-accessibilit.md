@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "RéseauSocial"
-- "Accessibilité"
+- "accessibilité"
 
-og-tags: "Réseau social, Accessibilité"
+og-tags: "Réseau social, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

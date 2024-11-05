@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Accessibilité"
+- "accessibilité"
 
-og-tags: "Accessibilité"
+og-tags: "accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

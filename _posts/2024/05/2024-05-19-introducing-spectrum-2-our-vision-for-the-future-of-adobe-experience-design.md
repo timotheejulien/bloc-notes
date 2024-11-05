@@ -14,8 +14,8 @@ tags:
 - "DesignSystem"
 - "UI"
 - "UX"
-- "Adobe"
+- "adobe"
 
-og-tags: "Design, DesignSystem, UI, UX, Adobe"
+og-tags: "Design, DesignSystem, UI, UX, adobe"
 permalink: /:categories/:year/:month/:day/:title/
 ---

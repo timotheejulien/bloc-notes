@@ -12,9 +12,9 @@ categories:
 tags:
 - "Web"
 - "Technologie"
-- "Accessibilité"
+- "accessibilité"
 - "Numérique"
 
-og-tags: "Web, Technologie, Accessibilité, Numérique"
+og-tags: "Web, Technologie, accessibilité, Numérique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

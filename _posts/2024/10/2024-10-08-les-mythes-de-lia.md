@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "Technologie"
-- "Algorithme"
+- "algorithme"
 
-og-tags: "Technologie, Algorithme"
+og-tags: "Technologie, algorithme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

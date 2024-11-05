@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "Design"
-- "Accessibilité"
+- "accessibilité"
 - "Numérique"
 - "Méthodologie"
 
-og-tags: "Design, Accessibilité, Numérique, Méthodologie"
+og-tags: "Design, accessibilité, Numérique, Méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

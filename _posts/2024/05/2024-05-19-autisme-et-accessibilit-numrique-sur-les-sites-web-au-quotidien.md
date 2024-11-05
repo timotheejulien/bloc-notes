@@ -12,8 +12,8 @@ categories:
 tags:
 - "Design"
 - "Web"
-- "Accessibilité"
+- "accessibilité"
 
-og-tags: "Design, Web, Accessibilité"
+og-tags: "Design, Web, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

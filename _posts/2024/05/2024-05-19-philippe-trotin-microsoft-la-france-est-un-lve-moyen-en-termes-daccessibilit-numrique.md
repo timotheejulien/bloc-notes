@@ -12,9 +12,9 @@ categories:
 tags:
 - "Design"
 - "Société"
-- "Accessibilité"
+- "accessibilité"
 - "Numérique"
 
-og-tags: "Design, Société, Accessibilité, Numérique"
+og-tags: "Design, Société, accessibilité, Numérique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

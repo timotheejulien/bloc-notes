@@ -13,8 +13,8 @@ tags:
 - "App"
 - "Design"
 - "DesignSystem"
-- "Accessibilité"
+- "accessibilité"
 
-og-tags: "App, Design, DesignSystem, Accessibilité"
+og-tags: "App, Design, DesignSystem, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

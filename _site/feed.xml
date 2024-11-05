@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-04T08:57:35+01:00</updated>
+   <updated>2024-11-05T08:52:38+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -1684,7 +1684,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/tout-comprendre-au-dsa-la-loi-europenne-qui-encadre-les-gants-du-web/</id>
 
          <content type="html">
-            Après avoir transformé Internet avec le RGPD, l’Union européenne frappe encore plus fort avec le Digital Services Act, sa règlementation conçue pour encadrer les Google, Facebook, Amazon, Microsoft, Apple ou TikTok. Le DSA fixe une multitude de nouvelles règles exigeantes, qui pourraient changer les grandes plateformes à tout jamais.
+            Après avoir transformé Internet avec le RGPD, l’Union européenne frappe encore plus fort avec le Digital Services Act, sa règlementation conçue pour encadrer les Google, Facebook, amazon, Microsoft, Apple ou TikTok. Le DSA fixe une multitude de nouvelles règles exigeantes, qui pourraient changer les grandes plateformes à tout jamais.
          </content>
       </entry>
    
@@ -4802,7 +4802,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Adobe : la commission européenne ouvre « une enquête approfondie » sur l’acquisition de figma</title>
+         <title>adobe : la commission européenne ouvre « une enquête approfondie » sur l’acquisition de figma</title>
          <link href="/liens/2024/05/19/adobe-la-commission-europenne-ouvre-une-enqute-approfondie-sur-lacquisition-de-figma/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/adobe-la-commission-europenne-ouvre-une-enqute-approfondie-sur-lacquisition-de-figma/</id>
@@ -4835,7 +4835,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Accessibilité des pdf</title>
+         <title>accessibilité des pdf</title>
          <link href="/liens/2024/05/19/accessibilit-des-pdf/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/accessibilit-des-pdf/</id>
@@ -4846,7 +4846,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Accessibilité de combat</title>
+         <title>accessibilité de combat</title>
          <link href="/liens/2024/05/19/accessibilit-de-combat/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/accessibilit-de-combat/</id>
