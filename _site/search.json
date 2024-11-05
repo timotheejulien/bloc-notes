@@ -227,7 +227,7 @@
             {
                   "title"    : "IA : la guerre des données aura-t-elle lieu ?",
                   "url"      : "/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/",
-                  "tags"     : "ViePrivée, IA, Web, DonnéesPersonnelles"
+                  "tags"     : "ViePrivée, IA, Web, données-personnelles"
             } 
       ,
   
@@ -255,7 +255,7 @@
             {
                   "title"    : "Pique et pique et Telegram. Plus Durov sera la chute.",
                   "url"      : "/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/",
-                  "tags"     : "app, Surveillance, RéseauSocial, chiffrement, Technologie, Gouvernement, DonnéesPersonnelles, Telegram"
+                  "tags"     : "app, Surveillance, RéseauSocial, chiffrement, Technologie, Gouvernement, données-personnelles, Telegram"
             } 
       ,
   
@@ -269,7 +269,7 @@
             {
                   "title"    : "File over app",
                   "url"      : "/liens/2024/08/28/file-over-app/",
-                  "tags"     : "app, Technologie, auto-hébergement, Gouvernement, DonnéesPersonnelles, Obsidian"
+                  "tags"     : "app, Technologie, auto-hébergement, Gouvernement, données-personnelles, Obsidian"
             } 
       ,
   
@@ -507,7 +507,7 @@
             {
                   "title"    : "Lais­ser les clefs en partant, 2024",
                   "url"      : "/liens/2024/07/06/laisser-les-clefs-en-partant-2024/",
-                  "tags"     : "DonnéesPersonnelles, Famille"
+                  "tags"     : "données-personnelles, Famille"
             } 
       ,
   
@@ -668,7 +668,7 @@
             {
                   "title"    : "Synchroniser un repo Github avec Gitlab",
                   "url"      : "/liens/2024/06/04/synchroniser-github-et-gitlab/",
-                  "tags"     : "Github, Développement"
+                  "tags"     : "Github, développement"
             } 
       ,
   
@@ -766,7 +766,7 @@
             {
                   "title"    : "Créer un menu hamburger fonctionnant sans Javascript grâce à Popover API",
                   "url"      : "/liens/2024/05/24/creer-un-menu-hamburger-fonctionnant-sans-javascript-accessible/",
-                  "tags"     : "Développement, css"
+                  "tags"     : "développement, css"
             } 
       ,
   
@@ -787,7 +787,7 @@
             {
                   "title"    : "Faire un site avec Kirby cms",
                   "url"      : "/liens/2024/05/22/faire-un-site-avec-kirby-cms/",
-                  "tags"     : "Développement, Kirby, cms"
+                  "tags"     : "développement, Kirby, cms"
             } 
       ,
   
@@ -1779,7 +1779,7 @@
       ,
   
             {
-                  "title"    : "Les petits secrets de l&#39;oiseau bleu, le logo de twitter tué par elon musk",
+                  "title"    : "Les petits secrets de l&#39;oiseau bleu, le logo de twitter tué par elon-musk",
                   "url"      : "/liens/2024/05/19/les-petits-secrets-de-loiseau-bleu-le-logo-de-twitter-tu-par-elon-musk/",
                   "tags"     : "design, X, branding"
             } 
@@ -1816,7 +1816,7 @@
             {
                   "title"    : "Les images et l’éco-conception : je t’aime, moi non plus…",
                   "url"      : "/liens/2024/05/19/les-images-et-lcoconception-je-taime-moi-non-plus/",
-                  "tags"     : "design, Écologie, Web, Éco-conception, Développement"
+                  "tags"     : "design, Écologie, Web, Éco-conception, développement"
             } 
       ,
   
@@ -2026,7 +2026,7 @@
             {
                   "title"    : "Le blues du DPO",
                   "url"      : "/liens/2024/05/19/le-blues-du-dpo/",
-                  "tags"     : "ViePrivée, cnil, Législation, DonnéesPersonnelles"
+                  "tags"     : "ViePrivée, cnil, Législation, données-personnelles"
             } 
       ,
   
@@ -2229,7 +2229,7 @@
             {
                   "title"    : "Je s’appelle Grok. La première IA de l’altright ?",
                   "url"      : "/liens/2024/05/19/je-sappelle-grok-la-premire-ia-de-laltright/",
-                  "tags"     : "IA, RéseauSocial, X, Elon Musk"
+                  "tags"     : "IA, RéseauSocial, X, elon-musk"
             } 
       ,
   
@@ -2292,7 +2292,7 @@
             {
                   "title"    : "Intelligence artificielle : un accord de partenariat entre « Le Monde » et OpenAI",
                   "url"      : "/liens/2024/05/19/intelligence-artificielle-un-accord-de-partenariat-entre-le-monde-et-openai/",
-                  "tags"     : "IA, DonnéesPersonnelles, Presse"
+                  "tags"     : "IA, données-personnelles, Presse"
             } 
       ,
   
@@ -2404,7 +2404,7 @@
             {
                   "title"    : "Héberger soi-même des applications en ayant peu de connaissances devops",
                   "url"      : "/liens/2024/05/19/hberger-soimme-des-applications-en-ayant-peu-de-connaissances-devops/",
-                  "tags"     : "auto-hébergement, Indie, Développement"
+                  "tags"     : "auto-hébergement, Indie, développement"
             } 
       ,
   
@@ -2556,7 +2556,7 @@
       ,
   
             {
-                  "title"    : "Elon musk annonce la fin de twitter, remplacé par x.com",
+                  "title"    : "elon-musk annonce la fin de twitter, remplacé par x.com",
                   "url"      : "/liens/2024/05/19/elon-musk-annonce-la-fin-de-twitter-remplac-par-xcom/",
                   "tags"     : "app, X"
             } 
@@ -2607,7 +2607,7 @@
             {
                   "title"    : "Droits voisins : Mediapart lance la bataille de la transparence contre google",
                   "url"      : "/liens/2024/05/19/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google/",
-                  "tags"     : "IA, Google, DroitDAuteur"
+                  "tags"     : "IA, Google, droit-auteur"
             } 
       ,
   
@@ -2831,7 +2831,7 @@
             {
                   "title"    : "Code en français",
                   "url"      : "/liens/2024/05/19/code-en-franais/",
-                  "tags"     : "design, Développement, Méthodologie"
+                  "tags"     : "design, développement, Méthodologie"
             } 
       ,
   

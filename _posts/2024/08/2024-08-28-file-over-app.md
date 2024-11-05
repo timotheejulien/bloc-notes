@@ -14,7 +14,7 @@ tags:
 - "Technologie"
 - "auto-hébergement"
 - "Gouvernement"
-- "DonnéesPersonnelles"
+- "données-personnelles"
 - "Obsidian"
 
 og-tags: "app, Technologie, auto-hébergement, Gouvernement, Données personnelles, Obsidian"

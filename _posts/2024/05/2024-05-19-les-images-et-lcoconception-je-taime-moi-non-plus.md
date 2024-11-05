@@ -14,8 +14,8 @@ tags:
 - "Écologie"
 - "Web"
 - "Éco-conception"
-- "Développement"
+- "développement"
 
-og-tags: "design, Écologie, Web, Éco-conception, Développement"
+og-tags: "design, Écologie, Web, Éco-conception, développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

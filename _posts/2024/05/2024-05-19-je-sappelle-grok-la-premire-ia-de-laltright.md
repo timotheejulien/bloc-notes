@@ -13,8 +13,8 @@ tags:
 - "IA"
 - "RéseauSocial"
 - "X"
-- "Elon Musk"
+- "elon-musk"
 
-og-tags: "IA, Réseau social, X, Elon Musk"
+og-tags: "IA, Réseau social, X, elon-musk"
 permalink: /:categories/:year/:month/:day/:title/
 ---

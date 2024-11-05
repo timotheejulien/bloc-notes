@@ -13,7 +13,7 @@ tags:
 - "ViePrivée"
 - "IA"
 - "Web"
-- "DonnéesPersonnelles"
+- "données-personnelles"
 
 og-tags: "ViePrivée, IA, Web, Données personnelles"
 permalink: /:categories/:year/:month/:day/:title/

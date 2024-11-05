@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "IA"
-- "DonnéesPersonnelles"
+- "données-personnelles"
 - "Presse"
 
 og-tags: "IA, Données personnelles, Presse"

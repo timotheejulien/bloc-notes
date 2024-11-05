@@ -13,7 +13,7 @@ tags:
 - "ViePrivée"
 - "cnil"
 - "Législation"
-- "DonnéesPersonnelles"
+- "données-personnelles"
 
 og-tags: "ViePrivée, cnil, Législation, Données personnelles"
 permalink: /:categories/:year/:month/:day/:title/

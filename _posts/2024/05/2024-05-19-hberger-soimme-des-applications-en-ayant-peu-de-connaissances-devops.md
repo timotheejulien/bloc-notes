@@ -12,8 +12,8 @@ categories:
 tags:
 - "auto-hébergement"
 - "Indie"
-- "Développement"
+- "développement"
 
-og-tags: "auto-hébergement, Indie, Développement"
+og-tags: "auto-hébergement, Indie, développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

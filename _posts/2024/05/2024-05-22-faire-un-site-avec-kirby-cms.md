@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Développement"
+- "développement"
 - "Kirby"
 - "cms"
 
-og-tags: "Développement, Kirby, cms"
+og-tags: "développement, Kirby, cms"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -9,8 +9,8 @@ language: fr
 categories:
    - Liens
 tags:
-   - "Développement"
+   - "développement"
    - "css"
-og-tags: "Développement, css"
+og-tags: "développement, css"
 permalink: /:categories/:year/:month/:day/:title/
 ---

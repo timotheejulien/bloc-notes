@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - "Github"
-   - "Développement"
-og-tags: "Github, Développement"
+   - "développement"
+og-tags: "Github, développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

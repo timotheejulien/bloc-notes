@@ -12,7 +12,7 @@ categories:
 tags:
 - "IA"
 - "Google"
-- "DroitDAuteur"
+- "droit-auteur"
 
 og-tags: "IA, Google, Droit d’auteur"
 permalink: /:categories/:year/:month/:day/:title/
