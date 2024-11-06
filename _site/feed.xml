@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-06T12:19:08+01:00</updated>
+   <updated>2024-11-06T12:23:32+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -5099,17 +5099,6 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>La vie en bleu #3 - la filiere Comté, qui gagne combien ?</title>
-         <link href="/liens/2023/02/28/la-vie-en-bleu-3-la-filiere-comte-qui-gagne-combien/"/>
-         <updated>2023-02-28T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2023/02/28/la-vie-en-bleu-3-la-filiere-comte-qui-gagne-combien/</id>
-
-         <content type="html">
-            Le point de départ de cet article est une question qui me préoccupe par-dessus tout : est ce qu’un producteur de fromage, un éleveur laitier, vit bien ? D’un point de vue financier. Qui gagne combien ? Aux différentes étapes du fromage, de l’éleveur laitier jusqu’à nous commerçant crémier fromager qui vous vendons ces bons fromages.
-         </content>
-      </entry>
-   
-      <entry>
          <title>La vie en bleu #9 – Du marketing à la laiterie urbaine, la reconversion de Xavier Hugol-Gential</title>
          <link href="/liens/2022/11/04/la-vie-en-bleu-9-reconversion-laiterie-urbaine/"/>
          <updated>2022-11-04T00:00:00+01:00</updated>
@@ -5172,6 +5161,17 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
 
          <content type="html">
             Y’a plus de saison ma bonne dame… Mais si ! Vous commencez à être habitués au moto « n’achetez et consommez que des produits de saison », et vous avez bien raison. Côté fruits et légumes, c’est devenu très clair pour vous et si ça ne l’est pas encore, c’est détaillé par exemple ici. Côté fromage ça se complique. Quand allez-vous trouver quel fromage ? A quelle saison sont-ils le meilleur ? Est-ce qu’on peut faire du mal à la planète en se trompant de saison pour un fromage ? C’est partie pour la réponse ! On en profite pour faire une virée à l’alpage de Plan Pichu dans le Beaufortain (en plein hiver ? vous n’y comprenez plus rien ?… lisez jusqu’au bout !) avec Bernard Usannaz.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La vie en bleu #3 - la filiere Comté, qui gagne combien ?</title>
+         <link href="/liens/2022/02/28/la-vie-en-bleu-3-la-filiere-comte-qui-gagne-combien/"/>
+         <updated>2022-02-28T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2022/02/28/la-vie-en-bleu-3-la-filiere-comte-qui-gagne-combien/</id>
+
+         <content type="html">
+            Le point de départ de cet article est une question qui me préoccupe par-dessus tout : est ce qu’un producteur de fromage, un éleveur laitier, vit bien ? D’un point de vue financier. Qui gagne combien ? Aux différentes étapes du fromage, de l’éleveur laitier jusqu’à nous commerçant crémier fromager qui vous vendons ces bons fromages.
          </content>
       </entry>
    
