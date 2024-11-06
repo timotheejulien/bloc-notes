@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "design"
-- "Web"
+- "web"
 - "conférence"
 
-og-tags: "design, Web, conférence"
+og-tags: "design, web, conférence"
 permalink: /:categories/:year/:month/:day/:title/
 ---

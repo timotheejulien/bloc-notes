@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Google"
-- "Surveillance"
+- "vie-privée"
+- "google"
+- "surveillance"
 
-og-tags: "ViePrivée, Google, Surveillance"
+og-tags: "vie-privée, google, surveillance"
 permalink: /:categories/:year/:month/:day/:title/
 ---

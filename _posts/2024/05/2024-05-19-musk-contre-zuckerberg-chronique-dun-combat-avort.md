@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Web"
+- "web"
 - "connerie"
 
-og-tags: "Web, connerie"
+og-tags: "web, connerie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

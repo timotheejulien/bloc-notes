@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "GAFAM"
+- "vie-privée"
+- "gafam"
 - "apple"
 
-og-tags: "ViePrivée, GAFAM, apple"
+og-tags: "vie-privée, gafam, apple"
 permalink: /:categories/:year/:month/:day/:title/
 ---

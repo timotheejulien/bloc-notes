@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Technologie"
+- "écologie"
+- "technologie"
 
-og-tags: "Écologie, Technologie"
+og-tags: "écologie, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

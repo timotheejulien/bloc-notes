@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Surveillance"
+- "vie-privée"
+- "surveillance"
 - "chiffrement"
 
-og-tags: "ViePrivée, Surveillance, chiffrement"
+og-tags: "vie-privée, surveillance, chiffrement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

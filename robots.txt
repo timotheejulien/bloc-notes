@@ -21,13 +21,13 @@ Disallow: /
 # AI Data Scraper
 # https://darkvisitors.com/agents/facebookbot
 
-User-agent: FacebookBot
+User-agent: facebookBot
 Disallow: /
 
 # AI Data Scraper
 # https://darkvisitors.com/agents/google-extended
 
-User-agent: Google-Extended
+User-agent: google-Extended
 Disallow: /
 
 # AI Data Scraper

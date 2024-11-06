@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Indie"
+- "indie"
 - "blog"
 
-og-tags: "Indie, blog"
+og-tags: "indie, blog"
 permalink: /:categories/:year/:month/:day/:title/
 ---

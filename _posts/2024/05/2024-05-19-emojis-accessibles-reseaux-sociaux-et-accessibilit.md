@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "RéseauSocial"
+- "réseau-social"
 - "accessibilité"
 
 og-tags: "Réseau social, accessibilité"

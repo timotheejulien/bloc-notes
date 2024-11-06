@@ -2,7 +2,7 @@
 layout: post
 title: "Macstories selects 2023: recognizing the best apps of the year"
 link: "https://www.macstories.net/stories/macstories-selects-2023-recognizing-the-best-apps-of-the-year"
-author: N/A
+author: Macstories
 published_date: "19/05/2024"
 description: ""
 language: en
@@ -12,10 +12,10 @@ categories:
 tags:
 - "app"
 - "apple"
-- "iOS"
-- "macOS"
-- "watchOS"
+- "ios"
+- "macos"
+- "watchos"
 
-og-tags: "app, apple, iOS, macOS, watchOS"
+og-tags: "app, apple, ios, macOS, watchOS"
 permalink: /:categories/:year/:month/:day/:title/
 ---

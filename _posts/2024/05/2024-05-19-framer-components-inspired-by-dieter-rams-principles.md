@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "design"
-- "UI"
-- "Ressources"
+- "ui"
+- "ressources"
 
-og-tags: "design, UI, Ressources"
+og-tags: "design, ui, ressources"
 permalink: /:categories/:year/:month/:day/:title/
 ---

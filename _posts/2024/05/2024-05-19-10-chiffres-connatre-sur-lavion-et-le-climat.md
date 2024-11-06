@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Société"
+- "écologie"
+- "société"
 
-og-tags: "Écologie, Société"
+og-tags: "écologie, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Politique"
-- "Numérique"
+- "société"
+- "politique"
+- "numérique"
 
-og-tags: "Société, Politique, Numérique"
+og-tags: "société, politique, numérique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

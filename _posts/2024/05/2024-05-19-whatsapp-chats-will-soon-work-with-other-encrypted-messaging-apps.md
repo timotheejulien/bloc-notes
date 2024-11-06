@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whatsapp chats will soon work with other encrypted messaging apps"
+title: "whatsapp chats will soon work with other encrypted messaging apps"
 link: "https://www.wired.com/story/whatsapp-interoperability-messaging"
 author: N/A
 published_date: "19/05/2024"
@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Whatsapp"
+- "whatsapp"
 - "chiffrement"
-- "Meta"
-- "Signal"
+- "meta"
+- "signal"
 
-og-tags: "Whatsapp, chiffrement, Meta, Signal"
+og-tags: "whatsapp, chiffrement, meta, signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

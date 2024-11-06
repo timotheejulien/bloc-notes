@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Fromage"
+- "fromage"
 
-og-tags: "Fromage"
+og-tags: "fromage"
 permalink: /:categories/:year/:month/:day/:title/
 ---

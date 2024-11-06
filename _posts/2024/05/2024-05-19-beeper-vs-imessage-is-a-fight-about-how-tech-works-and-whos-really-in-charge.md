@@ -13,8 +13,8 @@ tags:
 - "app"
 - "apple"
 - "android"
-- "Message"
+- "message"
 
-og-tags: "app, apple, android, Message"
+og-tags: "app, apple, android, message"
 permalink: /:categories/:year/:month/:day/:title/
 ---

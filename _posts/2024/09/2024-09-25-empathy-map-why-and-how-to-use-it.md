@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "design"
-- "UX"
-- "Méthodologie"
+- "ux"
+- "méthodologie"
 
-og-tags: "design, UX, Méthodologie"
+og-tags: "design, ux, méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

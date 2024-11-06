@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Surveillance"
-- "Société"
-- "Vidéos"
-- "Web"
+- "ia"
+- "surveillance"
+- "société"
+- "vidéos"
+- "web"
 
-og-tags: "IA, Surveillance, Société, Vidéos, Web"
+og-tags: "ia, surveillance, société, vidéos, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

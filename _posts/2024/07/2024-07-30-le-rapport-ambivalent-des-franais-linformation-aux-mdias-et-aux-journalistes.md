@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Presse"
+- "société"
+- "presse"
 
-og-tags: "Société, Presse"
+og-tags: "société, presse"
 permalink: /:categories/:year/:month/:day/:title/
 ---

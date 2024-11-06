@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Web"
-- "Technologie"
+- "ia"
+- "web"
+- "technologie"
 
-og-tags: "IA, Web, Technologie"
+og-tags: "ia, web, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

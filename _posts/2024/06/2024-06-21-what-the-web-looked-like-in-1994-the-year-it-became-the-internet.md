@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Web"
-- "Internet"
+- "web"
+- "internet"
 
-og-tags: "Web, Internet"
+og-tags: "web, internet"
 permalink: /:categories/:year/:month/:day/:title/
 ---

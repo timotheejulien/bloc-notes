@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "IA"
-- "Surveillance"
+- "vie-privée"
+- "ia"
+- "surveillance"
 - "chat-gpt"
-- "RGPD"
+- "rgpd"
 
-og-tags: "ViePrivée, IA, Surveillance, chat-gpt, RGPD"
+og-tags: "vie-privée, ia, surveillance, chat-gpt, rgpd"
 permalink: /:categories/:year/:month/:day/:title/
 ---

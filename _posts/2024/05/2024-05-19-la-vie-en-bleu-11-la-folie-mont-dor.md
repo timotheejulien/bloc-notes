@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Fromage"
-- "Gastronomie"
+- "fromage"
+- "gastronomie"
 
-og-tags: "Fromage, Gastronomie"
+og-tags: "fromage, gastronomie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

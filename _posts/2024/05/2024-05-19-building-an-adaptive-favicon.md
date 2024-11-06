@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Web"
-- "Icônes"
+- "web"
+- "icônes"
 
-og-tags: "Web, Icônes"
+og-tags: "web, icônes"
 permalink: /:categories/:year/:month/:day/:title/
 ---

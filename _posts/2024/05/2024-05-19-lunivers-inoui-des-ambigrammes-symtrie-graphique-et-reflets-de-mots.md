@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "design"
-- "Font"
-- "Graphisme"
+- "font"
+- "graphisme"
 
-og-tags: "design, Font, Graphisme"
+og-tags: "design, font, graphisme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

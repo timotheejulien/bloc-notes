@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Technologie"
+- "société"
+- "technologie"
 
-og-tags: "Société, Technologie"
+og-tags: "société, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

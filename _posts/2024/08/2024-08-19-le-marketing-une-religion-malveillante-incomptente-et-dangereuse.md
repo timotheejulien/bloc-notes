@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Numérique"
-- "Marketing"
-- "Merdification"
+- "numérique"
+- "marketing"
+- "merdification"
 
-og-tags: "Numérique, Marketing, Merdification"
+og-tags: "numérique, marketing, merdification"
 permalink: /:categories/:year/:month/:day/:title/
 ---

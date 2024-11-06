@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Technologie"
-- "WordPress"
+- "technologie"
+- "wordpress"
 
-og-tags: "Technologie, WordPress"
+og-tags: "technologie, wordpress"
 permalink: /:categories/:year/:month/:day/:title/
 ---

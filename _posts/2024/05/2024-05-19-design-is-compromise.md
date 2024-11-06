@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "design"
-- "StratégieBusiness"
+- "stratégie-business"
 
 og-tags: "design, Stratégie business"
 permalink: /:categories/:year/:month/:day/:title/

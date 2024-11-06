@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Société"
+- "société"
 - "consommation"
 
-og-tags: "Société, consommation"
+og-tags: "société, consommation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

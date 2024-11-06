@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Surveillance"
+- "ia"
+- "surveillance"
 
-og-tags: "IA, Surveillance"
+og-tags: "ia, surveillance"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "GAFAM"
-- "Meta"
-- "Société"
-- "Facebook"
+- "gafam"
+- "meta"
+- "société"
+- "facebook"
 
-og-tags: "GAFAM, Meta, Société, Facebook"
+og-tags: "gafam, meta, société, facebook"
 permalink: /:categories/:year/:month/:day/:title/
 ---

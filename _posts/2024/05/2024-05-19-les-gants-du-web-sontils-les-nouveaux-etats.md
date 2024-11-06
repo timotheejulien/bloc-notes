@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "GAFAM"
-- "Société"
+- "vie-privée"
+- "gafam"
+- "société"
 
-og-tags: "ViePrivée, GAFAM, Société"
+og-tags: "vie-privée, gafam, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

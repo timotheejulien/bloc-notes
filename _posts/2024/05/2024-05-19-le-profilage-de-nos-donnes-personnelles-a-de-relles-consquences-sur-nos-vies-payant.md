@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Société"
+- "vie-privée"
+- "société"
 
-og-tags: "ViePrivée, Société"
+og-tags: "vie-privée, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

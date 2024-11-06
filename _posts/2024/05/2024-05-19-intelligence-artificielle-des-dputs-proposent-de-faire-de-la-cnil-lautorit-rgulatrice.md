@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "IA"
+- "vie-privée"
+- "ia"
 - "cnil"
-- "RGPD"
+- "rgpd"
 
-og-tags: "ViePrivée, IA, cnil, RGPD"
+og-tags: "vie-privée, ia, cnil, rgpd"
 permalink: /:categories/:year/:month/:day/:title/
 ---

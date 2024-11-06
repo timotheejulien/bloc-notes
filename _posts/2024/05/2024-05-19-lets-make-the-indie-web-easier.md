@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Web"
-- "Technologie"
+- "web"
+- "technologie"
 - "auto-hébergement"
-- "Indie"
+- "indie"
 
-og-tags: "Web, Technologie, auto-hébergement, Indie"
+og-tags: "web, technologie, auto-hébergement, indie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

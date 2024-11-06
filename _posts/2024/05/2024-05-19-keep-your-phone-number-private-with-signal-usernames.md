@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "app"
-- "Signal"
+- "signal"
 
-og-tags: "ViePrivée, app, Signal"
+og-tags: "vie-privée, app, signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

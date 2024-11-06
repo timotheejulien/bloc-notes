@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Surveillance"
-- "Streaming"
+- "vie-privée"
+- "surveillance"
+- "streaming"
 - "amazon"
-- "Netflix"
+- "netflix"
 
-og-tags: "ViePrivée, Surveillance, Streaming, amazon, Netflix"
+og-tags: "vie-privée, surveillance, streaming, amazon, netflix"
 permalink: /:categories/:year/:month/:day/:title/
 ---

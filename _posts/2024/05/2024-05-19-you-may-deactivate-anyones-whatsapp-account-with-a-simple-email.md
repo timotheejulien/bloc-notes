@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Whatsapp"
-- "GAFAM"
-- "Hacking"
+- "whatsapp"
+- "gafam"
+- "hacking"
 
-og-tags: "Whatsapp, GAFAM, Hacking"
+og-tags: "whatsapp, gafam, hacking"
 permalink: /:categories/:year/:month/:day/:title/
 ---

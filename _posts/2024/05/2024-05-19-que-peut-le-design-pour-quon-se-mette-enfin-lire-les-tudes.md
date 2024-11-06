@@ -11,7 +11,7 @@ categories:
 
 tags:
 - "design"
-- "OpenSource"
+- "open-source"
 
 og-tags: "design, Open source"
 permalink: /:categories/:year/:month/:day/:title/

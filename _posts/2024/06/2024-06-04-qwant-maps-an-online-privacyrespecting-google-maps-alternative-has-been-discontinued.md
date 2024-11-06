@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qwant Maps, an online privacy-respecting Google Maps alternative, has been discontinued"
+title: "Qwant Maps, an online privacy-respecting google Maps alternative, has been discontinued"
 link: "https://alternativeto.net/news/2024/6/qwant-maps-an-online-privacy-respecting-google-maps-alternative-has-been-discontinued/"
 author: Paul
 published_date: "04/06/2024"

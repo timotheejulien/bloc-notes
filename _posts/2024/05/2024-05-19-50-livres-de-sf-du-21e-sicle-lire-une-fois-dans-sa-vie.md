@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Livre"
+- "livre"
 
-og-tags: "Livre"
+og-tags: "livre"
 permalink: /:categories/:year/:month/:day/:title/
 ---

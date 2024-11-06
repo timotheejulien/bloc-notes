@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three UX laws that optimize information seeking
+title: Three ux laws that optimize information seeking
 link: https://markwrites.io/three-ux-laws-that-optimize-information-seeking
 author: Mark Wyner
 published_date: 17/10/2024
@@ -10,7 +10,7 @@ categories:
    - Liens
 tags: 
    - design
-   - UX
-   - UI
+   - ux
+   - ui
 permalink: /:categories/:year/:month/:day/:title/
 ---

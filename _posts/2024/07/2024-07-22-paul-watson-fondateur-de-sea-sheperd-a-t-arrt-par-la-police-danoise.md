@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Société"
-- "Éthique"
+- "écologie"
+- "société"
+- "éthique"
 
-og-tags: "Écologie, Société, Éthique"
+og-tags: "écologie, société, éthique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

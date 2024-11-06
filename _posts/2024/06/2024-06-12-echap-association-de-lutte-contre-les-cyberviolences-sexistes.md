@@ -9,10 +9,10 @@ language: fr
 categories:
    - Liens
 tags:
-   - "ViePrivée"
-   - "Surveillance"
-   - "Ressources"
-   - "Sécurite"
-og-tags: "ViePrivée, Surveillance, Ressources, Sécurite"
+   - "vie-privée"
+   - "surveillance"
+   - "ressources"
+   - "sécurite"
+og-tags: "vie-privée, surveillance, ressources, sécurite"
 permalink: /:categories/:year/:month/:day/:title/
 ---

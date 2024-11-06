@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "LanceurDAlerte"
+- "société"
+- "lanceur-alerte"
 
-og-tags: "Société, Lanceur d’alerte"
+og-tags: "société, Lanceur d’alerte"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "IA"
+- "ia"
 
-og-tags: "IA"
+og-tags: "ia"
 permalink: /:categories/:year/:month/:day/:title/
 ---

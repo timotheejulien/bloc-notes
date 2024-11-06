@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Web"
+- "web"
 - "auto-hébergement"
-- "Indie"
+- "indie"
 
-og-tags: "Web, auto-hébergement, Indie"
+og-tags: "web, auto-hébergement, indie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

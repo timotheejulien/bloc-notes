@@ -151,7 +151,7 @@ a:hover {
 }
 
 
-/* VARIABLE LAYOUT */
+/* VARiaBLE LAYOUT */
 .flex {
    display: flex;
    gap: var(--space-small);
@@ -577,7 +577,7 @@ ul.footer-nav li {
       font-weight: 500;
    }
 
-   /* VARIABLE LAYOUT */
+   /* VARiaBLE LAYOUT */
    .flex {
       display: flex;
       gap: var(--space-x-large);

@@ -9,8 +9,8 @@ language: en
 categories:
    - Liens
 tags:
-   - "IA"
+   - "ia"
    - "design"
-og-tags: "IA, design"
+og-tags: "ia, design"
 permalink: /:categories/:year/:month/:day/:title/
 ---

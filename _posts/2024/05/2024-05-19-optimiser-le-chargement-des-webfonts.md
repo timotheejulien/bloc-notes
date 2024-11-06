@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Web"
-- "Font"
-- "Éco-conception"
+- "web"
+- "font"
+- "éco-conception"
 
-og-tags: "Web, Font, Éco-conception"
+og-tags: "web, font, éco-conception"
 permalink: /:categories/:year/:month/:day/:title/
 ---

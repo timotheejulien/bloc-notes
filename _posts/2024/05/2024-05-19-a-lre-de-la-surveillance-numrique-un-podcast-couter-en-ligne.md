@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Podcast"
+- "vie-privée"
+- "podcast"
 
-og-tags: "ViePrivée, Podcast"
+og-tags: "vie-privée, podcast"
 permalink: /:categories/:year/:month/:day/:title/
 ---

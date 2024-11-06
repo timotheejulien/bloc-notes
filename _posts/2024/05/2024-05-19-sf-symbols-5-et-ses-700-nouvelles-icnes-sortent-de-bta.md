@@ -13,9 +13,9 @@ tags:
 - "apple"
 - "design"
 - "design-system"
-- "UI"
-- "Icônes"
+- "ui"
+- "icônes"
 
-og-tags: "apple, design, design-system, UI, Icônes, SF Symbols"
+og-tags: "apple, design, design-system, ui, icônes, SF Symbols"
 permalink: /:categories/:year/:month/:day/:title/
 ---

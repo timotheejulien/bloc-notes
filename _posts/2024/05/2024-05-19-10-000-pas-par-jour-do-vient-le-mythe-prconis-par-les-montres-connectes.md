@@ -9,10 +9,10 @@ language: fr
 categories:
    - Liens
 tags:
-   - Société
-   - Santé
-   - Sport
+   - société
+   - santé
+   - sport
 
-og-tags: "Société, Santé, Sport"
+og-tags: "société, santé, sport"
 permalink: /:categories/:year/:month/:day/:title/
 ---

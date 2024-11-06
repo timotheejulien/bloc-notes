@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Vidéos"
+- "vie-privée"
+- "vidéos"
 
-og-tags: "ViePrivée, Vidéos"
+og-tags: "vie-privée, vidéos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

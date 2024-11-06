@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Législation"
+- "vie-privée"
+- "législation"
 
-og-tags: "ViePrivée, Législation"
+og-tags: "vie-privée, législation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

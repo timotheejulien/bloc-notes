@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Streaming"
+- "streaming"
 
-og-tags: "Streaming"
+og-tags: "streaming"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 14 Worst Fonts in the World"
+title: "The 14 Worst fonts in the World"
 link: "https://www.fastcompany.com/1665318/the-8-worst-fonts-in-the-world"
 author: Simon Garfield
 published_date: "19/05/2024"
@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - "design"
-   - "Font"
-og-tags: "design, Font"
+   - "font"
+og-tags: "design, font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

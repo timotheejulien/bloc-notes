@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "GAFAM"
+- "gafam"
 - "apple"
 - "amazon"
 
-og-tags: "GAFAM, apple, amazon"
+og-tags: "gafam, apple, amazon"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Surveillance"
+- "vie-privée"
+- "surveillance"
 - "clearview"
-- "Vidéos"
+- "vidéos"
 
-og-tags: "ViePrivée, Surveillance, clearview, Vidéos"
+og-tags: "vie-privée, surveillance, clearview, vidéos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

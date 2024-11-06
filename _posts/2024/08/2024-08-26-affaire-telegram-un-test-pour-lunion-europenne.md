@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Affaire Telegram : un test pour l’union européenne"
+title: "Affaire telegram : un test pour l’union européenne"
 link: "https://www.lemonde.fr/idees/article/2024/08/26/affaire-telegram-un-test-pour-l-union-europeenne_6295384_3232.html"
 author: Le Monde
 published_date: "26/08/2024"
@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "app"
-- "Législation"
-- "Telegram"
+- "législation"
+- "telegram"
 
-og-tags: "app, Législation, Telegram"
+og-tags: "app, législation, telegram"
 permalink: /:categories/:year/:month/:day/:title/
 ---

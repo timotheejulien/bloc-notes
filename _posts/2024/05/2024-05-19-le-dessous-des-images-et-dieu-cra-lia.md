@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Vidéos"
-- "Graphisme"
+- "ia"
+- "vidéos"
+- "graphisme"
 
-og-tags: "IA, Vidéos, Graphisme"
+og-tags: "ia, vidéos, graphisme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

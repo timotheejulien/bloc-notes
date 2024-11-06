@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "app"
-- "Web"
+- "web"
 
-og-tags: "app, Web"
+og-tags: "app, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "IA"
-- "Technologie"
+- "vie-privée"
+- "ia"
+- "technologie"
 
-og-tags: "ViePrivée, IA, Technologie"
+og-tags: "vie-privée, ia, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

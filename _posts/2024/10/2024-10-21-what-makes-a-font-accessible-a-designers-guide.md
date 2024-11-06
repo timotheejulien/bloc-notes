@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "design"
-- "UI"
-- "UX"
-- "Font"
-- "Typographie"
+- "ui"
+- "ux"
+- "font"
+- "typographie"
 
-og-tags: "design, UI, UX, Font, Typographie"
+og-tags: "design, ui, ux, font, typographie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

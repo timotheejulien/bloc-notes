@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Vélo"
+- "société"
+- "vélo"
 
-og-tags: "Société, Vélo"
+og-tags: "société, vélo"
 permalink: /:categories/:year/:month/:day/:title/
 ---

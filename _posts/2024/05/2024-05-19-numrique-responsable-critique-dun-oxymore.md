@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Numérique responsable, critique d'un oxymore"
+title: "numérique responsable, critique d'un oxymore"
 link: "https://louisderrac.com/2023/06/numerique-responsable-critique-dun-oxymore"
 author: N/A
 published_date: "19/05/2024"
@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Web"
+- "écologie"
+- "web"
 
-og-tags: "Écologie, Web"
+og-tags: "écologie, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

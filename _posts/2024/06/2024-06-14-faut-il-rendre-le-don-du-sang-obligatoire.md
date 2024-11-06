@@ -9,9 +9,9 @@ language: fr
 categories:
    - Liens
 tags:
-   - "Société"
-   - "Santé"
+   - "société"
+   - "santé"
 
-og-tags: "Société, Santé"
+og-tags: "société, santé"
 permalink: /:categories/:year/:month/:day/:title/
 ---

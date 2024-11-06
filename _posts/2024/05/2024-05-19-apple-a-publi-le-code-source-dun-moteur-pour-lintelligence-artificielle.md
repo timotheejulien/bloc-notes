@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
+- "ia"
 - "apple"
-- "OpenSource"
+- "open-source"
 
-og-tags: "IA, apple, Open source"
+og-tags: "ia, apple, Open source"
 permalink: /:categories/:year/:month/:day/:title/
 ---

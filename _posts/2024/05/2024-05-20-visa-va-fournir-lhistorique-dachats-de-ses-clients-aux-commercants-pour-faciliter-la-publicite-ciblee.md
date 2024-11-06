@@ -9,10 +9,10 @@ language: en
 categories:
    - Liens
 tags:
-   - "ViePrivée"
-   - "Surveillance"
-   - "Société"
-   - "Publicité"
-og-tags: "ViePrivée, Surveillance, Société, Publicité"
+   - "vie-privée"
+   - "surveillance"
+   - "société"
+   - "publicité"
+og-tags: "vie-privée, surveillance, société, publicité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

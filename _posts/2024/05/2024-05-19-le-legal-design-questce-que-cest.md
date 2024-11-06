@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "Législation"
+- "législation"
 
-og-tags: "design, Législation"
+og-tags: "design, législation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

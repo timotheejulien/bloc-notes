@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "design"
-- "UX"
-- "Portfolio"
+- "ux"
+- "portfolio"
 
-og-tags: "design, UX, Portfolio"
+og-tags: "design, ux, portfolio"
 permalink: /:categories/:year/:month/:day/:title/
 ---

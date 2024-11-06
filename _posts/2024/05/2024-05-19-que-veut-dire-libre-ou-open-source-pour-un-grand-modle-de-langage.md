@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "OpenSource"
+- "ia"
+- "open-source"
 
-og-tags: "IA, Open source"
+og-tags: "ia, Open source"
 permalink: /:categories/:year/:month/:day/:title/
 ---

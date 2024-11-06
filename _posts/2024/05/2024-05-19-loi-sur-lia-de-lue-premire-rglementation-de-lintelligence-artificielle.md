@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Législation"
+- "ia"
+- "législation"
 
-og-tags: "IA, Législation"
+og-tags: "ia, législation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

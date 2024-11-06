@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "GAFAM"
+- "vie-privée"
+- "gafam"
 - "cnil"
 
-og-tags: "ViePrivée, GAFAM, cnil"
+og-tags: "vie-privée, gafam, cnil"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "design"
-- "UX"
-- "Podcast"
+- "ux"
+- "podcast"
 
-og-tags: "design, UX, Podcast"
+og-tags: "design, ux, podcast"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Hacking"
-- "Signal"
+- "vie-privée"
+- "hacking"
+- "signal"
 
-og-tags: "ViePrivée, Hacking, Signal"
+og-tags: "vie-privée, hacking, signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Whatsapp"
+- "vie-privée"
+- "whatsapp"
 - "app"
-- "Surveillance"
-- "Signal"
+- "surveillance"
+- "signal"
 
-og-tags: "ViePrivée, Whatsapp, app, Surveillance, Signal"
+og-tags: "vie-privée, whatsapp, app, surveillance, signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

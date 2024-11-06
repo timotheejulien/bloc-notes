@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Figma variables — ultimate guide"
+title: "figma variables — ultimate guide"
 link: "https://blog.prototypr.io/figma-variables-ultimate-guide-47cef3dc3ce7"
 author: N/A
 published_date: "19/05/2024"
@@ -12,8 +12,8 @@ categories:
 tags:
 - "design"
 - "design-system"
-- "Figma"
+- "figma"
 
-og-tags: "design, design-system, Figma"
+og-tags: "design, design-system, figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

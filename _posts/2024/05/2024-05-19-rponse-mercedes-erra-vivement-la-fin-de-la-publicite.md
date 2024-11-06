@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Publicité"
+- "vie-privée"
+- "publicité"
 
-og-tags: "ViePrivée, Publicité"
+og-tags: "vie-privée, publicité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

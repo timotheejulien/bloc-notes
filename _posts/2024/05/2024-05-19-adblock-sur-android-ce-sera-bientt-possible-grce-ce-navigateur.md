@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "app"
-- "Firefox"
-- "Web"
+- "firefox"
+- "web"
 
-og-tags: "app, Firefox, Web"
+og-tags: "app, firefox, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Vélo"
+- "vélo"
 
-og-tags: "Vélo"
+og-tags: "vélo"
 permalink: /:categories/:year/:month/:day/:title/
 ---

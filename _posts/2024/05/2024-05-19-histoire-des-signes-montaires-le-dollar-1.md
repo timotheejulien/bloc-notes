@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Font"
-- "Typographie"
+- "société"
+- "font"
+- "typographie"
 
-og-tags: "Société, Font, Typographie"
+og-tags: "société, font, typographie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

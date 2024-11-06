@@ -14,10 +14,10 @@ categories:
 - Liens
 
 tags:
-- "Vidéos"
+- "vidéos"
 - "documentaire"
-- "Vélo"
+- "vélo"
 
-og-tags: "Vidéos, documentaire, Vélo"
+og-tags: "vidéos, documentaire, vélo"
 permalink: /:categories/:year/:month/:day/:title/
 ---

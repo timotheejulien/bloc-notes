@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "Font"
+- "font"
 
-og-tags: "design, Font"
+og-tags: "design, font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

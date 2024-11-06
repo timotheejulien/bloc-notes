@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "app"
-- "Technologie"
+- "technologie"
 
-og-tags: "ViePrivée, app, Technologie"
+og-tags: "vie-privée, app, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Mozilla"
-- "Firefox"
+- "mozilla"
+- "firefox"
 
-og-tags: "Mozilla, Firefox"
+og-tags: "mozilla, firefox"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "OpenSource"
+- "open-source"
 
 og-tags: "Open source"
 permalink: /:categories/:year/:month/:day/:title/

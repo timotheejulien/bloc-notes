@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "IA"
-- "WordPress"
+- "vie-privée"
+- "ia"
+- "wordpress"
 
-og-tags: "ViePrivée, IA, WordPress"
+og-tags: "vie-privée, ia, wordpress"
 permalink: /:categories/:year/:month/:day/:title/
 ---

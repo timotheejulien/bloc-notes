@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Presse"
+- "presse"
 - "culture"
 
-og-tags: "Presse, culture"
+og-tags: "presse, culture"
 permalink: /:categories/:year/:month/:day/:title/
 ---

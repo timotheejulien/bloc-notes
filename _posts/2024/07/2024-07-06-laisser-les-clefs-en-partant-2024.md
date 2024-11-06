@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "données-personnelles"
-- "Famille"
+- "famille"
 
-og-tags: "Données personnelles, Famille"
+og-tags: "données-personnelles, famille"
 permalink: /:categories/:year/:month/:day/:title/
 ---

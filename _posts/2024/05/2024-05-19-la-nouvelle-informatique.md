@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "app"
-- "Web"
-- "Technologie"
+- "web"
+- "technologie"
 
-og-tags: "app, Web, Technologie"
+og-tags: "app, web, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

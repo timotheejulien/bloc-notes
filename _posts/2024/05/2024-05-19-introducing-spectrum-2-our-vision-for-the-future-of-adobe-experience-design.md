@@ -12,10 +12,10 @@ categories:
 tags:
 - "design"
 - "design-system"
-- "UI"
-- "UX"
+- "ui"
+- "ux"
 - "adobe"
 
-og-tags: "design, design-system, UI, UX, adobe"
+og-tags: "design, design-system, ui, ux, adobe"
 permalink: /:categories/:year/:month/:day/:title/
 ---

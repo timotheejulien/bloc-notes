@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Youtube is getting serious about blocking ad blockers"
+title: "YouTube is getting serious about blocking ad blockers"
 link: "https://www.theverge.com/2023/10/31/23940583/youtube-ad-blocker-crackdown-broadening"
-author: N/A
+author: Emma Roth
 published_date: "19/05/2024"
-description: ""
+description: "YouTube has confirmed that it has ‘launched a global effort’ to crack down on ad blockers. "
 language: en
 categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Google"
-- "Surveillance"
-- "YouTube"
+- "vie-privée"
+- "google"
+- "surveillance"
+- "youtube"
 
-og-tags: "ViePrivée, Google, Surveillance, YouTube"
+og-tags: "vie-privée, google, surveillance, youtube"
 permalink: /:categories/:year/:month/:day/:title/
 ---

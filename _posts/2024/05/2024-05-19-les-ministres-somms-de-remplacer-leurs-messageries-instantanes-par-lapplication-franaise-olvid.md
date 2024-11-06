@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "app"
-- "Surveillance"
-- "Gouvernement"
+- "surveillance"
+- "gouvernement"
 
-og-tags: "app, Surveillance, Gouvernement"
+og-tags: "app, surveillance, gouvernement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

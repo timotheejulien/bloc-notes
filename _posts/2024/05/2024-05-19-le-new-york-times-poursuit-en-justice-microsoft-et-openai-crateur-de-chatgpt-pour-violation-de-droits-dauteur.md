@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Législation"
-- "Presse"
+- "ia"
+- "législation"
+- "presse"
 
-og-tags: "IA, Législation, Presse"
+og-tags: "ia, législation, presse"
 permalink: /:categories/:year/:month/:day/:title/
 ---

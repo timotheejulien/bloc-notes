@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Société"
-- "Vidéos"
+- "écologie"
+- "société"
+- "vidéos"
 
-og-tags: "Écologie, Société, Vidéos"
+og-tags: "écologie, société, vidéos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

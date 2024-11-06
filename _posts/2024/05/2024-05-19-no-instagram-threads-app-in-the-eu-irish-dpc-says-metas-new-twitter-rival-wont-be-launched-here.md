@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "GAFAM"
-- "Meta"
+- "vie-privée"
+- "gafam"
+- "meta"
 
-og-tags: "ViePrivée, GAFAM, Meta"
+og-tags: "vie-privée, gafam, meta"
 permalink: /:categories/:year/:month/:day/:title/
 ---

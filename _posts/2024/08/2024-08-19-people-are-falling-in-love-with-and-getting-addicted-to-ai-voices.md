@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Société"
+- "ia"
+- "société"
 
-og-tags: "IA, Société"
+og-tags: "ia, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

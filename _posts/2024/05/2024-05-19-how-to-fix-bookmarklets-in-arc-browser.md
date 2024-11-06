@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - app
-   - Navigateur
-og-tags: "app, Navigateur"
+   - navigateur
+og-tags: "app, navigateur"
 permalink: /:categories/:year/:month/:day/:title/
 ---

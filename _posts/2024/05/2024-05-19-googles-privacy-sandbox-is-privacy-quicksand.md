@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google’s privacy sandbox is privacy quicksand"
+title: "google’s privacy sandbox is privacy quicksand"
 link: "https://proton.me/blog/google-privacy-sandbox"
 author: N/A
 published_date: "19/05/2024"
@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Google"
+- "vie-privée"
+- "google"
 
-og-tags: "ViePrivée, Google"
+og-tags: "vie-privée, google"
 permalink: /:categories/:year/:month/:day/:title/
 ---

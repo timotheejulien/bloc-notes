@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "apple"
-- "Société"
-- "Technologie"
-- "Russie"
+- "société"
+- "technologie"
+- "russie"
 
-og-tags: "ViePrivée, apple, Société, Technologie, Russie"
+og-tags: "vie-privée, apple, société, technologie, russie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

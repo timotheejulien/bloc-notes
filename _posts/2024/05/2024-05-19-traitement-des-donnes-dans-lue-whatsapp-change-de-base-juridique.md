@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Whatsapp"
-- "GAFAM"
+- "vie-privée"
+- "whatsapp"
+- "gafam"
 
-og-tags: "ViePrivée, Whatsapp, GAFAM"
+og-tags: "vie-privée, whatsapp, gafam"
 permalink: /:categories/:year/:month/:day/:title/
 ---

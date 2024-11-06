@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Mastodon"
-- "Web"
-- "Technologie"
+- "vie-privée"
+- "mastodon"
+- "web"
+- "technologie"
 
-og-tags: "ViePrivée, Mastodon, Web, Technologie"
+og-tags: "vie-privée, mastodon, web, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

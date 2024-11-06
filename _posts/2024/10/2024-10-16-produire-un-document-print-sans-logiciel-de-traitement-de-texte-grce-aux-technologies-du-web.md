@@ -9,9 +9,9 @@ language: fr
 categories:
    - Liens
 tags:
-   - "Web"
-   - "Numérique"
-   - "Print"
-og-tags: "Web, Numérique, Print"
+   - "web"
+   - "numérique"
+   - "print"
+og-tags: "web, numérique, print"
 permalink: /:categories/:year/:month/:day/:title/
 ---

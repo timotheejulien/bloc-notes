@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Politique"
+- "société"
+- "politique"
 
-og-tags: "Société, Politique"
+og-tags: "société, politique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

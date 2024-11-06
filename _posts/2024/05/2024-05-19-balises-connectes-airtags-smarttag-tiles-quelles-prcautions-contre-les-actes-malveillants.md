@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Hacking"
-- "Web"
+- "vie-privée"
+- "hacking"
+- "web"
 
-og-tags: "ViePrivée, Hacking, Web"
+og-tags: "vie-privée, hacking, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

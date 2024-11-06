@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Hacking"
-- "Gouvernement"
+- "vie-privée"
+- "hacking"
+- "gouvernement"
 
-og-tags: "ViePrivée, Hacking, Gouvernement"
+og-tags: "vie-privée, hacking, gouvernement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

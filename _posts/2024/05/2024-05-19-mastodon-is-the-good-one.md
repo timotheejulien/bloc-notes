@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mastodon is the good one"
+title: "mastodon is the good one"
 link: "https://www.404media.co/mastodon-is-the-good-one"
 author: N/A
 published_date: "19/05/2024"
@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Mastodon"
+- "mastodon"
 
-og-tags: "Mastodon"
+og-tags: "mastodon"
 permalink: /:categories/:year/:month/:day/:title/
 ---

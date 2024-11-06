@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Typographie"
+- "typographie"
 
-og-tags: "Typographie"
+og-tags: "typographie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

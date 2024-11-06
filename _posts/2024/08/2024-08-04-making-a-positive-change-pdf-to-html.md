@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Web"
-- "Technologie"
+- "web"
+- "technologie"
 - "accessibilité"
-- "Numérique"
+- "numérique"
 
-og-tags: "Web, Technologie, accessibilité, Numérique"
+og-tags: "web, technologie, accessibilité, numérique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google bard arrive en france et gagne de nouvelles fonctions pour battre chat-gpt"
+title: "google bard arrive en france et gagne de nouvelles fonctions pour battre chat-gpt"
 link: "https://www.numerama.com/tech/1447238-google-bard-arrive-en-france-et-gagne-de-nouvelles-fonctions-pour-battre-chat-gpt.html"
 author: N/A
 published_date: "19/05/2024"
@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Google"
-- "GAFAM"
+- "ia"
+- "google"
+- "gafam"
 
-og-tags: "IA, Google, GAFAM"
+og-tags: "ia, google, gafam"
 permalink: /:categories/:year/:month/:day/:title/
 ---

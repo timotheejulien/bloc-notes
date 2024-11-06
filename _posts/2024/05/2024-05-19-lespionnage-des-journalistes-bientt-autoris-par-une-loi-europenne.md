@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Surveillance"
-- "Société"
+- "vie-privée"
+- "surveillance"
+- "société"
 
-og-tags: "ViePrivée, Surveillance, Société"
+og-tags: "vie-privée, surveillance, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

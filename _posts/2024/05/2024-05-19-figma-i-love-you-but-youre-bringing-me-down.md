@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Figma, i love you but you’re bringing me down"
+title: "figma, i love you but you’re bringing me down"
 link: "https://uxdesign.cc/figma-i-love-you-but-youre-bringing-me-down-fd2ca26c89c4"
 author: N/A
 published_date: "19/05/2024"
@@ -12,8 +12,8 @@ categories:
 tags:
 - "design"
 - "design-system"
-- "Figma"
+- "figma"
 
-og-tags: "design, design-system, Figma"
+og-tags: "design, design-system, figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

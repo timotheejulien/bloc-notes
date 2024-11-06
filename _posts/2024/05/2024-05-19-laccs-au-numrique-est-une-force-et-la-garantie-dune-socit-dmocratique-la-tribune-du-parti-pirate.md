@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Société"
-- "Web"
-- "Internet"
+- "écologie"
+- "société"
+- "web"
+- "internet"
 
-og-tags: "Écologie, Société, Web, Internet"
+og-tags: "écologie, société, web, internet"
 permalink: /:categories/:year/:month/:day/:title/
 ---

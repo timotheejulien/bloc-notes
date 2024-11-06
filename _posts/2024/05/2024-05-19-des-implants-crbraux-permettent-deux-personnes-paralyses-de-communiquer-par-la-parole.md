@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Technologie"
-- "Santé"
+- "technologie"
+- "santé"
 
-og-tags: "Technologie, Santé"
+og-tags: "technologie, santé"
 permalink: /:categories/:year/:month/:day/:title/
 ---

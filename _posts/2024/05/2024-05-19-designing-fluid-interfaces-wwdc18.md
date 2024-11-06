@@ -12,10 +12,10 @@ categories:
 tags:
 - "apple"
 - "design"
-- "UI"
-- "UX"
-- "Vidéos"
+- "ui"
+- "ux"
+- "vidéos"
 
-og-tags: "apple, design, UI, UX, Vidéos"
+og-tags: "apple, design, ui, ux, vidéos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

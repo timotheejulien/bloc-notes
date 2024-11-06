@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Font"
+- "font"
 - "accessibilité"
 
-og-tags: "Font, accessibilité"
+og-tags: "font, accessibilité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

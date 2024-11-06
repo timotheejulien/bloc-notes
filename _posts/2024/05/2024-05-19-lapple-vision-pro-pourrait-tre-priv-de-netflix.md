@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "GAFAM"
+- "gafam"
 - "apple"
-- "Netflix"
+- "netflix"
 
-og-tags: "GAFAM, apple, Netflix"
+og-tags: "gafam, apple, netflix"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don’t be fooled by Figma’s new AI features"
+title: "Don’t be fooled by figma’s new AI features"
 link: "https://uxdesign.cc/dont-be-fooled-by-figma-s-new-ai-features-5991b8c6b819"
 author: Raff Di Meo
 published_date: "03/07/2024"
@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "IA"
+- "ia"
 - "design"
-- "UX"
-- "Figma"
+- "ux"
+- "figma"
 
-og-tags: "IA, design, UX, Figma"
+og-tags: "ia, design, ux, figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

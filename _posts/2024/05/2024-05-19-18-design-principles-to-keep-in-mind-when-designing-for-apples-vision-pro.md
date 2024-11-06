@@ -12,8 +12,8 @@ categories:
 tags:
 - "apple"
 - "design"
-- "UI"
+- "ui"
 
-og-tags: "apple, design, UI"
+og-tags: "apple, design, ui"
 permalink: /:categories/:year/:month/:day/:title/
 ---

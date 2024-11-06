@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Whatsapp"
+- "vie-privée"
+- "whatsapp"
 
-og-tags: "ViePrivée, Whatsapp"
+og-tags: "vie-privée, whatsapp"
 permalink: /:categories/:year/:month/:day/:title/
 ---

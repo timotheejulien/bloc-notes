@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Web"
-- "Technologie"
-- "Éco-conception"
-- "Streaming"
+- "écologie"
+- "web"
+- "technologie"
+- "éco-conception"
+- "streaming"
 
-og-tags: "Écologie, Web, Technologie, Éco-conception, Streaming"
+og-tags: "écologie, web, technologie, éco-conception, streaming"
 permalink: /:categories/:year/:month/:day/:title/
 ---

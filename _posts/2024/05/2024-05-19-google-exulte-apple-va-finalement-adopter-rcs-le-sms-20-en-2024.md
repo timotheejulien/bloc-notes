@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Google exulte : apple va finalement adopter rcs, le « sms 2.0 », en 2024"
+title: "Google exulte : Apple va finalement adopter RCS, le « sms 2.0 », en 2024"
 link: "https://www.igen.fr/services/2023/11/google-exulte-apple-va-finalement-adopter-rcs-le-sms-20-en-2024-140493"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Stéphane Moussie
+published_date: "17/11/2023"
+description: "Après l'avoir ostensiblement ignoré pendant des années, Apple va en fin de compte prendre en charge le protocole Rich Communication Services, abrégé RCS, en 2024."
 language: fr
 categories:
 - Liens
@@ -12,10 +12,10 @@ categories:
 tags:
 - "app"
 - "android"
-- "iMessage"
-- "Message"
-- "RCS"
+- "imessage"
+- "message"
+- "rcs"
 
-og-tags: "app, android, iMessage, Message, RCS"
+og-tags: "app, android, imessage, message, rcs"
 permalink: /:categories/:year/:month/:day/:title/
 ---

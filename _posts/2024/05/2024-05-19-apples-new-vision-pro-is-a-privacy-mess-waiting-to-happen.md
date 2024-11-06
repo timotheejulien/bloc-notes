@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Surveillance"
+- "vie-privée"
+- "surveillance"
 - "apple"
-- "VisionPro"
+- "vision-pro"
 
-og-tags: "ViePrivée, Surveillance, apple, VisionPro"
+og-tags: "vie-privée, surveillance, apple, vision-pro"
 permalink: /:categories/:year/:month/:day/:title/
 ---

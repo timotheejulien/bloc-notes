@@ -9,10 +9,10 @@ language: fr
 categories:
    - Liens
 tags:
-   - "ViePrivée"
-   - "Surveillance"
-   - "Écologie"
-   - "Publicité"
-og-tags: "ViePrivée, Surveillance, Écologie, Publicité"
+   - "vie-privée"
+   - "surveillance"
+   - "écologie"
+   - "publicité"
+og-tags: "vie-privée, surveillance, écologie, publicité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

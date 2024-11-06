@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Mastodon"
+- "mastodon"
 
-og-tags: "Mastodon"
+og-tags: "mastodon"
 permalink: /:categories/:year/:month/:day/:title/
 ---

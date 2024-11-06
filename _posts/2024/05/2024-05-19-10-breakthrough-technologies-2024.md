@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- Technologie
+- technologie
 
-og-tags: "Technologie"
+og-tags: "technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

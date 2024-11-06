@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "IA"
-- "Surveillance"
-- "Législation"
+- "vie-privée"
+- "ia"
+- "surveillance"
+- "législation"
 - "chat-gpt"
 
-og-tags: "ViePrivée, IA, Surveillance, Législation, chat-gpt"
+og-tags: "vie-privée, ia, surveillance, législation, chat-gpt"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Web"
+- "société"
+- "web"
 - "consommation"
 
-og-tags: "Société, Web, consommation"
+og-tags: "société, web, consommation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

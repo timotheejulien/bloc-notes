@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 
-og-tags: "ViePrivée"
+og-tags: "vie-privée"
 permalink: /:categories/:year/:month/:day/:title/
 ---

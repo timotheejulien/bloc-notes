@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "app"
-- "Technologie"
-- "OpenSource"
+- "technologie"
+- "open-source"
 
-og-tags: "app, Technologie, Open source"
+og-tags: "app, technologie, Open source"
 permalink: /:categories/:year/:month/:day/:title/
 ---

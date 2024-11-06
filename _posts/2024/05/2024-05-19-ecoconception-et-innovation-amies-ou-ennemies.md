@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Web"
-- "Éco-conception"
+- "écologie"
+- "web"
+- "éco-conception"
 
-og-tags: "Écologie, Web, Éco-conception"
+og-tags: "écologie, web, éco-conception"
 permalink: /:categories/:year/:month/:day/:title/
 ---

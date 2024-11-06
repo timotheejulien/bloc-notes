@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "Graphisme"
+- "graphisme"
 
-og-tags: "design, Graphisme"
+og-tags: "design, graphisme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

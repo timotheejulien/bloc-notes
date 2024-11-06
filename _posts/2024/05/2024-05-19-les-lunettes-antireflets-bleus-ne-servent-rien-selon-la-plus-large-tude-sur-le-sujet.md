@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Santé"
+- "santé"
 
-og-tags: "Santé"
+og-tags: "santé"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guide de survie des aventures sur Internet"
+title: "Guide de survie des aventures sur internet"
 link: "https://www.ritimo.org/Guide-de-survie-des-aventures-sur-internet-10313"
 author: CECIL, LDH, ritimo , Sx
 published_date: "29/12/2024"
@@ -9,9 +9,9 @@ language: fr
 categories:
 - Liens
 tags:
-   - ViePrivée
+   - vie-privée
    - app
-   - Ressources
-og-tags: "ViePrivée, app, Ressources"
+   - ressources
+og-tags: "vie-privée, app, ressources"
 permalink: /:categories/:year/:month/:day/:title/
 ---

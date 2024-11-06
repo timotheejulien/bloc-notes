@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google chrome m’a tuer ou le probable déclin de firefox si nous n’y faisons rien"
+title: "google chrome m’a tuer ou le probable déclin de firefox si nous n’y faisons rien"
 link: "https://framablog.org/2010/05/16/google-chrome-vs-mozilla-firefox"
 author: N/A
 published_date: "19/05/2024"
@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "app"
-- "Google"
-- "Firefox"
-- "Web"
+- "google"
+- "firefox"
+- "web"
 
-og-tags: "app, Google, Firefox, Web"
+og-tags: "app, google, firefox, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

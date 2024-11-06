@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Google"
-- "Web"
+- "ia"
+- "google"
+- "web"
 - "algorithme"
-- "Internet"
+- "internet"
 
-og-tags: "IA, Google, Web, algorithme, Internet"
+og-tags: "ia, google, web, algorithme, internet"
 permalink: /:categories/:year/:month/:day/:title/
 ---

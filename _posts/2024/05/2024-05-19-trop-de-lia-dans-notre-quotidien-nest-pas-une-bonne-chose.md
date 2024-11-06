@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
+- "ia"
 - "design"
 - "algorithme"
 
-og-tags: "IA, design, algorithme"
+og-tags: "ia, design, algorithme"
 permalink: /:categories/:year/:month/:day/:title/
 ---

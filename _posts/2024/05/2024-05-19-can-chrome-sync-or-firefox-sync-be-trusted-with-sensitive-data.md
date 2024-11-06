@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Google"
-- "Firefox"
+- "vie-privée"
+- "google"
+- "firefox"
 
-og-tags: "ViePrivée, Google, Firefox"
+og-tags: "vie-privée, google, firefox"
 permalink: /:categories/:year/:month/:day/:title/
 ---

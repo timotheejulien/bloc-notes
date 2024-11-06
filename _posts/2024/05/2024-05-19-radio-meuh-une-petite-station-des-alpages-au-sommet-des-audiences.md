@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Musique"
+- "musique"
 
-og-tags: "Musique"
+og-tags: "musique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

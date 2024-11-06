@@ -12,10 +12,10 @@ categories:
 tags:
 - "design"
 - "design-system"
-- "UI"
-- "Méthodologie"
+- "ui"
+- "méthodologie"
 - "adobe"
 
-og-tags: "design, design-system, UI, Méthodologie, adobe"
+og-tags: "design, design-system, ui, méthodologie, adobe"
 permalink: /:categories/:year/:month/:day/:title/
 ---

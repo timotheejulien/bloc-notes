@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Musique"
+- "musique"
 - "auto-hébergement"
 
-og-tags: "Musique, auto-hébergement"
+og-tags: "musique, auto-hébergement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

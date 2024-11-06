@@ -11,12 +11,12 @@ categories:
 
 tags:
 - "app"
-- "Technologie"
+- "technologie"
 - "auto-hébergement"
-- "Gouvernement"
+- "gouvernement"
 - "données-personnelles"
-- "Obsidian"
+- "obsidian"
 
-og-tags: "app, Technologie, auto-hébergement, Gouvernement, Données personnelles, Obsidian"
+og-tags: "app, technologie, auto-hébergement, gouvernement, Données personnelles, obsidian"
 permalink: /:categories/:year/:month/:day/:title/
 ---

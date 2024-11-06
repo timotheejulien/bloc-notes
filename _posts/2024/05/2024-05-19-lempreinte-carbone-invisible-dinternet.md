@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Web"
+- "écologie"
+- "web"
 
-og-tags: "Écologie, Web"
+og-tags: "écologie, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

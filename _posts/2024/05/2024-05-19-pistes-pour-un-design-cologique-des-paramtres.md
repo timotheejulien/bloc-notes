@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "Éco-conception"
+- "éco-conception"
 
-og-tags: "design, Éco-conception"
+og-tags: "design, éco-conception"
 permalink: /:categories/:year/:month/:day/:title/
 ---

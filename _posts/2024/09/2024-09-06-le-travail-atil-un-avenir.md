@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Travail"
+- "société"
+- "travail"
 
-og-tags: "Société, Travail"
+og-tags: "société, travail"
 permalink: /:categories/:year/:month/:day/:title/
 ---

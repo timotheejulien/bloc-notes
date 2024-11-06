@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Fromage"
+- "écologie"
+- "fromage"
 
-og-tags: "Écologie, Fromage"
+og-tags: "écologie, fromage"
 permalink: /:categories/:year/:month/:day/:title/
 ---

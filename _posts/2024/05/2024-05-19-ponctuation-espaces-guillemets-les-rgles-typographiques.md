@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "Typographie"
+- "typographie"
 
-og-tags: "design, Typographie"
+og-tags: "design, typographie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

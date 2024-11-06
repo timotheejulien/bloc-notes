@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "GAFAM"
+- "gafam"
 
-og-tags: "GAFAM"
+og-tags: "gafam"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Écologie"
-- "Éco-conception"
+- "ia"
+- "écologie"
+- "éco-conception"
 
-og-tags: "IA, Écologie, Éco-conception"
+og-tags: "ia, écologie, éco-conception"
 permalink: /:categories/:year/:month/:day/:title/
 ---

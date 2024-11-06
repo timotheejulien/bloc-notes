@@ -12,8 +12,8 @@ categories:
 tags:
 - "design"
 - "développement"
-- "Méthodologie"
+- "méthodologie"
 
-og-tags: "design, développement, Méthodologie"
+og-tags: "design, développement, méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

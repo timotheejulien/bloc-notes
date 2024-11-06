@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Signal walks the line between anarchism and pragmatism"
+title: "How signal walks the line between anarchism and pragmatism"
 link: "https://www.wired.com/story/signal-politics-software-criticism"
 author: N/A
 published_date: "19/05/2024"
@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "app"
 - "apple"
-- "RéseauSocial"
-- "Signal"
+- "réseau-social"
+- "signal"
 
-og-tags: "ViePrivée, app, apple, Réseau social, Signal"
+og-tags: "vie-privée, app, apple, Réseau social, signal"
 permalink: /:categories/:year/:month/:day/:title/
 ---

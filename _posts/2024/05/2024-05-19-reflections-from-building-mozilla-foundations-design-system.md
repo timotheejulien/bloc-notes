@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Mozilla"
+- "mozilla"
 - "design"
 - "design-system"
 
-og-tags: "Mozilla, design, design-system"
+og-tags: "mozilla, design, design-system"
 permalink: /:categories/:year/:month/:day/:title/
 ---

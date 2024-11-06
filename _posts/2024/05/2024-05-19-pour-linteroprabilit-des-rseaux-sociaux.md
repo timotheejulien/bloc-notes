@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "RéseauSocial"
-- "Web"
-- "Technologie"
+- "vie-privée"
+- "réseau-social"
+- "web"
+- "technologie"
 
-og-tags: "ViePrivée, Réseau social, Web, Technologie"
+og-tags: "vie-privée, Réseau social, web, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

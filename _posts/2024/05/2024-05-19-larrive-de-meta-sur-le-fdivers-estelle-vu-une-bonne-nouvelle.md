@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "GAFAM"
-- "Meta"
-- "Mastodon"
-- "Fediverse"
+- "vie-privée"
+- "gafam"
+- "meta"
+- "mastodon"
+- "fediverse"
 
-og-tags: "ViePrivée, GAFAM, Meta, Mastodon, Fediverse"
+og-tags: "vie-privée, gafam, meta, mastodon, fediverse"
 permalink: /:categories/:year/:month/:day/:title/
 ---

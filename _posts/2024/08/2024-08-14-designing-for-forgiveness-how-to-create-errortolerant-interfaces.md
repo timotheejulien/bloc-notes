@@ -11,9 +11,9 @@ categories:
 
 tags:
 - "design"
-- "UI"
-- "UX"
+- "ui"
+- "ux"
 
-og-tags: "design, UI, UX"
+og-tags: "design, ui, ux"
 permalink: /:categories/:year/:month/:day/:title/
 ---

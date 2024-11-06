@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Hacking"
-- "Société"
+- "hacking"
+- "société"
 
-og-tags: "Hacking, Société"
+og-tags: "hacking, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

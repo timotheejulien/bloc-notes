@@ -13,8 +13,8 @@ tags:
 - "app"
 - "design"
 - "adobe"
-- "Figma"
+- "figma"
 
-og-tags: "app, design, adobe, Figma"
+og-tags: "app, design, adobe, figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

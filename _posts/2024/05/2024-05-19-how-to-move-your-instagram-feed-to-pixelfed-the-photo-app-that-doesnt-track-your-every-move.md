@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "How to move your instagram feed to pixelfed, the photo app that doesn't track your every move"
+title: "How to move your Instagram feed to Pixelfed, the photo app that doesn't track your every move"
 link: "https://www.wired.com/story/migrate-move-instagram-to-pixelfed-no-tracking-fediverse"
 author: N/A
 published_date: "19/05/2024"
-description: ""
+description: "How to Move Your Instagram Feed to Pixelfed, the Photo App That Doesn't Track Your Every Move
+The decentralized Instagram alternative is a great option if you want to back up your feed, focus on photo-sharing, or cut loose from Meta's empire entirely. And making the leap is surprisingly easy."
 language: en
 categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "app"
-- "Pixelfed"
+- "pixelfed"
 
-og-tags: "ViePrivée, app, Pixelfed"
+og-tags: "vie-privée, app, pixelfed"
 permalink: /:categories/:year/:month/:day/:title/
 ---

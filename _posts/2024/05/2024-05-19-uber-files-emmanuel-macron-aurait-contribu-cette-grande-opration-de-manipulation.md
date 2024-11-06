@@ -2,18 +2,18 @@
 layout: post
 title: "Uber files : emmanuel macron aurait contribué à cette « grande opération de manipulation »"
 link: "https://www.numerama.com/politique/1450744-uber-files-emmanuel-macron-aurait-contribue-a-cette-grande-operation-de-manipulation.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Aurore Gayte
+published_date: "18/07/2023"
+description: "La commission d’enquête parlementaire sur Uber et ses opérations de lobbying auprès du gouvernement français a rendu ses conclusions. Le rapport indique que l’entreprise aurait « trouvé des alliés » au sein du gouvernement au moment de son arrivée en France, notamment Emmanuel Macron, alors ministre de l’Économie. "
 language: fr
 categories:
 - Liens
 
 tags:
-- "Société"
-- "Politique"
-- "Uber"
+- "société"
+- "politique"
+- "uber"
 
-og-tags: "Société, Politique, Uber"
+og-tags: "société, politique, uber"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "cnil"
 
-og-tags: "ViePrivée, cnil"
+og-tags: "vie-privée, cnil"
 permalink: /:categories/:year/:month/:day/:title/
 ---

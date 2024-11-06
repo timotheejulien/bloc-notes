@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "design"
-- "Société"
+- "société"
 - "accessibilité"
-- "Numérique"
+- "numérique"
 
-og-tags: "design, Société, accessibilité, Numérique"
+og-tags: "design, société, accessibilité, numérique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

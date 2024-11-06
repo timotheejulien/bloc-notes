@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-05T08:52:38+01:00</updated>
+   <updated>2024-11-06T08:11:22+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Apple : la pomme écrasée par sa pub</title>
+         <link href="/liens/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/"/>
+         <updated>2024-11-05T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/</id>
+
+         <content type="html">
+            Dans ce spot publicitaire, une presse hydraulique écrase trompette, pots de peinture et guitare pour ne laisser qu’une fine tablette iPad. Mais pourquoi cette image du virtuel, venant écraser les symboles de la créativité humaine, a-t-elle suscitée une si vive émotion ? Dès sa présentation sur X en mai 2024 par le PDG d’Apple, cette publicité a suscité un véritable tollé. Accusé sur les réseaux sociaux de prôner la destruction du génie humain à grands coups d’intelligence artificielle, le géant californien s’est vu contraint de faire machine arrière. Maxime Delmas, spécialiste de la créativité marketing et publicitaire, nous explique comment ce bad buzz, inhabituel pour la marque, s’est déclenché. Pour Catherine Dufour, autrice de science-fiction et ingénieure, les codes visuels pour vanter le progrès technique se sont inversés. Désormais, l’intelligence artificielle nous plonge dans un monde angoissant. 
+         </content>
+      </entry>
    
       <entry>
          <title>Sortir du techno-pessimisme</title>
@@ -36,13 +47,13 @@
       </entry>
    
       <entry>
-         <title>Est ce qu'il faut bloquer les chatbots IA sur son site web ?</title>
+         <title>Est ce qu'il faut bloquer les chatbots ia sur son site web ?</title>
          <link href="/liens/2024/11/01/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/"/>
          <updated>2024-11-01T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/11/01/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/</id>
 
          <content type="html">
-            Il semble qu&apos;il y ait un débat sur l&apos;opportunité d&apos;empêcher ou non les chatbots IA d&apos;explorer et d&apos;accéder aux sites web. Alors que certains soutiennent que le blocage des robots IA pourrait limiter la visibilité et l&apos;engagement des utilisateurs qui s&apos;appuient sur ces outils pour la découverte et l&apos;interaction de contenu, d&apos;autres s&apos;inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l&apos;IA.
+            Il semble qu&apos;il y ait un débat sur l&apos;opportunité d&apos;empêcher ou non les chatbots ia d&apos;explorer et d&apos;accéder aux sites web. Alors que certains soutiennent que le blocage des robots ia pourrait limiter la visibilité et l&apos;engagement des utilisateurs qui s&apos;appuient sur ces outils pour la découverte et l&apos;interaction de contenu, d&apos;autres s&apos;inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l&apos;ia.
          </content>
       </entry>
    
@@ -53,29 +64,29 @@
          <id>http://localhost:4000/liens/2024/10/31/matignon-veut-suivre-vos-recherches-sur-le-web-et-les-reseaux-sociaux/</id>
 
          <content type="html">
-            Les Français pourraient prochainement voir leurs activités numériques plus étroitement analysées par le gouvernement. Un nouvel appel d’offre vient d’être lancé par le service d’informations de ce dernier. Il concerne la surveillance des recherches effectuées sur les principales plateformes numériques, incluant Google, TikTok et Instagram.
+            Les Français pourraient prochainement voir leurs activités numériques plus étroitement analysées par le gouvernement. Un nouvel appel d’offre vient d’être lancé par le service d’informations de ce dernier. Il concerne la surveillance des recherches effectuées sur les principales plateformes numériques, incluant google, tiktok et Instagram.
          </content>
       </entry>
    
       <entry>
-         <title>L’IA Open Source existe-t-elle vraiment ?</title>
+         <title>L’ia Open Source existe-t-elle vraiment ?</title>
          <link href="/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/"/>
          <updated>2024-10-31T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/</id>
 
          <content type="html">
-            À l’heure où tous les mastodontes du numérique, GAFAM comme instituts de recherche comme nouveaux entrants financés par le capital risque se mettent à publier des modèles en masse (la plateforme Hugging Face a ainsi dépassé le million de modèles déposés le mois dernier), la question du caractère « open-source » de l’IA se pose de plus en plus.
+            À l’heure où tous les mastodontes du numérique, gafam comme instituts de recherche comme nouveaux entrants financés par le capital risque se mettent à publier des modèles en masse (la plateforme Hugging Face a ainsi dépassé le million de modèles déposés le mois dernier), la question du caractère « open-source » de l’ia se pose de plus en plus.
          </content>
       </entry>
    
       <entry>
-         <title>Internet est mort, vive internet !</title>
+         <title>internet est mort, vive internet !</title>
          <link href="/liens/2024/10/30/internet-est-mort-vive-internet/"/>
          <updated>2024-10-30T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/10/30/internet-est-mort-vive-internet/</id>
 
          <content type="html">
-            Et si l&apos;Apocalypse avait déjà eu lieu... sur internet ? La preuve : des images de Jésus en crevette qui envahissent nos fils d’actualité Facebook abandonnés et amassent des millions de likes et de commentaires. “Shrimp Jesus”, seigneur des crustacés version intelligence artificielle, est l&apos;une des nombreuses manifestations de la théorie de l&apos;Internet mort, une théorie du complot un peu barge qui révèle pourtant un changement bien réel sur le web : les bots sont en train de nous grand remplacer. Aujourd&apos;hui, plus de la moitié du trafic Internet est généré par des bots, et la plupart de nos interactions en ligne n&apos;ont donc quasiment plus rien d&apos;humain. Tracks part à la rencontre des artistes qui préparent les funérailles du World Wide Web, et imaginent la vie après la déconnexion. L&apos;artiste Aleks Slota, habitué des performances extrêmes, est devenu collectionneur des images pieuses générées par IA sur un internet zombie qui vit ses dernières heures, le duo ! Mediengruppe Bitnik recherche la source des diktats algorithmiques qui influencent notre vision du monde, tandis que Lou Fauroux nous emmène en cure de désintoxication après l’effondrement du web. Internet, 1983 - ? RIP.
+            Et si l&apos;Apocalypse avait déjà eu lieu... sur internet ? La preuve : des images de Jésus en crevette qui envahissent nos fils d’actualité facebook abandonnés et amassent des millions de likes et de commentaires. “Shrimp Jesus”, seigneur des crustacés version intelligence artificielle, est l&apos;une des nombreuses manifestations de la théorie de l&apos;internet mort, une théorie du complot un peu barge qui révèle pourtant un changement bien réel sur le web : les bots sont en train de nous grand remplacer. Aujourd&apos;hui, plus de la moitié du trafic internet est généré par des bots, et la plupart de nos interactions en ligne n&apos;ont donc quasiment plus rien d&apos;humain. Tracks part à la rencontre des artistes qui préparent les funérailles du World Wide web, et imaginent la vie après la déconnexion. L&apos;artiste Aleks Slota, habitué des performances extrêmes, est devenu collectionneur des images pieuses générées par ia sur un internet zombie qui vit ses dernières heures, le duo ! Mediengruppe Bitnik recherche la source des diktats algorithmiques qui influencent notre vision du monde, tandis que Lou Fauroux nous emmène en cure de désintoxication après l’effondrement du web. internet, 1983 - ? RIP.
          </content>
       </entry>
    
@@ -97,12 +108,12 @@
          <id>http://localhost:4000/liens/2024/10/29/vrais-et-faux-risques-de-lintelligence-artificielle/</id>
 
          <content type="html">
-            Ceux qui suivent depuis un moment les développements de l’intelligence artificielle (IA) l’auront noté : c’est de manière cyclique que surgissent d’une part les bouquets de promesses, de l’autre les peurs et les doutes. Ainsi la décennie 2010 aura suscité tous les espoirs, après la sortie d’un long « hiver de l’IA » et l’émergence des modèles d’apprentissage profond. Dès 2015, une rafale de critiques vient néanmoins plomber l’ambiance, pointant les controverses sociotechniques liées à ces progrès, le tout alimenté de nombreux ouvrages en sciences humaines et en France, la publication du très lu Rapport Villani. Un nouveau cycle de promesses s’amorce à l’orée de l’année 2023, avec le déploiement des grands modèles de langage, aussitôt suivi de questionnements quant à leurs impacts social et environnemental. De ce mouvement de balancier, nous pourrions espérer une plus grande maturité collective dans l’appréhension commune des enjeux liés à l’IA. Celle-ci est loin d’être acquise. Dans la cacophonie médiatique comme dans le fond des sujets, l’appréhension et la hiérarchisation des risques de l’intelligence artificielle vise souvent à côté, et les réponses aux antédiluviennes questions sur les dégâts du progrès sont toujours attendues. Nous souhaitons avec ce texte, réarmer le débat sur l’IA en portant l’attention – un peu arbitrairement peut-être –  sur cinq angles morts qui le polluent actuellement.
+            Ceux qui suivent depuis un moment les développements de l’intelligence artificielle (ia) l’auront noté : c’est de manière cyclique que surgissent d’une part les bouquets de promesses, de l’autre les peurs et les doutes. Ainsi la décennie 2010 aura suscité tous les espoirs, après la sortie d’un long « hiver de l’ia » et l’émergence des modèles d’apprentissage profond. Dès 2015, une rafale de critiques vient néanmoins plomber l’ambiance, pointant les controverses sociotechniques liées à ces progrès, le tout alimenté de nombreux ouvrages en sciences humaines et en France, la publication du très lu Rapport Villani. Un nouveau cycle de promesses s’amorce à l’orée de l’année 2023, avec le déploiement des grands modèles de langage, aussitôt suivi de questionnements quant à leurs impacts social et environnemental. De ce mouvement de balancier, nous pourrions espérer une plus grande maturité collective dans l’appréhension commune des enjeux liés à l’ia. Celle-ci est loin d’être acquise. Dans la cacophonie médiatique comme dans le fond des sujets, l’appréhension et la hiérarchisation des risques de l’intelligence artificielle vise souvent à côté, et les réponses aux antédiluviennes questions sur les dégâts du progrès sont toujours attendues. Nous souhaitons avec ce texte, réarmer le débat sur l’ia en portant l’attention – un peu arbitrairement peut-être –  sur cinq angles morts qui le polluent actuellement.
          </content>
       </entry>
    
       <entry>
-         <title>The zero click Internet</title>
+         <title>The zero click internet</title>
          <link href="/liens/2024/10/28/the-zero-click-internet/"/>
          <updated>2024-10-28T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/10/28/the-zero-click-internet/</id>
@@ -124,13 +135,13 @@
       </entry>
    
       <entry>
-         <title>Comment changer d’instance Mastodon ?</title>
+         <title>Comment changer d’instance mastodon ?</title>
          <link href="/liens/2024/10/27/comment-changer-dinstance-mastodon/"/>
          <updated>2024-10-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/27/comment-changer-dinstance-mastodon/</id>
 
          <content type="html">
-            L&apos;un des arguments de Mastodon, c&apos;est que le service permet de déménager un compte d&apos;un serveur à un autre. Encore faut-il savoir comment faire cela. Dans quelques minutes, cette manipulation en quelques étapes (simples) n&apos;aura plus de secrets pour vous.
+            L&apos;un des arguments de mastodon, c&apos;est que le service permet de déménager un compte d&apos;un serveur à un autre. Encore faut-il savoir comment faire cela. Dans quelques minutes, cette manipulation en quelques étapes (simples) n&apos;aura plus de secrets pour vous.
          </content>
       </entry>
    
@@ -141,12 +152,12 @@
          <id>http://localhost:4000/liens/2024/10/27/accules-dans-les-stereotypes/</id>
 
          <content type="html">
-            Les images produites par l’IA sont la somme de toutes nos représentations qu’elles renforcent. Alors que beaucoup d’entre nous souhaiteraient mettre fin aux stéréotypes, les machinent les ravivent comme nulles autres. Reste à savoir si cela va nous servir à mieux identifier les clichés ou à nous submerger sous le conformisme.
+            Les images produites par l’ia sont la somme de toutes nos représentations qu’elles renforcent. Alors que beaucoup d’entre nous souhaiteraient mettre fin aux stéréotypes, les machinent les ravivent comme nulles autres. Reste à savoir si cela va nous servir à mieux identifier les clichés ou à nous submerger sous le conformisme.
          </content>
       </entry>
    
       <entry>
-         <title>Three UX laws that optimize information seeking</title>
+         <title>Three ux laws that optimize information seeking</title>
          <link href="/liens/2024/10/26/three-ux-laws-that-optimise-information-seeking/"/>
          <updated>2024-10-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/26/three-ux-laws-that-optimise-information-seeking/</id>
@@ -168,7 +179,7 @@
       </entry>
    
       <entry>
-         <title>UX Cognitive Bias Cards and Workshop</title>
+         <title>ux Cognitive Bias Cards and Workshop</title>
          <link href="/liens/2024/10/25/ux-cognitive-bias-cards-workshop/"/>
          <updated>2024-10-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/25/ux-cognitive-bias-cards-workshop/</id>
@@ -245,7 +256,7 @@
       </entry>
    
       <entry>
-         <title>Podcast – l’IA, la clé pour déchiffrer nos messageries sécurisées ?</title>
+         <title>podcast – l’ia, la clé pour déchiffrer nos messageries sécurisées ?</title>
          <link href="/liens/2024/10/14/podcast-lia-la-cl-pour-dchiffrer-nos-messageries-scurises/"/>
          <updated>2024-10-14T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/14/podcast-lia-la-cl-pour-dchiffrer-nos-messageries-scurises/</id>
@@ -289,13 +300,13 @@
       </entry>
    
       <entry>
-         <title>Les mythes de l’IA</title>
+         <title>Les mythes de l’ia</title>
          <link href="/liens/2024/10/08/les-mythes-de-lia/"/>
          <updated>2024-10-08T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/08/les-mythes-de-lia/</id>
 
          <content type="html">
-            Les discours autour de l’IA produisent des mythes qui influencent notre compréhension de ce qu’elle est, produisant une perception confuse de leur réalité… pour mieux influer les transformations légales à venir.
+            Les discours autour de l’ia produisent des mythes qui influencent notre compréhension de ce qu’elle est, produisant une perception confuse de leur réalité… pour mieux influer les transformations légales à venir.
          </content>
       </entry>
    
@@ -322,13 +333,13 @@
       </entry>
    
       <entry>
-         <title>Firefox vous suit à la trace grâce à une fonction de préservation de la vie privée</title>
+         <title>firefox vous suit à la trace grâce à une fonction de préservation de la vie privée</title>
          <link href="/liens/2024/09/25/firefox-vous-suit-la-trace-grce-une-fonction-de-prservation-de-la-vie-prive/"/>
          <updated>2024-09-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/25/firefox-vous-suit-la-trace-grce-une-fonction-de-prservation-de-la-vie-prive/</id>
 
          <content type="html">
-            Aujourd&apos;hui, noyb a déposé une plainte contre Mozilla pour avoir discrètement activé une prétendue fonction de confidentialité (appelée Privacy Preserving Attribution) dans son navigateur Firefox. Contrairement à son nom rassurant, cette technologie permet à Firefox de suivre le comportement des utilisateurs sur les sites web. En substance, c&apos;est le navigateur qui contrôle le suivi, et non plus les sites web individuels. Bien qu&apos;il s&apos;agisse d&apos;une amélioration par rapport au suivi des cookies, encore plus invasif, l&apos;entreprise n&apos;a jamais demandé à ses utilisateurs s&apos;ils souhaitaient l&apos;activer. Au lieu de cela, Mozilla a décidé de l&apos;activer par défaut une fois que les utilisateurs ont installé une récente mise à jour logicielle. Cette décision est d&apos;autant plus inquiétante que Mozilla a généralement la réputation d&apos;être une alternative respectueuse de la vie privée, alors que la plupart des autres navigateurs sont basés sur Chromium de Google.
+            Aujourd&apos;hui, noyb a déposé une plainte contre mozilla pour avoir discrètement activé une prétendue fonction de confidentialité (appelée Privacy Preserving Attribution) dans son navigateur firefox. Contrairement à son nom rassurant, cette technologie permet à firefox de suivre le comportement des utilisateurs sur les sites web. En substance, c&apos;est le navigateur qui contrôle le suivi, et non plus les sites web individuels. Bien qu&apos;il s&apos;agisse d&apos;une amélioration par rapport au suivi des cookies, encore plus invasif, l&apos;entreprise n&apos;a jamais demandé à ses utilisateurs s&apos;ils souhaitaient l&apos;activer. Au lieu de cela, mozilla a décidé de l&apos;activer par défaut une fois que les utilisateurs ont installé une récente mise à jour logicielle. Cette décision est d&apos;autant plus inquiétante que mozilla a généralement la réputation d&apos;être une alternative respectueuse de la vie privée, alors que la plupart des autres navigateurs sont basés sur Chromium de google.
          </content>
       </entry>
    
@@ -366,13 +377,13 @@
       </entry>
    
       <entry>
-         <title>IA : la guerre des données aura-t-elle lieu ?</title>
+         <title>ia : la guerre des données aura-t-elle lieu ?</title>
          <link href="/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/"/>
          <updated>2024-09-15T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/</id>
 
          <content type="html">
-            Coûteux financièrement et écologiquement parlant, l’entraînement des modèles d’IA générative sur la base de nos données est aussi sous le feu des associations de protection de la vie privée. Pour contourner le problème, le recours aux données synthétiques s’impose de plus en plus. La donnée synthétique est-elle « si fantastique » ? Quelques éléments de réponse.
+            Coûteux financièrement et écologiquement parlant, l’entraînement des modèles d’ia générative sur la base de nos données est aussi sous le feu des associations de protection de la vie privée. Pour contourner le problème, le recours aux données synthétiques s’impose de plus en plus. La donnée synthétique est-elle « si fantastique » ? Quelques éléments de réponse.
          </content>
       </entry>
    
@@ -388,13 +399,13 @@
       </entry>
    
       <entry>
-         <title>L’IA peut-elle nous réconcilier avec le travail ?</title>
+         <title>L’ia peut-elle nous réconcilier avec le travail ?</title>
          <link href="/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/"/>
          <updated>2024-09-06T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/</id>
 
          <content type="html">
-            Avec l’introduction des outils d’IA générative auprès du grand public, l’histoire entre technologies et monde du travail se poursuit. Et si l’IA générative devenait notre Best Work Buddy (meilleur partenaire de travail en anglais), à quoi ressemblerait le travail – et notre relation avec lui ? La réponse en trois hypothèses tirées du HP Work Relationship Index.
+            Avec l’introduction des outils d’ia générative auprès du grand public, l’histoire entre technologies et monde du travail se poursuit. Et si l’ia générative devenait notre Best Work Buddy (meilleur partenaire de travail en anglais), à quoi ressemblerait le travail – et notre relation avec lui ? La réponse en trois hypothèses tirées du HP Work Relationship Index.
          </content>
       </entry>
    
@@ -410,13 +421,13 @@
       </entry>
    
       <entry>
-         <title>Pique et pique et Telegram. Plus Durov sera la chute.</title>
+         <title>Pique et pique et telegram. Plus Durov sera la chute.</title>
          <link href="/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/"/>
          <updated>2024-09-05T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/</id>
 
          <content type="html">
-            Le monde (numérique) se divise en 2 catégories. Ceux qui ont un pistolet chargé pensent que la liberté d’expression doit y être totale, et ceux qui creusent pensent qu’elle doit y être encadrée comme dans tout espace public. L’occasion de l’arrestation de Pavel Durov (aussi orthographié Dourov), patron du réseau social Telegram, soulève une infinité de questions passionnantes dans le contexte politique actuel de nos usages et environnements numériques.
+            Le monde (numérique) se divise en 2 catégories. Ceux qui ont un pistolet chargé pensent que la liberté d’expression doit y être totale, et ceux qui creusent pensent qu’elle doit y être encadrée comme dans tout espace public. L’occasion de l’arrestation de Pavel Durov (aussi orthographié Dourov), patron du réseau social telegram, soulève une infinité de questions passionnantes dans le contexte politique actuel de nos usages et environnements numériques.
          </content>
       </entry>
    
@@ -427,7 +438,7 @@
          <id>http://localhost:4000/liens/2024/08/28/larrestation-de-pavel-durov-au-del-du-bruit-mdiatique/</id>
 
          <content type="html">
-            L&apos;arrestation de Pavel Durov, patron de Telegram est-elle un coup porté à la liberté d’expression ? Contrairement aux apparences, ce n’est pas du tout aussi simple que cela.
+            L&apos;arrestation de Pavel Durov, patron de telegram est-elle un coup porté à la liberté d’expression ? Contrairement aux apparences, ce n’est pas du tout aussi simple que cela.
          </content>
       </entry>
    
@@ -449,29 +460,29 @@
          <id>http://localhost:4000/liens/2024/08/28/alors-a-ressemblerait-quoi-un-mdia-social-au-design-thique/</id>
 
          <content type="html">
-            Comment voir émerger des médias sociaux vertueux ? Actuellement, leurs interfaces sont conçues dans une optique de captation du temps et d’aliénation des utilisateurs. Plusieurs organisations comme l’association designers Éthiques proposent des alternatives s’adaptant aux problématiques sociales et démocratiques.
+            Comment voir émerger des médias sociaux vertueux ? Actuellement, leurs interfaces sont conçues dans une optique de captation du temps et d’aliénation des utilisateurs. Plusieurs organisations comme l’association designers éthiques proposent des alternatives s’adaptant aux problématiques sociales et démocratiques.
          </content>
       </entry>
    
       <entry>
-         <title>UX deliverables: glossary</title>
+         <title>ux deliverables: glossary</title>
          <link href="/liens/2024/08/27/ux-deliverables-glossary/"/>
          <updated>2024-08-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/27/ux-deliverables-glossary/</id>
 
          <content type="html">
-            Use this glossary to quickly clarify key terms and concepts related to UX deliverables. 
+            Use this glossary to quickly clarify key terms and concepts related to ux deliverables. 
          </content>
       </entry>
    
       <entry>
-         <title>Telegram n'est pas une messagerie sécurisée</title>
+         <title>telegram n'est pas une messagerie sécurisée</title>
          <link href="/liens/2024/08/26/telegram-nest-pas-une-messagerie-scurise/"/>
          <updated>2024-08-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/26/telegram-nest-pas-une-messagerie-scurise/</id>
 
          <content type="html">
-            Le fondateur et dirigeant de Telegram, Pavel Durov, est détenu en France à la surprise générale. Il a été interpellé près de Paris alors qu’il venait d’arriver avec son jet privé. L’arrestation du patron de l’une des applications les plus utilisées au monde, notamment en Ukraine et en Russie, provoque depuis de nombreux commentaires, y compris sur le thème de la liberté d’expression.
+            Le fondateur et dirigeant de telegram, Pavel Durov, est détenu en France à la surprise générale. Il a été interpellé près de Paris alors qu’il venait d’arriver avec son jet privé. L’arrestation du patron de l’une des applications les plus utilisées au monde, notamment en Ukraine et en russie, provoque depuis de nombreux commentaires, y compris sur le thème de la liberté d’expression.
          </content>
       </entry>
    
@@ -482,12 +493,12 @@
          <id>http://localhost:4000/liens/2024/08/26/que-se-passetil-avec-telegram-et-larrestation-de-pavel-durov/</id>
 
          <content type="html">
-            Le fondateur et dirigeant de Telegram, Pavel Durov, est détenu en France à la surprise générale. Il a été interpellé près de Paris alors qu’il venait d’arriver avec son jet privé. L’arrestation du patron de l’une des applications les plus utilisées au monde, notamment en Ukraine et en Russie, provoque depuis de nombreux commentaires, y compris sur le thème de la liberté d’expression.
+            Le fondateur et dirigeant de telegram, Pavel Durov, est détenu en France à la surprise générale. Il a été interpellé près de Paris alors qu’il venait d’arriver avec son jet privé. L’arrestation du patron de l’une des applications les plus utilisées au monde, notamment en Ukraine et en russie, provoque depuis de nombreux commentaires, y compris sur le thème de la liberté d’expression.
          </content>
       </entry>
    
       <entry>
-         <title>Affaire Telegram : un test pour l’union européenne</title>
+         <title>Affaire telegram : un test pour l’union européenne</title>
          <link href="/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/"/>
          <updated>2024-08-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/</id>
@@ -498,7 +509,7 @@
       </entry>
    
       <entry>
-         <title>Pavel Durov, le patron de Telegram, interpellé à l’aéroport du bourget</title>
+         <title>Pavel Durov, le patron de telegram, interpellé à l’aéroport du Bourget</title>
          <link href="/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/"/>
          <updated>2024-08-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/</id>
@@ -509,13 +520,13 @@
       </entry>
    
       <entry>
-         <title>Moteurs de recherche et IA : à la recherche de l’aiguille dans la botte de data.</title>
+         <title>Moteurs de recherche et ia : à la recherche de l’aiguille dans la botte de data.</title>
          <link href="/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/"/>
          <updated>2024-08-24T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/</id>
 
          <content type="html">
-            [article initialement rédigé en Décembre 2023. Il a ensuite failli devenir un petit chapitre de mon dernier bad seller dont il est toujours possible de faire un best-seller 😉 Et puis finalement non. Mais aujourd’hui il le complète utilement sur l’un des aspects que je ne traite pas ou très peu dans “Les IA à l’assaut du cyberespace“, à savoir l’utilisation des artefacts génératifs par et dans les moteurs de recherche. Toute une partie de ce billet a été écrite et actualisée ces derniers jours – Août 2024. Comme il est un peu long je vous donne un rapide résumé de son objet : tenter de mesurer et de comprendre ce que change l’intégration des résultats de recherche sous la forme de “générations de textes” dans nos pratiques informationelles et dans cette fameuse “écologie cognitive” que j’interroge sur ce blog depuis presque 20 ans. Spoiler Alert : ça change pas mal de choses, et pas forcément dans le bon sens.]
+            [Article initialement rédigé en Décembre 2023. Il a ensuite failli devenir un petit chapitre de mon dernier bad seller dont il est toujours possible de faire un best-seller 😉 Et puis finalement non. Mais aujourd’hui il le complète utilement sur l’un des aspects que je ne traite pas ou très peu dans “Les ia à l’assaut du cyberespace“, à savoir l’utilisation des artefacts génératifs par et dans les moteurs de recherche. Toute une partie de ce billet a été écrite et actualisée ces derniers jours – Août 2024. Comme il est un peu long je vous donne un rapide résumé de son objet : tenter de mesurer et de comprendre ce que change l’intégration des résultats de recherche sous la forme de “générations de textes” dans nos pratiques informationelles et dans cette fameuse “écologie cognitive” que j’interroge sur ce blog depuis presque 20 ans. Spoiler Alert : ça change pas mal de choses, et pas forcément dans le bon sens.]
          </content>
       </entry>
    
@@ -526,7 +537,7 @@
          <id>http://localhost:4000/liens/2024/08/23/la-rvolution-visuelle-quapporte-figma-aux-nondesigners/</id>
 
          <content type="html">
-            Pourquoi Figma, en tant qu&apos;outil de travail, facilite la collaboration et l&apos;échange de feedback pour les Knowledge Worker
+            Pourquoi figma, en tant qu&apos;outil de travail, facilite la collaboration et l&apos;échange de feedback pour les Knowledge Worker
          </content>
       </entry>
    
@@ -537,7 +548,7 @@
          <id>http://localhost:4000/liens/2024/08/21/the-dying-web/</id>
 
          <content type="html">
-            The Dying Web | Matthias Endler
+            The Dying web | Matthias Endler
          </content>
       </entry>
    
@@ -575,13 +586,13 @@
       </entry>
    
       <entry>
-         <title>Mozilla wants you to love firefox again</title>
+         <title>mozilla wants you to love firefox again</title>
          <link href="/liens/2024/08/08/mozilla-wants-you-to-love-firefox-again/"/>
          <updated>2024-08-08T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/08/mozilla-wants-you-to-love-firefox-again/</id>
 
          <content type="html">
-            But can it avoid upsetting its most loyal users along the way? Last month, Mozilla made a quiet change in Firefox that caused some diehard users to revolt.
+            But can it avoid upsetting its most loyal users along the way? Last month, mozilla made a quiet change in firefox that caused some diehard users to revolt.
          </content>
       </entry>
    
@@ -630,7 +641,7 @@
       </entry>
    
       <entry>
-         <title>Figma AI tools: i’m not worried about my job anytime soon</title>
+         <title>figma AI tools: i’m not worried about my job anytime soon</title>
          <link href="/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/"/>
          <updated>2024-08-02T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/</id>
@@ -641,13 +652,13 @@
       </entry>
    
       <entry>
-         <title>Meta accepte de verser 1,4 milliard de dollars au texas pour avoir utilisé de la reconnaissance faciale sur facebook</title>
+         <title>meta accepte de verser 1,4 milliard de dollars au texas pour avoir utilisé de la reconnaissance faciale sur facebook</title>
          <link href="/liens/2024/07/31/meta-accepte-de-verser-14milliard-de-dollars-au-texas-pour-avoir-utilis-de-la-reconnaissance-faciale-sur-facebook/"/>
          <updated>2024-07-31T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/31/meta-accepte-de-verser-14milliard-de-dollars-au-texas-pour-avoir-utilis-de-la-reconnaissance-faciale-sur-facebook/</id>
 
          <content type="html">
-            De 2011 à 2021, Facebook pouvait suggérer à ses utilisateurs d’identifier leurs amis dans des photos publiées en ligne, grâce à un système capable de reconnaître leurs visages, activé le plus souvent sans leur consentement.
+            De 2011 à 2021, facebook pouvait suggérer à ses utilisateurs d’identifier leurs amis dans des photos publiées en ligne, grâce à un système capable de reconnaître leurs visages, activé le plus souvent sans leur consentement.
          </content>
       </entry>
    
@@ -663,13 +674,13 @@
       </entry>
    
       <entry>
-         <title>Les annonceurs vont suivre les performances des annonces sur Firefox</title>
+         <title>Les annonceurs vont suivre les performances des annonces sur firefox</title>
          <link href="/liens/2024/07/30/les-annonceurs-vont-suivre-les-performances-des-annonces-sur-firefox/"/>
          <updated>2024-07-30T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/30/les-annonceurs-vont-suivre-les-performances-des-annonces-sur-firefox/</id>
 
          <content type="html">
-            Mozilla, une société qui s&apos;est toujours targuée d&apos;accorder la priorité à la protection de la vie privée, est confrontée à une levée de boucliers de la part des utilisateurs à propos d&apos;une fonction de collecte de données de Firefox conçue pour aider les annonceurs à suivre les performances de leurs publicités. Pour ne rien arranger, cette fonction, appelée « Attribution préservant la vie privée » (PPA), est activée par défaut dans la dernière version du navigateur.
+            mozilla, une société qui s&apos;est toujours targuée d&apos;accorder la priorité à la protection de la vie privée, est confrontée à une levée de boucliers de la part des utilisateurs à propos d&apos;une fonction de collecte de données de firefox conçue pour aider les annonceurs à suivre les performances de leurs publicités. Pour ne rien arranger, cette fonction, appelée « Attribution préservant la vie privée » (PPA), est activée par défaut dans la dernière version du navigateur.
          </content>
       </entry>
    
@@ -685,7 +696,7 @@
       </entry>
    
       <entry>
-         <title>Obsidian miscellany</title>
+         <title>obsidian miscellany</title>
          <link href="/liens/2024/07/27/obsidian-miscellany/"/>
          <updated>2024-07-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/27/obsidian-miscellany/</id>
@@ -713,7 +724,7 @@
          <id>http://localhost:4000/liens/2024/07/24/apple-maps-launches-in-beta-on-the-web/</id>
 
          <content type="html">
-            Today, apple has launched apple Maps on the web in a surprise announcement. This beta version of apple Maps on the web is accessible via the url beta.maps.apple.com, and is said by the company to be compatible with Google Chrome, Safari, and Microsoft Edge on Windows. Additionally, developers will now be able to link out to apple Maps on the web using MapKit JS.
+            Today, apple has launched apple Maps on the web in a surprise announcement. This beta version of apple Maps on the web is accessible via the url beta.maps.apple.com, and is said by the company to be compatible with google Chrome, Safari, and microsoft Edge on Windows. Additionally, developers will now be able to link out to apple Maps on the web using MapKit JS.
          </content>
       </entry>
    
@@ -729,7 +740,7 @@
       </entry>
    
       <entry>
-         <title>designers UI/UX et logiciel libre – Maiwann</title>
+         <title>designers ui/ux et logiciel libre – Maiwann</title>
          <link href="/liens/2024/07/22/designers-uiux-et-logiciel-libre-maiwann/"/>
          <updated>2024-07-22T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/22/designers-uiux-et-logiciel-libre-maiwann/</id>
@@ -746,7 +757,7 @@
          <id>http://localhost:4000/liens/2024/07/21/pour-une-mmoire-commune-numrique/</id>
 
          <content type="html">
-            Internet est un lieu d’échange, mais sa mémoire est volatile. Nous avons tous connu des sites qui disparaissent, des ressources qui deviennent inaccessibles. Personnellement, j’ai perdu tous mes sites web avant ce blog. J’ai perdu tout ce que j’ai posté sur les réseaux sociaux, particulièrement Google+ où j’étais très actif. Cela m’a servi de leçon. La simplification à outrance de ce blog est une manière pour moi de le pérenniser.
+            internet est un lieu d’échange, mais sa mémoire est volatile. Nous avons tous connu des sites qui disparaissent, des ressources qui deviennent inaccessibles. Personnellement, j’ai perdu tous mes sites web avant ce blog. J’ai perdu tout ce que j’ai posté sur les réseaux sociaux, particulièrement google+ où j’étais très actif. Cela m’a servi de leçon. La simplification à outrance de ce blog est une manière pour moi de le pérenniser.
          </content>
       </entry>
    
@@ -779,7 +790,7 @@
          <id>http://localhost:4000/liens/2024/07/14/privacypreserving-attribution-mozilla-disappoints-us-yet-again/</id>
 
          <content type="html">
-            No shady privacy policies or back doors for advertisers proclaims the Firefox homepage, but that&apos;s no longer true in Firefox 128.
+            No shady privacy policies or back doors for advertisers proclaims the firefox homepage, but that&apos;s no longer true in firefox 128.
          </content>
       </entry>
    
@@ -795,13 +806,13 @@
       </entry>
    
       <entry>
-         <title>L’IA générative, une bulle ? Goldman Sachs met les pieds dans le plat</title>
+         <title>L’ia générative, une bulle ? Goldman Sachs met les pieds dans le plat</title>
          <link href="/liens/2024/07/11/lia-gnrative-une-bulle-goldman-sachs-met-les-pieds-dans-le-plat/"/>
          <updated>2024-07-11T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/11/lia-gnrative-une-bulle-goldman-sachs-met-les-pieds-dans-le-plat/</id>
 
          <content type="html">
-            Depuis un an au moins, diverses voix s&apos;élèvent pour qualifier la frénésie autour de l&apos;IA générative de bulle. Une idée qui devient d&apos;autant plus sérieuse que la banque Goldman Sachs elle-même donne crédit à ce type d&apos;analyse.
+            Depuis un an au moins, diverses voix s&apos;élèvent pour qualifier la frénésie autour de l&apos;ia générative de bulle. Une idée qui devient d&apos;autant plus sérieuse que la banque Goldman Sachs elle-même donne crédit à ce type d&apos;analyse.
          </content>
       </entry>
    
@@ -828,18 +839,18 @@
       </entry>
    
       <entry>
-         <title>Introducing Docs in Proton Drive – Collaborative document editing that’s actually private</title>
+         <title>Introducing Docs in proton Drive – Collaborative document editing that’s actually private</title>
          <link href="/liens/2024/07/03/introducing-docs-in-proton-drive-collaborative-document-editing-thats-actually-private/"/>
          <updated>2024-07-03T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/03/introducing-docs-in-proton-drive-collaborative-document-editing-thats-actually-private/</id>
 
          <content type="html">
-            Billions of people use online document editors like Google Docs or Microsoft 365 to write reports, collaborate on projects, and keep track of meeting notes. But there is a growing concern about Big Tech platforms having access to your content, tracking you across the web, and collecting data to train privacy-invading AI models.Today we’re announcing a new end-to-end encrypted, collaborative document editor that puts your privacy first. Docs in Proton Drive are built on the same privacy and security principles as all our services, starting with end-to-end encryption. Docs let you collaborate in real time, leave comments, add photos, and store your files securely. Best of all, it’s all private — even keystrokes and cursor movements are encrypted.
+            Billions of people use online document editors like google Docs or microsoft 365 to write reports, collaborate on projects, and keep track of meeting notes. But there is a growing concern about Big Tech platforms having access to your content, tracking you across the web, and collecting data to train privacy-invading AI models.Today we’re announcing a new end-to-end encrypted, collaborative document editor that puts your privacy first. Docs in proton Drive are built on the same privacy and security principles as all our services, starting with end-to-end encryption. Docs let you collaborate in real time, leave comments, add photos, and store your files securely. Best of all, it’s all private — even keystrokes and cursor movements are encrypted.
          </content>
       </entry>
    
       <entry>
-         <title>Don’t be fooled by Figma’s new AI features</title>
+         <title>Don’t be fooled by figma’s new AI features</title>
          <link href="/liens/2024/07/03/dont-be-fooled-by-figmas-new-ai-features/"/>
          <updated>2024-07-03T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/03/dont-be-fooled-by-figmas-new-ai-features/</id>
@@ -856,18 +867,18 @@
          <id>http://localhost:4000/liens/2024/07/02/labonnement-payant-facebook-et-instagram-est-illgal-juge-lunion-europenne/</id>
 
          <content type="html">
-            L&apos;abonnement payant à Facebook et Instagram est illégal, juge l&apos;Union européenne
+            L&apos;abonnement payant à facebook et Instagram est illégal, juge l&apos;Union européenne
          </content>
       </entry>
    
       <entry>
-         <title>Highlighting journalism on Mastodon</title>
+         <title>Highlighting journalism on mastodon</title>
          <link href="/liens/2024/07/02/highlighting-journalism-on-mastodon/"/>
          <updated>2024-07-02T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/07/02/highlighting-journalism-on-mastodon/</id>
 
          <content type="html">
-            To reinforce and encourage Mastodon as the go-to place for journalism, we’re launching a new feature today. You will notice that underneath some links shared on Mastodon, the author byline can be clicked to open the author’s associated fediverse account, right in the app. This highlights writers and journalists that are active on the fediverse, and makes it easier than ever to follow them and keep up with their future work—potentially across different publications. Writers often work with different publishers over the span of their careers, but Mastodon is the perfect platform to amass a loyal audience that you, as the author, truly own, and can take with you across the fediverse.
+            To reinforce and encourage mastodon as the go-to place for journalism, we’re launching a new feature today. You will notice that underneath some links shared on mastodon, the author byline can be clicked to open the author’s associated fediverse account, right in the app. This highlights writers and journalists that are active on the fediverse, and makes it easier than ever to follow them and keep up with their future work—potentially across different publications. Writers often work with different publishers over the span of their careers, but mastodon is the perfect platform to amass a loyal audience that you, as the author, truly own, and can take with you across the fediverse.
          </content>
       </entry>
    
@@ -878,7 +889,7 @@
          <id>http://localhost:4000/liens/2024/06/27/la-review-de-config-2024/</id>
 
          <content type="html">
-            Nous lançons Figma AI, UI3 et Figma Slides, ainsi que d&apos;importantes mises à jour de Dev Mode et des améliorations de vos fonctionnalités préférées.
+            Nous lançons figma AI, ui3 et figma Slides, ainsi que d&apos;importantes mises à jour de Dev Mode et des améliorations de vos fonctionnalités préférées.
          </content>
       </entry>
    
@@ -900,7 +911,7 @@
          <id>http://localhost:4000/liens/2024/06/26/how-to-get-answers-quickly-and-avoid-features-that-flop-by-rosie-hoggmascall-jun-2024-ux-collective/</id>
 
          <content type="html">
-            How to get answers quickly and avoid features that flop | by Rosie Hoggmascall | Jun, 2024 | UX Collective
+            How to get answers quickly and avoid features that flop | by Rosie Hoggmascall | Jun, 2024 | ux Collective
          </content>
       </entry>
    
@@ -916,7 +927,7 @@
       </entry>
    
       <entry>
-         <title>Guide de survie des aventures sur Internet</title>
+         <title>Guide de survie des aventures sur internet</title>
          <link href="/liens/2024/06/22/guide-de-survie-des-aventures-sur-internet/"/>
          <updated>2024-06-22T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/22/guide-de-survie-des-aventures-sur-internet/</id>
@@ -949,13 +960,13 @@
       </entry>
    
       <entry>
-         <title>Proton drive’s photo backup comes to ios – now everyone can protect their memories | proton</title>
+         <title>proton drive’s photo backup comes to ios – now everyone can protect their memories</title>
          <link href="/liens/2024/06/20/proton-drives-photo-backup-comes-to-ios-now-everyone-can-protect-their-memories-proton/"/>
          <updated>2024-06-20T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/20/proton-drives-photo-backup-comes-to-ios-now-everyone-can-protect-their-memories-proton/</id>
 
          <content type="html">
-            Anyone with an iPhone can now enjoy Proton Drive’s secure and private photo backup capabilities. This feature is gradually rolling out to the Proton community and will be available to everyone by the end of this week.
+            Anyone with an iPhone can now enjoy proton Drive’s secure and private photo backup capabilities. This feature is gradually rolling out to the proton community and will be available to everyone by the end of this week.
          </content>
       </entry>
    
@@ -988,7 +999,7 @@
          <id>http://localhost:4000/liens/2024/06/17/l-europe-a-relance-la-course-des-navigateurs/</id>
 
          <content type="html">
-            On penserait presque que le marché des navigateurs est plié. Google Chrome est en pôle position depuis des années et semble simplement écraser ses concurrents. Et pourtant, chez nous, quelques mouvements rebelles apparaissent ici et là.
+            On penserait presque que le marché des navigateurs est plié. google Chrome est en pôle position depuis des années et semble simplement écraser ses concurrents. Et pourtant, chez nous, quelques mouvements rebelles apparaissent ici et là.
          </content>
       </entry>
    
@@ -1054,23 +1065,23 @@
          <id>http://localhost:4000/liens/2024/06/05/comprendre-le-rechauffement-comment-nous-avons-bouleverse-le-climat/</id>
 
          <content type="html">
-            Comprendre le réchauffement climatique : comment nous avons bouleversé la planète
+            Deux siècles ont suffi à l’humanité pour dérégler le climat et enclencher une hausse des températures aux effets potentiellement dramatiques. Dans ce format visuel, « Le Monde » retrace cette évolution et les mécanismes à l’œuvre dans ce bouleversement.
          </content>
       </entry>
    
       <entry>
-         <title>Synchroniser un repo Github avec Gitlab</title>
+         <title>Synchroniser un repo github avec Gitlab</title>
          <link href="/liens/2024/06/04/synchroniser-github-et-gitlab/"/>
          <updated>2024-06-04T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/04/synchroniser-github-et-gitlab/</id>
 
          <content type="html">
-            Pour des raisons techniques, j’ai eu besoin de cloner un repo existant sur Github dans l’alternative open-source Gitlab. Je souhaitais synchroniser tout les changements effectués dans le repo Gitlab en les poussant vers le repo Github. Gitlab offre la synchronisation en PUSH vers Github à tous les utilisateurs tandis que la synchronisation en GET est réservée aux comptes Gitlab PREMIUM (payant).
+            Pour des raisons techniques, j’ai eu besoin de cloner un repo existant sur github dans l’alternative open-source Gitlab. Je souhaitais synchroniser tout les changements effectués dans le repo Gitlab en les poussant vers le repo github. Gitlab offre la synchronisation en PUSH vers github à tous les utilisateurs tandis que la synchronisation en GET est réservée aux comptes Gitlab PREMIUM (payant).
          </content>
       </entry>
    
       <entry>
-         <title>Qwant Maps, an online privacy-respecting Google Maps alternative, has been discontinued</title>
+         <title>Qwant Maps, an online privacy-respecting google Maps alternative, has been discontinued</title>
          <link href="/liens/2024/06/04/qwant-maps-an-online-privacyrespecting-google-maps-alternative-has-been-discontinued/"/>
          <updated>2024-06-04T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/04/qwant-maps-an-online-privacyrespecting-google-maps-alternative-has-been-discontinued/</id>
@@ -1116,13 +1127,13 @@ Qu&apos;est-ce qui cloche avec nos pistes cyclables ? Et comment les améliorer 
       </entry>
    
       <entry>
-         <title>PayPal is building an ad network based on your Venmo data</title>
+         <title>paypal is building an ad network based on your Venmo data</title>
          <link href="/liens/2024/05/28/paypal-building-ad-network-transaction-data/"/>
          <updated>2024-05-28T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/28/paypal-building-ad-network-transaction-data/</id>
 
          <content type="html">
-            PayPal will use your purchase information and shopping patterns to sell targeted ads.
+            paypal will use your purchase information and shopping patterns to sell targeted ads.
          </content>
       </entry>
    
@@ -1144,7 +1155,7 @@ Qu&apos;est-ce qui cloche avec nos pistes cyclables ? Et comment les améliorer 
          <id>http://localhost:4000/liens/2024/05/28/nouveau-livre-les-ia-lassaut-du-cyberespace-vers-un-web-synthtique/</id>
 
          <content type="html">
-            Nouveau livre :-) Les IA à l&amp;#8217;assaut du cyberespace. Vers un web synthétique. &amp;#8211; affordance.info
+            Nouveau livre :-) Les ia à l&amp;#8217;assaut du cyberespace. Vers un web synthétique. &amp;#8211; affordance.info
          </content>
       </entry>
    
@@ -1160,13 +1171,13 @@ Qu&apos;est-ce qui cloche avec nos pistes cyclables ? Et comment les améliorer 
       </entry>
    
       <entry>
-         <title>Tor, proxys, vpn … que choisir ?</title>
+         <title>Tor, proxys, VPN … que choisir ?</title>
          <link href="/liens/2024/05/27/tor-proxys-vpn-que-choisir/"/>
          <updated>2024-05-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/27/tor-proxys-vpn-que-choisir/</id>
 
          <content type="html">
-            Tor, proxys, VPN &amp;#8230; que choisir ?
+            Aujourd’hui, vous savez que préserver sa vie privée en ligne est devenu une priorité pour beaucoup d’entre nous (en tous cas tout bon korbenaute se sent visé). Entre les data brokers, les gouvernements véreux curieux, les fuites et les pirates informatiques, il y a de quoi vouloir protéger ses données. Voici donc un petit tour d’horizon de différentes méthodes pour modifier son adresse IP et ainsi mieux protéger une part de vos données
          </content>
       </entry>
    
@@ -1188,7 +1199,7 @@ Qu&apos;est-ce qui cloche avec nos pistes cyclables ? Et comment les améliorer 
          <id>http://localhost:4000/liens/2024/05/27/la-mthode-des-petits-pas/</id>
 
          <content type="html">
-            Ou comment mettre en place des cycles très courts dans un projet UX.
+            Ou comment mettre en place des cycles très courts dans un projet ux.
 Depuis quelques années, je suis amené à travailler sur des cycles de conceptions de plus en plus courts. Alors quand je dis court, ça ne veut pas dire bâclé. C’est plus dans l’idée de découper la conception en étapes plus succinctes avec pour chacune des étapes l’implication des utilisateurs et un livrable.
          </content>
       </entry>
@@ -1200,7 +1211,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/27/intelligence-artificielle-et-design-dinterface-vers-un-design-de-la-confiance/</id>
 
          <content type="html">
-            Intelligence artificielle et design d&amp;rsquo;interface : vers un design de la confiance ? &amp;#8211; Graphisme et interactivité
+            Intelligence Artificielle et design d&amp;rsquo;interface : vers un design de la confiance ? &amp;#8211; graphisme et interactivité
          </content>
       </entry>
    
@@ -1211,7 +1222,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/26/design-systems-vs-style-guides/</id>
 
          <content type="html">
-            design systems are a set of standards (like Google’s Material design or IBM’s Carbon design System) needed to manage design at scale. Style guides (like content or visual style guides) are just one piece in a design system.
+            design systems are a set of standards (like google’s Material design or IBM’s Carbon design System) needed to manage design at scale. Style guides (like content or visual style guides) are just one piece in a design system.
          </content>
       </entry>
    
@@ -1244,18 +1255,18 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/23/comment-lia-et-windows-10-annulent-les-efforts-de-microsoft-pour-le-climat-standblog/</id>
 
          <content type="html">
-            Comment l&apos;IA et Windows 10 annulent les efforts de Microsoft pour le climat - Standblog
+            Comment l&apos;ia et Windows 10 annulent les efforts de microsoft pour le climat - Standblog
          </content>
       </entry>
    
       <entry>
-         <title>Faire un site avec Kirby cms</title>
+         <title>Faire un site avec Kirby CMS</title>
          <link href="/liens/2024/05/22/faire-un-site-avec-kirby-cms/"/>
          <updated>2024-05-22T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/22/faire-un-site-avec-kirby-cms/</id>
 
          <content type="html">
-            Faire un site avec Kirby cms &amp;#8211; Notes
+            Après vous avoir parlé de la genèse du projet Design Accessible, voici plus de détails sur la partie technique.
          </content>
       </entry>
    
@@ -1271,13 +1282,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Comment acheter un ticket de métro ou passe Navigo sur son smartphone ? (iPhone et android)</title>
+         <title>Comment acheter un ticket de métro ou passe Navigo sur son smartphone ? (iPhone et Android)</title>
          <link href="/liens/2024/05/21/comment-mettre-son-passe-navigo-sur-son-iphone/"/>
          <updated>2024-05-21T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/21/comment-mettre-son-passe-navigo-sur-son-iphone/</id>
 
          <content type="html">
-            Comment mettre son passe Navigo sur son iPhone - Numerama
+            Depuis 2024, les propriétaires d’iPhone et de smartphone Android peuvent enfin utiliser leur téléphone pour prendre le métro, le tramway ou le bus en région Île-de-France. On peut aussi acheter un titre ou un forfait dématérialisé directement sur notre appareil. Voici comment faire.
          </content>
       </entry>
    
@@ -1304,7 +1315,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Zoom et les politiques de confidentialité</title>
+         <title>zoom et les politiques de confidentialité</title>
          <link href="/liens/2024/05/19/zoom-et-les-politiques-de-confidentialit/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/zoom-et-les-politiques-de-confidentialit/</id>
@@ -1315,7 +1326,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Zoom change ses conditions d'utilisation et s'octroie le droit d'utiliser les données des utilisateurs pour entraîner son ia sans leur consentement, ni possibilité de s'y opposer</title>
+         <title>zoom change ses conditions d'utilisation et s'octroie le droit d'utiliser les données des utilisateurs pour entraîner son ia sans leur consentement, ni possibilité de s'y opposer</title>
          <link href="/liens/2024/05/19/zoom-change-ses-conditions-dutilisation-et-soctroie-le-droit-dutiliser-les-donnes-des-utilisateurs-pour-entraner-son-ia-sans-leur-consentement-ni-possibilit-de-sy-opposer/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/zoom-change-ses-conditions-dutilisation-et-soctroie-le-droit-dutiliser-les-donnes-des-utilisateurs-pour-entraner-son-ia-sans-leur-consentement-ni-possibilit-de-sy-opposer/</id>
@@ -1326,13 +1337,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Youtube is getting serious about blocking ad blockers</title>
+         <title>YouTube is getting serious about blocking ad blockers</title>
          <link href="/liens/2024/05/19/youtube-is-getting-serious-about-blocking-ad-blockers/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/youtube-is-getting-serious-about-blocking-ad-blockers/</id>
 
          <content type="html">
-            
+            YouTube has confirmed that it has ‘launched a global effort’ to crack down on ad blockers. 
          </content>
       </entry>
    
@@ -1359,7 +1370,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Why Mozilla is betting on a decentralized social networking future</title>
+         <title>Why mozilla is betting on a decentralized social networking future</title>
          <link href="/liens/2024/05/19/why-mozilla-is-betting-on-a-decentralized-social-networking-future/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/why-mozilla-is-betting-on-a-decentralized-social-networking-future/</id>
@@ -1392,7 +1403,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Whatsapp chats will soon work with other encrypted messaging apps</title>
+         <title>whatsapp chats will soon work with other encrypted messaging apps</title>
          <link href="/liens/2024/05/19/whatsapp-chats-will-soon-work-with-other-encrypted-messaging-apps/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/whatsapp-chats-will-soon-work-with-other-encrypted-messaging-apps/</id>
@@ -1409,7 +1420,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/what-to-know-about-threads/</id>
 
          <content type="html">
-            
+            Today, Meta is launching its new microblogging platform called Threads. What is noteworthy about this launch is that Threads intends to become part of the decentralized social web by using the same standard protocol as Mastodon, ActivityPub. There’s been a lot of speculation around what Threads will be and what it means for Mastodon. We’ve put together some of the most common questions and our responses based on what was launched today.
          </content>
       </entry>
    
@@ -1447,7 +1458,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Vidéosurveillance algorithmique : une communauté de communes sommée de supprimer des données personnelles</title>
+         <title>vidéosurveillance algorithmique : une communauté de communes sommée de supprimer des données personnelles</title>
          <link href="/liens/2024/05/19/vidosurveillance-algorithmique-une-communaut-de-communes-somme-de-supprimer-des-donnes-personnelles/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/vidosurveillance-algorithmique-une-communaut-de-communes-somme-de-supprimer-des-donnes-personnelles/</id>
@@ -1524,13 +1535,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Une amende de plus de 100 millions d’euros pour société générale et bnp à cause… de whatsapp</title>
+         <title>Une amende de plus de 100 millions d’euros pour société Gnérale et BNP à cause… de whatsapp</title>
          <link href="/liens/2024/05/19/une-amende-de-plus-de-100-millions-deuros-pour-socit-gnrale-et-bnp-cause-de-whatsapp/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/une-amende-de-plus-de-100-millions-deuros-pour-socit-gnrale-et-bnp-cause-de-whatsapp/</id>
 
          <content type="html">
-            
+            Mieux vaut ne pas utiliser whatsapp, imessage ou signal dans le cadre du travail… voici pourquoi.
          </content>
       </entry>
    
@@ -1546,13 +1557,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Un smartphone android sans Google, c’est possible : qu’en pensent les utilisateurs ?</title>
+         <title>Un smartphone android sans google, c’est possible : qu’en pensent les utilisateurs ?</title>
          <link href="/liens/2024/05/19/un-smartphone-android-sans-google-cest-possible-quen-pensent-les-utilisateurs/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/un-smartphone-android-sans-google-cest-possible-quen-pensent-les-utilisateurs/</id>
 
          <content type="html">
-            Graphene, Lineage, Calyx, /e/ou Iodé : les systèmes d’exploitation fondés sur android, mais sans Google, séduisent les personnes avides de se défaire de l’emprise du géant américain. Ces smartphones fonctionnent-ils vraiment bien au quotidien ? 
+            Graphene, Lineage, Calyx, /e/ou Iodé : les systèmes d’exploitation fondés sur android, mais sans google, séduisent les personnes avides de se défaire de l’emprise du géant américain. Ces smartphones fonctionnent-ils vraiment bien au quotidien ? 
          </content>
       </entry>
    
@@ -1563,7 +1574,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/uber-files-emmanuel-macron-aurait-contribu-cette-grande-opration-de-manipulation/</id>
 
          <content type="html">
-            
+            La commission d’enquête parlementaire sur Uber et ses opérations de lobbying auprès du gouvernement français a rendu ses conclusions. Le rapport indique que l’entreprise aurait « trouvé des alliés » au sein du gouvernement au moment de son arrivée en France, notamment Emmanuel Macron, alors ministre de l’Économie. 
          </content>
       </entry>
    
@@ -1684,7 +1695,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/tout-comprendre-au-dsa-la-loi-europenne-qui-encadre-les-gants-du-web/</id>
 
          <content type="html">
-            Après avoir transformé Internet avec le RGPD, l’Union européenne frappe encore plus fort avec le Digital Services Act, sa règlementation conçue pour encadrer les Google, Facebook, amazon, Microsoft, apple ou TikTok. Le DSA fixe une multitude de nouvelles règles exigeantes, qui pourraient changer les grandes plateformes à tout jamais.
+            Après avoir transformé internet avec le rgpd, l’Union européenne frappe encore plus fort avec le Digital Services Act, sa règlementation conçue pour encadrer les google, facebook, amazon, microsoft, apple ou tiktok. Le DSA fixe une multitude de nouvelles règles exigeantes, qui pourraient changer les grandes plateformes à tout jamais.
          </content>
       </entry>
    
@@ -1700,7 +1711,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>TikTok : danger ou non pour les enfants ?</title>
+         <title>tiktok : danger ou non pour les enfants ?</title>
          <link href="/liens/2024/05/19/tiktok-danger-ou-non-pour-les-enfants/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/tiktok-danger-ou-non-pour-les-enfants/</id>
@@ -1711,7 +1722,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>This guy has built an open source search engine as an alternative to Google in his spare time</title>
+         <title>This guy has built an open source search engine as an alternative to google in his spare time</title>
          <link href="/liens/2024/05/19/this-guy-has-built-an-open-source-search-engine-as-an-alternative-to-google-in-his-spare-time/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/this-guy-has-built-an-open-source-search-engine-as-an-alternative-to-google-in-his-spare-time/</id>
@@ -1722,13 +1733,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>The ux of lego interface panels</title>
+         <title>The ux of Lego interface panels</title>
          <link href="/liens/2024/05/19/the-ux-of-lego-interface-panels/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/the-ux-of-lego-interface-panels/</id>
 
          <content type="html">
-            
+            Piloting an ocean exploration ship or Martian research shuttle is serious business. Let&apos;s hope the control panel is up to scratch. Two studs wide and angled at 45°, the ubiquitous « 2x2 decorated slope » is a LEGO minifigure&apos;s interface to the world. These iconic, low-resolution designs are the perfect tool to learn the basics of physical interface design. Armed with 52 different bricks, let&apos;s see what they can teach us about the design, layout and organisation of complex interfaces. Welcome to the world of LEGO ux design.
          </content>
       </entry>
    
@@ -1750,7 +1761,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/the-internets-own-boy/</id>
 
          <content type="html">
-            
+            Ce film raconte l&apos;histoire de Aaron Swartz, programmeur de génie et activiste de l&apos;information. Depuis l&apos;aide qu&apos;il a apportée au développement de RSS, l&apos;un des protocoles à la base d&apos;Internet, à la co-fondation de Reddit, son empreinte est partout sur Internet.
          </content>
       </entry>
    
@@ -1788,7 +1799,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Surveillance et hadopi : la justice européenne enterre un peu plus l’anonymat en ligne</title>
+         <title>surveillance et hadopi : la justice européenne enterre un peu plus l’anonymat en ligne</title>
          <link href="/liens/2024/05/19/surveillance-et-hadopi-la-justice-europenne-enterre-un-peu-plus-lanonymat-en-ligne/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/surveillance-et-hadopi-la-justice-europenne-enterre-un-peu-plus-lanonymat-en-ligne/</id>
@@ -1799,7 +1810,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Surveillance en permanence : les sentiments mitigés des utilisateurs</title>
+         <title>surveillance en permanence : les sentiments mitigés des utilisateurs</title>
          <link href="/liens/2024/05/19/surveillance-en-permanence-les-sentiments-mitigs-des-utilisateurs/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/surveillance-en-permanence-les-sentiments-mitigs-des-utilisateurs/</id>
@@ -1832,13 +1843,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Statut, tjm et clients, la base du freelance</title>
+         <title>Statut, TJM et clients, la base du freelance</title>
          <link href="/liens/2024/05/19/statut-tjm-et-clients-la-base-du-freelance/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/statut-tjm-et-clients-la-base-du-freelance/</id>
 
          <content type="html">
-            
+            Vous êtes experts dans votre domaine et vous voulez lancer à votre compte, alors vous allez vous retrouver novice dans un domaine, celui du freelancing. Vous devez travailler avec des freelances et vous ne comprenez pas leurs tarifs, je vais vous l’expliquer. De mon côté, ça fait 23 ans que je travaille en freelance. Quand j’ai commencé, une collègue m’a expliqué les bases et m’a aidé à fixer mon tarif. Alors je vous propose une session de rattrapage express des bases : choisir son statut, fixer son TJM (Tarif Journalier Moyen) et gérer la relation client. Avec ces bases vous devriez pouvoir vous lancer dans de bonnes conditions, négocier correctement vos premières missions, éviter quelques erreurs de débutant(e)s et trouver le bonheur dans cette nouvelle relation au travail.
          </content>
       </entry>
    
@@ -1860,7 +1871,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/sncf-deconnect/</id>
 
          <content type="html">
-            
+            Censée faciliter la vie des usagers, comment expliquer que l&apos;application SNCF Connect ait été si pleine de bugs à son lancement en janvier 2022 ? Est-ce le développement en interne qui est à l&apos;origine des problèmes techniques identifiés ?
          </content>
       </entry>
    
@@ -1876,7 +1887,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Signal’s new usernames help keep the cops out of your data</title>
+         <title>signal’s new usernames help keep the cops out of your data</title>
          <link href="/liens/2024/05/19/signals-new-usernames-help-keep-the-cops-out-of-your-data/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/signals-new-usernames-help-keep-the-cops-out-of-your-data/</id>
@@ -1992,7 +2003,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/quels-appareils-consomment-le-plus-dlectricit-la-maison/</id>
 
          <content type="html">
-            
+             Chauffage, frigo, télé... Visualisez les grands postes de dépense et les pistes d’actions pour réduire sa consommation, alors que le prix de l’électricité augmente de près de 10 % en février. 
          </content>
       </entry>
    
@@ -2063,7 +2074,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Publicité ciblée : meta annonce son intention de demander le consentement de ses utilisateurs européens</title>
+         <title>publicité ciblée : meta annonce son intention de demander le consentement de ses utilisateurs européens</title>
          <link href="/liens/2024/05/19/publicit-cible-meta-annonce-son-intention-de-demander-le-consentement-de-ses-utilisateurs-europens/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/publicit-cible-meta-annonce-son-intention-de-demander-le-consentement-de-ses-utilisateurs-europens/</id>
@@ -2074,7 +2085,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Proton publie le code source de son gestionnaire de mots de passe pour montrer qu'il n'a rien à cacher</title>
+         <title>proton publie le code source de son gestionnaire de mots de passe pour montrer qu'il n'a rien à cacher</title>
          <link href="/liens/2024/05/19/proton-publie-le-code-source-de-son-gestionnaire-de-mots-de-passe-pour-montrer-quil-na-rien-cacher/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/proton-publie-le-code-source-de-son-gestionnaire-de-mots-de-passe-pour-montrer-quil-na-rien-cacher/</id>
@@ -2124,18 +2135,18 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/pourquoi-une-grille-de-salaire/</id>
 
          <content type="html">
-            
+            Ceci est la mise à l’écrit d’une inter­ven­tion aux confé­rences MiXiT fin avril 2024. Elle ne remplace pas l’en­re­gis­tre­ment vidéo mais me permet de mettre quelques points plus en détail et en profi­ter pour placer quelques liens. Forcé­ment, parce que ça revient à faire un discours à l’écrit, c’est un peu long et pas très synthé­tique (ceci est une honteuse litote, prépa­rez-vous). Je trouve ça aussi bien fina­le­ment : c’est une histoire à lire, pas une recette à suivre.
          </content>
       </entry>
    
       <entry>
-         <title>Pourquoi sommes-nous tellement accros à Google Maps et Waze ?</title>
+         <title>Pourquoi sommes-nous tellement accros à google Maps et Waze ?</title>
          <link href="/liens/2024/05/19/pourquoi-sommesnous-tellement-accros-google-maps-et-waze/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/pourquoi-sommesnous-tellement-accros-google-maps-et-waze/</id>
 
          <content type="html">
-            S’il y’a bien un logiciel propriétaire difficile à lâcher, c’est Google Maps. Ou Waze, qui appartient également à Google. Pourquoi est-ce si compliqué de produire un logiciel de navigation libre ? Ayant passé quelques années dans cette industrie, je vais vous expliquer les différents composants d’un logiciel de navigation. Les briques de base d’un logiciel de navigation sont la position, les données, le mapmatching, le routing, la recherche et les données temps réel. Pour chaque composant, je propose une explication et une analyse des solutions libres.
+            S’il y’a bien un logiciel propriétaire difficile à lâcher, c’est google Maps. Ou Waze, qui appartient également à google. Pourquoi est-ce si compliqué de produire un logiciel de navigation libre ? Ayant passé quelques années dans cette industrie, je vais vous expliquer les différents composants d’un logiciel de navigation. Les briques de base d’un logiciel de navigation sont la position, les données, le mapmatching, le routing, la recherche et les données temps réel. Pour chaque composant, je propose une explication et une analyse des solutions libres.
          </content>
       </entry>
    
@@ -2245,12 +2256,12 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/peertube-v6-est-publi-et-conu-grce-vos-idees/</id>
 
          <content type="html">
-            
+            C’est #givingtuesday (« jour des dons »), donc nous vous offrons PeerTube v6 aujourd’hui ! PeerTube est le logiciel que nous développons pour les créatrices, médias, institutions, enseignants… Pour gérer leur propre plateforme vidéo, comme une alternative à Youtube et Twitch.
          </content>
       </entry>
    
       <entry>
-         <title>Paypal lance sa cryptomonnaie stable, indexée sur le dollar</title>
+         <title>paypal lance sa cryptomonnaie stable, indexée sur le dollar</title>
          <link href="/liens/2024/05/19/paypal-lance-sa-cryptomonnaie-stable-indexe-sur-le-dollar/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/paypal-lance-sa-cryptomonnaie-stable-indexe-sur-le-dollar/</id>
@@ -2382,7 +2393,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Numérique responsable, critique d'un oxymore</title>
+         <title>numérique responsable, critique d'un oxymore</title>
          <link href="/liens/2024/05/19/numrique-responsable-critique-dun-oxymore/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/numrique-responsable-critique-dun-oxymore/</id>
@@ -2421,7 +2432,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/ne-vous-laissez-plus-dposseder-de-vos-contenus/</id>
 
          <content type="html">
-            Nous sommes de plus en plus soucieux des dérives des GAFAM et autres acteurs majeurs du web dans l’usage de nos données personnelles ou le contrôle de nos actions. Nous y restons pourtant massivement, par facilité bien sûr (qui n’a jamais loué la facilité de publications sur Medium ?), mais aussi au prétexte que c’est là que nos familles, amis et autres “followers” se trouvent. Nous pensons donc incontournable d’y aller mettre nos contenus, au point de négliger d’autres pistes. […] Ce n’est pas forcément aussi compliqué que beaucoup le pensent, notamment grâce aux pistes et outils déjà référencés ou conçus et proposés par le mouvement IndieWeb, avec le principe POSSE : Publish (on your) Own Site, Syndicate Elsewhere.
+            Nous sommes de plus en plus soucieux des dérives des gafam et autres acteurs majeurs du web dans l’usage de nos données personnelles ou le contrôle de nos actions. Nous y restons pourtant massivement, par facilité bien sûr (qui n’a jamais loué la facilité de publications sur Medium ?), mais aussi au prétexte que c’est là que nos familles, amis et autres “followers” se trouvent. Nous pensons donc incontournable d’y aller mettre nos contenus, au point de négliger d’autres pistes. […] Ce n’est pas forcément aussi compliqué que beaucoup le pensent, notamment grâce aux pistes et outils déjà référencés ou conçus et proposés par le mouvement indieweb, avec le principe POSSE : Publish (on your) Own Site, Syndicate Elsewhere.
          </content>
       </entry>
    
@@ -2503,7 +2514,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Meta visé par une plainte de plus de quarante etats américains, qui l’accusent de nuire à la santé des enfants</title>
+         <title>meta visé par une plainte de plus de quarante etats américains, qui l’accusent de nuire à la santé des enfants</title>
          <link href="/liens/2024/05/19/meta-vis-par-une-plainte-de-plus-de-quarante-etats-amricains-qui-laccusent-de-nuire-la-sant-des-enfants/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/meta-vis-par-une-plainte-de-plus-de-quarante-etats-amricains-qui-laccusent-de-nuire-la-sant-des-enfants/</id>
@@ -2514,7 +2525,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Meta : la protection des données ne doit pas dépendre d’un abonnement payant, selon le régulateur européen</title>
+         <title>meta : la protection des données ne doit pas dépendre d’un abonnement payant, selon le régulateur européen</title>
          <link href="/liens/2024/05/19/meta-la-protection-des-donnes-ne-doit-pas-dpendre-dun-abonnement-payant-selon-le-rgulateur-europen/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/meta-la-protection-des-donnes-ne-doit-pas-dpendre-dun-abonnement-payant-selon-le-rgulateur-europen/</id>
@@ -2525,13 +2536,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Meta doit cesser d’utiliser les données de ses utilisateurs pour de la publicité ciblée, ordonne le régulateur européen</title>
+         <title>meta doit cesser d’utiliser les données de ses utilisateurs pour de la publicité ciblée, ordonne le régulateur européen</title>
          <link href="/liens/2024/05/19/meta-doit-cesser-dutiliser-les-donnes-de-ses-utilisateurs-pour-de-la-publicit-cible-ordonne-le-rgulateur-europen/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/meta-doit-cesser-dutiliser-les-donnes-de-ses-utilisateurs-pour-de-la-publicit-cible-ordonne-le-rgulateur-europen/</id>
 
          <content type="html">
-            
+            Cet été, la Norvège a enjoint la maison mère de facebook et Instagram de cesser de recueillir, sans consentement explicite, les données des utilisateurs dans le but de leur adresser des « publicités comportementales ». Une décision qui devrait à présent être étendue à l’ensemble de l’Espace économique européen. 
          </content>
       </entry>
    
@@ -2547,7 +2558,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Mastodon : un autre twitter est possible</title>
+         <title>mastodon : un autre twitter est possible</title>
          <link href="/liens/2024/05/19/mastodon-un-autre-twitter-est-possible/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/mastodon-un-autre-twitter-est-possible/</id>
@@ -2558,7 +2569,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Mastodon is the good one</title>
+         <title>mastodon is the good one</title>
          <link href="/liens/2024/05/19/mastodon-is-the-good-one/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/mastodon-is-the-good-one/</id>
@@ -2569,7 +2580,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Mastodon attire quelques comptes institutionnels sur des instances officielles</title>
+         <title>mastodon attire quelques comptes institutionnels sur des instances officielles</title>
          <link href="/liens/2024/05/19/mastodon-attire-quelques-comptes-institutionnels-sur-des-instances-officielles/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/mastodon-attire-quelques-comptes-institutionnels-sur-des-instances-officielles/</id>
@@ -2580,7 +2591,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Mastodon 4.2</title>
+         <title>mastodon 4.2</title>
          <link href="/liens/2024/05/19/mastodon-42/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/mastodon-42/</id>
@@ -2602,7 +2613,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Mark zuckerberg, l'empereur de facebook</title>
+         <title>Mark Zuckerberg, l'empereur de Facebook</title>
          <link href="/liens/2024/05/19/mark-zuckerberg-lempereur-de-facebook/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/mark-zuckerberg-lempereur-de-facebook/</id>
@@ -2613,7 +2624,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Mark Zuckerberg a personnellement rejeté les propositions de Meta visant à améliorer la santé mentale des adolescents</title>
+         <title>Mark Zuckerberg a personnellement rejeté les propositions de meta visant à améliorer la santé mentale des adolescents</title>
          <link href="/liens/2024/05/19/mark-zuckerberg-a-personnellement-rejet-les-propositions-de-meta-visant-amliorer-la-sant-mentale-des-adolescents/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/mark-zuckerberg-a-personnellement-rejet-les-propositions-de-meta-visant-amliorer-la-sant-mentale-des-adolescents/</id>
@@ -2652,7 +2663,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/mails-alertes-messageries-popups-le-multitasking-ce-nouvel-ennemi-du-cerveau/</id>
 
          <content type="html">
-            
+            Notre capacité d’attention souffre de nos multiples outils de communication et du multitasking. Des menaces que les scientifiques cherchent à mieux cerner.
          </content>
       </entry>
    
@@ -2757,9 +2768,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>L’histoire selon chat-gpt</title>
-         <link href="/liens/2024/05/19/lhistoire-selon-chat-gpt/"/>
+         <link href="/liens/2024/05/19/lhistoire-selon-chatgpt/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/lhistoire-selon-chat-gpt/</id>
+         <id>http://localhost:4000/liens/2024/05/19/lhistoire-selon-chatgpt/</id>
 
          <content type="html">
             
@@ -3076,9 +3087,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>Le « new york times » poursuit en justice microsoft et openai, créateur de chat-gpt, pour violation de droits d’auteur</title>
-         <link href="/liens/2024/05/19/le-new-york-times-poursuit-en-justice-microsoft-et-openai-crateur-de-chat-gpt-pour-violation-de-droits-dauteur/"/>
+         <link href="/liens/2024/05/19/le-new-york-times-poursuit-en-justice-microsoft-et-openai-crateur-de-chatgpt-pour-violation-de-droits-dauteur/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/le-new-york-times-poursuit-en-justice-microsoft-et-openai-crateur-de-chat-gpt-pour-violation-de-droits-dauteur/</id>
+         <id>http://localhost:4000/liens/2024/05/19/le-new-york-times-poursuit-en-justice-microsoft-et-openai-crateur-de-chatgpt-pour-violation-de-droits-dauteur/</id>
 
          <content type="html">
             
@@ -3092,7 +3103,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/le-mystre-de-la-vido-satisfaisante/</id>
 
          <content type="html">
-            
+            Une pâte de sable rose est malaxée, aplatie puis coupée de façon parfaitement symétrique. Postée sur tiktok en janvier 2022, cette vidéo a été vue plusieurs millions de fois. À vous de jouer maintenant : appuyez sur “play“. Alors, plus détendu ? Apparu sur un forum de partage il y a dix ans, le genre visuel des “vidéos satisfaisantes“ est toujours en tête des vues sur les réseaux sociaux. Il existe une multitude de catégories, mais certains codes se distinguent : des gestes précis, des formes géométriques, un fond sonore agréable. Ces contenus visuels, parfois absurdes mais souvent ludiques, font appel à nos cinq sens. Le créateur de cette vidéo, Cyrille Guérineau, nous explique la fabrication de ces images. Selon lui, elles sont tout aussi satisfaisantes à voir qu&apos;à réaliser. Le docteur en neurosciences cognitives, Albert Moukheiber, analyse les mécanismes à l&apos;œuvre dans notre perception et dans notre corps quand nous regardons ces vidéos.
          </content>
       </entry>
    
@@ -3119,7 +3130,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Le Kirghizstan va interdire TikTok pour protéger la santé des enfants</title>
+         <title>Le Kirghizstan va interdire tiktok pour protéger la santé des enfants</title>
          <link href="/liens/2024/05/19/le-kirghizstan-va-interdire-tiktok-pour-protger-la-sant-des-enfants/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/le-kirghizstan-va-interdire-tiktok-pour-protger-la-sant-des-enfants/</id>
@@ -3186,9 +3197,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>Le début de la fin pour chat-gpt ? openai pourrait faire faillite dès 2024</title>
-         <link href="/liens/2024/05/19/le-dbut-de-la-fin-pour-chat-gpt-openai-pourrait-faire-faillite-ds-2024/"/>
+         <link href="/liens/2024/05/19/le-dbut-de-la-fin-pour-chatgpt-openai-pourrait-faire-faillite-ds-2024/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/le-dbut-de-la-fin-pour-chat-gpt-openai-pourrait-faire-faillite-ds-2024/</id>
+         <id>http://localhost:4000/liens/2024/05/19/le-dbut-de-la-fin-pour-chatgpt-openai-pourrait-faire-faillite-ds-2024/</id>
 
          <content type="html">
             
@@ -3262,7 +3273,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>L'algorithme de Facebook ne modifie pas les croyances politiques des usagers, selon des études américaines</title>
+         <title>L'algorithme de facebook ne modifie pas les croyances politiques des usagers, selon des études américaines</title>
          <link href="/liens/2024/05/19/lalgorithme-de-facebook-ne-modifie-pas-les-croyances-politiques-des-usagers-selon-des-tudes-amricaines/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/lalgorithme-de-facebook-ne-modifie-pas-les-croyances-politiques-des-usagers-selon-des-tudes-amricaines/</id>
@@ -3356,7 +3367,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/la-police-nationale-utilise-illgalement-un-logiciel-isralien-de-reconnaissance-faciale/</id>
 
          <content type="html">
-            
+            En 2015, les forces de l’ordre ont acquis, en secret, un logiciel d’analyse d’images de vidéosurveillance de la société israélienne Briefcam. Depuis huit ans, le ministère de l’intérieur dissimule le recours à cet outil qui permet l’emploi de la reconnaissance faciale.
          </content>
       </entry>
    
@@ -3400,7 +3411,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/la-justice-amricaine-a-tranch-microsoft-a-le-droit-de-racheter-activision-blizzard/</id>
 
          <content type="html">
-            
+            Un an et six mois après avoir annoncé son intention de racheter Activision Blizzard pour 68,7 milliards de dollars, microsoft voit enfin le bout du tunnel. La justice américaine vient de donner son feu vert à cette opération très critiquée. 
          </content>
       </entry>
    
@@ -3504,18 +3515,18 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Jo 2024 : l'épreuve des pictos</title>
+         <title>JO 2024 - l'épreuve des pictos</title>
          <link href="/liens/2024/05/19/jo-2024-lpreuve-des-pictos/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/jo-2024-lpreuve-des-pictos/</id>
 
          <content type="html">
-            
+            Ces pictogrammes représentent les disciplines des Jeux olympiques de Paris 2024. Ils se distinguent nettement des « pictos » des JO précédents... Que s&apos;est-il passé ? Présenté par Sonia Devillers, le magazine qui analyse les images de notre époque. Depuis des années, ces icônes permettent aux visiteurs venus du monde entier de repérer les lieux des compétitions dans la ville organisatrice. Alors quelle fonction remplissent ces pictogrammes d&apos;un nouveau genre, plus esthétiques qu&apos;explicites ? Julie Matikhine, membre du comité d&apos;organisation, nous explique les coulisses de la fabrication de ces fameux pictos. Tiphaine Guillermou, de l&apos;agence de design Graphéine, revient sur la longue histoire du pictogramme et sur son évolution depuis les Jeux olympiques de 1964.
          </content>
       </entry>
    
       <entry>
-         <title>Je s’appelle Grok. La première IA de l’altright ?</title>
+         <title>Je s’appelle Grok. La première ia de l’altright ?</title>
          <link href="/liens/2024/05/19/je-sappelle-grok-la-premire-ia-de-laltright/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/je-sappelle-grok-la-premire-ia-de-laltright/</id>
@@ -3526,13 +3537,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>« je n’ai rien fait d’illégal » : une première bd dessinée entièrement par intelligence artificielle autoéditée</title>
+         <title>« Je n’ai rien fait d’illégal » : une première BD dessinée entièrement par intelligence artificielle autoéditée</title>
          <link href="/liens/2024/05/19/je-nai-rien-fait-dillgal-une-premire-bd-dessine-entirement-par-intelligence-artificielle-autodite/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/je-nai-rien-fait-dillgal-une-premire-bd-dessine-entirement-par-intelligence-artificielle-autodite/</id>
 
          <content type="html">
-            
+            Thierry Murat, 55 ans, a fait le choix de se tourner vers un logiciel capable de générer des illustrations sur commande afin d’illustrer son dernier titre. Il l’a autoédité via une campagne de levée de fonds, après le refus de publication de son éditeur.
          </content>
       </entry>
    
@@ -3620,7 +3631,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/intelligence-artificielle-un-accord-de-partenariat-entre-le-monde-et-openai/</id>
 
          <content type="html">
-            Cet accord pluriannuel, le premier entre un média français et un acteur majeur de l’IA, permettra à la société de s’appuyer sur le corpus du journal pour établir et fiabiliser les réponses de son outil chat-gpt, moyennant une source significative de revenus supplémentaires. 
+            Cet accord pluriannuel, le premier entre un média français et un acteur majeur de l’ia, permettra à la société de s’appuyer sur le corpus du journal pour établir et fiabiliser les réponses de son outil chat-gpt, moyennant une source significative de revenus supplémentaires. 
          </content>
       </entry>
    
@@ -3691,7 +3702,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Ia générale : « à l'heure actuelle, on ne parvient pas à faire une intelligence autonome »</title>
+         <title>ia générale : « à l'heure actuelle, on ne parvient pas à faire une intelligence autonome »</title>
          <link href="/liens/2024/05/19/ia-gnrale-lheure-actuelle-on-ne-parvient-pas-faire-une-intelligence-autonome/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/ia-gnrale-lheure-actuelle-on-ne-parvient-pas-faire-une-intelligence-autonome/</id>
@@ -3713,13 +3724,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>How to move your instagram feed to pixelfed, the photo app that doesn't track your every move</title>
+         <title>How to move your Instagram feed to Pixelfed, the photo app that doesn't track your every move</title>
          <link href="/liens/2024/05/19/how-to-move-your-instagram-feed-to-pixelfed-the-photo-app-that-doesnt-track-your-every-move/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/how-to-move-your-instagram-feed-to-pixelfed-the-photo-app-that-doesnt-track-your-every-move/</id>
 
          <content type="html">
-            
+            How to Move Your Instagram Feed to Pixelfed, the Photo App That Doesn&apos;t Track Your Every Move The decentralized Instagram alternative is a great option if you want to back up your feed, focus on photo-sharing, or cut loose from Meta&apos;s empire entirely. And making the leap is surprisingly easy.
          </content>
       </entry>
    
@@ -3746,7 +3757,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>How Signal walks the line between anarchism and pragmatism</title>
+         <title>How signal walks the line between anarchism and pragmatism</title>
          <link href="/liens/2024/05/19/how-signal-walks-the-line-between-anarchism-and-pragmatism/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/how-signal-walks-the-line-between-anarchism-and-pragmatism/</id>
@@ -3801,7 +3812,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Google’s privacy sandbox is privacy quicksand</title>
+         <title>google’s privacy sandbox is privacy quicksand</title>
          <link href="/liens/2024/05/19/googles-privacy-sandbox-is-privacy-quicksand/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/googles-privacy-sandbox-is-privacy-quicksand/</id>
@@ -3812,7 +3823,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Google : un procès historique qui rappelle le cas de microsoft</title>
+         <title>google : un procès historique qui rappelle le cas de microsoft</title>
          <link href="/liens/2024/05/19/google-un-procs-historique-qui-rappelle-le-cas-de-microsoft/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/google-un-procs-historique-qui-rappelle-le-cas-de-microsoft/</id>
@@ -3823,18 +3834,18 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Google exulte : apple va finalement adopter rcs, le « sms 2.0 », en 2024</title>
+         <title>Google exulte : Apple va finalement adopter RCS, le « sms 2.0 », en 2024</title>
          <link href="/liens/2024/05/19/google-exulte-apple-va-finalement-adopter-rcs-le-sms-20-en-2024/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/google-exulte-apple-va-finalement-adopter-rcs-le-sms-20-en-2024/</id>
 
          <content type="html">
-            
+            Après l&apos;avoir ostensiblement ignoré pendant des années, Apple va en fin de compte prendre en charge le protocole Rich Communication Services, abrégé RCS, en 2024.
          </content>
       </entry>
    
       <entry>
-         <title>Google chrome m’a tuer ou le probable déclin de firefox si nous n’y faisons rien</title>
+         <title>google chrome m’a tuer ou le probable déclin de firefox si nous n’y faisons rien</title>
          <link href="/liens/2024/05/19/google-chrome-ma-tuer-ou-le-probable-dclin-de-firefox-si-nous-ny-faisons-rien/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/google-chrome-ma-tuer-ou-le-probable-dclin-de-firefox-si-nous-ny-faisons-rien/</id>
@@ -3845,10 +3856,10 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Google bard arrive en france et gagne de nouvelles fonctions pour battre chat-gpt</title>
-         <link href="/liens/2024/05/19/google-bard-arrive-en-france-et-gagne-de-nouvelles-fonctions-pour-battre-chat-gpt/"/>
+         <title>google bard arrive en france et gagne de nouvelles fonctions pour battre chat-gpt</title>
+         <link href="/liens/2024/05/19/google-bard-arrive-en-france-et-gagne-de-nouvelles-fonctions-pour-battre-chatgpt/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/google-bard-arrive-en-france-et-gagne-de-nouvelles-fonctions-pour-battre-chat-gpt/</id>
+         <id>http://localhost:4000/liens/2024/05/19/google-bard-arrive-en-france-et-gagne-de-nouvelles-fonctions-pour-battre-chatgpt/</id>
 
          <content type="html">
             
@@ -3856,7 +3867,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Fromages : où est passé notre terroir ?</title>
+         <title>fromages : où est passé notre terroir ?</title>
          <link href="/liens/2024/05/19/fromages-o-est-pass-notre-terroir/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/fromages-o-est-pass-notre-terroir/</id>
@@ -3900,7 +3911,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Figma variables — ultimate guide</title>
+         <title>figma variables — ultimate guide</title>
          <link href="/liens/2024/05/19/figma-variables-ultimate-guide/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/figma-variables-ultimate-guide/</id>
@@ -3911,7 +3922,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Figma introduces figjam ai to spare designers from boring planning prep</title>
+         <title>figma introduces figjam ai to spare designers from boring planning prep</title>
          <link href="/liens/2024/05/19/figma-introduces-figjam-ai-to-spare-designers-from-boring-planning-prep/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/figma-introduces-figjam-ai-to-spare-designers-from-boring-planning-prep/</id>
@@ -3922,7 +3933,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Figma, i love you but you’re bringing me down</title>
+         <title>figma, i love you but you’re bringing me down</title>
          <link href="/liens/2024/05/19/figma-i-love-you-but-youre-bringing-me-down/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/figma-i-love-you-but-youre-bringing-me-down/</id>
@@ -3961,7 +3972,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/extension-de-la-surveillance-on-est-en-plein-solutionnisme-technologique/</id>
 
          <content type="html">
-            
+            Alors que la vidéosurveillance algorithmique va être expérimentée pour les JO, le journaliste Jean-Marc Manach et la juriste Noémie Levain s’accordent sur le manque d’efficacité des technologies de surveillance mais pas sur leurs dangers. Entretien.
          </content>
       </entry>
    
@@ -3983,7 +3994,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/et-si-on-dpoussirait-le-flux-rss/</id>
 
          <content type="html">
-            
+            Et si on dépoussiérait le flux RSS, une technologie qui existe depuis 1999 ? Lorsque j’ai commencé à écrire des articles et les publier sur mon blog, deux personnes m’ont interpellé pour me demander s’il existait un flux RSS pour se tenir au courant de mes publications en temps réel. J’ai réalisé qu’il y avait encore quelques personnes qui sont attachées à cette technologie. Je vous partage mon expérience avec cette technologie que je connaissais vaguement jusque-là à travers cet article. &quot;
          </content>
       </entry>
    
@@ -4032,7 +4043,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>elon-musk annonce la fin de twitter, remplacé par x.com</title>
+         <title>Elon Musk annonce la fin de twitter, remplacé par x.com</title>
          <link href="/liens/2024/05/19/elon-musk-annonce-la-fin-de-twitter-remplac-par-xcom/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/elon-musk-annonce-la-fin-de-twitter-remplac-par-xcom/</id>
@@ -4054,13 +4065,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Ecosia browser, ou quand le greenwashing numérique fume la moquette tout en plantant des arbres</title>
+         <title>Ecosia Browser, ou quand le greenwashing numérique fume la moquette tout en plantant des arbres</title>
          <link href="/liens/2024/05/19/ecosia-browser-ou-quand-le-greenwashing-numrique-fume-la-moquette-tout-en-plantant-des-arbres/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/ecosia-browser-ou-quand-le-greenwashing-numrique-fume-la-moquette-tout-en-plantant-des-arbres/</id>
 
          <content type="html">
-            
+            C’est insignifiant par rapport à ce qui se passe partout dans le monde. Mais tant pis, ce sera ma catharsis du jour. Et surtout, voilà l’illustration XXL du « numérique responsable » et du technosolutionnisme que je combats (à ce sujet, lire mon article : numérique responsable, critique d’un oxymore). Voici donc mon rapide débunkage de l’article de promotion du nouveau navigateur proposé par Ecosia. Vous le trouverez à cette adresse.
          </content>
       </entry>
    
@@ -4115,7 +4126,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google/</id>
 
          <content type="html">
-            En raison des clauses de confidentialité imposées par Google, Mediapart n’encaissera pas l’argent que lui doit l’entreprise au titre de la propriété intellectuelle. Une question de confiance avec notre lectorat. Contre l’opacité des Gafam, un front uni du secteur est plus que jamais nécessaire.
+            En raison des clauses de confidentialité imposées par google, Mediapart n’encaissera pas l’argent que lui doit l’entreprise au titre de la propriété intellectuelle. Une question de confiance avec notre lectorat. Contre l’opacité des gafam, un front uni du secteur est plus que jamais nécessaire.
          </content>
       </entry>
    
@@ -4175,13 +4186,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>designers éthiques adopte une gouvernance partagée</title>
+         <title>Designers éthiques adopte une gouvernance partagée - REX</title>
          <link href="/liens/2024/05/19/designers-thiques-adopte-une-gouvernance-partage/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/designers-thiques-adopte-une-gouvernance-partage/</id>
 
          <content type="html">
-            
+            En octobre 2023, les 14 membres de l’association se sont réunis en Assemblée générale extraordinaire et ont voté une nouvelle version des statuts de l’association (et le Règlement intérieur qui va avec). Ces statuts changent profondément l’architecture de gouvernance de l’association pour s’orienter vers une gouvernance partagée. Retour d’expérience sur deux ans de réflexions et de ré-écriture des statuts de l’association.
          </content>
       </entry>
    
@@ -4296,7 +4307,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Dans un défi à OpenAI, Meta ouvre son modèle de langage aux entreprises</title>
+         <title>Dans un défi à OpenAI, meta ouvre son modèle de langage aux entreprises</title>
          <link href="/liens/2024/05/19/dans-un-dfi-openai-meta-ouvre-son-modle-de-langage-aux-entreprises/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/dans-un-dfi-openai-meta-ouvre-son-modle-de-langage-aux-entreprises/</id>
@@ -4483,32 +4494,32 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Classement topaff 2023 : les 100 plus belles affiches de festivals</title>
+         <title>Classement TOPAFF 2023 : les 100 plus belles affiches de festivals</title>
          <link href="/liens/2024/05/19/classement-topaff-2023-les-100-plus-belles-affiches-de-festivals/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/classement-topaff-2023-les-100-plus-belles-affiches-de-festivals/</id>
 
          <content type="html">
-            
+            Voici le classement TOPAFF 2023, qui célèbre les 100 plus belles affiches de festivals de musique en France de l’année écoulée (le 12e en 12 ans). Les critères restent les mêmes : originalité, idée et sens, performance graphique, impact visuel (mise en page, espace, typo…). On considère avant tout l’illustration (art) et non la communication (stratégie).
          </content>
       </entry>
    
       <entry>
-         <title>Choisir le html natif pour mettre fin aux hacks css dans la création de formulaires</title>
+         <title>Choisir le HTML natif pour mettre fin aux hacks css dans la création de formulaires</title>
          <link href="/liens/2024/05/19/choisir-le-html-natif-pour-mettre-fin-aux-hacks-css-dans-la-cration-de-formulaires/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/choisir-le-html-natif-pour-mettre-fin-aux-hacks-css-dans-la-cration-de-formulaires/</id>
 
          <content type="html">
-            
+            Le besoin de prendre le contrôle de l’apparence d’éléments natifs a toujours été présent chez les développeurs et les développeuses. Par envie de vouloir des éléments à l’apparence unique, parfois par obligation, car l’interface doit être identique aux maquettes.
          </content>
       </entry>
    
       <entry>
          <title>chat-gpt : on a testé sa version expérimentale audio et photo</title>
-         <link href="/liens/2024/05/19/chat-gpt-on-a-test-sa-version-exprimentale-audio-et-photo/"/>
+         <link href="/liens/2024/05/19/chatgpt-on-a-test-sa-version-exprimentale-audio-et-photo/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/chat-gpt-on-a-test-sa-version-exprimentale-audio-et-photo/</id>
+         <id>http://localhost:4000/liens/2024/05/19/chatgpt-on-a-test-sa-version-exprimentale-audio-et-photo/</id>
 
          <content type="html">
             
@@ -4517,9 +4528,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>chat-gpt is getting « memory » to remember who you are and what you like</title>
-         <link href="/liens/2024/05/19/chat-gpt-is-getting-memory-to-remember-who-you-are-and-what-you-like/"/>
+         <link href="/liens/2024/05/19/chatgpt-is-getting-memory-to-remember-who-you-are-and-what-you-like/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/chat-gpt-is-getting-memory-to-remember-who-you-are-and-what-you-like/</id>
+         <id>http://localhost:4000/liens/2024/05/19/chatgpt-is-getting-memory-to-remember-who-you-are-and-what-you-like/</id>
 
          <content type="html">
             
@@ -4528,9 +4539,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>chat-gpt fournit de fausses informations sur les personnes, et openai ne peut pas les corriger</title>
-         <link href="/liens/2024/05/19/chat-gpt-fournit-de-fausses-informations-sur-les-personnes-et-openai-ne-peut-pas-les-corriger/"/>
+         <link href="/liens/2024/05/19/chatgpt-fournit-de-fausses-informations-sur-les-personnes-et-openai-ne-peut-pas-les-corriger/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/chat-gpt-fournit-de-fausses-informations-sur-les-personnes-et-openai-ne-peut-pas-les-corriger/</id>
+         <id>http://localhost:4000/liens/2024/05/19/chatgpt-fournit-de-fausses-informations-sur-les-personnes-et-openai-ne-peut-pas-les-corriger/</id>
 
          <content type="html">
             
@@ -4539,9 +4550,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>chat-gpt avait-il le droit de s'entraîner sur toutes ces données ? la justice va trancher</title>
-         <link href="/liens/2024/05/19/chat-gpt-avaitil-le-droit-de-sentraner-sur-toutes-ces-donnes-la-justice-va-trancher/"/>
+         <link href="/liens/2024/05/19/chatgpt-avaitil-le-droit-de-sentraner-sur-toutes-ces-donnes-la-justice-va-trancher/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/chat-gpt-avaitil-le-droit-de-sentraner-sur-toutes-ces-donnes-la-justice-va-trancher/</id>
+         <id>http://localhost:4000/liens/2024/05/19/chatgpt-avaitil-le-droit-de-sentraner-sur-toutes-ces-donnes-la-justice-va-trancher/</id>
 
          <content type="html">
             
@@ -4659,7 +4670,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>bluesky : ce qu’il faut savoir avant de s’inscrire sur le concurrent de twitter</title>
+         <title>Bluesky : ce qu’il faut savoir avant de s’inscrire sur le concurrent de twitter</title>
          <link href="/liens/2024/05/19/bluesky-ce-quil-faut-savoir-avant-de-sinscrire-sur-le-concurrent-de-twitter/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/bluesky-ce-quil-faut-savoir-avant-de-sinscrire-sur-le-concurrent-de-twitter/</id>
@@ -4736,7 +4747,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>The 14 Worst Fonts in the World</title>
+         <title>The 14 Worst fonts in the World</title>
          <link href="/liens/2024/05/19/are-some-fonts-ageist/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/are-some-fonts-ageist/</id>
@@ -4967,13 +4978,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>5 idées reçues sur le RGPD</title>
+         <title>5 idées reçues sur le rgpd</title>
          <link href="/liens/2024/05/19/5-ides-reues-sur-le-rgpd/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/5-ides-reues-sur-le-rgpd/</id>
 
          <content type="html">
-            Cinq ans après l’entrée en application du RGPD, nous pouvons toujours lire de nombreuses idées fausses à propos du RGPD. Voici un petit florilège avec les références pour comprendre pourquoi il s’agit d’une idée fausse, pour remettre les pendules à l’heure.
+            Cinq ans après l’entrée en application du rgpd, nous pouvons toujours lire de nombreuses idées fausses à propos du rgpd. Voici un petit florilège avec les références pour comprendre pourquoi il s’agit d’une idée fausse, pour remettre les pendules à l’heure.
          </content>
       </entry>
    
@@ -5006,7 +5017,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/100-usersupported/</id>
 
          <content type="html">
-            Why Obsidian is 100% user-supported and not backed by venture capital investors.
+            Why obsidian is 100% user-supported and not backed by venture capital investors.
          </content>
       </entry>
    

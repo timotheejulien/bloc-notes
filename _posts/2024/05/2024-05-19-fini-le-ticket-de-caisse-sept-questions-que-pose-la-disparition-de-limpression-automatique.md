@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Écologie"
-- "Société"
+- "vie-privée"
+- "écologie"
+- "société"
 
-og-tags: "ViePrivée, Écologie, Société"
+og-tags: "vie-privée, écologie, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

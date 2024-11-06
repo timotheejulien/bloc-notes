@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "RéseauSocial"
-- "Société"
-- "Web"
+- "vie-privée"
+- "réseau-social"
+- "société"
+- "web"
 
-og-tags: "ViePrivée, Réseau social, Société, Web"
+og-tags: "vie-privée, Réseau social, société, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

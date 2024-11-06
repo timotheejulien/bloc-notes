@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obsidian miscellany"
+title: "obsidian miscellany"
 link: "https://tylersticka.com/journal/obsidian-miscellany"
 author: Tyler Sticka
 published_date: "27/07/2024"
@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "app"
-- "Obsidian"
+- "obsidian"
 
-og-tags: "app, Obsidian"
+og-tags: "app, obsidian"
 permalink: /:categories/:year/:month/:day/:title/
 ---

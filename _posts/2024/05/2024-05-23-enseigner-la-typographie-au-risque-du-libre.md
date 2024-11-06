@@ -10,7 +10,7 @@ categories:
    - Liens
 tags:
    - "design"
-   - "Font"
-og-tags: "design, Font"
+   - "font"
+og-tags: "design, font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

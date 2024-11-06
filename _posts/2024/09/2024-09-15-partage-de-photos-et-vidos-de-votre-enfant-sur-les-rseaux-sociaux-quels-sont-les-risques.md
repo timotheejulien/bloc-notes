@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Société"
+- "vie-privée"
+- "société"
 - "cnil"
-- "Législation"
-- "Photos"
+- "législation"
+- "photos"
 
-og-tags: "ViePrivée, Société, cnil, Législation, Photos"
+og-tags: "vie-privée, société, cnil, législation, photos"
 permalink: /:categories/:year/:month/:day/:title/
 ---

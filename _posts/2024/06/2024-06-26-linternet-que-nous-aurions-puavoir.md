@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Web"
-- "Internet"
+- "société"
+- "web"
+- "internet"
 
-og-tags: "Société, Web, Internet"
+og-tags: "société, web, internet"
 permalink: /:categories/:year/:month/:day/:title/
 ---

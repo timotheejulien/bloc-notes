@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Google"
+- "google"
 - "design"
-- "Font"
+- "font"
 
-og-tags: "Google, design, Font"
+og-tags: "google, design, font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

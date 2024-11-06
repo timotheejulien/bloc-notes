@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
-- "Société"
-- "Santé"
+- "écologie"
+- "société"
+- "santé"
 
-og-tags: "Écologie, Société, Santé"
+og-tags: "écologie, société, santé"
 permalink: /:categories/:year/:month/:day/:title/
 ---

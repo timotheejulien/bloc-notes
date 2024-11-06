@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Web"
-- "Proton"
+- "vie-privée"
+- "web"
+- "proton"
 
-og-tags: "ViePrivée, Web, Proton"
+og-tags: "vie-privée, web, proton"
 permalink: /:categories/:year/:month/:day/:title/
 ---

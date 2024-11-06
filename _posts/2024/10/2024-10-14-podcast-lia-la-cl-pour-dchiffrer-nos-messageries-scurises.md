@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast – l’IA, la clé pour déchiffrer nos messageries sécurisées ?"
+title: "podcast – l’ia, la clé pour déchiffrer nos messageries sécurisées ?"
 link: "https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer/podcast-l-ia-la-cle-pour-dechiffrer-nos-messageries-securisees"
 author: Grégoire Barbey 
 published_date: "14/10/2024"
@@ -9,8 +9,8 @@ language: fr
 categories:
    - Liens
 tags:
-   - IA
+   - ia
    - chiffrement
-og-tags: "IA, chiffrement"
+og-tags: "ia, chiffrement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

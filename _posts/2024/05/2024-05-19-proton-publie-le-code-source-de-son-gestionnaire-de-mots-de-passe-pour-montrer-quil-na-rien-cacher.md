@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proton publie le code source de son gestionnaire de mots de passe pour montrer qu'il n'a rien à cacher"
+title: "proton publie le code source de son gestionnaire de mots de passe pour montrer qu'il n'a rien à cacher"
 link: "https://www.clubic.com/antivirus-securite-informatique/actualite-478855-proton-publie-le-code-source-de-son-gestionnaire-de-mots-de-passe-pour-montrer-qu-il-n-a-rien-a-cacher.html"
 author: N/A
 published_date: "19/05/2024"
@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "app"
 
-og-tags: "ViePrivée, app"
+og-tags: "vie-privée, app"
 permalink: /:categories/:year/:month/:day/:title/
 ---

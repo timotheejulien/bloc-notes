@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Hacking"
-- "Web"
+- "hacking"
+- "web"
 
-og-tags: "Hacking, Web"
+og-tags: "hacking, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

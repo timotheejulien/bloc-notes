@@ -12,8 +12,8 @@ categories:
 tags:
 - "design"
 - "design-system"
-- "UI"
+- "ui"
 
-og-tags: "design, design-system, UI"
+og-tags: "design, design-system, ui"
 permalink: /:categories/:year/:month/:day/:title/
 ---

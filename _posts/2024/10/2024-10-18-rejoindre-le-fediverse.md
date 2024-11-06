@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Ressources"
-- "Fediverse"
+- "ressources"
+- "fediverse"
 
-og-tags: "Ressources, Fediverse"
+og-tags: "ressources, fediverse"
 permalink: /:categories/:year/:month/:day/:title/
 ---

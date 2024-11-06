@@ -8,8 +8,7 @@ description:
 language: fr
 categories: 
    - Citations
-tags: 
-   - Réflexion
-og-tags: "Réflexion"
+tags: "réflexion philosophie"
+og-tags: "réflexion, philosophie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

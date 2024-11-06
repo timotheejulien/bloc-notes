@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "X"
+- "vie-privée"
+- "x"
 
-og-tags: "ViePrivée, X"
+og-tags: "vie-privée, x"
 permalink: /:categories/:year/:month/:day/:title/
 ---

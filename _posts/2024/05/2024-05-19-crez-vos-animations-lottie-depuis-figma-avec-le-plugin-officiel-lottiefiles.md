@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "Figma"
+- "figma"
 
-og-tags: "design, Figma"
+og-tags: "design, figma"
 permalink: /:categories/:year/:month/:day/:title/
 ---

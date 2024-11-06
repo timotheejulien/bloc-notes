@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zoom et les politiques de confidentialité"
+title: "zoom et les politiques de confidentialité"
 link: "https://framablog.org/2023/08/17/wip-zoom-et-les-politiques-de-confidentialite"
 author: N/A
 published_date: "19/05/2024"
@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "app"
-- "Zoom"
+- "zoom"
 
-og-tags: "ViePrivée, app, Zoom"
+og-tags: "vie-privée, app, zoom"
 permalink: /:categories/:year/:month/:day/:title/
 ---

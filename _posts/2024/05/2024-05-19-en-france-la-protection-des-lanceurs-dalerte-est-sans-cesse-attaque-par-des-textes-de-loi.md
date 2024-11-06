@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "Société"
-- "Législation"
-- "LanceurDAlerte"
+- "société"
+- "législation"
+- "lanceur-alerte"
 
-og-tags: "Société, Législation, Lanceur d’alerte"
+og-tags: "société, législation, Lanceur d’alerte"
 permalink: /:categories/:year/:month/:day/:title/
 ---

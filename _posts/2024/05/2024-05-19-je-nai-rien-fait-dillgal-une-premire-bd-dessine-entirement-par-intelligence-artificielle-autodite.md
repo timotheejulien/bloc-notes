@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "IA"
+- "ia"
 - "art"
 
-og-tags: "IA, art"
+og-tags: "ia, art"
 permalink: /:categories/:year/:month/:day/:title/
 ---

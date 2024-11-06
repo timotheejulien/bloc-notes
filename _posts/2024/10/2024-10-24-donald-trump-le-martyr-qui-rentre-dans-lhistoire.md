@@ -9,8 +9,8 @@ language: fr
 categories: 
    - Liens
 tags: 
-   - Graphisme
-   - Politique
-og-tags: "Graphisme, Politique"
+   - graphisme
+   - politique
+og-tags: "graphisme, politique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

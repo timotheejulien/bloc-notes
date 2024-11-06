@@ -12,9 +12,9 @@ categories:
 tags:
 - "design"
 - "design-system"
-- "UI"
-- "UX"
+- "ui"
+- "ux"
 
-og-tags: "design, design-system, UI, UX"
+og-tags: "design, design-system, ui, ux"
 permalink: /:categories/:year/:month/:day/:title/
 ---

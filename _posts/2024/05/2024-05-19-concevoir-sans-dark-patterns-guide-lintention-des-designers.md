@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "design"
-- "UI"
-- "UX"
+- "ui"
+- "ux"
 - "dark-pattern"
 
-og-tags: "design, UI, UX, Dark Pattern"
+og-tags: "design, ui, ux, Dark Pattern"
 permalink: /:categories/:year/:month/:day/:title/
 ---

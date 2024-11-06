@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "RéseauSocial"
-- "X"
+- "réseau-social"
+- "x"
 
-og-tags: "Réseau social, X"
+og-tags: "Réseau social, x"
 permalink: /:categories/:year/:month/:day/:title/
 ---

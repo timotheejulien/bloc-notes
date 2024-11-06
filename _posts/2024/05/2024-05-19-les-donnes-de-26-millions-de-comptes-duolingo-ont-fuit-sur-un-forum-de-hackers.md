@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Hacking"
+- "vie-privée"
+- "hacking"
 
-og-tags: "ViePrivée, Hacking"
+og-tags: "vie-privée, hacking"
 permalink: /:categories/:year/:month/:day/:title/
 ---

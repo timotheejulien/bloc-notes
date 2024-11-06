@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "Surveillance"
-- "Livre"
+- "vie-privée"
+- "surveillance"
+- "livre"
 
-og-tags: "ViePrivée, Surveillance, Livre"
+og-tags: "vie-privée, surveillance, livre"
 permalink: /:categories/:year/:month/:day/:title/
 ---

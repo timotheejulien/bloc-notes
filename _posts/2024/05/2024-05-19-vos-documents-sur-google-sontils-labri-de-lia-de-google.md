@@ -10,11 +10,11 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
-- "IA"
-- "Google"
-- "GAFAM"
+- "vie-privée"
+- "ia"
+- "google"
+- "gafam"
 
-og-tags: "ViePrivée, IA, Google, GAFAM"
+og-tags: "vie-privée, ia, google, gafam"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "IA"
+- "ia"
 - "chat-gpt"
 
-og-tags: "IA, chat-gpt"
+og-tags: "ia, chat-gpt"
 permalink: /:categories/:year/:month/:day/:title/
 ---

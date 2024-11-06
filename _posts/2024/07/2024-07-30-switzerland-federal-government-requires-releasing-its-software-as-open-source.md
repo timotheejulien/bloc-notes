@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "app"
-- "OpenSource"
+- "open-source"
 
-og-tags: "app, OpenSource"
+og-tags: "app, open-source"
 permalink: /:categories/:year/:month/:day/:title/
 ---

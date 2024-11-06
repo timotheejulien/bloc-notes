@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "apple"
-- "Législation"
+- "législation"
 
-og-tags: "apple, Législation"
+og-tags: "apple, législation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

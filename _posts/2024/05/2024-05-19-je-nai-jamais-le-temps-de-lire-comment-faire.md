@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Livre"
-- "Méthodologie"
+- "livre"
+- "méthodologie"
 
-og-tags: "Livre, Méthodologie"
+og-tags: "livre, méthodologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

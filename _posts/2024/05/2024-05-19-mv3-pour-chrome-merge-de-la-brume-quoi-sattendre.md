@@ -10,12 +10,12 @@ categories:
 - Liens
 
 tags:
-- "ViePrivée"
+- "vie-privée"
 - "app"
-- "Surveillance"
-- "Web"
-- "Technologie"
+- "surveillance"
+- "web"
+- "technologie"
 
-og-tags: "ViePrivée, app, Surveillance, Web, Technologie"
+og-tags: "vie-privée, app, surveillance, web, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

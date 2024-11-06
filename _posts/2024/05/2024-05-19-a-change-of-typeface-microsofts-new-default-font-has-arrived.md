@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "design"
-- "UI"
-- "Font"
-- "Microsoft"
+- "ui"
+- "font"
+- "microsoft"
 
-og-tags: "design, UI, Font, Microsoft"
+og-tags: "design, ui, font, microsoft"
 permalink: /:categories/:year/:month/:day/:title/
 ---

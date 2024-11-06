@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Société"
-- "Législation"
+- "ia"
+- "société"
+- "législation"
 
-og-tags: "IA, Société, Législation"
+og-tags: "ia, société, législation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
+- "écologie"
 - "device"
 
-og-tags: "Écologie, device"
+og-tags: "écologie, device"
 permalink: /:categories/:year/:month/:day/:title/
 ---

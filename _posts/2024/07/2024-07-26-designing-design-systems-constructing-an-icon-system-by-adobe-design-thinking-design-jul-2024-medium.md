@@ -9,8 +9,8 @@ language: en
 categories:
 - Liens
 
-tags: "design design-system Icônes"
+tags: "design design-system icônes"
 
-og-tags: "design design-system Icônes"
+og-tags: "design design-system icônes"
 permalink: /:categories/:year/:month/:day/:title/
 ---

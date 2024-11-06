@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Écologie"
+- "écologie"
 
-og-tags: "Écologie"
+og-tags: "écologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

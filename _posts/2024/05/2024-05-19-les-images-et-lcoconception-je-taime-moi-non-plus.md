@@ -11,11 +11,11 @@ categories:
 
 tags:
 - "design"
-- "Écologie"
-- "Web"
-- "Éco-conception"
+- "écologie"
+- "web"
+- "éco-conception"
 - "développement"
 
-og-tags: "design, Écologie, Web, Éco-conception, développement"
+og-tags: "design, écologie, web, éco-conception, développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

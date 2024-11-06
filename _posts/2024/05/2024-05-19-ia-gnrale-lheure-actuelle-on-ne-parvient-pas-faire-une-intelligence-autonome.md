@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ia générale : « à l'heure actuelle, on ne parvient pas à faire une intelligence autonome »"
+title: "ia générale : « à l'heure actuelle, on ne parvient pas à faire une intelligence autonome »"
 link: "https://www.liberation.fr/economie/economie-numerique/ia-generale-a-lheure-actuelle-on-ne-parvient-pas-a-faire-une-intelligence-autonome-20240121_W5NWQE2QEJFNVOCIVRXC3IS2JQ"
 author: N/A
 published_date: "19/05/2024"
@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "IA"
+- "ia"
 
-og-tags: "IA"
+og-tags: "ia"
 permalink: /:categories/:year/:month/:day/:title/
 ---

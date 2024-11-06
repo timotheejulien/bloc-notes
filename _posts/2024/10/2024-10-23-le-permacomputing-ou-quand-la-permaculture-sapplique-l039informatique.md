@@ -10,14 +10,14 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Écologie"
-- "Web"
-- "Technologie"
-- "Éco-conception"
-- "Numérique"
-- "LowTech"
+- "ia"
+- "écologie"
+- "web"
+- "technologie"
+- "éco-conception"
+- "numérique"
+- "low-tech"
 
-og-tags: "IA, Écologie, Web, Technologie, Éco-conception, Numérique, LowTech"
+og-tags: "ia, écologie, web, technologie, éco-conception, numérique, low-tech"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "Technologie"
+- "ia"
+- "technologie"
 
-og-tags: "IA, Technologie"
+og-tags: "ia, technologie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

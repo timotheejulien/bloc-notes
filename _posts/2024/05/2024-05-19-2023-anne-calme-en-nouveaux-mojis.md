@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "Emoji"
+- "emoji"
 
-og-tags: "design, Emoji"
+og-tags: "design, emoji"
 permalink: /:categories/:year/:month/:day/:title/
 ---

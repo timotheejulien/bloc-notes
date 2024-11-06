@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "design"
-- "X"
+- "x"
 
-og-tags: "design, X"
+og-tags: "design, x"
 permalink: /:categories/:year/:month/:day/:title/
 ---

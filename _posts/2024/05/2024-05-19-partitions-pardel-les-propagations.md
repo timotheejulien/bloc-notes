@@ -10,7 +10,7 @@ categories:
 - Liens
 
 tags:
-- "RéseauSocial"
+- "réseau-social"
 - "algorithme"
 
 og-tags: "Réseau social, algorithme"

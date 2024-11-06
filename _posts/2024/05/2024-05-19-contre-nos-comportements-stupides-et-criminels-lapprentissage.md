@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Société"
+- "société"
 
-og-tags: "Société"
+og-tags: "société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

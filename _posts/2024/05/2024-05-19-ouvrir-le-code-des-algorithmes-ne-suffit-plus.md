@@ -10,10 +10,10 @@ categories:
 - Liens
 
 tags:
-- "IA"
-- "OpenSource"
-- "Éthique"
+- "ia"
+- "open-source"
+- "éthique"
 
-og-tags: "IA, Open source, Éthique"
+og-tags: "ia, Open source, éthique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

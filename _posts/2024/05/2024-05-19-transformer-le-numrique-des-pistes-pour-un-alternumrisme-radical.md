@@ -10,8 +10,8 @@ categories:
 - Liens
 
 tags:
-- "Web"
+- "web"
 
-og-tags: "Web"
+og-tags: "web"
 permalink: /:categories/:year/:month/:day/:title/
 ---
