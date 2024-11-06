@@ -1,6 +1,20 @@
 [
       
             {
+                  "title"    : "Quels sont les bienfaits du fromage sur la santé ?",
+                  "url"      : "/liens/2024/11/06/quels-sont-les-bien-faits-du-fromage-sur-la-sante/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "Pour un logiciel de correspondance plutôt qu’un client mail",
+                  "url"      : "/liens/2024/11/06/pour-un-logiciel-de-correspondance-plutot-quun-client-mail/",
+                  "tags"     : "app, message"
+            } 
+      ,
+  
+            {
                   "title"    : "Help us improve our alt text generation model",
                   "url"      : "/liens/2024/11/06/help-us-improve-our-alt-text-generation-model/",
                   "tags"     : "firefox, ia, accessibilité, open-source, mozilla"
