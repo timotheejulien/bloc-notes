@@ -8,7 +8,7 @@ description: "La fondation Mozilla qui chapote les activités de Mozilla (et don
 language: fr
 categories: 
    - Liens
-tags: "mozilla firefox énomie"
-og-tags: "mozilla firefox énomie"
+tags: "mozilla firefox économie"
+og-tags: "mozilla firefox économie"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le roquefort et le camembert en voie d'extinction ?"
+title: "Le Roquefort et le Camembert en voie d'extinction ?"
 link: "https://lejournal.cnrs.fr/articles/le-roquefort-et-le-camembert-en-voie-dextinction"
 author: Mehdi Harmi
 published_date: "10/01/2024"
