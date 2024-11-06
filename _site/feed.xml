@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-06T17:54:46+01:00</updated>
+   <updated>2024-11-06T21:29:05+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -32,6 +32,17 @@
 
          <content type="html">
             Plaidoyer en faveur d’un logiciel de relations épistolaires électroniques, échanges sacrifiés au culte de l’instantanéité. J’aime l’email. Je ne me lasse pas de m’émerveiller sur la beauté de ce système qui nous permet d’échanger par écrit, de manière décentralisée. D’entretenir des relations épistolaires dématérialisées à l’abri des regards (si l’on choisit bien son fournisseur). Je l’ai déjà dit et le redis.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L'attaque informatique la plus sophistiquée de l'Histoire</title>
+         <link href="/liens/2024/11/06/lattaque-informatique-la-plus-sophistiquee-de-lhistoire.md/"/>
+         <updated>2024-11-06T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/06/lattaque-informatique-la-plus-sophistiquee-de-lhistoire.md/</id>
+
+         <content type="html">
+            Micode parle de la backdoor sur xz
          </content>
       </entry>
    
