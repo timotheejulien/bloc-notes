@@ -2,9 +2,9 @@
 layout: post
 title: "Une vie sans fromage mérite-t-elle d’être vécue ?"
 link: "https://www.20minutes.fr/tempo/4078429-20240227-vie-fromage-merite-etre-vecue"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Laure Beaudonnet
+published_date: "27/02/2024"
+description: "Une étude recommande de réduire notre consommation de fromage tandis que le camembert, le brie et le roquefort sont en voie d’extinction"
 language: fr
 categories:
 - Liens

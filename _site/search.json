@@ -8,6 +8,20 @@
       ,
   
             {
+                  "title"    : "Fondation Mozilla : des licenciements… et la fin d’une ère ?",
+                  "url"      : "/liens/2024/11/06/fondation-mozilla-des-licenciements-et-la-fin-dune-ere/",
+                  "tags"     : "mozilla, firefox, énomie"
+            } 
+      ,
+  
+            {
+                  "title"    : "Quand tout le monde vous ment en permanence, le résultat n’est pas que vous croyez ces mensonges mais que plus personne ne croit plus rien (…). Un peuple qui ne peut plus rien croire ne peut se faire une opinion. Il est privé non seulement de sa capacité d’agir mais aussi de sa capacité de penser et de juger. Et avec un tel peuple, vous pouvez faire ce que vous voulez",
+                  "url"      : "/citations/2024/11/06/citation-hannah-harendt/",
+                  "tags"     : "réflexion, philosophie"
+            } 
+      ,
+  
+            {
                   "title"    : "Apple : la pomme écrasée par sa pub",
                   "url"      : "/liens/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/",
                   "tags"     : "apple, publicité, vidéos"
@@ -2094,20 +2108,6 @@
       ,
   
             {
-                  "title"    : "La vie en bleu #3 - la filiere comte, qui gagne combien ?",
-                  "url"      : "/liens/2024/05/19/la-vie-en-bleu-3-la-filiere-comte-qui-gagne-combien/",
-                  "tags"     : "fromage, gastronomie"
-            } 
-      ,
-  
-            {
-                  "title"    : "La vie en bleu #11 - la folie mont d&#39;or",
-                  "url"      : "/liens/2024/05/19/la-vie-en-bleu-11-la-folie-mont-dor/",
-                  "tags"     : "fromage, gastronomie"
-            } 
-      ,
-  
-            {
                   "title"    : "La société hp vous louera une imprimante, si vous ne pouvez pas en acheter une — mais il y a un bémol",
                   "url"      : "/liens/2024/05/19/la-socit-hp-vous-louera-une-imprimante-si-vous-ne-pouvez-pas-en-acheter-une-mais-il-y-a-un-bmol/",
                   "tags"     : "ia, surveillance"
@@ -2458,8 +2458,8 @@
       ,
   
             {
-                  "title"    : "fromages : où est passé notre terroir ?",
-                  "url"      : "/liens/2024/05/19/fromages-o-est-pass-notre-terroir/",
+                  "title"    : "Fromages : où est passé notre terroir ?",
+                  "url"      : "/liens/2024/05/19/fromages-ou-est-pass-notre-terroir/",
                   "tags"     : "vidéos, fromage, documentaire"
             } 
       ,
@@ -3217,6 +3217,83 @@
                   "title"    : "10 000 pas par jour… d’où vient le mythe préconisé par les montres connectées ?",
                   "url"      : "/liens/2024/05/19/10-000-pas-par-jour-do-vient-le-mythe-prconis-par-les-montres-connectes/",
                   "tags"     : "société, santé, sport"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #12 – Istoires authentiques de Gruyère, de producteurs et de terroir",
+                  "url"      : "/liens/2023/04/28/la-vie-en-bleu-12-istoires-authentiques-de-gruyere-de-producteurs-et-de-terroir/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #11 - la folie Mont d&#39;Or",
+                  "url"      : "/liens/2023/03/02/la-vie-en-bleu-11-la-folie-mont-dor/",
+                  "tags"     : "fromage, gastronomie"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #3 - la filiere Comté, qui gagne combien ?",
+                  "url"      : "/liens/2023/02/28/la-vie-en-bleu-3-la-filiere-comte-qui-gagne-combien/",
+                  "tags"     : "fromage, gastronomie"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #9 – Du marketing à la laiterie urbaine, la reconversion de Xavier Hugol-Gential",
+                  "url"      : "/liens/2022/11/04/la-vie-en-bleu-9-reconversion-laiterie-urbaine/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #8 - Le quotidien sans filtre d’une éleveuse de chèvres, Priscille Guhl",
+                  "url"      : "/liens/2022/09/09/la-vie-en-bleu-8-eleveuse-chevre-priscille-guhl/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #7 – Fermier entrepreneur, Vincent Lerat",
+                  "url"      : "/liens/2022/05/28/la-vie-en-bleu-7-fermier-entrepreneur-vincent-lerat/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #6 – 24h de la vie d’un MOF (Pierre Gay)",
+                  "url"      : "/liens/2022/05/04/la-vie-en-bleu-6-24h-de-la-vie-dun-mof-pierre-gay/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #5 – Fromage &amp; Santé",
+                  "url"      : "/liens/2022/03/14/la-vie-en-bleu-5-fromage-sante/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #4 – La saison des fromages",
+                  "url"      : "/liens/2022/03/04/la-vie-en-bleu-4-la-saison-des-fromages/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #2 – Fromage Bio, l’avenir du fromage ?",
+                  "url"      : "/liens/2022/01/07/la-vie-en-bleu-2-fromage-bio-lavenir-du-fromage/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
+                  "title"    : "La vie en bleu #1 – Fromage fermier ou artisanal, la famille Rochas au fil des années",
+                  "url"      : "/liens/2021/12/03/la-vie-en-bleu-1-fromage-fermier-fromage-artisanal/",
+                  "tags"     : "fromage"
             } 
       
   
