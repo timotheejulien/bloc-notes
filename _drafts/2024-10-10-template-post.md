@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 
-link: 
-author: 
-published_date: 
-description:
-language: 
+title: ""
+link: ""
+author: ""
+published_date: ""
+description: ""
+language: ""
 categories: 
    - Liens
    - Citations
