@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Crise climatique : l'année 2024 sera la plus chaude jamais enregistrée et la première à dépasser 1,5°C de réchauffement, selon l'observatoire Copernicus"
-link: https://www.francetvinfo.fr/monde/environnement/crise-climatique/crise-climatique-l-annee-2024-sera-la-plus-chaude-jamais-enregistree-et-la-premiere-a-depasser-1-5-c-de-rechauffement-selon-l-observatoire-copernicus_6881876.html#xtor=CS2-765-%5Bautres%5D-
-author: "franceinfo"
+title: "« Les entrepreneurs de la Silicon Valley ont une conception archaïque du futur »"
+link: "https://usbeketrica.com/fr/article/les-entrepreneurs-de-la-silicon-valley-ont-une-conception-archaique-du-futur"
+author: "Émilie Echaroux"
 published_date: "07/11/2024"
-description: ""
+description: "Dans son essai Les prophètes de l’IA, paru le 25 octobre aux éditions Lux, le journaliste Thibault Prévost – collaborateur régulier d’Usbek & Rica – dresse un portrait démystificateur des grands noms de l’intelligence artificielle qui nous vendent la fin des temps. Entretien."
 language: "fr"
 categories: "Liens"
-tags: "société écologie"
-og-tags: "société écologie"
+tags: "web ia numérique"
+og-tags: "web ia numériquz"
 permalink: /:categories/:year/:month/:day/:title/
 ---
