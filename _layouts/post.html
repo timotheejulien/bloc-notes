@@ -12,16 +12,19 @@
                <a href="{{ page.link }}" target="_blank">{{ page.link }}</a>
             </div>
          </header>
-            <h1 class="h2">{{ page.title }}</h1>
-            <p class="post-description">{{ page.description }}</p>
-            <footer class="article-footer">
-               <ul>
-                  {% for tag in page.tags %}
-                  <li class="tag">{{tag}}</li>
-                  {% endfor %}
-               </ul>
+         <h1 class="h2">{{ page.title }}</h1>
+         <div class="post-details-description">
+            <p>{{ page.description }}</p>
+         </div>
+         <footer class="article-footer">
+            <ul>
+               {% for tag in page.tags %}
+               <li class="tag">{{tag}}</li>
+               {% endfor %}
+            </ul>
          </footer>
       </article>
+      <hr>
       <div>
          <h2 class="h3">Notes similaires</h2>
    

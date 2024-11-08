@@ -166,6 +166,14 @@ a:hover {
    background: var(--color-divider);
 }
 
+hr {
+   width: 100%;
+   color: var(--color-divider);
+   background-color: var(--color-divider);
+   height: 1px;
+   border: 0;
+}
+
 /* LAYOUT */
 html {
    -webkit-box-sizing:border-box;
@@ -472,10 +480,6 @@ ul.listing {
 ul.listing li {
    flex: auto;
 }
-
-.post-description {
-   color: var(--color-text-secondary);
-} 
 
 .pagination {
    width: 100%;

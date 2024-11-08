@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-06T21:29:05+01:00</updated>
+   <updated>2024-11-08T09:31:07+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,61 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Unlocking component flexibility with slots in Figma</title>
+         <link href="/liens/2024/11/08/unlocking-component-flexibility-with-slots-in-figma/"/>
+         <updated>2024-11-08T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/08/unlocking-component-flexibility-with-slots-in-figma/</id>
+
+         <content type="html">
+            Material Design is excited to introduce Slot Components, a powerful technique that allows you to create flexible and dynamic layouts with ease in the Material 3 Figma Design Kit. Slot components unlock local custom component nesting in Figma. With this added flexibility to make changes and edits to components, slot components remove the need to disconnect from the main Material Design Kit. Components can now remain linked to the main library to receive updates and improvements as you change them to suit your needs. Slot components are a step toward supporting component flexibility that makers need by: &lt;ul&gt; &lt;li&gt;Allowing teams to extend component possibilities while still inheriting future updates and fixes.&lt;/li&gt; &lt;li&gt;Designers no longer need to Detach components for unique variants.&lt;/li&gt; &lt;li&gt;Material components are no longer fixed to only preconfigured offerings. Designers can now add custom variations to them!&lt;/li&gt; &lt;li&gt;Material Design components are simpler and more powerful than ever.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Adding slots to components enables them to better express the maker’s needs. Slots gives designers the flexibility to create new component variations while still using the guidelines of Material’s design system. This aligns with how these container-like components are designed with how they are built–– crafting the design toolkit to mimic the component capabilities in code.&lt;/p&gt;
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Mastodon comments</title>
+         <link href="/liens/2024/11/08/mastodon-comments/"/>
+         <updated>2024-11-08T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/08/mastodon-comments/</id>
+
+         <content type="html">
+            Un Web Component très léger qui permet d&apos;utiliser Mastodon comme système de commentaire. Parfait pour un blog statique par exemple.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>TikTok : le Canada ordonne la fermeture de la branche locale du réseau social, mais l’application restera accessible</title>
+         <link href="/liens/2024/11/07/tiktok-le-canada-ordonne-la-fermeture-de-la-branche-locale-du-reseau-social-mais-l-application-restera-accessible/"/>
+         <updated>2024-11-07T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/07/tiktok-le-canada-ordonne-la-fermeture-de-la-branche-locale-du-reseau-social-mais-l-application-restera-accessible/</id>
+
+         <content type="html">
+            Le Canada a ordonné, mercredi 6 novembre, la liquidation de la branche canadienne de TikTok, citant « des risques précis pour la sécurité nationale ». L’accès et l’utilisation de l’application dans le pays ne sera pas interdit pour autant. L’annonce du gouvernement signifie que TikTok devra fermer les bureaux qu’il possède à Toronto et Vancouver.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>« Les entrepreneurs de la Silicon Valley ont une conception archaïque du futur »</title>
+         <link href="/liens/2024/11/07/les-entrepreneurs-de-la-silicon-valley-ont-une-conception-archaique-du-futur/"/>
+         <updated>2024-11-07T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/07/les-entrepreneurs-de-la-silicon-valley-ont-une-conception-archaique-du-futur/</id>
+
+         <content type="html">
+            Dans son essai Les prophètes de l’IA, paru le 25 octobre aux éditions Lux, le journaliste Thibault Prévost – collaborateur régulier d’Usbek &amp; Rica – dresse un portrait démystificateur des grands noms de l’intelligence artificielle qui nous vendent la fin des temps. Entretien.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Crise climatique : 2024 sera l’année la plus chaude jamais enregistrée et la première à dépasser 1,5°C de réchauffement, selon l’observatoire Copernicus</title>
+         <link href="/liens/2024/11/07/crise-climatique-l-annee-2024-sera-la-plus-chaude-jamais-enregistree-et-la-premiere-a-depasser-1-5-c-de-rechauffement-selon-l-observatoire-copernicus/"/>
+         <updated>2024-11-07T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/07/crise-climatique-l-annee-2024-sera-la-plus-chaude-jamais-enregistree-et-la-premiere-a-depasser-1-5-c-de-rechauffement-selon-l-observatoire-copernicus/</id>
+
+         <content type="html">
+            Avec un tel dépassement des températures, les événements météo extrêmes risquent de se multiplier, prévient sur franceinfo Joël Guiot, paléoclimatologue et contributeur du Giec. La COP29, la prochaine conférence sur le climat, s&apos;ouvre lundi en Azerbaïdjan.
+         </content>
+      </entry>
    
       <entry>
          <title>Quels sont les bienfaits du fromage sur la santé ?</title>
@@ -32,6 +87,17 @@
 
          <content type="html">
             Plaidoyer en faveur d’un logiciel de relations épistolaires électroniques, échanges sacrifiés au culte de l’instantanéité. J’aime l’email. Je ne me lasse pas de m’émerveiller sur la beauté de ce système qui nous permet d’échanger par écrit, de manière décentralisée. D’entretenir des relations épistolaires dématérialisées à l’abri des regards (si l’on choisit bien son fournisseur). Je l’ai déjà dit et le redis.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Le numérique consomme déjà 10 % de l'électricité en France</title>
+         <link href="/liens/2024/11/06/le-numerique-consomme-deja-10-de-electricite-en-france/"/>
+         <updated>2024-11-06T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/06/le-numerique-consomme-deja-10-de-electricite-en-france/</id>
+
+         <content type="html">
+            Le numérique représente 10 % de la consommation d’électricité en France et son empreinte carbone pourrait tripler d’ici à 2050 avec la généralisation de l’intelligence artificielle, la multiplication des data centers et l’augmentation significative du nombre d’appareils et d’équipements numériques des ménages français. Cette croissance est incompatible avec les engagements pris lors de l’Accord de Paris, alertent l’Ademe, l’Arcom et l’Arcep. Les directeurs de ces organismes appellent dans une tribune dans Les Échos à « un pilotage européen des impacts environnementaux du numérique ».
          </content>
       </entry>
    
