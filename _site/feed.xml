@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-08T09:31:07+01:00</updated>
+   <updated>2024-11-08T09:35:59+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -20,7 +20,7 @@
          <id>http://localhost:4000/liens/2024/11/08/unlocking-component-flexibility-with-slots-in-figma/</id>
 
          <content type="html">
-            Material Design is excited to introduce Slot Components, a powerful technique that allows you to create flexible and dynamic layouts with ease in the Material 3 Figma Design Kit. Slot components unlock local custom component nesting in Figma. With this added flexibility to make changes and edits to components, slot components remove the need to disconnect from the main Material Design Kit. Components can now remain linked to the main library to receive updates and improvements as you change them to suit your needs. Slot components are a step toward supporting component flexibility that makers need by: &lt;ul&gt; &lt;li&gt;Allowing teams to extend component possibilities while still inheriting future updates and fixes.&lt;/li&gt; &lt;li&gt;Designers no longer need to Detach components for unique variants.&lt;/li&gt; &lt;li&gt;Material components are no longer fixed to only preconfigured offerings. Designers can now add custom variations to them!&lt;/li&gt; &lt;li&gt;Material Design components are simpler and more powerful than ever.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Adding slots to components enables them to better express the maker’s needs. Slots gives designers the flexibility to create new component variations while still using the guidelines of Material’s design system. This aligns with how these container-like components are designed with how they are built–– crafting the design toolkit to mimic the component capabilities in code.&lt;/p&gt;
+            Material Design is excited to introduce Slot Components, a powerful technique that allows you to create flexible and dynamic layouts with ease in the Material 3 Figma Design Kit. Slot components unlock local custom component nesting in Figma. With this added flexibility to make changes and edits to components, slot components remove the need to disconnect from the main Material Design Kit. Components can now remain linked to the main library to receive updates and improvements as you change them to suit your needs.
          </content>
       </entry>
    
