@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-09T12:46:38+01:00</updated>
+   <updated>2024-11-09T16:14:50+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Auparavant considéré comme un produit phare, le navigateur de Mozilla a vu son nombre d’utilisateurs s’effondrer. Le logiciel, qui fête ses 20 ans aujourd’hui, conserve toutefois une base solide d’adeptes, qui voient en lui un moyen de s’opposer à la toute-puissance des GAFAM.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Cette société permet de choisir l'embryon afin de d'offrir le meilleur QI à son enfant 🧠</title>
+         <link href="/liens/2024/11/09/cette-societe-permet-choisir-embryon-afin-offrir-meilleur-qi-son-enfant/"/>
+         <updated>2024-11-09T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/09/cette-societe-permet-choisir-embryon-afin-offrir-meilleur-qi-son-enfant/</id>
+
+         <content type="html">
+            Sélectionner des embryons pour obtenir des enfants plus intelligents est désormais possible. L&apos;entreprise américaine Heliospect Genomics propose de classer les embryons selon leur génome, en se basant notamment sur des critères de QI. Un procédé qui n&apos;est pas sans soulever des questions.
          </content>
       </entry>
    
