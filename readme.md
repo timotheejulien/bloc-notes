@@ -5,7 +5,7 @@
 ## Introduction
 
 I want to centralise all my notes (bookmarks, quotes, notes, etc).
-You can see this project (in french) at [https://bloc-notes.timotheejulien.fr](hbloc-notes.timotheejulien.fr).
+You can see this project (in french) at [https://bloc-notes.timotheejulien.fr](https://bloc-notes.timotheejulien.fr).
 
 ## Released under MIT License
 
@@ -20,11 +20,16 @@ You can find the tutorial here : https://jekyllrb.com/docs/installation/
 
 ```bash
 git clone https://github.com/timotheejulien/notes.git
-cd ./fromages
+cd ./bloc-notes
 ```
 
 ## Development
+The first time, you have to install all gems with this command line:
+```
+bundle install
+```
 
+Next times:
 ```
 jekyll serve
 ```
@@ -35,7 +40,7 @@ jekyll serve
 jekyll build
 ```
 
-## ressources
+## Ressources
 
 ### iOS Shortcut
 I created an iOS Shortcut to publish a new note from your Apple devices. You can download it [here](https://www.icloud.com/shortcuts/387f25b03ab54c3b863a35dc2894e0f3)
