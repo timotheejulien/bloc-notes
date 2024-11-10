@@ -2,9 +2,9 @@
 layout: post
 title: "accessibilité de combat"
 link: "https://www.24joursdeweb.fr/2023/accessibilite-de-combat"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Bertrand Keller
+published_date: "03/12/2023"
+description: "Il fut un temps où l’on donnait sa vie pour une idéologie politique. Puis nous sommes devenus de simples bénévoles actifs. Désormais nous nous engageons, mais quand l’occasion se présente, pour une cause qui nous tient à cœur."
 language: fr
 categories:
 - Liens

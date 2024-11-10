@@ -3,8 +3,8 @@ layout: post
 title: "« Faire quelque chose, le partager », sans visée commerciale : le combat du logiciel libre n’est pas mort"
 link: "https://basta.media/faire-quelque-chose-le-partager-sans-visee-commerciale-le-combat-du-logiciel-libre"
 author: N/A
-published_date: "19/05/2024"
-description: ""
+published_date: "25/09/2023"
+description: "Souvent bénévoles, les développeuses et développeurs de logiciels libres contribuent largement au monde numérique actuel. Deux libristes trentenaires témoignent d’un secteur en recomposition, sous pression des géants du numériques."
 language: fr
 categories:
 - Liens
@@ -14,6 +14,6 @@ tags:
 - "technologie"
 - "open-source"
 
-og-tags: "app, technologie, Open source"
+og-tags: "app, technologie, open-source"
 permalink: /:categories/:year/:month/:day/:title/
 ---

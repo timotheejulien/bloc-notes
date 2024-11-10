@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "accessibilité des pdf"
+title: "Accessibilité des PDF"
 link: "https://blog.hello-bokeh.fr/2024/03/11/accessibilite-des-pdf"
-author: N/A
+author: Anne-Sophie Tranchet
 published_date: "19/05/2024"
-description: ""
+description: "Ces derniers mois, j’ai accompagné beaucoup d’équipes qui se sont posés la même question : « Est-ce que mes PDF sont accessibles ? ». La première fois, je ne savais pas trop comment répondre à cette question. Mais après quelques recherches, j’ai les idées plus claires, et je suis capable de répondre bien plus précisément…"
 language: fr
 categories:
 - Liens

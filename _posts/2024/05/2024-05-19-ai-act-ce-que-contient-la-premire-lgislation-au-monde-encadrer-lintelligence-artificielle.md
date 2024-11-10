@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Ai act : ce que contient la première législation au monde à encadrer l'intelligence artificielle"
+title: "AI act : ce que contient la première législation au monde à encadrer l'intelligence artificielle"
 link: "https://usbeketrica.com/fr/article/ai-act-ce-que-contient-la-premiere-legislation-au-monde-a-encadrer-l-intelligence-artificielle"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Emilie Echaroux
+published_date: "13/12/2023"
+description: "Après un marathon de trois jours ponctué de négociations intenses, les États membres de l’UE et le Parlement européen sont parvenus à un accord encadrant les systèmes d’intelligence artificielle l’échelle européenne. Interdictions, régulations et supervisions… On vous résume ce qui figure dans l’AI Act, premier de son genre à l’échelle mondiale."
 language: fr
 categories:
 - Liens
