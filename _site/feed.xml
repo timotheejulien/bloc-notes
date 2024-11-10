@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-10T18:15:31+01:00</updated>
+   <updated>2024-11-10T18:54:16+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Sommes-nous de plus en plus distraits (et est-ce vraiment si grave que ça) ?</title>
+         <link href="/liens/2024/11/10/sommes-nous-de-plus-en-plus-distraits-et-est-ce-vraiment-si-grave-que-ca/"/>
+         <updated>2024-11-10T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/10/sommes-nous-de-plus-en-plus-distraits-et-est-ce-vraiment-si-grave-que-ca/</id>
+
+         <content type="html">
+            Dix-sept ans après la commercialisation du premier iPhone, l’humanité semble traverser une profonde crise de l’attention. Toujours plus sollicités, nos cerveaux, même bien entraînés, ont des capacités limitées. Mais dans une société qui survalorise la concentration, être distrait est-il vraiment si dramatique que cela ? On s’est posé la question dans le numéro d’hiver 2024 de notre magazine.
+         </content>
+      </entry>
    
       <entry>
          <title>L'interdiction des paiements de Google va-t-elle tuer Mozilla Firefox ?</title>
@@ -234,13 +245,13 @@
       </entry>
    
       <entry>
-         <title>Est ce qu'il faut bloquer les chatbots ia sur son site web ?</title>
+         <title>Est ce qu'il faut bloquer les chatbots IA sur son site web ?</title>
          <link href="/liens/2024/11/01/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/"/>
          <updated>2024-11-01T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/11/01/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/</id>
 
          <content type="html">
-            Il semble qu&apos;il y ait un débat sur l&apos;opportunité d&apos;empêcher ou non les chatbots ia d&apos;explorer et d&apos;accéder aux sites web. Alors que certains soutiennent que le blocage des robots ia pourrait limiter la visibilité et l&apos;engagement des utilisateurs qui s&apos;appuient sur ces outils pour la découverte et l&apos;interaction de contenu, d&apos;autres s&apos;inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l&apos;ia.
+            Il semble qu&apos;il y ait un débat sur l&apos;opportunité d&apos;empêcher ou non les chatbots ia d&apos;explorer et d&apos;accéder aux sites web. Alors que certains soutiennent que le blocage des robots ia pourrait limiter la visibilité et l&apos;engagement des utilisateurs qui s&apos;appuient sur ces outils pour la découverte et l&apos;interaction de contenu, d&apos;autres s&apos;inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l&apos;IA.
          </content>
       </entry>
    
@@ -256,18 +267,18 @@
       </entry>
    
       <entry>
-         <title>L’ia Open Source existe-t-elle vraiment ?</title>
+         <title>L’IA Open Source existe-t-elle vraiment ?</title>
          <link href="/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/"/>
          <updated>2024-10-31T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/</id>
 
          <content type="html">
-            À l’heure où tous les mastodontes du numérique, gafam comme instituts de recherche comme nouveaux entrants financés par le capital risque se mettent à publier des modèles en masse (la plateforme Hugging Face a ainsi dépassé le million de modèles déposés le mois dernier), la question du caractère « open-source » de l’ia se pose de plus en plus.
+            À l’heure où tous les mastodontes du numérique, gafam comme instituts de recherche comme nouveaux entrants financés par le capital risque se mettent à publier des modèles en masse (la plateforme Hugging Face a ainsi dépassé le million de modèles déposés le mois dernier), la question du caractère « open-source » de l’IA se pose de plus en plus.
          </content>
       </entry>
    
       <entry>
-         <title>internet est mort, vive internet !</title>
+         <title>Internet est mort, vive internet !</title>
          <link href="/liens/2024/10/30/internet-est-mort-vive-internet/"/>
          <updated>2024-10-30T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/10/30/internet-est-mort-vive-internet/</id>
@@ -278,7 +289,7 @@
       </entry>
    
       <entry>
-         <title>designing for anyone: The power of accessible products</title>
+         <title>Designing for anyone: The power of accessible products</title>
          <link href="/liens/2024/10/30/designing-for-anyone-the-power-of-accessible-products/"/>
          <updated>2024-10-30T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/10/30/designing-for-anyone-the-power-of-accessible-products/</id>
@@ -295,7 +306,7 @@
          <id>http://localhost:4000/liens/2024/10/29/vrais-et-faux-risques-de-lintelligence-artificielle/</id>
 
          <content type="html">
-            Ceux qui suivent depuis un moment les développements de l’intelligence artificielle (ia) l’auront noté : c’est de manière cyclique que surgissent d’une part les bouquets de promesses, de l’autre les peurs et les doutes. Ainsi la décennie 2010 aura suscité tous les espoirs, après la sortie d’un long « hiver de l’ia » et l’émergence des modèles d’apprentissage profond. Dès 2015, une rafale de critiques vient néanmoins plomber l’ambiance, pointant les controverses sociotechniques liées à ces progrès, le tout alimenté de nombreux ouvrages en sciences humaines et en France, la publication du très lu Rapport Villani. Un nouveau cycle de promesses s’amorce à l’orée de l’année 2023, avec le déploiement des grands modèles de langage, aussitôt suivi de questionnements quant à leurs impacts social et environnemental. De ce mouvement de balancier, nous pourrions espérer une plus grande maturité collective dans l’appréhension commune des enjeux liés à l’ia. Celle-ci est loin d’être acquise. Dans la cacophonie médiatique comme dans le fond des sujets, l’appréhension et la hiérarchisation des risques de l’intelligence artificielle vise souvent à côté, et les réponses aux antédiluviennes questions sur les dégâts du progrès sont toujours attendues. Nous souhaitons avec ce texte, réarmer le débat sur l’ia en portant l’attention – un peu arbitrairement peut-être –  sur cinq angles morts qui le polluent actuellement.
+            Ceux qui suivent depuis un moment les développements de l’intelligence artificielle (IA) l’auront noté : c’est de manière cyclique que surgissent d’une part les bouquets de promesses, de l’autre les peurs et les doutes. Ainsi la décennie 2010 aura suscité tous les espoirs, après la sortie d’un long « hiver de l’IA » et l’émergence des modèles d’apprentissage profond. Dès 2015, une rafale de critiques vient néanmoins plomber l’ambiance, pointant les controverses sociotechniques liées à ces progrès, le tout alimenté de nombreux ouvrages en sciences humaines et en France, la publication du très lu Rapport Villani. Un nouveau cycle de promesses s’amorce à l’orée de l’année 2023, avec le déploiement des grands modèles de langage, aussitôt suivi de questionnements quant à leurs impacts social et environnemental. De ce mouvement de balancier, nous pourrions espérer une plus grande maturité collective dans l’appréhension commune des enjeux liés à l’IA. Celle-ci est loin d’être acquise. Dans la cacophonie médiatique comme dans le fond des sujets, l’appréhension et la hiérarchisation des risques de l’intelligence artificielle vise souvent à côté, et les réponses aux antédiluviennes questions sur les dégâts du progrès sont toujours attendues. Nous souhaitons avec ce texte, réarmer le débat sur l’ia en portant l’attention – un peu arbitrairement peut-être –  sur cinq angles morts qui le polluent actuellement.
          </content>
       </entry>
    
@@ -322,13 +333,13 @@
       </entry>
    
       <entry>
-         <title>Comment changer d’instance mastodon ?</title>
+         <title>Comment changer d’instance mMstodon ?</title>
          <link href="/liens/2024/10/27/comment-changer-dinstance-mastodon/"/>
          <updated>2024-10-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/27/comment-changer-dinstance-mastodon/</id>
 
          <content type="html">
-            L&apos;un des arguments de mastodon, c&apos;est que le service permet de déménager un compte d&apos;un serveur à un autre. Encore faut-il savoir comment faire cela. Dans quelques minutes, cette manipulation en quelques étapes (simples) n&apos;aura plus de secrets pour vous.
+            L&apos;un des arguments de Mastodon, c&apos;est que le service permet de déménager un compte d&apos;un serveur à un autre. Encore faut-il savoir comment faire cela. Dans quelques minutes, cette manipulation en quelques étapes (simples) n&apos;aura plus de secrets pour vous.
          </content>
       </entry>
    
@@ -344,7 +355,7 @@
       </entry>
    
       <entry>
-         <title>Three ux laws that optimize information seeking</title>
+         <title>Three UX laws that optimize information seeking</title>
          <link href="/liens/2024/10/26/three-ux-laws-that-optimise-information-seeking/"/>
          <updated>2024-10-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/26/three-ux-laws-that-optimise-information-seeking/</id>
@@ -366,7 +377,7 @@
       </entry>
    
       <entry>
-         <title>ux Cognitive Bias Cards and Workshop</title>
+         <title>UX Cognitive Bias Cards and Workshop</title>
          <link href="/liens/2024/10/25/ux-cognitive-bias-cards-workshop/"/>
          <updated>2024-10-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/25/ux-cognitive-bias-cards-workshop/</id>
@@ -443,7 +454,7 @@
       </entry>
    
       <entry>
-         <title>podcast – l’ia, la clé pour déchiffrer nos messageries sécurisées ?</title>
+         <title>Podcast – l’IA, la clé pour déchiffrer nos messageries sécurisées ?</title>
          <link href="/liens/2024/10/14/podcast-lia-la-cl-pour-dchiffrer-nos-messageries-scurises/"/>
          <updated>2024-10-14T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/14/podcast-lia-la-cl-pour-dchiffrer-nos-messageries-scurises/</id>
@@ -465,7 +476,7 @@
       </entry>
    
       <entry>
-         <title>design systems: simplifying documentation writing</title>
+         <title>Design systems: simplifying documentation writing</title>
          <link href="/liens/2024/10/14/design-systems-simplifying-documentation-writing/"/>
          <updated>2024-10-14T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/14/design-systems-simplifying-documentation-writing/</id>
@@ -487,18 +498,18 @@
       </entry>
    
       <entry>
-         <title>Les mythes de l’ia</title>
+         <title>Les mythes de l’IA</title>
          <link href="/liens/2024/10/08/les-mythes-de-lia/"/>
          <updated>2024-10-08T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/08/les-mythes-de-lia/</id>
 
          <content type="html">
-            Les discours autour de l’ia produisent des mythes qui influencent notre compréhension de ce qu’elle est, produisant une perception confuse de leur réalité… pour mieux influer les transformations légales à venir.
+            Les discours autour de l’IA produisent des mythes qui influencent notre compréhension de ce qu’elle est, produisant une perception confuse de leur réalité… pour mieux influer les transformations légales à venir.
          </content>
       </entry>
    
       <entry>
-         <title>designing design systems: supporting implementation and adoption</title>
+         <title>Designing design systems: supporting implementation and adoption</title>
          <link href="/liens/2024/10/07/designing-design-systems-supporting-implementation-and-adoption/"/>
          <updated>2024-10-07T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/10/07/designing-design-systems-supporting-implementation-and-adoption/</id>
@@ -520,7 +531,7 @@
       </entry>
    
       <entry>
-         <title>firefox vous suit à la trace grâce à une fonction de préservation de la vie privée</title>
+         <title>Firefox vous suit à la trace grâce à une fonction de préservation de la vie privée</title>
          <link href="/liens/2024/09/25/firefox-vous-suit-la-trace-grce-une-fonction-de-prservation-de-la-vie-prive/"/>
          <updated>2024-09-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/25/firefox-vous-suit-la-trace-grce-une-fonction-de-prservation-de-la-vie-prive/</id>
@@ -542,7 +553,7 @@
       </entry>
    
       <entry>
-         <title>How to lock aspect ratios for responsive media in figma</title>
+         <title>How to lock aspect ratios for responsive media in Figma</title>
          <link href="/liens/2024/09/23/how-to-lock-aspect-ratios-for-responsive-media-in-figma/"/>
          <updated>2024-09-23T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/23/how-to-lock-aspect-ratios-for-responsive-media-in-figma/</id>
@@ -564,13 +575,13 @@
       </entry>
    
       <entry>
-         <title>ia : la guerre des données aura-t-elle lieu ?</title>
+         <title>IA : la guerre des données aura-t-elle lieu ?</title>
          <link href="/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/"/>
          <updated>2024-09-15T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/</id>
 
          <content type="html">
-            Coûteux financièrement et écologiquement parlant, l’entraînement des modèles d’ia générative sur la base de nos données est aussi sous le feu des associations de protection de la vie privée. Pour contourner le problème, le recours aux données synthétiques s’impose de plus en plus. La donnée synthétique est-elle « si fantastique » ? Quelques éléments de réponse.
+            Coûteux financièrement et écologiquement parlant, l’entraînement des modèles d’IA générative sur la base de nos données est aussi sous le feu des associations de protection de la vie privée. Pour contourner le problème, le recours aux données synthétiques s’impose de plus en plus. La donnée synthétique est-elle « si fantastique » ? Quelques éléments de réponse.
          </content>
       </entry>
    
@@ -586,7 +597,7 @@
       </entry>
    
       <entry>
-         <title>L’ia peut-elle nous réconcilier avec le travail ?</title>
+         <title>L’IA peut-elle nous réconcilier avec le travail ?</title>
          <link href="/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/"/>
          <updated>2024-09-06T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/</id>
@@ -608,7 +619,7 @@
       </entry>
    
       <entry>
-         <title>Pique et pique et telegram. Plus Durov sera la chute.</title>
+         <title>Pique et pique et Telegram. Plus Durov sera la chute.</title>
          <link href="/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/"/>
          <updated>2024-09-05T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/</id>
@@ -652,7 +663,7 @@
       </entry>
    
       <entry>
-         <title>ux deliverables: glossary</title>
+         <title>UX deliverables: glossary</title>
          <link href="/liens/2024/08/27/ux-deliverables-glossary/"/>
          <updated>2024-08-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/27/ux-deliverables-glossary/</id>
@@ -663,7 +674,7 @@
       </entry>
    
       <entry>
-         <title>telegram n'est pas une messagerie sécurisée</title>
+         <title>Telegram n'est pas une messagerie sécurisée</title>
          <link href="/liens/2024/08/26/telegram-nest-pas-une-messagerie-scurise/"/>
          <updated>2024-08-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/26/telegram-nest-pas-une-messagerie-scurise/</id>
@@ -674,7 +685,7 @@
       </entry>
    
       <entry>
-         <title>Que se passe-t-il avec telegram et l’arrestation de pavel durov ?</title>
+         <title>Que se passe-t-il avec Telegram et l’arrestation de Pavel Durov ?</title>
          <link href="/liens/2024/08/26/que-se-passetil-avec-telegram-et-larrestation-de-pavel-durov/"/>
          <updated>2024-08-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/26/que-se-passetil-avec-telegram-et-larrestation-de-pavel-durov/</id>
@@ -685,7 +696,7 @@
       </entry>
    
       <entry>
-         <title>Affaire telegram : un test pour l’union européenne</title>
+         <title>Affaire Telegram : un test pour l’union européenne</title>
          <link href="/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/"/>
          <updated>2024-08-26T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/</id>
@@ -696,7 +707,7 @@
       </entry>
    
       <entry>
-         <title>Pavel Durov, le patron de telegram, interpellé à l’aéroport du Bourget</title>
+         <title>Pavel Durov, le patron de Telegram, interpellé à l’aéroport du Bourget</title>
          <link href="/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/"/>
          <updated>2024-08-25T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/</id>
@@ -707,7 +718,7 @@
       </entry>
    
       <entry>
-         <title>Moteurs de recherche et ia : à la recherche de l’aiguille dans la botte de data.</title>
+         <title>Moteurs de recherche et IA : à la recherche de l’aiguille dans la botte de data.</title>
          <link href="/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/"/>
          <updated>2024-08-24T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/</id>
@@ -718,13 +729,13 @@
       </entry>
    
       <entry>
-         <title>La révolution visuelle qu'apporte figma aux non-designers</title>
+         <title>La révolution visuelle qu'apporte Figma aux non-designers</title>
          <link href="/liens/2024/08/23/la-rvolution-visuelle-quapporte-figma-aux-nondesigners/"/>
          <updated>2024-08-23T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/23/la-rvolution-visuelle-quapporte-figma-aux-nondesigners/</id>
 
          <content type="html">
-            Pourquoi figma, en tant qu&apos;outil de travail, facilite la collaboration et l&apos;échange de feedback pour les Knowledge Worker
+            Pourquoi Figma, en tant qu&apos;outil de travail, facilite la collaboration et l&apos;échange de feedback pour les Knowledge Worker
          </content>
       </entry>
    
@@ -773,7 +784,7 @@
       </entry>
    
       <entry>
-         <title>mozilla wants you to love firefox again</title>
+         <title>Mozilla wants you to love Firefox again</title>
          <link href="/liens/2024/08/08/mozilla-wants-you-to-love-firefox-again/"/>
          <updated>2024-08-08T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/08/mozilla-wants-you-to-love-firefox-again/</id>
@@ -828,7 +839,7 @@
       </entry>
    
       <entry>
-         <title>figma AI tools: i’m not worried about my job anytime soon</title>
+         <title>Figma AI tools: i’m not worried about my job anytime soon</title>
          <link href="/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/"/>
          <updated>2024-08-02T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/</id>

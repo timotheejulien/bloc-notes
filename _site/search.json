@@ -1,6 +1,13 @@
 [
       
             {
+                  "title"    : "Sommes-nous de plus en plus distraits (et est-ce vraiment si grave que ça) ?",
+                  "url"      : "/liens/2024/11/10/sommes-nous-de-plus-en-plus-distraits-et-est-ce-vraiment-si-grave-que-ca/",
+                  "tags"     : "science, société, numérique"
+            } 
+      ,
+  
+            {
                   "title"    : "L&#39;interdiction des paiements de Google va-t-elle tuer Mozilla Firefox ?",
                   "url"      : "/liens/2024/11/10/linterdiction-des-paiements-de-google-va-t-elle-tuer-mozilla-firefox/",
                   "tags"     : "google, firefox, app, mozilla"
@@ -141,7 +148,7 @@
       ,
   
             {
-                  "title"    : "Est ce qu&#39;il faut bloquer les chatbots ia sur son site web ?",
+                  "title"    : "Est ce qu&#39;il faut bloquer les chatbots IA sur son site web ?",
                   "url"      : "/liens/2024/11/01/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/",
                   "tags"     : "ia, blog, google"
             } 
@@ -155,21 +162,21 @@
       ,
   
             {
-                  "title"    : "L’ia Open Source existe-t-elle vraiment ?",
+                  "title"    : "L’IA Open Source existe-t-elle vraiment ?",
                   "url"      : "/liens/2024/10/31/ia-open-source-existe-t-elle-vraiment/",
                   "tags"     : "ia, open-source"
             } 
       ,
   
             {
-                  "title"    : "internet est mort, vive internet !",
+                  "title"    : "Internet est mort, vive internet !",
                   "url"      : "/liens/2024/10/30/internet-est-mort-vive-internet/",
                   "tags"     : "internet, vidéos, ia"
             } 
       ,
   
             {
-                  "title"    : "designing for anyone: The power of accessible products",
+                  "title"    : "Designing for anyone: The power of accessible products",
                   "url"      : "/liens/2024/10/30/designing-for-anyone-the-power-of-accessible-products/",
                   "tags"     : "design, ux, ui, accessibilité"
             } 
@@ -197,7 +204,7 @@
       ,
   
             {
-                  "title"    : "Comment changer d’instance mastodon ?",
+                  "title"    : "Comment changer d’instance mMstodon ?",
                   "url"      : "/liens/2024/10/27/comment-changer-dinstance-mastodon/",
                   "tags"     : "mastodon, réseau-social"
             } 
@@ -211,7 +218,7 @@
       ,
   
             {
-                  "title"    : "Three ux laws that optimize information seeking",
+                  "title"    : "Three UX laws that optimize information seeking",
                   "url"      : "/liens/2024/10/26/three-ux-laws-that-optimise-information-seeking/",
                   "tags"     : "design, ux, ui"
             } 
@@ -225,7 +232,7 @@
       ,
   
             {
-                  "title"    : "ux Cognitive Bias Cards and Workshop",
+                  "title"    : "UX Cognitive Bias Cards and Workshop",
                   "url"      : "/liens/2024/10/25/ux-cognitive-bias-cards-workshop/",
                   "tags"     : "design, ux, méthodologie"
             } 
@@ -274,7 +281,7 @@
       ,
   
             {
-                  "title"    : "podcast – l’ia, la clé pour déchiffrer nos messageries sécurisées ?",
+                  "title"    : "Podcast – l’IA, la clé pour déchiffrer nos messageries sécurisées ?",
                   "url"      : "/liens/2024/10/14/podcast-lia-la-cl-pour-dchiffrer-nos-messageries-scurises/",
                   "tags"     : "ia, chiffrement"
             } 
@@ -288,7 +295,7 @@
       ,
   
             {
-                  "title"    : "design systems: simplifying documentation writing",
+                  "title"    : "Design systems: simplifying documentation writing",
                   "url"      : "/liens/2024/10/14/design-systems-simplifying-documentation-writing/",
                   "tags"     : "design, design-system, méthodologie"
             } 
@@ -302,14 +309,14 @@
       ,
   
             {
-                  "title"    : "Les mythes de l’ia",
+                  "title"    : "Les mythes de l’IA",
                   "url"      : "/liens/2024/10/08/les-mythes-de-lia/",
                   "tags"     : "technologie, algorithme"
             } 
       ,
   
             {
-                  "title"    : "designing design systems: supporting implementation and adoption",
+                  "title"    : "Designing design systems: supporting implementation and adoption",
                   "url"      : "/liens/2024/10/07/designing-design-systems-supporting-implementation-and-adoption/",
                   "tags"     : "design, design-system, ui, méthodologie, adobe"
             } 
@@ -323,7 +330,7 @@
       ,
   
             {
-                  "title"    : "firefox vous suit à la trace grâce à une fonction de préservation de la vie privée",
+                  "title"    : "Firefox vous suit à la trace grâce à une fonction de préservation de la vie privée",
                   "url"      : "/liens/2024/09/25/firefox-vous-suit-la-trace-grce-une-fonction-de-prservation-de-la-vie-prive/",
                   "tags"     : "vie-privée, surveillance, mozilla, firefox, législation"
             } 
@@ -337,7 +344,7 @@
       ,
   
             {
-                  "title"    : "How to lock aspect ratios for responsive media in figma",
+                  "title"    : "How to lock aspect ratios for responsive media in Figma",
                   "url"      : "/liens/2024/09/23/how-to-lock-aspect-ratios-for-responsive-media-in-figma/",
                   "tags"     : "design, ui, figma"
             } 
@@ -346,12 +353,12 @@
             {
                   "title"    : "Partage de photos et vidéos de votre enfant sur les réseaux sociaux : quels sont les risques ?",
                   "url"      : "/liens/2024/09/15/partage-de-photos-et-vidos-de-votre-enfant-sur-les-rseaux-sociaux-quels-sont-les-risques/",
-                  "tags"     : "vie-privée, société, cnil, législation, photos"
+                  "tags"     : "vie-privée, société, cnil, législation, photos, réseau-social"
             } 
       ,
   
             {
-                  "title"    : "ia : la guerre des données aura-t-elle lieu ?",
+                  "title"    : "IA : la guerre des données aura-t-elle lieu ?",
                   "url"      : "/liens/2024/09/15/ia-la-guerre-des-donnes-auratelle-lieu/",
                   "tags"     : "vie-privée, ia, web, données-personnelles"
             } 
@@ -365,7 +372,7 @@
       ,
   
             {
-                  "title"    : "L’ia peut-elle nous réconcilier avec le travail ?",
+                  "title"    : "L’IA peut-elle nous réconcilier avec le travail ?",
                   "url"      : "/liens/2024/09/06/lia-peutelle-nous-rconcilier-avec-le-travail/",
                   "tags"     : "ia, société"
             } 
@@ -379,7 +386,7 @@
       ,
   
             {
-                  "title"    : "Pique et pique et telegram. Plus Durov sera la chute.",
+                  "title"    : "Pique et pique et Telegram. Plus Durov sera la chute.",
                   "url"      : "/liens/2024/09/05/pique-et-pique-et-telegram-plus-durov-sera-la-chute/",
                   "tags"     : "app, surveillance, réseau-social, chiffrement, technologie, gouvernement, données-personnelles, telegram"
             } 
@@ -407,49 +414,49 @@
       ,
   
             {
-                  "title"    : "ux deliverables: glossary",
+                  "title"    : "UX deliverables: glossary",
                   "url"      : "/liens/2024/08/27/ux-deliverables-glossary/",
                   "tags"     : "design, ui, ux, méthodologie"
             } 
       ,
   
             {
-                  "title"    : "telegram n&#39;est pas une messagerie sécurisée",
+                  "title"    : "Telegram n&#39;est pas une messagerie sécurisée",
                   "url"      : "/liens/2024/08/26/telegram-nest-pas-une-messagerie-scurise/",
                   "tags"     : "app, chiffrement, signal, telegram"
             } 
       ,
   
             {
-                  "title"    : "Que se passe-t-il avec telegram et l’arrestation de pavel durov ?",
+                  "title"    : "Que se passe-t-il avec Telegram et l’arrestation de Pavel Durov ?",
                   "url"      : "/liens/2024/08/26/que-se-passetil-avec-telegram-et-larrestation-de-pavel-durov/",
                   "tags"     : "app, telegram"
             } 
       ,
   
             {
-                  "title"    : "Affaire telegram : un test pour l’union européenne",
+                  "title"    : "Affaire Telegram : un test pour l’union européenne",
                   "url"      : "/liens/2024/08/26/affaire-telegram-un-test-pour-lunion-europenne/",
                   "tags"     : "app, législation, telegram"
             } 
       ,
   
             {
-                  "title"    : "Pavel Durov, le patron de telegram, interpellé à l’aéroport du Bourget",
+                  "title"    : "Pavel Durov, le patron de Telegram, interpellé à l’aéroport du Bourget",
                   "url"      : "/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/",
                   "tags"     : "app, réseau-social, législation, russie, message, telegram, modération"
             } 
       ,
   
             {
-                  "title"    : "Moteurs de recherche et ia : à la recherche de l’aiguille dans la botte de data.",
+                  "title"    : "Moteurs de recherche et IA : à la recherche de l’aiguille dans la botte de data.",
                   "url"      : "/liens/2024/08/24/moteurs-de-recherche-et-ia-la-recherche-de-laiguille-dans-la-botte-de-data/",
                   "tags"     : "ia, web, algorithme"
             } 
       ,
   
             {
-                  "title"    : "La révolution visuelle qu&#39;apporte figma aux non-designers",
+                  "title"    : "La révolution visuelle qu&#39;apporte Figma aux non-designers",
                   "url"      : "/liens/2024/08/23/la-rvolution-visuelle-quapporte-figma-aux-nondesigners/",
                   "tags"     : "méthodologie, figma, app"
             } 
@@ -484,7 +491,7 @@
       ,
   
             {
-                  "title"    : "mozilla wants you to love firefox again",
+                  "title"    : "Mozilla wants you to love Firefox again",
                   "url"      : "/liens/2024/08/08/mozilla-wants-you-to-love-firefox-again/",
                   "tags"     : "app, mozilla, firefox, web, navigateur"
             } 
@@ -519,7 +526,7 @@
       ,
   
             {
-                  "title"    : "figma AI tools: i’m not worried about my job anytime soon",
+                  "title"    : "Figma AI tools: i’m not worried about my job anytime soon",
                   "url"      : "/liens/2024/08/02/figma-ai-tools-im-not-worried-about-my-job-anytime-soon/",
                   "tags"     : "app, ia, design, figma"
             } 

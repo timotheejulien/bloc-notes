@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Que se passe-t-il avec telegram et l’arrestation de pavel durov ?"
+title: "Que se passe-t-il avec Telegram et l’arrestation de Pavel Durov ?"
 link: "https://www.numerama.com/cyberguerre/1796182-que-se-passe-t-il-avec-telegram-et-larrestation-de-pavel-durov.html"
 author: Julien Lausson
 published_date: "26/08/2024"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ux Cognitive Bias Cards and Workshop
+title: UX Cognitive Bias Cards and Workshop
 link: https://stephaniewalter.design/blog/60-ux-cards-to-discover-cognitive-biases/
 author: Stéphanie Walter
 published_date: 29/08/2023

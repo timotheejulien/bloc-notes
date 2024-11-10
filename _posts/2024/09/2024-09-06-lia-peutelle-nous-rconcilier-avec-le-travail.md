@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L’ia peut-elle nous réconcilier avec le travail ?"
+title: "L’IA peut-elle nous réconcilier avec le travail ?"
 link: "https://usbeketrica.com/fr/article/l-ia-peut-elle-nous-reconcilier-avec-le-travail"
 author: HP
 published_date: "28/08/2024"

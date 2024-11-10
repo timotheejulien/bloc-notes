@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "designing for anyone: The power of accessible products"
+title: "Designing for anyone: The power of accessible products"
 link: https://www.antonsten.com/articles/designing-for-anyone/
 author: Anton Sten
 published_date: 25/10/2024

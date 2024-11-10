@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "figma AI tools: i’m not worried about my job anytime soon"
+title: "Figma AI tools: i’m not worried about my job anytime soon"
 link: "https://uxdesign.cc/figma-ai-tools-im-not-worried-about-my-job-anytime-soon-fbec0ed1cdee"
 author: Patrick Neeman
 published_date: "02/07/2024"

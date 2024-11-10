@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to lock aspect ratios for responsive media in figma"
+title: "How to lock aspect ratios for responsive media in Figma"
 link: "https://uxdesign.cc/how-to-lock-aspect-ratios-for-responsive-media-in-figma-b262215f5ecb"
 author: Felix
 published_date: "23/09/2024"

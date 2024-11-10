@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pique et pique et telegram. Plus Durov sera la chute."
+title: "Pique et pique et Telegram. Plus Durov sera la chute."
 link: "https://affordance.framasoft.org/2024/09/pique-pique-et-telegram/"
 author: Olivier Ertzscheid
 published_date: "04/09/2024"

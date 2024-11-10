@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moteurs de recherche et ia : à la recherche de l’aiguille dans la botte de data."
+title: "Moteurs de recherche et IA : à la recherche de l’aiguille dans la botte de data."
 link: "https://affordance.framasoft.org/2024/08/moteur-recherche-intelligence-artificielle/"
 author: Olivier Ertzscheid
 published_date: 23/08/2024

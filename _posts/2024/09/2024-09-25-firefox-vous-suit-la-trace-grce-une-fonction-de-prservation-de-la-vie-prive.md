@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "firefox vous suit à la trace grâce à une fonction de préservation de la vie privée"
+title: "Firefox vous suit à la trace grâce à une fonction de préservation de la vie privée"
 link: "https://noyb.eu/fr/firefox-tracks-you-privacy-preserving-feature"
 author: noyb
 published_date: "25/09/2024"

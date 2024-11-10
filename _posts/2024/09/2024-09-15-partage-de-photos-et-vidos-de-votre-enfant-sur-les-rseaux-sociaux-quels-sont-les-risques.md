@@ -15,7 +15,8 @@ tags:
 - "cnil"
 - "législation"
 - "photos"
+- "réseau-social"
 
-og-tags: "vie-privée, société, cnil, législation, photos"
+og-tags: "vie-privée, société, cnil, législation, photos, réseau-social"
 permalink: /:categories/:year/:month/:day/:title/
 ---

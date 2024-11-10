@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "design systems: simplifying documentation writing"
+title: "Design systems: simplifying documentation writing"
 link: "https://uxdesign.cc/design-systems-simplifying-documentation-writing-5ec240c484fe"
 author: Dean Harrison
 published_date: "14/10/2024"

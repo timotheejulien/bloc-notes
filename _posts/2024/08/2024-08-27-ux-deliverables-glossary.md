@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ux deliverables: glossary"
+title: "UX deliverables: glossary"
 link: "https://www.nngroup.com/articles/ux-deliverables-glossary/"
 author: Huei-Hsin Wang
 published_date: "09/08/2024"

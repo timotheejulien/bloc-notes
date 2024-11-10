@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "internet est mort, vive internet !"
+title: "Internet est mort, vive internet !"
 link: https://www.arte.tv/fr/videos/119473-014-A/tracks/
 author: Tracks (Arte.tv)
 published_date: 30/10/2024

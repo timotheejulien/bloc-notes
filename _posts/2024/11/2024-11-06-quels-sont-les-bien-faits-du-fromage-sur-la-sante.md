@@ -5,7 +5,7 @@ link: https://www.rtl.fr/actu/sante/quels-sont-les-bienfaits-du-fromage-sur-la-s
 author: "Jimmy Mohamed"
 published_date: "05/11/2024"
 description: "Les Français consomment moins de fromage. Pourtant, contrairement aux idées reçues, le fromage pourrait être bénéfique pour la santé. Les explications du docteur Jimmy Mohamed."
-language: "fr_FR"
+language: "fr"
 categories: "Liens"
 tags: "fromage"
 og-tags: "fromage"
