@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-10T18:54:16+01:00</updated>
+   <updated>2024-11-10T20:53:12+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -32,6 +32,17 @@
 
          <content type="html">
             Comment le jugement antitrust de Google pourrait nuire à Mozilla et ce que nous devons tous faire pour l&apos;aider !
+         </content>
+      </entry>
+   
+      <entry>
+         <title>If you get tired, learn to rest, not to quit.</title>
+         <link href="/citations/2024/11/10/if-you-get-tired-learn-to-rest-not-to-quit/"/>
+         <updated>2024-11-10T00:00:00+01:00</updated>
+         <id>http://localhost:4000/citations/2024/11/10/if-you-get-tired-learn-to-rest-not-to-quit/</id>
+
+         <content type="html">
+            
          </content>
       </entry>
    
