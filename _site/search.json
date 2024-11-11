@@ -1,6 +1,13 @@
 [
       
             {
+                  "title"    : "Vivaldi et l’Open Source",
+                  "url"      : "/liens/2024/11/11/vivaldi-et-open-source/",
+                  "tags"     : "web, app, navigateur, open-source, vivaldi"
+            } 
+      ,
+  
+            {
                   "title"    : "The open-source project DeFlock is mapping license plate surveillance cameras all over the world",
                   "url"      : "/liens/2024/11/11/the-open-source-project-deflock-is-mapping-license-plate-surveillance-cameras-all-over-the-world/",
                   "tags"     : "carte, surveillance, open-source"
