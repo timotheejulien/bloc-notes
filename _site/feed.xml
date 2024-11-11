@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-11T17:03:18+01:00</updated>
+   <updated>2024-11-11T20:39:10+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -43,6 +43,17 @@
 
          <content type="html">
             Today, we’re introducing Obsidian Web Clipper a new extension that helps you highlight and capture the web in your favorite browser. Anything you save is stored as durable Markdown files that you can read offline, and preserve for the long term.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Comment Donald Trump a utilisé la désinformation pour s’imposer</title>
+         <link href="/liens/2024/11/11/comment-donald-trump-a-utilise-la-desinformation-pour-simposer/"/>
+         <updated>2024-11-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/11/comment-donald-trump-a-utilise-la-desinformation-pour-simposer/</id>
+
+         <content type="html">
+            Quel est le rôle exact joué par la désinformation dans la victoire de Donald Trump ? À partir de l’analyse de 200 millions de données, une équipe de chercheurs a modélisé les facteurs déterminants du choix électoral lors des élections américaines en 2016 et 2020. Ce modèle éclaire la stratégie de Trump consistant à propager des « fake news » pour s’imposer sur les réseaux sociaux et dans les médias traditionnels.
          </content>
       </entry>
    
