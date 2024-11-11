@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-11T15:53:20+01:00</updated>
+   <updated>2024-11-11T16:10:27+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             DeFlock has mapped the locations of more than a thousand ALPRs around the United States and thousands more around the world.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Save the web</title>
+         <link href="/liens/2024/11/11/save-the-web/"/>
+         <updated>2024-11-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/11/save-the-web/</id>
+
+         <content type="html">
+            Today, we’re introducing Obsidian Web Clipper a new extension that helps you highlight and capture the web in your favorite browser. Anything you save is stored as durable Markdown files that you can read offline, and preserve for the long term.
          </content>
       </entry>
    
