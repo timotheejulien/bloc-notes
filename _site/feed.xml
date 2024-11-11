@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-11T20:39:10+01:00</updated>
+   <updated>2024-11-11T20:50:52+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -43,6 +43,17 @@
 
          <content type="html">
             Today, we’re introducing Obsidian Web Clipper a new extension that helps you highlight and capture the web in your favorite browser. Anything you save is stored as durable Markdown files that you can read offline, and preserve for the long term.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Léna Situations, Squeezie, Hugo Décrypte : comment ces créateurs de contenu bousculent l’information traditionnelle</title>
+         <link href="/liens/2024/11/11/lena-situations-squeezie-hugo-decrypte-comment-ces-createurs-de-contenu-bousculent-linformation-traditionnelle/"/>
+         <updated>2024-11-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/11/lena-situations-squeezie-hugo-decrypte-comment-ces-createurs-de-contenu-bousculent-linformation-traditionnelle/</id>
+
+         <content type="html">
+            ls et elles s’appellent Squeezie, Mcfly et Carlito, Léna Situations ou encore Mister Geopolitix. Ils cherchent à créer des contenus attractifs pour les communautés qui les suivent et leurs sujets sont variés, du développement personnel à l’actualité. On les appelle des « créateurs de contenu ». Une qualification qui vise à distinguer des « influenceurs » qui, sur les réseaux sociaux cherchent à influencer les habitudes de consommation des individus en accord avec des marques dont ils se font le relais.
          </content>
       </entry>
    
