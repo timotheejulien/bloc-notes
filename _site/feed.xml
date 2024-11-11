@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-11T20:50:52+01:00</updated>
+   <updated>2024-11-11T21:35:03+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -32,6 +32,17 @@
 
          <content type="html">
             DeFlock has mapped the locations of more than a thousand ALPRs around the United States and thousands more around the world.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Stop building components, start building patterns</title>
+         <link href="/liens/2024/11/11/stop-building-components-start-building-patterns/"/>
+         <updated>2024-11-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/11/stop-building-components-start-building-patterns/</id>
+
+         <content type="html">
+            It seems to be the way that most people start their design system. First, sort out the basics of your foundation layer, including some colors, typography, and maybe some spacing. Then, it’s straight into crafting the perfect button, complete with 14 variants and every state imaginable. It’s tempting, too, as they feel like they’re the parts that will be the most useful. The cards, buttons, form elements, and all the other lovely components make up what most people think of as a « design system ». I think we’re doing it wrong.
          </content>
       </entry>
    
