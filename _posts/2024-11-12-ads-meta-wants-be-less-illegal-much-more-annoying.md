@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Publicités : Meta veut être "moins illégal" mais beaucoup plus ennuyeux..."
+link: https://noyb.eu/fr/ads-meta-wants-be-less-illegal-much-more-annoying
+author: ""
+published_date: ""
+description: "Première déclaration : Agacer les gens pour qu'ils consentent ? La nouvelle fonctionnalité ne sera mise en place que dans les prochaines semaines et les détails ne sont pas encore disponibles publiquement."
+language: "fr"
+categories: "Liens"
+tags: "publicité meta surveillance"
+og-tags: "publicité meta surveillance"
+permalink: /:categories/:year/:month/:day/:title/
+---
