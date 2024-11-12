@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-12T09:00:58+01:00</updated>
+   <updated>2024-11-12T17:26:47+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Cantal, Laguiole, Salers, trois noms qui évoquent l&apos;Aubrac, mais qui sèment parfois un peu la confusion. Pas évident de distinguer les fromages du massif central, pourtant chacun a son caractère, sa texture, son histoire. Cantal, Laguiole, Salers, mais aussi IGP de la Tome fraîche d&apos;Aubrac, on embarque pour une escapade fromagère avec Pierre Coulon.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Publicités : Meta veut être « moins illégal » mais beaucoup plus ennuyeux...</title>
+         <link href="/liens/2024/11/12/ads-meta-wants-be-less-illegal-much-more-annoying/"/>
+         <updated>2024-11-12T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/12/ads-meta-wants-be-less-illegal-much-more-annoying/</id>
+
+         <content type="html">
+            Première déclaration : Agacer les gens pour qu&apos;ils consentent ? La nouvelle fonctionnalité ne sera mise en place que dans les prochaines semaines et les détails ne sont pas encore disponibles publiquement.
          </content>
       </entry>
    
