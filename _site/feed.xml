@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-12T17:26:47+01:00</updated>
+   <updated>2024-11-13T08:58:22+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,50 @@
 
    
       <entry>
+         <title>Un Chat(GPT) dans le moteur, et réciproquement</title>
+         <link href="/liens/2024/11/13/un-chatgpt-dans-le-moteur-et-reciproquement/"/>
+         <updated>2024-11-13T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/13/un-chatgpt-dans-le-moteur-et-reciproquement/</id>
+
+         <content type="html">
+            Dans quel cycle historique inscrire ChatGPT ? Deux interprétations sont possibles : dans l’une, il constitue la troisième étape d’un processus marqué par l’invention du télégraphe, puis par celle des réseaux sociaux ; dans l’autre, il prolonge l’invention de Google, puis de Wikipédia. Mais ChatGPT se différencie aussi de ces deux acteurs car son processus de réécriture permanente n’est pas traçable.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Designing for Decision Making: The Psychology of Choice</title>
+         <link href="/liens/2024/11/13/designing-for-decision-making-the-psychology-of-choice/"/>
+         <updated>2024-11-13T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/13/designing-for-decision-making-the-psychology-of-choice/</id>
+
+         <content type="html">
+            Applying Psychological Principles in UX Design
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Trois journalistes racontent comment l’IA les assiste dans leur travail</title>
+         <link href="/liens/2024/11/12/trois-journalistes-racontent-comment-l-ia-les-assiste-dans-leur-travail/"/>
+         <updated>2024-11-12T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/12/trois-journalistes-racontent-comment-l-ia-les-assiste-dans-leur-travail/</id>
+
+         <content type="html">
+            Et si, plutôt que de tenter de les remplacer, l’IA devenait une alliée précieuse pour les journalistes ? Dans ce premier volet de notre dossier sur la place de l’intelligence artificielle dans le monde des médias, trois professionnels de l’information dévoilent les coulisses de leur travail assisté par des algorithmes.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Surveillance sur internet : le gouvernement va-t-il tous nous ficher ?</title>
+         <link href="/liens/2024/11/12/surveillance-sur-internet-le-gouvernement-va-t-il-tous-nous-ficher/"/>
+         <updated>2024-11-12T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/12/surveillance-sur-internet-le-gouvernement-va-t-il-tous-nous-ficher/</id>
+
+         <content type="html">
+            À l’heure où le monde politico-médiatique fait l’objet d’une défiance grandissante, l’exécutif s’apprête à scruter davantage l’opinion publique en renforçant sa surveillance des activités en ligne des Français. Guillaume Champeau, fondateur de Numerama, pointe « un risque fort de surveillance massive et de fichage de données sensibles ».
+         </content>
+      </entry>
+   
+      <entry>
          <title>Cantal, Laguiole, Salers on s’y perd !</title>
          <link href="/liens/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/"/>
          <updated>2024-11-12T00:00:00+01:00</updated>
@@ -21,6 +65,17 @@
 
          <content type="html">
             Cantal, Laguiole, Salers, trois noms qui évoquent l&apos;Aubrac, mais qui sèment parfois un peu la confusion. Pas évident de distinguer les fromages du massif central, pourtant chacun a son caractère, sa texture, son histoire. Cantal, Laguiole, Salers, mais aussi IGP de la Tome fraîche d&apos;Aubrac, on embarque pour une escapade fromagère avec Pierre Coulon.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>IA : « Les médias qui signent avec OpenAI commettent une faute morale »</title>
+         <link href="/liens/2024/11/12/les-medias-qui-signent-avec-openai-commettent-une-faute-morale/"/>
+         <updated>2024-11-12T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/12/les-medias-qui-signent-avec-openai-commettent-une-faute-morale/</id>
+
+         <content type="html">
+            Associated Press, Le Monde, The Atlantic… Les médias ont-ils raison de nouer des partenariats avec OpenAI ? Quels risques et quels bénéfices pour le futur du journalisme ? Dans ce deuxième volet de notre dossier sur la place de l’intelligence artificielle dans le monde des médias, nous avons réuni l’avocat Vincent Fauchoux et l’universitaire Marius Bertolucci pour en discuter.
          </content>
       </entry>
    
