@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IA : « Les médias qui signent avec OpenAI commettent une faute morale »"
+title: "IA : « Les médias qui signent avec OpenAI commettent une faute morale »"
 link: "https://usbeketrica.com/fr/article/les-medias-qui-signent-avec-openai-commettent-une-faute-morale"
 author: "Pablo Maillé"
 published_date: "12/11/2024"

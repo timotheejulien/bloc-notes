@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cantal, Laguiole, Salers on s’y perd !"
+title: "Cantal, Laguiole, Salers on s’y perd !"
 link: "https://www.radiofrance.fr/franceinter/podcasts/on-va-deguster/on-va-deguster-du-dimanche-10-novembre-2024-1167802"
 author: "On va déguster"
 published_date: "10/11/2024"
