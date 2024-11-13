@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-13T08:58:22+01:00</updated>
+   <updated>2024-11-13T09:07:12+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Dans quel cycle historique inscrire ChatGPT ? Deux interprétations sont possibles : dans l’une, il constitue la troisième étape d’un processus marqué par l’invention du télégraphe, puis par celle des réseaux sociaux ; dans l’autre, il prolonge l’invention de Google, puis de Wikipédia. Mais ChatGPT se différencie aussi de ces deux acteurs car son processus de réécriture permanente n’est pas traçable.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Héberger son contenu ou dépendre d’une plateforme fermée : quelle différence ?</title>
+         <link href="/liens/2024/11/13/heberger-son-contenu-ou-dependre-dune-plateforme-fermee-quelle-difference/"/>
+         <updated>2024-11-13T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/13/heberger-son-contenu-ou-dependre-dune-plateforme-fermee-quelle-difference/</id>
+
+         <content type="html">
+            La différence fondamentale, c’est qui a du pouvoir sur votre contenu ? Qui a le pouvoir de le retirer par exemple, et selon quel cas ? Voici un petit tableau pour y voir plus clair. Et s’il fallait le préciser : privilégiez autant que possible le web ouvert !
          </content>
       </entry>
    
