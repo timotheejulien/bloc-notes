@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-13T09:09:45+01:00</updated>
+   <updated>2024-11-14T08:41:23+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,28 @@
 
    
       <entry>
+         <title>Le système « consentir ou payer » dans les médias : une illusion de choix coûteuse</title>
+         <link href="/liens/2024/11/14/media-pay-consent-scheme-ads/"/>
+         <updated>2024-11-14T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/14/media-pay-consent-scheme-ads/</id>
+
+         <content type="html">
+            Cette année, plusieurs journaux britanniques ont commencé à mettre en œuvre un modèle « consentir ou payer », demandant aux lecteurs de payer s&apos;ils veulent éviter la publicité personnalisée. Si vous pensez qu&apos;il s&apos;agit simplement d&apos;une nouvelle vague de journaux qui sautent sur la tendance du paywall, ne vous laissez pas abuser. Le véritable piège réside dans le mot « personnalisé » : même si vous payez pour un abonnement, vous verrez toujours des publicités, mais elles ne seront pas ciblées sur vous.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Droits voisins : la justice française intervient contre Google</title>
+         <link href="/liens/2024/11/14/droits-voisins-la-justice-francaise-intervient-contre-google/"/>
+         <updated>2024-11-14T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/14/droits-voisins-la-justice-francaise-intervient-contre-google/</id>
+
+         <content type="html">
+            Le moteur de recherche envisageait de rendre invisibles certains articles de médias avec lesquels il a un différend concernant les droits voisins à compter de jeudi. Le tribunal de commerce de Paris lui a ordonné de renoncer à ce projet. 
+         </content>
+      </entry>
+   
+      <entry>
          <title>Un Chat(GPT) dans le moteur, et réciproquement</title>
          <link href="/liens/2024/11/13/un-chatgpt-dans-le-moteur-et-reciproquement/"/>
          <updated>2024-11-13T00:00:00+01:00</updated>
@@ -21,6 +43,17 @@
 
          <content type="html">
             Dans quel cycle historique inscrire ChatGPT ? Deux interprétations sont possibles : dans l’une, il constitue la troisième étape d’un processus marqué par l’invention du télégraphe, puis par celle des réseaux sociaux ; dans l’autre, il prolonge l’invention de Google, puis de Wikipédia. Mais ChatGPT se différencie aussi de ces deux acteurs car son processus de réécriture permanente n’est pas traçable.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Le « Guardian » annonce qu’il ne postera plus sur le réseau social X</title>
+         <link href="/liens/2024/11/13/le-guardian-annonce-qu-il-ne-postera-plus-sur-le-reseau-social-x/"/>
+         <updated>2024-11-13T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/13/le-guardian-annonce-qu-il-ne-postera-plus-sur-le-reseau-social-x/</id>
+
+         <content type="html">
+            « Pourquoi le Guardian ne poste plus sur X ». Dans un court article publié mercredi 13 novembre, le Guardian, quotidien britannique aux 10,8 millions d’abonnés sur X (ex-Twitter), a annoncé quitter le réseau social, propriété d’Elon Musk.
          </content>
       </entry>
    
