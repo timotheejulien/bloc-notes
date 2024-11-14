@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L’UE inflige une amende de 800 millions d’euros à Meta : pour quelles raisons ?"
+title: "L’UE inflige une amende de 800 millions d’euros à Meta : pour quelles raisons ?"
 link: "https://www.blogdumoderateur.com/ue-inflige-amende-800-millions-euros-meta"
 author: "Matthieu Eugène"
 published_date: "14/11/2024"

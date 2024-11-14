@@ -12,7 +12,7 @@ tags:
    - "vie-privée"
    - "surveillance"
    - "ressources"
-   - "sécurite"
-og-tags: "vie-privée, surveillance, ressources, sécurite"
+   - "sécurité"
+og-tags: "vie-privée, surveillance, ressources, sécurité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

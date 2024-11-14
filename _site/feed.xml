@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-14T17:27:30+01:00</updated>
+   <updated>2024-11-14T17:40:24+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,7 +14,7 @@
 
    
       <entry>
-         <title>L’UE inflige une amende de 800 millions d’euros à Meta : pour quelles raisons ?</title>
+         <title>L’UE inflige une amende de 800 millions d’euros à Meta : pour quelles raisons ?</title>
          <link href="/liens/2024/11/14/ue-inflige-amende-800-millions-euros-meta/"/>
          <updated>2024-11-14T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/11/14/ue-inflige-amende-800-millions-euros-meta/</id>
@@ -3152,13 +3152,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>L’iphone 12 interdit temporairement à la vente en raison d’ondes trop puissantes</title>
+         <title>L’iPhone 12 interdit temporairement à la vente en raison d’ondes trop puissantes</title>
          <link href="/liens/2024/05/19/liphone-12-interdit-temporairement-la-vente-en-raison-dondes-trop-puissantes/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/liphone-12-interdit-temporairement-la-vente-en-raison-dondes-trop-puissantes/</id>
 
          <content type="html">
-            
+            L’Agence nationale des fréquences (ANFR) demande à Apple de retirer du marché français son téléphone et d’apporter des mesures correctives « dans les meilleurs délais » à ceux en circulation. Le géant américain prévoit de contester les conclusions de l’agence. 
          </content>
       </entry>
    
@@ -5066,13 +5066,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Bluesky : ce qu’il faut savoir avant de s’inscrire sur le concurrent de twitter</title>
+         <title>Bluesky : ce qu’il faut savoir avant de s’inscrire sur le concurrent de Twitter</title>
          <link href="/liens/2024/05/19/bluesky-ce-quil-faut-savoir-avant-de-sinscrire-sur-le-concurrent-de-twitter/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/bluesky-ce-quil-faut-savoir-avant-de-sinscrire-sur-le-concurrent-de-twitter/</id>
 
          <content type="html">
-            
+            Encore inconnue il y a quelques mois, la plate-forme, actuellement en phase de test, attire de plus en plus d’utilisateurs fatigués par le manque de modération de X (anciennement Twitter).
          </content>
       </entry>
    
