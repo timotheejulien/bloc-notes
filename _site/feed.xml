@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-14T17:40:24+01:00</updated>
+   <updated>2024-11-15T11:26:05+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,39 @@
 
    
       <entry>
+         <title>Vasectomie</title>
+         <link href="/liens/2024/11/15/vasectomie/"/>
+         <updated>2024-11-15T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/15/vasectomie/</id>
+
+         <content type="html">
+            Allez, c’est le moment je crois. Il y a 2 ans, j’ai pris la décision d’aller voir un urologue pour aborder le sujet de la vasectomie.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Je ne ferai plus d’enfants</title>
+         <link href="/liens/2024/11/15/je-ne-ferai-plus-d-enfants/"/>
+         <updated>2024-11-15T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/15/je-ne-ferai-plus-d-enfants/</id>
+
+         <content type="html">
+            Je ne ferai plus d’enfants. J’ai 37 ans, et je viens de passer au bloc pour une vasectomie. Une page se tourne.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Contraception masculine : la vasectomie</title>
+         <link href="/liens/2024/11/15/contraception-masculine-la-vasectomie/"/>
+         <updated>2024-11-15T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/15/contraception-masculine-la-vasectomie/</id>
+
+         <content type="html">
+            Non, ça ne va pas parler de technique aujourd’hui.
+         </content>
+      </entry>
+   
+      <entry>
          <title>L’UE inflige une amende de 800 millions d’euros à Meta : pour quelles raisons ?</title>
          <link href="/liens/2024/11/14/ue-inflige-amende-800-millions-euros-meta/"/>
          <updated>2024-11-14T00:00:00+01:00</updated>
@@ -21,17 +54,6 @@
 
          <content type="html">
             Meta, accusé d’abuser de sa position dominante pour imposer la Facebook Marketplace, écope d’une amende de 797,72 millions d’euros pour ses pratiques anticoncurrentielles.
-         </content>
-      </entry>
-   
-      <entry>
-         <title>Après la victoire de Trump, le conspirationnisme de gauche prospère (aussi) sur les réseaux sociaux</title>
-         <link href="/liens/2024/11/14/apres-la-victoire-de-trump-le-conspirationnisme-de-gauche-prospere-sur-les-reseaux-sociaux/"/>
-         <updated>2024-11-14T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2024/11/14/apres-la-victoire-de-trump-le-conspirationnisme-de-gauche-prospere-sur-les-reseaux-sociaux/</id>
-
-         <content type="html">
-            Dans un article paru dans Wired au lendemain des élections présidentielles américaines, le journaliste David Gilbert décrit la percée des théories du complot remettant en cause la défaite de Kamala Harris.
          </content>
       </entry>
    
@@ -54,6 +76,17 @@
 
          <content type="html">
             Le moteur de recherche envisageait de rendre invisibles certains articles de médias avec lesquels il a un différend concernant les droits voisins à compter de jeudi. Le tribunal de commerce de Paris lui a ordonné de renoncer à ce projet. 
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Après la victoire de Trump, le conspirationnisme de gauche prospère (aussi) sur les réseaux sociaux</title>
+         <link href="/liens/2024/11/14/apres-la-victoire-de-trump-le-conspirationnisme-de-gauche-prospere-sur-les-reseaux-sociaux/"/>
+         <updated>2024-11-14T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/14/apres-la-victoire-de-trump-le-conspirationnisme-de-gauche-prospere-sur-les-reseaux-sociaux/</id>
+
+         <content type="html">
+            Dans un article paru dans Wired au lendemain des élections présidentielles américaines, le journaliste David Gilbert décrit la percée des théories du complot remettant en cause la défaite de Kamala Harris.
          </content>
       </entry>
    
