@@ -1,6 +1,27 @@
 [
       
             {
+                  "title"    : "What I want from Mozilla",
+                  "url"      : "/liens/2024/11/16/what-i-want-from-mozilla/",
+                  "tags"     : "internet, firefox, mozilla"
+            } 
+      ,
+  
+            {
+                  "title"    : "Musk n’est pas notre projet. En voici un autre",
+                  "url"      : "/liens/2024/11/16/musk-nest-pas-notre-projet-en-voici-un-autre/",
+                  "tags"     : "réseau-social, numérique, x"
+            } 
+      ,
+  
+            {
+                  "title"    : "« Le mythe du capitalisme responsable est là pour rassurer tous les individus angoissés à l’idée de perdre du confort »",
+                  "url"      : "/liens/2024/11/16/le-mythe-du-capitalisme-responsable-est-la-pour-rassurer-tous-les-individus-angoisses-a-l-idee-de-perdre-du-confort/",
+                  "tags"     : "société, économie"
+            } 
+      ,
+  
+            {
                   "title"    : "Vasectomie",
                   "url"      : "/liens/2024/11/15/vasectomie/",
                   "tags"     : "santé"
@@ -1268,7 +1289,7 @@
       ,
   
             {
-                  "title"    : "Un smartphone android sans google, c’est possible : qu’en pensent les utilisateurs ?",
+                  "title"    : "Un smartphone Android sans Google, c’est possible : qu’en pensent les utilisateurs ?",
                   "url"      : "/liens/2024/05/19/un-smartphone-android-sans-google-cest-possible-quen-pensent-les-utilisateurs/",
                   "tags"     : "google, android, open-source"
             } 
@@ -1303,7 +1324,7 @@
       ,
   
             {
-                  "title"    : "Trop de l&#39;ia dans notre quotidien n&#39;est pas une bonne chose",
+                  "title"    : "L&#39;IA prend de plus en plus de place dans notre quotidien. Est-ce une bonne chose ?",
                   "url"      : "/liens/2024/05/19/trop-de-lia-dans-notre-quotidien-nest-pas-une-bonne-chose/",
                   "tags"     : "ia, design, algorithme"
             } 
@@ -1738,7 +1759,7 @@
   
             {
                   "title"    : "Partitions. Par-delà les propagations.",
-                  "url"      : "/liens/2024/05/19/partitions-pardel-les-propagations/",
+                  "url"      : "/liens/2024/05/19/partitions-par-dela-les-propagations/",
                   "tags"     : "réseau-social, algorithme"
             } 
       ,
@@ -1835,7 +1856,7 @@
       ,
   
             {
-                  "title"    : "Navigating the intersection of design and business: a conversation with airbnb’s brian chesky",
+                  "title"    : "Navigating the intersection of design and business: a conversation with Airbnb’s Brian Chesky",
                   "url"      : "/liens/2024/05/19/navigating-the-intersection-of-design-and-business-a-conversation-with-airbnbs-brian-chesky/",
                   "tags"     : "design, airbnb, stratégie-business"
             } 
@@ -2073,7 +2094,7 @@
       ,
   
             {
-                  "title"    : "Les petits secrets de l&#39;oiseau bleu, le logo de twitter tué par elon-musk",
+                  "title"    : "Les petits secrets de l&#39;oiseau bleu, le logo de Twitter tué par Elon Musk",
                   "url"      : "/liens/2024/05/19/les-petits-secrets-de-loiseau-bleu-le-logo-de-twitter-tu-par-elon-musk/",
                   "tags"     : "design, x, branding"
             } 
@@ -2115,8 +2136,8 @@
       ,
   
             {
-                  "title"    : "Les ia génératives sont-elles en train de tuer internet ?",
-                  "url"      : "/liens/2024/05/19/les-ia-gnratives-sontelles-en-train-de-tuer-internet/",
+                  "title"    : "Les IA génératives sont-elles en train de tuer internet ?",
+                  "url"      : "/liens/2024/05/19/les-ia-genratives-sontelles-en-train-de-tuer-internet/",
                   "tags"     : "ia, google, web, algorithme, internet"
             } 
       ,
@@ -2213,8 +2234,8 @@
       ,
   
             {
-                  "title"    : "Le régulateur espagnol inflige une amende de 143,6 millions d&#39;euros à apple pour son accord avec amazon",
-                  "url"      : "/liens/2024/05/19/le-rgulateur-espagnol-inflige-une-amende-de-1436-millions-deuros-apple-pour-son-accord-avec-amazon/",
+                  "title"    : "Le régulateur espagnol inflige une amende de 143,6 millions d&#39;euros à Apple pour son accord avec Amazon",
+                  "url"      : "/liens/2024/05/19/le-regulateur-espagnol-inflige-une-amende-de-1436-millions-deuros-apple-pour-son-accord-avec-amazon/",
                   "tags"     : "gafam, apple, amazon"
             } 
       ,
@@ -2467,7 +2488,7 @@
             {
                   "title"    : "La fin du streaming sans publicité s&#39;approche-t&#39;elle ?",
                   "url"      : "/liens/2024/05/19/la-fin-du-streaming-sans-publicit-sapprochetelle/",
-                  "tags"     : "vie-privée, surveillance, streaming, amazon, netflix"
+                  "tags"     : "vie-privée, surveillance, streaming, amazon, netflix, publicité"
             } 
       ,
   
@@ -2542,7 +2563,7 @@
       ,
   
             {
-                  "title"    : "Introducing spectrum 2: our vision for the future of adobe experience design",
+                  "title"    : "Introducing Spectrum 2: our vision for the future of adobe experience design",
                   "url"      : "/liens/2024/05/19/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design/",
                   "tags"     : "design, design-system, ui, ux, adobe"
             } 

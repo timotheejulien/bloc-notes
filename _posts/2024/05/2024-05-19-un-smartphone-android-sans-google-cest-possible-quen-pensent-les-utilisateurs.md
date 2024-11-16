@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un smartphone android sans google, c’est possible : qu’en pensent les utilisateurs ?"
+title: "Un smartphone Android sans Google, c’est possible : qu’en pensent les utilisateurs ?"
 link: "https://www.lemonde.fr/pixels/article/2022/11/12/un-smartphone-android-sans-google-c-est-possible-qu-en-pensent-les-utilisateurs_6149559_4408996.html"
 author: Nicolas Six
 published_date: "12/12/2022"

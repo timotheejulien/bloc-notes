@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-15T11:26:05+01:00</updated>
+   <updated>2024-11-16T13:54:03+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>What I want from Mozilla</title>
+         <link href="/liens/2024/11/16/what-i-want-from-mozilla/"/>
+         <updated>2024-11-16T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/16/what-i-want-from-mozilla/</id>
+
+         <content type="html">
+            Like many of you, I received a survey today with the title: “What is your dream for Mozilla?” I filled it in, but the potential for Mozilla is so expansive and critical to the future of the internet that I wanted to address my thoughts in greater depth here.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Musk n’est pas notre projet. En voici un autre</title>
+         <link href="/liens/2024/11/16/musk-nest-pas-notre-projet-en-voici-un-autre/"/>
+         <updated>2024-11-16T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/16/musk-nest-pas-notre-projet-en-voici-un-autre/</id>
+
+         <content type="html">
+            Depuis le 25 octobre dernier, le Conseil ne poste plus sur X. Nous sommes sur Mastodon depuis plus d’un an maintenant et nous y sommes bien. Depuis l’élection de Donald Trump, divers appels à quitter X ont été formulés, d’autres ont simplement pris et annoncé cette décision. Au premier titre, David Chavalarias encourageait sur France Inter à se mettre en ordre de départ pour le 20 janvier et invitait les médias à s’inscrire dans ce mouvement. Le même jour, le Guardian et La Vanguardia ont annoncé quitter Twitter. On comptera aussi la chronique de François Saltiel invitant à migrer vers Bluesky, un réseau qu’on aime beaucoup citer pour le choix qu’il donne aux utilisateurs sur la recommandation algorithmique et la modération des contenus. Depuis la victoire de Donald Trump, le nombre d’utilisateurs de ce réseau social a bondi, marquant un sursaut similaire au moment où Elon Musk avait acquis Twitter.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>« Le mythe du capitalisme responsable est là pour rassurer tous les individus angoissés à l’idée de perdre du confort »</title>
+         <link href="/liens/2024/11/16/le-mythe-du-capitalisme-responsable-est-la-pour-rassurer-tous-les-individus-angoisses-a-l-idee-de-perdre-du-confort/"/>
+         <updated>2024-11-16T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/16/le-mythe-du-capitalisme-responsable-est-la-pour-rassurer-tous-les-individus-angoisses-a-l-idee-de-perdre-du-confort/</id>
+
+         <content type="html">
+            Espérer que les rapports marchands puissent être responsables est-il une lubie d’enfants gâtés ? À l’occasion du numéro d’été 2022, nous demandions à Fanny Parise, l’anthropologue et autrice de l’essai Les Enfants gâtés. Anthropologie du capitalisme responsable (Payot, 2022), et à Sébastien Kopp, cofondateur de la marque de baskets éthiques Veja, de croiser leurs regards sur la question.
+         </content>
+      </entry>
    
       <entry>
          <title>Vasectomie</title>
@@ -2008,7 +2041,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Un smartphone android sans google, c’est possible : qu’en pensent les utilisateurs ?</title>
+         <title>Un smartphone Android sans Google, c’est possible : qu’en pensent les utilisateurs ?</title>
          <link href="/liens/2024/05/19/un-smartphone-android-sans-google-cest-possible-quen-pensent-les-utilisateurs/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/un-smartphone-android-sans-google-cest-possible-quen-pensent-les-utilisateurs/</id>
@@ -2063,13 +2096,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Trop de l'ia dans notre quotidien n'est pas une bonne chose</title>
+         <title>L'IA prend de plus en plus de place dans notre quotidien. Est-ce une bonne chose ?</title>
          <link href="/liens/2024/05/19/trop-de-lia-dans-notre-quotidien-nest-pas-une-bonne-chose/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/trop-de-lia-dans-notre-quotidien-nest-pas-une-bonne-chose/</id>
 
          <content type="html">
-            
+            Qu&apos;il s&apos;agisse de rédiger des dissertations ou de remplacer les agents du service clientèle, l&apos;IA joue un rôle de plus en plus important dans le quotidien des gens. Et si certains se laissent séduire par l&apos;idée que l&apos;IA facilitera les choses en prenant en charge les tâches routinières et en nous libérant pour des activités plus créatives et des choses que nous avons probablement négligées, comme une communication efficace avec nos amis et notre famille, ce n&apos;est pas forcément ce qui est en train de se passer en réalité. Du moins, ce n&apos;est pas la situation dans son ensemble.
          </content>
       </entry>
    
@@ -2746,12 +2779,12 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>Partitions. Par-delà les propagations.</title>
-         <link href="/liens/2024/05/19/partitions-pardel-les-propagations/"/>
+         <link href="/liens/2024/05/19/partitions-par-dela-les-propagations/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/partitions-pardel-les-propagations/</id>
+         <id>http://localhost:4000/liens/2024/05/19/partitions-par-dela-les-propagations/</id>
 
          <content type="html">
-            
+            Le dernier ouvrage de Dominique Boullier traite de la question des « propagations », dans une approche en partie structuraliste qui est celle de l’acteur réseau, il indique la place que ce concept de « propagation » recoupe et recouvre dans l’étude du vivant, dans le domaine des sciences sociales, et bien sûr dans l’analyse des réseaux socio-numériques.
          </content>
       </entry>
    
@@ -2899,13 +2932,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Navigating the intersection of design and business: a conversation with airbnb’s brian chesky</title>
+         <title>Navigating the intersection of design and business: a conversation with Airbnb’s Brian Chesky</title>
          <link href="/liens/2024/05/19/navigating-the-intersection-of-design-and-business-a-conversation-with-airbnbs-brian-chesky/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/navigating-the-intersection-of-design-and-business-a-conversation-with-airbnbs-brian-chesky/</id>
 
          <content type="html">
-            
+            Co-founder and CEO Brian Chesky talks about design’s catalytic potential for business and the central role it played in Airbnb’s post-IPO growth story.
          </content>
       </entry>
    
@@ -3273,13 +3306,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Les petits secrets de l'oiseau bleu, le logo de twitter tué par elon-musk</title>
+         <title>Les petits secrets de l'oiseau bleu, le logo de Twitter tué par Elon Musk</title>
          <link href="/liens/2024/05/19/les-petits-secrets-de-loiseau-bleu-le-logo-de-twitter-tu-par-elon-musk/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/les-petits-secrets-de-loiseau-bleu-le-logo-de-twitter-tu-par-elon-musk/</id>
 
          <content type="html">
-            
+            L’oiseau bleu, célèbre logo de Twitter, s’en va. La mascotte iconique du réseau social avait quelques secrets, méconnus de nombre d’internautes.
          </content>
       </entry>
    
@@ -3339,13 +3372,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Les ia génératives sont-elles en train de tuer internet ?</title>
-         <link href="/liens/2024/05/19/les-ia-gnratives-sontelles-en-train-de-tuer-internet/"/>
+         <title>Les IA génératives sont-elles en train de tuer internet ?</title>
+         <link href="/liens/2024/05/19/les-ia-genratives-sontelles-en-train-de-tuer-internet/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/les-ia-gnratives-sontelles-en-train-de-tuer-internet/</id>
+         <id>http://localhost:4000/liens/2024/05/19/les-ia-genratives-sontelles-en-train-de-tuer-internet/</id>
 
          <content type="html">
-            
+            Google, c’était mieux avant. C’est en tout cas la conclusion que tirent des chercheurs allemands dans une étude portant sur les résultats des moteurs de recherche Google, Bing et DuckDuckGo. En cause : la quantité de spams qui arrivent en haut des recommandations de recherche, dont une partie croissante est générée par des intelligences artificielles. 
          </content>
       </entry>
    
@@ -3493,13 +3526,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Le régulateur espagnol inflige une amende de 143,6 millions d'euros à apple pour son accord avec amazon</title>
-         <link href="/liens/2024/05/19/le-rgulateur-espagnol-inflige-une-amende-de-1436-millions-deuros-apple-pour-son-accord-avec-amazon/"/>
+         <title>Le régulateur espagnol inflige une amende de 143,6 millions d'euros à Apple pour son accord avec Amazon</title>
+         <link href="/liens/2024/05/19/le-regulateur-espagnol-inflige-une-amende-de-1436-millions-deuros-apple-pour-son-accord-avec-amazon/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/le-rgulateur-espagnol-inflige-une-amende-de-1436-millions-deuros-apple-pour-son-accord-avec-amazon/</id>
+         <id>http://localhost:4000/liens/2024/05/19/le-regulateur-espagnol-inflige-une-amende-de-1436-millions-deuros-apple-pour-son-accord-avec-amazon/</id>
 
          <content type="html">
-            
+            Apple risque de mettre la main au porte-monnaie dans le cadre de son controversé partenariat avec Amazon. En 2018, Cupertino a signé un accord avec la plateforme pour la création d&apos;une boutique certifiée visant officiellement à réduire la vente de contrefaçons. La démarche a été suivie d&apos;un coup de balai chez les revendeurs non agréés, qui devaient respecter certaines conditions impossibles à atteindre pour les très petites entreprises.
          </content>
       </entry>
    
@@ -3895,7 +3928,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/la-fin-du-streaming-sans-publicit-sapprochetelle/</id>
 
          <content type="html">
-            
+            Ceux d&apos;entre nous qui sont là depuis un certain temps se souviennent peut-être de l&apos;époque heureuse où le streaming était fortement associé à une expérience sans publicité. Lassés des pauses publicitaires de la télévision câblée (et ne parlons même pas de la télévision linéaire), nous considérions le streaming comme une alternative saine à la télévision classique, sans choix et chargée de publicité.
          </content>
       </entry>
    
@@ -4010,13 +4043,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Introducing spectrum 2: our vision for the future of adobe experience design</title>
+         <title>Introducing Spectrum 2: our vision for the future of adobe experience design</title>
          <link href="/liens/2024/05/19/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design/</id>
 
          <content type="html">
-            
+            Imagine you’re designing a house. Your first step might be to draw a picture. To turn that picture into a house would require the input of many experts—architects, engineers, and builders—and would involve planning, teamwork, and time with each collaborator.
          </content>
       </entry>
    
