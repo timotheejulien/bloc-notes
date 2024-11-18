@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "« Le mythe du capitalisme responsable est là pour rassurer tous les individus angoissés à l’idée de perdre du confort »"
+title: "« Le mythe du capitalisme responsable est là pour rassurer tous les individus angoissés à l’idée de perdre du confort »"
 link: https://usbeketrica.com/fr/article/le-mythe-du-capitalisme-responsable-est-la-pour-rassurer-tous-les-individus-angoisses-a-l-idee-de-perdre-du-confort
 author: "Vincent Edin"
 published_date: ""

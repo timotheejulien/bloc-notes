@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenAI et le défi des « hallucinations » : une étude d'OpenAI révèle que même ses meilleurs modèles donnent de mauvaises réponses dans une très large proportion"
+title: "OpenAI et le défi des « hallucinations » : une étude d'OpenAI révèle que même ses meilleurs modèles donnent de mauvaises réponses dans une très large proportion"
 link: "https://intelligence-artificielle.developpez.com/actu/364536/OpenAI-et-le-defi-des-hallucinations-une-etude-d-OpenAI-revele-que-meme-ses-meilleurs-modeles-donnent-de-mauvaises-reponses-dans-une-tres-large-proportion-la-concurrence-ne-se-porte-pas-forcement-mieux/"
 author: Stéphane Le Calme
 published_date: 11/11/2024

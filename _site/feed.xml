@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-18T10:32:20+01:00</updated>
+   <updated>2024-11-18T14:02:51+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,28 @@
 
    
       <entry>
+         <title>X et son exode. Comment quitter une forêt lorsque l’on est un arbre.</title>
+         <link href="/liens/2024/11/18/x-et-son-exode-comment-quitter-une-foret-lorsque-lon-est-un-arbre/"/>
+         <updated>2024-11-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/18/x-et-son-exode-comment-quitter-une-foret-lorsque-lon-est-un-arbre/</id>
+
+         <content type="html">
+            C’est une nouvelle fois, c’est une nouvelle occasion. Se débat, se discute, s’organise le projet d’un grand départ. A l’occasion de l’élection de Trump et du rôle que Musk y joua, des réseaux concurrents, à commencer par Bluesky (fondé par Jack Dorsey qui avait fondé Twitter) gagnent rapidement un nombre significatif de nouveaux comptes. Un million. Un exode numérique sans peine, sans drame, sans souffrance. Notez bien que je parle de nouveaux « comptes » et pas de nouveaux « utilisateurs ». Car pour devenir utilisateur d’une plateforme cela suppose à la fois d’en connaître ou d’en accepter les codes et les règles, mais aussi d’y contribuer un tant soit peu et autrement qu’en seule consultation. Être utilisateur c’est être impliqué dans un implicite d’usage autant que dans un explicite de consultation. De nouveaux comptes donc mais pas encore autant de nouveaux utilisateurs.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>OpenAI et le défi des « hallucinations » : une étude d'OpenAI révèle que même ses meilleurs modèles donnent de mauvaises réponses dans une très large proportion</title>
+         <link href="/liens/2024/11/18/openai-et-le-defi-des-hallucinations-une-etude-d-openAI-revele-que-meme-ses-meilleurs-modeles-donnent-de-mauvaises-reponses-dans-une-tres-large-proportion-la-concurrence-ne-se-porte-pas-forcement-mieux/"/>
+         <updated>2024-11-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/18/openai-et-le-defi-des-hallucinations-une-etude-d-openAI-revele-que-meme-ses-meilleurs-modeles-donnent-de-mauvaises-reponses-dans-une-tres-large-proportion-la-concurrence-ne-se-porte-pas-forcement-mieux/</id>
+
+         <content type="html">
+            Les modèles d&apos;intelligence artificielle d&apos;OpenAI représentent une avancée notable dans le traitement du langage naturel. Utilisés pour générer du texte, répondre à des questions, traduire et même assister à des tâches de créativité, ces modèles montrent des capacités impressionnantes. Cependant, des recherches récentes, s&apos;appuyant sur un benchmark d&apos;OpenAI, indiquent que même ses modèles les plus sophistiqués produisent encore un nombre surprenant d&apos;erreurs, mettant en lumière les limitations persistantes de cette technologie. Une évolution qui devrait nous rappeler qu&apos;il faut traiter les résultats de n&apos;importe quel LLM avec beaucoup de scepticisme et avec la volonté de passer le texte généré au peigne fin.
+         </content>
+      </entry>
+   
+      <entry>
          <title>HTML is for people</title>
          <link href="/liens/2024/11/18/html-is-for-people/"/>
          <updated>2024-11-18T00:00:00+01:00</updated>
@@ -21,6 +43,17 @@
 
          <content type="html">
             HTML isn’t only for people working in the tech field. It’s for anybody, the way documents are for anybody. HTML is just another type of document. A very special one—the one the web is built on. I’m Blake Watson. I’ve been building websites since the early 2000s. Though I work professionally in the field, I feel strongly that anyone should be able to make a website with HTML if they want. This book will teach you how to do just that. It doesn’t require any previous experience making websites or coding. I will cover everything you need to know to get started in an approachable and friendly way.Ready? Let’s do it!
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Hobbies, surconsommation, accumulation… </title>
+         <link href="/liens/2024/11/18/hobbies-surconsommation-accumulation/"/>
+         <updated>2024-11-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/18/hobbies-surconsommation-accumulation/</id>
+
+         <content type="html">
+            Le GAS, ou Gear Acquisition Syndrome (en français SAM ou Syndrome d’Acquisition de Matériel) est le nom pas sérieux donné à un phénomène courant dans les loisirs, et dans la manière dont on en parle dans les communautés en ligne ; c’est le penchant qui nous conduit à dépenser de l’argent dans l’achat de plus de matériel en pensant que c’est ça qui va nous faire profiter un peu plus.
          </content>
       </entry>
    
@@ -47,7 +80,7 @@
       </entry>
    
       <entry>
-         <title>« Le mythe du capitalisme responsable est là pour rassurer tous les individus angoissés à l’idée de perdre du confort »</title>
+         <title>« Le mythe du capitalisme responsable est là pour rassurer tous les individus angoissés à l’idée de perdre du confort »</title>
          <link href="/liens/2024/11/16/le-mythe-du-capitalisme-responsable-est-la-pour-rassurer-tous-les-individus-angoisses-a-l-idee-de-perdre-du-confort/"/>
          <updated>2024-11-16T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2024/11/16/le-mythe-du-capitalisme-responsable-est-la-pour-rassurer-tous-les-individus-angoisses-a-l-idee-de-perdre-du-confort/</id>
