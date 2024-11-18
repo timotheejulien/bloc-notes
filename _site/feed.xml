@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-16T13:57:47+01:00</updated>
+   <updated>2024-11-18T09:24:20+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -43,6 +43,28 @@
 
          <content type="html">
             Espérer que les rapports marchands puissent être responsables est-il une lubie d’enfants gâtés ? À l’occasion du numéro d’été 2022, nous demandions à Fanny Parise, l’anthropologue et autrice de l’essai Les Enfants gâtés. Anthropologie du capitalisme responsable (Payot, 2022), et à Sébastien Kopp, cofondateur de la marque de baskets éthiques Veja, de croiser leurs regards sur la question.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’IA peut-elle personnaliser le travail ?</title>
+         <link href="/liens/2024/11/16/ia-peut-elle-personnaliser-le-travail/"/>
+         <updated>2024-11-16T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/16/ia-peut-elle-personnaliser-le-travail/</id>
+
+         <content type="html">
+            Travail et travailleurs entretiennent depuis des années une relation à la « Je t’aime moi non plus ». Et l’époque n’est pas au changement. C’est en tout cas ce que confirme la dernière édition du Work Relationship Index réalisé par HP. Et si l’IA, et sa capacité à personnaliser l’expérience de travail, était le pansement ?
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Comment les séries télévisées façonnent nos représentations sociales</title>
+         <link href="/liens/2024/11/16/comment-les-series-televisees-faconnent-nos-representations-sociales/"/>
+         <updated>2024-11-16T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/16/comment-les-series-televisees-faconnent-nos-representations-sociales/</id>
+
+         <content type="html">
+            Les séries télévisées ont parfaitement intégré notre quotidien, au même titre que les films, les jeux vidéos ou les livres. Mais nous ne mesurons pas toujours leur influence potentielle sur la création de stéréotypes.
          </content>
       </entry>
    
