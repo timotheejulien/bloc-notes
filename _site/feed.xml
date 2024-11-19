@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-19T17:33:20+01:00</updated>
+   <updated>2024-11-19T17:38:36+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,17 @@
 
    
       <entry>
+         <title>Nouvelle identité visuelle Groupama, un logotype en rase campagne</title>
+         <link href="/liens/2024/11/19/nouvelle-identite-visuelle-groupama-un-logotype-en-rase-campagne/"/>
+         <updated>2024-11-19T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/19/nouvelle-identite-visuelle-groupama-un-logotype-en-rase-campagne/</id>
+
+         <content type="html">
+            Il y a de cela quelques semaines, nous avons pu apercevoir en ligne un nouveau logotype Groupama. Pas (encore ?) d’annonce en grande pompe, ni de dévoilement officiel, mais il est là ce nouveau logo. Il a pris ses fonctions sans bruit et remplace un logotype qui officiait et était reconnu depuis plus de 20 ans.
+         </content>
+      </entry>
+   
+      <entry>
          <title>C’est une première en France : « le smartphone dépasse le téléviseur au sein des foyers »</title>
          <link href="/liens/2024/11/19/cest-une-premiere-en-france-le-smartphone-depasse-le-televiseur-au-sein-des-foyers/"/>
          <updated>2024-11-19T00:00:00+01:00</updated>
@@ -21,6 +32,17 @@
 
          <content type="html">
             L’Arcom a récemment mis à jour son Observatoire de l’équipement audiovisuel des foyers en France hexagonale avec les chiffres du premier semestre 2024. La grosse nouveauté : « La transition vers une consommation numérique et individuelle se confirme, en particulier avec l’affirmation du smartphone comme premier écran des foyers au détriment du téléviseur ».
+         </content>
+      </entry>
+   
+      <entry>
+         <title>20 years of Firefox: How a community project changed the web</title>
+         <link href="/liens/2024/11/19/20-years-of-firefox-how-a-community-project-changed-the-web/"/>
+         <updated>2024-11-19T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/19/20-years-of-firefox-how-a-community-project-changed-the-web/</id>
+
+         <content type="html">
+            What was browsing the web like in 2004? People said things like “surfing the internet,” for starters. Excessive pop-up ads were annoying but they felt like the norm. The search bar and multiple tabs did not exist, and there seemed to be only one browser in sight. That is, until Firefox 1.0 arrived and gave it real competition.
          </content>
       </entry>
    
@@ -43,6 +65,17 @@
 
          <content type="html">
             Les modèles d&apos;intelligence artificielle d&apos;OpenAI représentent une avancée notable dans le traitement du langage naturel. Utilisés pour générer du texte, répondre à des questions, traduire et même assister à des tâches de créativité, ces modèles montrent des capacités impressionnantes. Cependant, des recherches récentes, s&apos;appuyant sur un benchmark d&apos;OpenAI, indiquent que même ses modèles les plus sophistiqués produisent encore un nombre surprenant d&apos;erreurs, mettant en lumière les limitations persistantes de cette technologie. Une évolution qui devrait nous rappeler qu&apos;il faut traiter les résultats de n&apos;importe quel LLM avec beaucoup de scepticisme et avec la volonté de passer le texte généré au peigne fin.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Le web progressiste aurait intérêt à migrer sur Mastodon, pas sur Bluesky</title>
+         <link href="/liens/2024/11/18/le-web-progressiste-aurait-interet-a-migrer-sur-mastodon-pas-sur-bluesky/"/>
+         <updated>2024-11-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/18/le-web-progressiste-aurait-interet-a-migrer-sur-mastodon-pas-sur-bluesky/</id>
+
+         <content type="html">
+            Le réseau social X (anciennement Twitter) vit un nouvel épisode de « départ » massif. Ou plus précisément, les réseaux sociaux concurrents voient un nouvel épisode d’arrivée massive. Ce qui n’est pas tout à fait pareil. Et pas vraiment nouveau, puisque de tels épisodes se déroulent régulièrement depuis l’achat de X par Elon Musk.
          </content>
       </entry>
    
