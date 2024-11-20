@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-19T17:38:36+01:00</updated>
+   <updated>2024-11-20T07:57:20+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Partir et garder nos discussions, partir et garder nos followers, partir garder notre capital social ce n’est pas partir, c’est vivre mal l’expérience d’un déplacement raté.</title>
+         <link href="/citations/2024/11/20/cest-vivre-mal-l-experience-d-un-deplacement-rate/"/>
+         <updated>2024-11-20T00:00:00+01:00</updated>
+         <id>http://localhost:4000/citations/2024/11/20/cest-vivre-mal-l-experience-d-un-deplacement-rate/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
    
       <entry>
          <title>Nouvelle identité visuelle Groupama, un logotype en rase campagne</title>
