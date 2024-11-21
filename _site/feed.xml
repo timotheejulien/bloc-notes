@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-20T07:57:20+01:00</updated>
+   <updated>2024-11-21T19:31:04+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,50 @@
 
    
       <entry>
+         <title>Le gouvernement américain veut que Google vende son navigateur Chrome, le plus utilisé au monde</title>
+         <link href="/liens/2024/11/21/le-gouvernement-americain-veut-que-google-cede-son-navigateur-chrome/"/>
+         <updated>2024-11-21T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/21/le-gouvernement-americain-veut-que-google-cede-son-navigateur-chrome/</id>
+
+         <content type="html">
+            Si elle venait à être appliquée, la sanction serait historique envers Google, épinglé pour ses pratiques anticoncurrentielles. Le gouvernement américain a demandé, mercredi 20 novembre, à la justice d’ordonner au géant technologique de se séparer de son navigateur Internet Chrome, le plus utilisé au monde.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La facture électronique : des obligations dès 2026 !</title>
+         <link href="/liens/2024/11/21/facture-electronique-obligation/"/>
+         <updated>2024-11-21T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/21/facture-electronique-obligation/</id>
+
+         <content type="html">
+            Vous devez le savoir, en matière de facturation, le papier vit ses derniers jours. Progressivement à partir du 1er septembre 2026, la facture électronique deviendra une obligation pour toutes les entreprises. Le temps de la facture papier est donc désormais compté. Ce que vous devez bien comprendre, c’est que tous les émetteurs de facture vont être progressivement obligés par la loi française d’émettre et recevoir des «vraies» factures conformes sous format électronique. D’ailleurs, chez Dougs, on travaille déjà sur le sujet, on vous explique tout !
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Bluesky est-il décentralisé ?</title>
+         <link href="/liens/2024/11/21/bluesky-est-il-decentralise/"/>
+         <updated>2024-11-21T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/21/bluesky-est-il-decentralise/</id>
+
+         <content type="html">
+            Bluesky et son protocole AT sont souvent décrits comme décentralisés, à la manière de Mastodon. Mais est-ce bien le cas ? La question fait débat.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>À quoi sert l’innovation si elle ne fonctionne pas pour tout le monde ?</title>
+         <link href="/liens/2024/11/21/a-quoi-sert-linnovation-si-elle-ne-fonctionne-pas-pour-tout-le-monde/"/>
+         <updated>2024-11-21T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/21/a-quoi-sert-linnovation-si-elle-ne-fonctionne-pas-pour-tout-le-monde/</id>
+
+         <content type="html">
+            Et si nous promouvions une autre innovation ? Une innovation du quotidien qui privilégie la régénération plutôt que l’extraction ?
+         </content>
+      </entry>
+   
+      <entry>
          <title>Partir et garder nos discussions, partir et garder nos followers, partir garder notre capital social ce n’est pas partir, c’est vivre mal l’expérience d’un déplacement raté.</title>
          <link href="/citations/2024/11/20/cest-vivre-mal-l-experience-d-un-deplacement-rate/"/>
          <updated>2024-11-20T00:00:00+01:00</updated>
@@ -21,6 +65,17 @@
 
          <content type="html">
             
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Rézosociaux</title>
+         <link href="/liens/2024/11/19/rezosociaux/"/>
+         <updated>2024-11-19T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/19/rezosociaux/</id>
+
+         <content type="html">
+            Sauf cas exceptionnel et explicitement précisé, je m’exprime en mon nom propre sur les rézosociaux. Mes propos n’engagent donc évidemment que moi, et aucune des structures qui m’emploient. Sur un réseau professionnel comme LinkedIn, cette frontière peut être particulièrement floue. Je vous remercie de respecter, en bonne intelligence, cette séparation essentielle entre monde du travail et exercice de ma citoyenneté (et plus précisément, de ma liberté d’expression).
          </content>
       </entry>
    
