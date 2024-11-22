@@ -1,6 +1,13 @@
 [
       
             {
+                  "title"    : "The making of the Figma pattern library",
+                  "url"      : "/liens/2024/11/22/the-making-of-the-figma-pattern-library/",
+                  "tags"     : "figma, design, design-system, ui"
+            } 
+      ,
+  
+            {
                   "title"    : "Le gouvernement américain veut que Google vende son navigateur Chrome, le plus utilisé au monde",
                   "url"      : "/liens/2024/11/21/le-gouvernement-americain-veut-que-google-cede-son-navigateur-chrome/",
                   "tags"     : "google, app, navigateur"
@@ -18,6 +25,13 @@
                   "title"    : "Bluesky est-il décentralisé ?",
                   "url"      : "/liens/2024/11/21/bluesky-est-il-decentralise/",
                   "tags"     : "bluesky, app, réseau-social"
+            } 
+      ,
+  
+            {
+                  "title"    : "How to identify decorative images and boots accessibility",
+                  "url"      : "/liens/2024/11/21/alt-text-for-decorative-images/",
+                  "tags"     : "accessibilité, design, développement"
             } 
       ,
   
