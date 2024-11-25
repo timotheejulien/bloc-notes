@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-22T12:03:07+01:00</updated>
+   <updated>2024-11-25T13:40:25+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,28 @@
 
    
       <entry>
+         <title>Le système de production de l’IA reproduit et amplifie les dépendances économiques historiques</title>
+         <link href="/liens/2024/11/25/le-systeme-de-production-de-lia-reproduit-et-amplifie-les-dependances-economiques-historiques/"/>
+         <updated>2024-11-25T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/25/le-systeme-de-production-de-lia-reproduit-et-amplifie-les-dependances-economiques-historiques/</id>
+
+         <content type="html">
+            Dans une comparaison sociologique des conditions de travail des producteurs d&apos;IA, des chercheurs rappellent le rôle majeur des travailleurs des données. En mettant en parallèle des situations observées au Venezuela, au Brésil, à Madagascar et en France, ils montrent que ce domaine maintient « les dépendances économiques historiques et génère des inégalités qui s&apos;ajoutent à celles héritées du passé ».
+         </content>
+      </entry>
+   
+      <entry>
+         <title>You deserve a better browser than Google Chrome</title>
+         <link href="/liens/2024/11/25/google-chrome-antitrust-privacy-android/"/>
+         <updated>2024-11-25T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/25/google-chrome-antitrust-privacy-android/</id>
+
+         <content type="html">
+            The government’s effort to break up Google will take years. Why not ditch Chrome now?
+         </content>
+      </entry>
+   
+      <entry>
          <title>The making of the Figma pattern library</title>
          <link href="/liens/2024/11/22/the-making-of-the-figma-pattern-library/"/>
          <updated>2024-11-22T00:00:00+01:00</updated>
@@ -21,6 +43,17 @@
 
          <content type="html">
             UI3 prompted us to rebuild our own design system from the ground up. Here’s how designers and engineers came together to create a new foundation for building consistent, accessible products.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Et si le problème des réseaux sociaux, c'étaient les phares ?</title>
+         <link href="/liens/2024/11/22/et-si-le-probleme-des-reseaux-sociaux-cetaient-les-phares/"/>
+         <updated>2024-11-22T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/22/et-si-le-probleme-des-reseaux-sociaux-cetaient-les-phares/</id>
+
+         <content type="html">
+            Quand j’ai écrit que Le web progressiste aurait intérêt à migrer sur Mastodon, pas sur Bluesky, j’ai tout de suite senti qu’il y avait un problème. Ou une limite à mon raisonnement. En réalité, il y en a plein, et je voudrais vous en partager une. Pour faire simple, je suis en train de me demander si le problème, c’est TwitterX (dans le cas présent, je suis certain que demain ou après-demain, ce sera Bluesky), ou si ce n’est pas plutôt un certain type de réseaux sociaux numériques.
          </content>
       </entry>
    
