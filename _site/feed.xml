@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-11-25T13:40:25+01:00</updated>
+   <updated>2024-11-26T09:20:24+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>These alternatives to popular apps can help reclaim your online life from billionaires and surveillance</title>
+         <link href="/liens/2024/11/25/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/"/>
+         <updated>2024-11-25T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/11/25/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/</id>
+
+         <content type="html">
+            There is immense power in being in control of your own data. As ownership and governance of apps and online services consolidate, it’s understandable if you want to consider your options when it comes to where you store your private data and records of your everyday activities. Fortunately, not every service out there is trying to monetize your personal data, and many offerings are just as good (if not often better) as their commercial or ad-supported rivals. Take a minute to think about what you’d want to leave behind. Big Tech giants that hoard your data? Subscription services? Invasive ad tracking? Government surveillance? Your needs and risks are unique to you, but hopefully a few of these recommendations help to hit the spot.
+         </content>
+      </entry>
    
       <entry>
          <title>Le système de production de l’IA reproduit et amplifie les dépendances économiques historiques</title>
