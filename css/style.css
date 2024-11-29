@@ -126,6 +126,10 @@ a:hover {
    text-decoration: none;
 }
 
+.flex-width-1 {
+   flex: 1;
+}
+
 /* BUTTON */
 .btn {
    transition: all .3s ease-in-out;
@@ -528,6 +532,7 @@ a#pagination-active {
 /* FOOTER */
 #footer {
    padding-top: var(--space-x-large);
+   padding-bottom: var(--space-xxx-large);
 }
 
 #footer .divider {
