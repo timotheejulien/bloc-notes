@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-02T11:59:54+01:00</updated>
+   <updated>2024-12-03T08:51:10+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,17 @@
 
    
       <entry>
+         <title>« On devient fonctionnaire d’OpenAI sitôt que l’on utilise ChatGPT »</title>
+         <link href="/liens/2024/12/03/on-devient-fonctionnaire-openai-sitot-quon-utilise-chatgpt/"/>
+         <updated>2024-12-03T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/03/on-devient-fonctionnaire-openai-sitot-quon-utilise-chatgpt/</id>
+
+         <content type="html">
+            Méconnu en France, le philosophe des techniques Vilém Flusser (1920–1991) a pensé, avec plusieurs longueurs d’avance, ce que peut être l’écologie dans un monde ultra-technologisé. À l’occasion de la parution d’une collection de ses textes aux éditions Wildproject, Nous sommes les enfants de Marie Curie, nous avons décortiqué sa vision du futur en compagnie du théoricien de la littérature et des médias Yves Citton, qui en signe la préface.
+         </content>
+      </entry>
+   
+      <entry>
          <title>Les enjeux de la compatibilité Web</title>
          <link href="/liens/2024/12/02/les-enjeux-de-la-compatibilite-web/"/>
          <updated>2024-12-02T00:00:00+01:00</updated>
@@ -21,6 +32,28 @@
 
          <content type="html">
             Dimanche matin. Impatient, une amie, perdue de vue depuis plus de 10 ans, vivant en Argentine, a proposé de discuter sur une plateforme en ligne de visioconférence. C&apos;est l&apos;heure ! Dans le courrier, il y a le lien pour lancer la communication. Un premier clic lance le navigateur défini dans les préférences de l&apos;ordinateur. Le cœur bat. L&apos;adrénaline tend les muscles. Le cadre noir de la vidéo s&apos;affiche. Une fenêtre de demande d&apos;autorisation d&apos;utilisation de la caméra et du micro apparaît. Un clic immédiat fait suite à un message d&apos;erreur incongru. Démuni, et quelques tentatives plus tard, l&apos;angoisse et la déception d&apos;avoir raté un moment important envahissent la pièce.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La psychologie au service des défis environnementaux et climatiques</title>
+         <link href="/liens/2024/12/02/la-psychologie-au-service-des-defis-environnementaux-et-climatiques/"/>
+         <updated>2024-12-02T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/02/la-psychologie-au-service-des-defis-environnementaux-et-climatiques/</id>
+
+         <content type="html">
+            Savez-vous que l’information factuelle n’est guère efficace pour inciter à des gestes écologiques ? Que les résumés des rapports du GIEC peuvent être compris de travers ? Que des États reproduisent parfois les mêmes blocages mentaux que des individus ? La recherche actuelle en psychologie s’attaque à ces problèmes cruciaux. Petit tour d’horizon de solutions présentées dans une conférence récente.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La conjugaison de la fierté ignorante</title>
+         <link href="/liens/2024/12/02/conjuration-fierte-ignorante/"/>
+         <updated>2024-12-02T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/02/conjuration-fierte-ignorante/</id>
+
+         <content type="html">
+            Les scientifiques, les vulgarisateurs, les professeurs consacrent leur vie à lutter contre l’ignorance. Mais l’ignorance n’est pas vraiment le problème. Ce qui est dangereux c’est lorsqu’elle se camoufle. Lorsqu’elle se transforme en confiance.
          </content>
       </entry>
    
