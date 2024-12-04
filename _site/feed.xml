@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-03T08:51:10+01:00</updated>
+   <updated>2024-12-04T13:53:31+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Méconnu en France, le philosophe des techniques Vilém Flusser (1920–1991) a pensé, avec plusieurs longueurs d’avance, ce que peut être l’écologie dans un monde ultra-technologisé. À l’occasion de la parution d’une collection de ses textes aux éditions Wildproject, Nous sommes les enfants de Marie Curie, nous avons décortiqué sa vision du futur en compagnie du théoricien de la littérature et des médias Yves Citton, qui en signe la préface.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Lier un fragment de texte dans une page web</title>
+         <link href="/liens/2024/12/03/lier-un-fragment-de-texte-dans-une-page-web/"/>
+         <updated>2024-12-03T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/03/lier-un-fragment-de-texte-dans-une-page-web/</id>
+
+         <content type="html">
+            Un petit article pour pérenniser sur le web une astuce qui a eu du succès sur le Fediverse. LE truc qui a changé mon usage du web ces derniers mois, c’est les caractères suivants : #:~:text=. Cette formule magique permet de faire un lien direct vers un fragment de texte présent dans une page. Ce lien est composé d’une adresse, https://…/blablabla.html, à laquelle on ajoute #:~:text=, puis le texte qu’on vise. En cumulant les trois, le lien ciblera la première occurence de la phrase. Magie 🧙✨
          </content>
       </entry>
    
