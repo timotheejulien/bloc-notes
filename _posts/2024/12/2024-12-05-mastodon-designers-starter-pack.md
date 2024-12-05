@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Designers starter pack on Mastodon"
-link: "Mathieu Lefebvre"
+link: "https://fedidevs.com/s/NTU/"
 author: "Mathieu Lefebvre"
 published_date: "05/12/2024"
 description: "Gather the main interface design accounts on the Fediverse "
