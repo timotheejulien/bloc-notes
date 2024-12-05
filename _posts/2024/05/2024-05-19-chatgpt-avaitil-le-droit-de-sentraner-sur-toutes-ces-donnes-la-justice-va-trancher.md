@@ -9,9 +9,8 @@ language: fr
 categories:
 - Liens
 
-tags:
-- "ia"
+tags: "ia chatgpt"
 
-og-tags: "ia"
+og-tags: "ia chatgpt"
 permalink: /:categories/:year/:month/:day/:title/
 ---

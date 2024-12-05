@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L’histoire selon chat-gpt"
+title: "L’histoire selon ChatGPT"
 link: "https://www.ledevoir.com/societe/le-devoir-de/807380/devoir-education-histoire-selon-chat-gpt"
 author: N/A
 published_date: "19/05/2024"
@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "ia"
-- "chat-gpt"
+- "chatgpt"
 
-og-tags: "ia, chat-gpt"
+og-tags: "ia, chatgpt"
 permalink: /:categories/:year/:month/:day/:title/
 ---

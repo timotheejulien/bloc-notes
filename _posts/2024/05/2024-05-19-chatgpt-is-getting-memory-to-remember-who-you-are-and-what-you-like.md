@@ -13,7 +13,7 @@ tags:
 - "vie-privée"
 - "ia"
 - "surveillance"
-- "chat-gpt"
+- "chatgpt"
 - "rgpd"
 
 og-tags: "vie-privée, ia, surveillance, chat-gpt, rgpd"

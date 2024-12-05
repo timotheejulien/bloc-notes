@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-04T13:53:31+01:00</updated>
+   <updated>2024-12-05T09:44:07+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,19 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Tote bag, un nouveau totem social ?</title>
+         <link href="/liens/2024/12/05/tote-bag-nouveau-totem-social/"/>
+         <updated>2024-12-05T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/05/tote-bag-nouveau-totem-social/</id>
+
+         <content type="html">
+            C’est un simple sac qui prend aujourd’hui beaucoup de place. C’est sans doute dans une boutique de vêtements qu’on nous a donné le premier, avant que s’accumulent ceux offerts dans un festival, une exposition, une librairie, un marché bio, une sortie cinéma, enfin pour tout et n’importe quoi.
+Le tote bag pourrait s’inscrire dans une réactualisation des Mythologies de Roland Barthes tellement il est devenu un élément incontournable de nos quotidiens urbains. C’est le cabas, le filet à provisions de la grand-mère, simple, utilitaire et pratique.
+Mais que raconte t’il de notre société, de notre époque, de nos habitudes et de nos comportements ? Le tote-bag est devenu un pur produit de consommation, un totem sociétal.
+         </content>
+      </entry>
    
       <entry>
          <title>« On devient fonctionnaire d’OpenAI sitôt que l’on utilise ChatGPT »</title>
@@ -3570,7 +3583,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>L’histoire selon chat-gpt</title>
+         <title>L’histoire selon ChatGPT</title>
          <link href="/liens/2024/05/19/lhistoire-selon-chatgpt/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/lhistoire-selon-chatgpt/</id>
@@ -3889,7 +3902,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Le « new york times » poursuit en justice microsoft et openai, créateur de chat-gpt, pour violation de droits d’auteur</title>
+         <title>Le « New York Times » poursuit en justice Microsoft et OpenAI, créateur de ChatGPT, pour violation de droits d’auteur</title>
          <link href="/liens/2024/05/19/le-new-york-times-poursuit-en-justice-microsoft-et-openai-crateur-de-chatgpt-pour-violation-de-droits-dauteur/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/le-new-york-times-poursuit-en-justice-microsoft-et-openai-crateur-de-chatgpt-pour-violation-de-droits-dauteur/</id>

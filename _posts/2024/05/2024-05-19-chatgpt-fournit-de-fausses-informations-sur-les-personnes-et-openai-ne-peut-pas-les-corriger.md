@@ -14,7 +14,7 @@ tags:
 - "ia"
 - "surveillance"
 - "législation"
-- "chat-gpt"
+- "chatgpt"
 
 og-tags: "vie-privée, ia, surveillance, législation, chat-gpt"
 permalink: /:categories/:year/:month/:day/:title/

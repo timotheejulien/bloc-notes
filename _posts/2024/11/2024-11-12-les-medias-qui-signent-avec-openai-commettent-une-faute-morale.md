@@ -8,7 +8,7 @@ description: "Associated Press, Le Monde, The Atlantic… Les médias ont-ils ra
 language: "fr"
 categories: 
    - Liens
-tags: "ia presse journalisme chat-gpt"
-og-tags: "ia presse journalisme chat-gpt"
+tags: "ia presse journalisme chatgpt openai"
+og-tags: "ia presse journalisme chatgpt openai"
 permalink: /:categories/:year/:month/:day/:title/
 ---
