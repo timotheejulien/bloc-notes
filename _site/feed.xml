@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-05T12:41:24+01:00</updated>
+   <updated>2024-12-06T08:31:03+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>The ultimate checklist for accessible data visualisations</title>
+         <link href="/liens/2024/12/06/the-ultimate-checklist-for-accessible-data-visualisations/"/>
+         <updated>2024-12-06T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/06/the-ultimate-checklist-for-accessible-data-visualisations/</id>
+
+         <content type="html">
+            Are your data visualizations leaving some users behind? Learn essential design principles to create accessible charts for all.
+         </content>
+      </entry>
    
       <entry>
          <title>Tote bag, un nouveau totem social ?</title>
@@ -45,6 +56,28 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
 
          <content type="html">
             Gather the main interface design accounts on the Fediverse 
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Le beau et l’utilisable</title>
+         <link href="/liens/2024/12/05/le-beau-et-l-utilisable/"/>
+         <updated>2024-12-05T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/05/le-beau-et-l-utilisable/</id>
+
+         <content type="html">
+            Le beau et l’utilisable sont souvent deux notions qui sont mises en opposition quand on fait du Web, certains voudraient du « Wahou » d’autres que ça soit simplement utilisable au quotidien. Pour situer le contexte, la notion de beauté qui nous intéresse est celle que perçoit l’utilisateur et non une notion de beauté universelle ni même ce qu’en pense le graphiste ou le directeur artistiques qui l’ont conçue. C’est bien du point de vue de l’utilisateur final dont je vais vous parler.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>C’est pas de l’IA, c’est de l’exploitation dernier cri</title>
+         <link href="/liens/2024/12/05/cest-pas-de-lia-cest-de-lexploitation-dernier-cri/"/>
+         <updated>2024-12-05T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/05/cest-pas-de-lia-cest-de-lexploitation-dernier-cri/</id>
+
+         <content type="html">
+            Après deux ans passés à diversifier ses champs d’action, La Quadrature du Net s’attaque désormais à un nouveau front : la lutte contre le déferlement de l’intelligence artificielle (IA) dans tous les pans de la société. Pour continuer à faire vivre la critique d’une politique numérique autoritaire et écocide, La Quadrature a plus que jamais besoin de votre soutien en 2025.
          </content>
       </entry>
    
