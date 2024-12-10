@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-06T08:31:03+01:00</updated>
+   <updated>2024-12-10T09:01:04+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Accessibilité - Qui est le plus irresponsable : l’IA qui pollue ou l’humain qui exclut ?</title>
+         <link href="/liens/2024/12/10/accessibilite-qui-est-le-plus-irresponsable-lia-qui-pollue-ou-lhumain-qui-exclut/"/>
+         <updated>2024-12-10T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/10/accessibilite-qui-est-le-plus-irresponsable-lia-qui-pollue-ou-lhumain-qui-exclut/</id>
+
+         <content type="html">
+            2005, une année qui aurait dû bouleverser la France, rendre le numérique plus accessible aux personnes handicapées. Le titre me laissait espérer pour un monde plus inclusif : Loi du 11 février 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées. À l’aube de 2025, le numérique n’est pas accessible à toutes et tous. La promesse d’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ne sont qu’un écran de fumée. Aujourd’hui, le numérique responsable et l’intelligence artificielle (IA) ont le vent en poupe. Je me sens devant un effroyable paradoxe : choisir entre le numérique responsable et l’intelligence artificielle qui pourrait enfin rendre accessible ce que les humains n’ont pas réussi à faire jusqu’à présent ?
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Ce changement imposé aux cyclistes va changer la vie de tous les usagers de la route</title>
+         <link href="/liens/2024/12/09/un-decret-contraint-les-cyclistes-a-la-sobriete-lumineuse/"/>
+         <updated>2024-12-09T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/09/un-decret-contraint-les-cyclistes-a-la-sobriete-lumineuse/</id>
+
+         <content type="html">
+            Deux choses sont à retenir : Le feu arrière « ne doit pas être clignotant », comme le feu avant. Le cycliste peut porter sur lui des éclairages qui ont la même caractéristique que ceux du vélo. Autrement dit, vous pouvez avoir un gilet ou un casque avec un feu blanc fixe à l’avant et un feu rouge fixe à l’arrière.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Générer un flux RSS pour quasiment n'importe quel site web</title>
+         <link href="/liens/2024/12/08/creer-un-flux-rss-pour-nimporte-quel-site-web/"/>
+         <updated>2024-12-08T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/08/creer-un-flux-rss-pour-nimporte-quel-site-web/</id>
+
+         <content type="html">
+            Comment héberger soi-même RSS-Proxy, l&apos;outil de génération de flux RSS pour les sites qui n&apos;en proposent pas ?
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Pérenniser ma numérique éphémérité</title>
+         <link href="/liens/2024/12/07/perenite-ephemerite/"/>
+         <updated>2024-12-07T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/07/perenite-ephemerite/</id>
+
+         <content type="html">
+            J’écris mon journal personnel à la machine à écrire. De simples feuilles de papier que je fais relier chaque année et dont le contenu n’est nulle part en ligne. Pourtant, j’ai le sentiment que ce contenu a beaucoup plus de chances d’être un jour accessible voire, soyons fou, lu par mes enfants, mes petits enfants et, qui sait, plus loin encore.
+         </content>
+      </entry>
    
       <entry>
          <title>The ultimate checklist for accessible data visualisations</title>
