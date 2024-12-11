@@ -1,6 +1,13 @@
 [
       
             {
+                  "title"    : "« OSINT : du journalisme au design », un documentaire du Media Design Lab",
+                  "url"      : "/liens/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/",
+                  "tags"     : "journalisme, presse, documentaire, design, ui"
+            } 
+      ,
+  
+            {
                   "title"    : "Mozilla Firefox removes « Do Not Track » Feature support: Here&#39;s what it means for your Privacy",
                   "url"      : "/liens/2024/12/10/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/",
                   "tags"     : "firefox, navigateur, surveillance, mozilla, vie-privée"

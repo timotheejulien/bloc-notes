@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-10T20:55:04+01:00</updated>
+   <updated>2024-12-11T08:19:29+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>« OSINT : du journalisme au design », un documentaire du Media Design Lab</title>
+         <link href="/liens/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/"/>
+         <updated>2024-12-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/</id>
+
+         <content type="html">
+            L&apos;enquête journalistique se définit par un travail de terrain et une récolte d&apos;information en situation. L&apos;introduction des technologies numériques ces dernières décennies a amené une évolution des méthodes liées à l&apos;investigation. Ainsi, de nombreux journalistes à travers le monde développent depuis les années 2000 une pratique appelée OSINT pour « Open Source INTelligence » qui permet désormais de documenter le réel autrement. Le design joue aujourd&apos;hui un rôle central dans la mise en œuvre de ces nouvelles pratiques d&apos;enquête.
+         </content>
+      </entry>
    
       <entry>
          <title>Mozilla Firefox removes « Do Not Track » Feature support: Here's what it means for your Privacy</title>
