@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-11T08:19:29+01:00</updated>
+   <updated>2024-12-13T09:41:34+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,17 @@
 
    
       <entry>
+         <title>Journée mondiale de la raclette 2024 : un hommage à la convivialité alpine</title>
+         <link href="/liens/2024/12/13/journee-mondiale-de-la-raclette-2024-un-hommage-a-la-convivialite-alpine/"/>
+         <updated>2024-12-13T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/13/journee-mondiale-de-la-raclette-2024-un-hommage-a-la-convivialite-alpine/</id>
+
+         <content type="html">
+            Chaque année, le 13 décembre marque la célébration de la Journée mondiale de la raclette. Ce rendez-vous gastronomique met en lumière un plat emblématique des régions alpines, qui réchauffe les cœurs pendant l’hiver.
+         </content>
+      </entry>
+   
+      <entry>
          <title>« OSINT : du journalisme au design », un documentaire du Media Design Lab</title>
          <link href="/liens/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/"/>
          <updated>2024-12-11T00:00:00+01:00</updated>
@@ -21,6 +32,18 @@
 
          <content type="html">
             L&apos;enquête journalistique se définit par un travail de terrain et une récolte d&apos;information en situation. L&apos;introduction des technologies numériques ces dernières décennies a amené une évolution des méthodes liées à l&apos;investigation. Ainsi, de nombreux journalistes à travers le monde développent depuis les années 2000 une pratique appelée OSINT pour « Open Source INTelligence » qui permet désormais de documenter le réel autrement. Le design joue aujourd&apos;hui un rôle central dans la mise en œuvre de ces nouvelles pratiques d&apos;enquête.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Penser l’expérience de contribution pour améliorer la qualité de nos sites</title>
+         <link href="/liens/2024/12/10/penser-lexperience-de-contribution-pour-ameliorer-la-qualite-de-nos-sites/"/>
+         <updated>2024-12-10T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/10/penser-lexperience-de-contribution-pour-ameliorer-la-qualite-de-nos-sites/</id>
+
+         <content type="html">
+            Beaucoup de sites web reposent sur des systèmes de gestion de contenu (CMS). En tant que concepteurs et conceptrices de ces systèmes, nous tenons à ce que les sites qu’ils génèrent soient de bonne qualité. Lors de leur initialisation, nous nous assurons qu’ils s’affichent correctement sur une vaste variété d’appareils et qu’ils soient performants, accessibles et bien référencés. Pourtant, quelques mois après la mise en ligne, nous nous rendons parfois compte que la qualité s’est dégradée, même sans évolutions apportées de notre côté.
+Mais pourquoi la qualité de nos sites baisse après leur mise en ligne ?
          </content>
       </entry>
    
@@ -3061,7 +3084,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/privacy-is-priceless-but-signal-is-expensive/</id>
 
          <content type="html">
-            
+            Signal is the world’s most widely used truly private messaging app, and our cryptographic technologies provide extra layers of privacy beyond the Signal app itself. Since launching in 2013, the Signal Protocol—our end-to-end encryption technology—has become the de facto standard for private communication, protecting the contents of billions of conversations in WhatsApp, Google Messages, and many others. Signal also continues to invest in research and development in the pursuit of extending communications privacy. This commitment underlies our recent work to add a layer of quantum resistance to the Signal Protocol, and our previous work on metadata protection technologies that help keep personal details like your contact list, group membership, profile name, and other intimate information secure. This singular focus on preserving the ability to communicate privately is one reason that we work in the open, documenting our thinking and making our code open source and open to scrutiny—so you don’t have to take our word for it.
          </content>
       </entry>
    
