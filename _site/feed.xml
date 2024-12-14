@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-13T09:41:34+01:00</updated>
+   <updated>2024-12-14T09:14:09+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>PGP - Je ne chiffre plus les emails</title>
+         <link href="/liens/2024/12/14/pgp-je-ne-chiffre-plus-les-emails/"/>
+         <updated>2024-12-14T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/14/pgp-je-ne-chiffre-plus-les-emails/</id>
+
+         <content type="html">
+            [Spoiler]: Avant que le communauté des utilisateurs irréductibles de PGP2 ne me saute dessus à bras raccourcis, laissez-moi vous donner quelques éléments de contexte.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Centrer les usages sur l'expérience humaine : inclusion, accessibilité, et formulaires</title>
+         <link href="/liens/2024/12/14/centrer-les-usages-sur-experience-humain-inclusion-accessibilite-formulaires/"/>
+         <updated>2024-12-14T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/14/centrer-les-usages-sur-experience-humain-inclusion-accessibilite-formulaires/</id>
+
+         <content type="html">
+            Le web, qui se voulait, à ses débuts, être un outil libérateur et inclusif, a vu son potentiel dilué par des pratiques souvent maladroites. Malgré un accès sans précédent à des tutoriels, formations et ressources variées, une majorité de sites restent frustrants à naviguer, exclusifs “by design”, et truffés d&apos;interactions mal pensées et de formulaires impraticables. Au cours de mes 15 années d&apos;expérience dans le domaine, j&apos;ai observé une constante : les bases enseignées aux développeurs et designers manquent cruellement d&apos;une profondeur indispensable. Comprendre les (ses ?) biais cognitifs, maîtriser quelques notions fondamentales d&apos;ergonomie, intégrer convenablement des formulaires ou encore intégrer pleinement l&apos;accessibilité comme une nécessité éthique, plus que légale, sont autant de compétences trop souvent ignorées. Dans cet article, nous explorerons en partie les racines de ces lacunes, l&apos;importance d&apos;une autodidaxie éclairée, et les enseignements essentiels pour construire un web qui sert réellement tous ses utilisateurs. La manière d&apos;aborder ces sujets sera forcément via un prisme qui m&apos;est propre.
+         </content>
+      </entry>
    
       <entry>
          <title>Journée mondiale de la raclette 2024 : un hommage à la convivialité alpine</title>
@@ -42,8 +64,7 @@
          <id>http://localhost:4000/liens/2024/12/10/penser-lexperience-de-contribution-pour-ameliorer-la-qualite-de-nos-sites/</id>
 
          <content type="html">
-            Beaucoup de sites web reposent sur des systèmes de gestion de contenu (CMS). En tant que concepteurs et conceptrices de ces systèmes, nous tenons à ce que les sites qu’ils génèrent soient de bonne qualité. Lors de leur initialisation, nous nous assurons qu’ils s’affichent correctement sur une vaste variété d’appareils et qu’ils soient performants, accessibles et bien référencés. Pourtant, quelques mois après la mise en ligne, nous nous rendons parfois compte que la qualité s’est dégradée, même sans évolutions apportées de notre côté.
-Mais pourquoi la qualité de nos sites baisse après leur mise en ligne ?
+            Beaucoup de sites web reposent sur des systèmes de gestion de contenu (CMS). En tant que concepteurs et conceptrices de ces systèmes, nous tenons à ce que les sites qu’ils génèrent soient de bonne qualité. Lors de leur initialisation, nous nous assurons qu’ils s’affichent correctement sur une vaste variété d’appareils et qu’ils soient performants, accessibles et bien référencés. Pourtant, quelques mois après la mise en ligne, nous nous rendons parfois compte que la qualité s’est dégradée, même sans évolutions apportées de notre côté. Mais pourquoi la qualité de nos sites baisse après leur mise en ligne ?
          </content>
       </entry>
    
