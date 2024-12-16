@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-15T20:19:40+01:00</updated>
+   <updated>2024-12-16T08:33:12+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>À court de « vraies données », les laboratoires d'IA entraînent des modèles avec des données… générées par IA</title>
+         <link href="/liens/2024/12/16/a-court-de-vraies-donnees-les-laboratoires-d-ia-entrainent-des-modeles-avec-des-donnees-generees-par-ia/"/>
+         <updated>2024-12-16T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/16/a-court-de-vraies-donnees-les-laboratoires-d-ia-entrainent-des-modeles-avec-des-donnees-generees-par-ia/</id>
+
+         <content type="html">
+            Nourrie massivement de données générées par elle-même, l&apos;IA s&apos;autodétruit progressivement. Les modèles perdent en précision, en nuance et en fiabilité.
+         </content>
+      </entry>
    
       <entry>
          <title>Pour une poignée de followers</title>
