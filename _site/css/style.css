@@ -441,11 +441,15 @@ body {
 .article-meta > p {
    margin: 0;
    padding: 0;
-   font-size: var();
+}
+
+.article-title {
+   font-size: 22px;
+   line-height: 120%;
 }
 
 p.article-description {
-   margin: var(--space-regular) var(--space-none) var(--space-regular) var(--space-none);
+   margin: var(--space-small) var(--space-none) var(--space-regular) var(--space-none);
    display: -webkit-box; 
    -webkit-line-clamp: 3;
    -webkit-box-orient: vertical;   /* Orientation vertical de la boite */

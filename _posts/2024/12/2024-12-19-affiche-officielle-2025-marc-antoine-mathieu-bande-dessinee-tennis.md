@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Affiche 2025 : la bande dessinée à l’honneur !"
+title: "Affiche Roland Garros 2025 : la bande dessinée à l’honneur !"
 link: https://www.rolandgarros.com/fr-fr/article/affiche-officielle-2025-marc-antoine-mathieu-bande-dessinee-tennis
 author: "Marion Theissen"
 published_date: "19/12/2024"
