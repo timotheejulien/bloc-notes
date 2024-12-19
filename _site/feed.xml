@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-17T16:17:48+01:00</updated>
+   <updated>2024-12-19T10:05:09+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,62 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>L’urgence de soutenir l’énergie du libre</title>
+         <link href="/liens/2024/12/18/urgence-de-soutenir-energie-du-libre/"/>
+         <updated>2024-12-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/18/urgence-de-soutenir-energie-du-libre/</id>
+
+         <content type="html">
+            Montée de l’extrémisme, catastrophes climatiques, crises politiques et sociales, guerres. Entre ces urgences, est-il encore raisonnable de consacrer de l’énergie au logiciel libre, aux communs numériques et culturels? Ne devrait-on pas revoir nos priorités ? Le raccourci est dangereux.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La décroissance ? C’est bien gentil mais…</title>
+         <link href="/liens/2024/12/18/la-decroissance-cest-bien-gentil-mais/"/>
+         <updated>2024-12-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/18/la-decroissance-cest-bien-gentil-mais/</id>
+
+         <content type="html">
+            Une fois que les préjugés sur la décroissance sont dépassés, il faut s’atteler à répondre aux questions légitimes qui demandent une réflexion poussée sur le sujet. Avec une économie décroissante, comment financer les services publics ? Comment rembourser la dette ? Quels secteurs vont devoir réduire, ou disparaître ?
+L’économiste Timothée Parrique répond à ces questions qui alimentent les débats sur la décroissance depuis maintenant plusieurs années.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Évolution rapide et lente : le paradoxe de la plateforme Web</title>
+         <link href="/liens/2024/12/18/evolution-rapide-et-lente-le-paradoxe-de-la-plateforme-web/"/>
+         <updated>2024-12-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/18/evolution-rapide-et-lente-le-paradoxe-de-la-plateforme-web/</id>
+
+         <content type="html">
+            Que pensez-vous de la vitesse à laquelle évolue la plateforme web (c’est-à-dire les technologies et les API que vous utilisez pour créer des sites et applications web) ? Si vous trouvez que les choses avancent très lentement, c’est peut-être parce que vous attendez l’implémentation d’une API en particulier sur tous les navigateurs depuis un bout de temps. Par contre, si vous trouvez que tout évolue trop vite, c’est peut-être parce que vous avez du mal à suivre les nouveautés. Après tout, dans le Web, de nouvelles fonctionnalités sont ajoutées en permanence. Malheureusement, ces deux états coexistent. La plateforme web évolue à la fois extrêmement lentement et très rapidement.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Et soudain, tout est gratuit</title>
+         <link href="/liens/2024/12/18/et-soudain-tout-est-gratuit/"/>
+         <updated>2024-12-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/18/et-soudain-tout-est-gratuit/</id>
+
+         <content type="html">
+            Nous payons nos courses, nos trajets, nos loisirs et notre énergie. Nous achetons un ordinateur, un téléphone ou une tablette. Nous payons un accès à internet à la maison ou par les données mobiles. Ensuite, internet inverse cette norme et propose l’essentiel de ce qui est accessible en ligne gratuitement. Le monde du numérique, espace virtuel possiblement infini, s’opposerait-il à la matérialité du monde  ? De chaque bit de données stocké sur des serveurs (jamais dans les nuages) aux appareils qui nous permettent d’y naviguer, le réseau des réseaux est pourtant porté par une infrastructure bien tangible. Les sites web, services en ligne, plateformes et applications ne vivent pas de rien, mais s’échafaudent sur des modèles économiques particuliers. Pour certaines entreprises, les ressources proposées par internet sont un nouvel or noir qui leur permet de s’enrichir jusqu’à des sommets encore jamais atteints.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Ce que la surveillance change au travail</title>
+         <link href="/liens/2024/12/18/ce-que-la-surveillance-change-au-travail/"/>
+         <updated>2024-12-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/18/ce-que-la-surveillance-change-au-travail/</id>
+
+         <content type="html">
+            En 2023, la sociologue Karen Levy a produit une enquête passionnante sur le déploiement de la surveillance chez les routiers américains. Une analyse qui permet de comprendre bien au-delà de ce seul secteur, ce que la surveillance impose, déplace, transforme.
+         </content>
+      </entry>
    
       <entry>
          <title>How to get started on open-source development</title>
@@ -2604,13 +2660,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Une amende de plus de 100 millions d’euros pour société Gnérale et BNP à cause… de whatsapp</title>
+         <title>Une amende de plus de 100 millions d’euros pour société Générale et BNP à cause… de WhatsApp</title>
          <link href="/liens/2024/05/19/une-amende-de-plus-de-100-millions-deuros-pour-socit-gnrale-et-bnp-cause-de-whatsapp/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/une-amende-de-plus-de-100-millions-deuros-pour-socit-gnrale-et-bnp-cause-de-whatsapp/</id>
 
          <content type="html">
-            Mieux vaut ne pas utiliser whatsapp, imessage ou signal dans le cadre du travail… voici pourquoi.
+            Mieux vaut ne pas utiliser WhatsApp, iMessage ou Signal dans le cadre du travail… voici pourquoi.
          </content>
       </entry>
    
@@ -3330,13 +3386,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>paypal lance sa cryptomonnaie stable, indexée sur le dollar</title>
+         <title>PayPal lance sa cryptomonnaie stable, indexée sur le dollar</title>
          <link href="/liens/2024/05/19/paypal-lance-sa-cryptomonnaie-stable-indexe-sur-le-dollar/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/paypal-lance-sa-cryptomonnaie-stable-indexe-sur-le-dollar/</id>
 
          <content type="html">
-            
+            Les « stablecoins » sont principalement utilisés pour faciliter les échanges de cryptomonnaies entre elles par les investisseurs, sans devoir passer par une banque.
          </content>
       </entry>
    
@@ -3440,13 +3496,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>On a testé… le fairphone 5, un smartphone écoresponsable enfin convaincant</title>
+         <title>On a testé… le Fairphone 5, un smartphone écoresponsable enfin convaincant</title>
          <link href="/liens/2024/05/19/on-a-test-le-fairphone-5-un-smartphone-coresponsable-enfin-convaincant/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/on-a-test-le-fairphone-5-un-smartphone-coresponsable-enfin-convaincant/</id>
 
          <content type="html">
-            
+            Ce téléphone assez volumineux embarque un très honnête équipement de mobile moyen de gamme, aisément démontable. Un saut qualitatif notable en comparaison de son prédécesseur, mais qui se fait au prix d’une facture plus salée.
          </content>
       </entry>
    
@@ -3539,13 +3595,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Musk contre zuckerberg : chronique d’un combat avorté</title>
+         <title>Musk contre Zuckerberg : chronique d’un combat avorté</title>
          <link href="/liens/2024/05/19/musk-contre-zuckerberg-chronique-dun-combat-avort/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/musk-contre-zuckerberg-chronique-dun-combat-avort/</id>
 
          <content type="html">
-            
+            Le match de « mixed martial arts » (MMA) entre les deux patrons américains aurait pu avoir lieu ce 26 août. Mais le fondateur de Tesla n’a cessé de reculer et le PDG de Meta, à sa manière, remporte une victoire en forme de K.-O. technique.
          </content>
       </entry>
    
@@ -4386,13 +4442,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>La russie se fait peur avec l'iphone, perçu comme un cheval de troie des usa</title>
+         <title>La Russie se fait peur avec l'iPhone, perçu comme un cheval de troie des USA</title>
          <link href="/liens/2024/05/19/la-russie-se-fait-peur-avec-liphone-peru-comme-un-cheval-de-troie-des-usa/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/la-russie-se-fait-peur-avec-liphone-peru-comme-un-cheval-de-troie-des-usa/</id>
 
          <content type="html">
-            
+            Le FSB réprime l’utilisation des appareils Apple par les fonctionnaires de l’État après avoir déclaré la découverte d’une opération d’espionnage.
          </content>
       </entry>
    
@@ -5750,13 +5806,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Beeper vs imessage is a fight about how tech works, and who’s really in charge</title>
+         <title>Beeper vs iMessage is a fight about how tech works, and who’s really in charge</title>
          <link href="/liens/2024/05/19/beeper-vs-imessage-is-a-fight-about-how-tech-works-and-whos-really-in-charge/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/beeper-vs-imessage-is-a-fight-about-how-tech-works-and-whos-really-in-charge/</id>
 
          <content type="html">
-            
+            Beeper believes the world should be different, better, more open. Apple thinks Beeper is a security risk. It’s all true, and it makes my head spin.
          </content>
       </entry>
    

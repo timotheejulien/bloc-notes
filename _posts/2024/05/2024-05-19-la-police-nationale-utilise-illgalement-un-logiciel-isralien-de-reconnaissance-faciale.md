@@ -13,8 +13,7 @@ tags:
 - "vie-privée"
 - "surveillance"
 - "société"
-- "police"
 
-og-tags: "vie-privée, surveillance, société, police"
+og-tags: "vie-privée, surveillance, société"
 permalink: /:categories/:year/:month/:day/:title/
 ---

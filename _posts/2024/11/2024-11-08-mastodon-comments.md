@@ -8,7 +8,7 @@ description: "Un Web Component très léger qui permet d'utiliser Mastodon comme
 language: "en"
 categories: 
    - Liens
-tags: "mastodon open-source message développement"
-og-tags: "mastodon open-source message développement"
+tags: "mastodon open-source messagerie développement"
+og-tags: "mastodon open-source messagerie développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

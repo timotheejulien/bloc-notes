@@ -12,8 +12,8 @@ categories:
 tags:
 - "ui"
 - "ux"
-- "lego"
+- "jeux"
 
-og-tags: "ui, ux, lego"
+og-tags: "ui, ux, jeux"
 permalink: /:categories/:year/:month/:day/:title/
 ---

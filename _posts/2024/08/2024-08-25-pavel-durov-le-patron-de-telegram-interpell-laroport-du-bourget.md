@@ -13,11 +13,10 @@ tags:
 - "app"
 - "réseau-social"
 - "législation"
-- "russie"
-- "message"
+- "messagerie"
 - "telegram"
 - "modération"
 
-og-tags: "app, Réseau social, législation, russie, message, telegram, modération"
+og-tags: "app, réseau-social, législation, messagerie, telegram, modération"
 permalink: /:categories/:year/:month/:day/:title/
 ---

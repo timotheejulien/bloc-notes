@@ -11,10 +11,10 @@ categories:
 
 tags:
 - "design"
-- "entreprise"
+- "travail"
 - "conférence"
 - "freelance"
 
-og-tags: "design, entreprise, conférence, freelance"
+og-tags: "design, travail, conférence, freelance"
 permalink: /:categories/:year/:month/:day/:title/
 ---

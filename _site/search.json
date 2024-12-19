@@ -1,6 +1,41 @@
 [
       
             {
+                  "title"    : "L’urgence de soutenir l’énergie du libre",
+                  "url"      : "/liens/2024/12/18/urgence-de-soutenir-energie-du-libre/",
+                  "tags"     : "open-source"
+            } 
+      ,
+  
+            {
+                  "title"    : "La décroissance ? C’est bien gentil mais…",
+                  "url"      : "/liens/2024/12/18/la-decroissance-cest-bien-gentil-mais/",
+                  "tags"     : "politique, société, écologie"
+            } 
+      ,
+  
+            {
+                  "title"    : "Évolution rapide et lente : le paradoxe de la plateforme Web",
+                  "url"      : "/liens/2024/12/18/evolution-rapide-et-lente-le-paradoxe-de-la-plateforme-web/",
+                  "tags"     : "web, développement"
+            } 
+      ,
+  
+            {
+                  "title"    : "Et soudain, tout est gratuit",
+                  "url"      : "/liens/2024/12/18/et-soudain-tout-est-gratuit/",
+                  "tags"     : "internet, publicité, économie, numérique"
+            } 
+      ,
+  
+            {
+                  "title"    : "Ce que la surveillance change au travail",
+                  "url"      : "/liens/2024/12/18/ce-que-la-surveillance-change-au-travail/",
+                  "tags"     : "surveillance, travail"
+            } 
+      ,
+  
+            {
                   "title"    : "How to get started on open-source development",
                   "url"      : "/liens/2024/12/17/how-to-get-started-open-source-development/",
                   "tags"     : "open-source, méthodologie"
@@ -591,7 +626,7 @@
             {
                   "title"    : "Mastodon comments",
                   "url"      : "/liens/2024/11/08/mastodon-comments/",
-                  "tags"     : "mastodon, open-source, message, développement"
+                  "tags"     : "mastodon, open-source, messagerie, développement"
             } 
       ,
   
@@ -640,7 +675,7 @@
             {
                   "title"    : "Pour un logiciel de correspondance plutôt qu’un client mail",
                   "url"      : "/liens/2024/11/06/pour-un-logiciel-de-correspondance-plutot-quun-client-mail/",
-                  "tags"     : "app, message"
+                  "tags"     : "app, messagerie"
             } 
       ,
   
@@ -997,7 +1032,7 @@
             {
                   "title"    : "Pavel Durov, le patron de Telegram, interpellé à l’aéroport du Bourget",
                   "url"      : "/liens/2024/08/25/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/",
-                  "tags"     : "app, réseau-social, législation, russie, message, telegram, modération"
+                  "tags"     : "app, réseau-social, législation, messagerie, telegram, modération"
             } 
       ,
   
@@ -1646,9 +1681,9 @@
       ,
   
             {
-                  "title"    : "Une amende de plus de 100 millions d’euros pour société Gnérale et BNP à cause… de whatsapp",
+                  "title"    : "Une amende de plus de 100 millions d’euros pour société Générale et BNP à cause… de WhatsApp",
                   "url"      : "/liens/2024/05/19/une-amende-de-plus-de-100-millions-deuros-pour-socit-gnrale-et-bnp-cause-de-whatsapp/",
-                  "tags"     : "whatsapp, signal, entreprise, message"
+                  "tags"     : "whatsapp, signal, travail, messagerie"
             } 
       ,
   
@@ -1774,7 +1809,7 @@
             {
                   "title"    : "The ux of Lego interface panels",
                   "url"      : "/liens/2024/05/19/the-ux-of-lego-interface-panels/",
-                  "tags"     : "ui, ux, lego"
+                  "tags"     : "ui, ux, jeux"
             } 
       ,
   
@@ -1844,7 +1879,7 @@
             {
                   "title"    : "Statut, TJM et clients, la base du freelance",
                   "url"      : "/liens/2024/05/19/statut-tjm-et-clients-la-base-du-freelance/",
-                  "tags"     : "design, entreprise, conférence, freelance"
+                  "tags"     : "design, travail, conférence, freelance"
             } 
       ,
   
@@ -2108,7 +2143,7 @@
       ,
   
             {
-                  "title"    : "paypal lance sa cryptomonnaie stable, indexée sur le dollar",
+                  "title"    : "PayPal lance sa cryptomonnaie stable, indexée sur le dollar",
                   "url"      : "/liens/2024/05/19/paypal-lance-sa-cryptomonnaie-stable-indexe-sur-le-dollar/",
                   "tags"     : "crypto, paypal"
             } 
@@ -2178,7 +2213,7 @@
       ,
   
             {
-                  "title"    : "On a testé… le fairphone 5, un smartphone écoresponsable enfin convaincant",
+                  "title"    : "On a testé… le Fairphone 5, un smartphone écoresponsable enfin convaincant",
                   "url"      : "/liens/2024/05/19/on-a-test-le-fairphone-5-un-smartphone-coresponsable-enfin-convaincant/",
                   "tags"     : "écologie, device"
             } 
@@ -2241,9 +2276,9 @@
       ,
   
             {
-                  "title"    : "Musk contre zuckerberg : chronique d’un combat avorté",
+                  "title"    : "Musk contre Zuckerberg : chronique d’un combat avorté",
                   "url"      : "/liens/2024/05/19/musk-contre-zuckerberg-chronique-dun-combat-avort/",
-                  "tags"     : "web, connerie"
+                  "tags"     : "elon-musk, facebook, web"
             } 
       ,
   
@@ -2411,7 +2446,7 @@
             {
                   "title"    : "L’iPhone 12 interdit temporairement à la vente en raison d’ondes trop puissantes",
                   "url"      : "/liens/2024/05/19/liphone-12-interdit-temporairement-la-vente-en-raison-dondes-trop-puissantes/",
-                  "tags"     : "apple, santé, iphone"
+                  "tags"     : "apple, santé, device"
             } 
       ,
   
@@ -2780,9 +2815,9 @@
       ,
   
             {
-                  "title"    : "La russie se fait peur avec l&#39;iphone, perçu comme un cheval de troie des usa",
+                  "title"    : "La Russie se fait peur avec l&#39;iPhone, perçu comme un cheval de troie des USA",
                   "url"      : "/liens/2024/05/19/la-russie-se-fait-peur-avec-liphone-peru-comme-un-cheval-de-troie-des-usa/",
-                  "tags"     : "vie-privée, apple, société, technologie, russie"
+                  "tags"     : "vie-privée, apple, société, technologie"
             } 
       ,
   
@@ -2796,7 +2831,7 @@
             {
                   "title"    : "La police nationale utilise illégalement un logiciel israélien de reconnaissance faciale",
                   "url"      : "/liens/2024/05/19/la-police-nationale-utilise-illgalement-un-logiciel-isralien-de-reconnaissance-faciale/",
-                  "tags"     : "vie-privée, surveillance, société, police"
+                  "tags"     : "vie-privée, surveillance, société"
             } 
       ,
   
@@ -3097,7 +3132,7 @@
             {
                   "title"    : "Google exulte : Apple va finalement adopter RCS, le « sms 2.0 », en 2024",
                   "url"      : "/liens/2024/05/19/google-exulte-apple-va-finalement-adopter-rcs-le-sms-20-en-2024/",
-                  "tags"     : "app, android, imessage, message, rcs"
+                  "tags"     : "android, messagerie, apple"
             } 
       ,
   
@@ -3648,9 +3683,9 @@
       ,
   
             {
-                  "title"    : "Beeper vs imessage is a fight about how tech works, and who’s really in charge",
+                  "title"    : "Beeper vs iMessage is a fight about how tech works, and who’s really in charge",
                   "url"      : "/liens/2024/05/19/beeper-vs-imessage-is-a-fight-about-how-tech-works-and-whos-really-in-charge/",
-                  "tags"     : "app, apple, android, message"
+                  "tags"     : "app, apple, android, messagerie"
             } 
       ,
   

@@ -12,8 +12,8 @@ categories:
 tags:
 - "apple"
 - "santé"
-- "iphone"
+- "device"
 
-og-tags: "apple, santé, iphone"
+og-tags: "apple, santé, device"
 permalink: /:categories/:year/:month/:day/:title/
 ---
