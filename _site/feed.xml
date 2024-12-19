@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-19T16:09:09+01:00</updated>
+   <updated>2024-12-19T19:12:14+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -32,6 +32,17 @@
 
          <content type="html">
             Roquefort, brie et camembert seraient en voie de disparition. Ce n’est pas une version catastrophe du journal de 13 heures, mais la conclusion d’une équipe du CNRS. Une alerte qui rappelle l’importance de maintenir la diversité génétique des micro-organismes et des plantes cultivées, réduite à peau de chagrin par la standardisation agro-industrielle et la quête de rentabilité.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Affiche 2025 : la bande dessinée à l’honneur !</title>
+         <link href="/liens/2024/12/19/affiche-officielle-2025-marc-antoine-mathieu-bande-dessinee-tennis/"/>
+         <updated>2024-12-19T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/19/affiche-officielle-2025-marc-antoine-mathieu-bande-dessinee-tennis/</id>
+
+         <content type="html">
+            Tradition oblige, l’affiche de Roland-Garros a été confiée à un artiste contemporain. Pour cette édition 2025, c’est Marc-Antoine Mathieu, graphiste, illustrateur et auteur de bandes dessinées qui est à l’origine d’une création originale réalisée dans le but de transposer l’âme de Roland-Garros.
          </content>
       </entry>
    
