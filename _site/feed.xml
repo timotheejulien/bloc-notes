@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-30T10:03:58+01:00</updated>
+   <updated>2024-12-30T10:12:55+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Awareness of being under surveillance triggers heightened alertness of being watched, according to new research from Australian Neuroscientists.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Mon collègue Julius</title>
+         <link href="/liens/2024/12/25/mon-collegue-julius/"/>
+         <updated>2024-12-25T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2024/12/25/mon-collegue-julius/</id>
+
+         <content type="html">
+            Vous connaissez Julius ? Mais si, Julius ! Vous voyez certainement de qui je veux parler !
          </content>
       </entry>
    
