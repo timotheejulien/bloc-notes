@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2024-12-30T10:12:55+01:00</updated>
+   <updated>2025-01-02T15:20:53+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Techno-autoritarisme et design persuasif : quels risques pour nos libertés ?</title>
+         <link href="/liens/2025/01/02/techno-autoritarisme-et-design-persuasif-quels-risques-pour-nos-libertes/"/>
+         <updated>2025-01-02T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/02/techno-autoritarisme-et-design-persuasif-quels-risques-pour-nos-libertes/</id>
+
+         <content type="html">
+            Notre ère numérique, marquée par l’omniprésence des technologies dans nos environnements, redessine les contours de nos sociétés à un rythme effréné et qui nous dépasse. Si ces outils offrent des opportunités d’efficacité et d’innovation, ils représentent également un risque croissant d’autoritarisme, notamment par le biais du design persuasif, utilisé pour orienter, voire manipuler, nos conduites. Et c’est bien cette problématique qui me questionne depuis un moment.
+         </content>
+      </entry>
    
       <entry>
          <title>This is your brain on surveillance: new study reveals how awareness of being watched alters our brains</title>
