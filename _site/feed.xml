@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-05T13:39:54+01:00</updated>
+   <updated>2025-01-05T21:03:53+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             In the ever-changing world of product management, two key roles stand out in terms of their approach and specific objectives: the traditional Product Manager (PM) and the Growth Product Manager (GPM). Although their titles may seem similar, their responsibilities, methodologies and priorities differ considerably. This article explores these essential distinctions to better understand how each of these roles contributes to a product’s success. We will also look at the essential role played by the Growth Product Manager (GPM) in product evolution, through his or her focus on growth and ability to conduct structured experimentation. We will look at key concepts such as A/B testing and feature management (or feature flag) to illustrate this contribution.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Les États-Unis reviennent sur la neutralité du Net, ce principe garantissant un accès égalitaire à Internet</title>
+         <link href="/liens/2025/01/05/les-etats-unis-reviennent-en-arriere-sur-le-principe-de-la-neutralite-du-net/"/>
+         <updated>2025-01-05T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/05/les-etats-unis-reviennent-en-arriere-sur-le-principe-de-la-neutralite-du-net/</id>
+
+         <content type="html">
+            Nouveau rebondissement dans un interminable dossier : une cour d’appel américaine a aboli le principe de neutralité du Net, jeudi 2 janvier. Les trois juges de cette cour fédérale ont décidé que l’agence américaine des télécoms, la Commission fédérale des communications (FCC), n’avait pas l’autorité nécessaire pour imposer ce principe à l’industrie. Concrètement, le principe de neutralité du Net signifie que les fournisseurs d’accès à Internet (FAI) n’ont pas le droit de moduler la vitesse de débit en fonction des contenus. Il garantit donc en théorie l’accès égalitaire à Internet et est défendu par les grandes plateformes numériques ainsi que par de nombreuses organisations non gouvernementales (ONG). En son absence, les télécoms peuvent donc ralentir ou censurer certains sites, et favoriser d’autres services.
          </content>
       </entry>
    
