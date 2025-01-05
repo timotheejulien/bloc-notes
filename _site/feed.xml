@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-02T15:20:53+01:00</updated>
+   <updated>2025-01-05T13:39:54+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Growing product manager: contributing to the product cycle through research and experimentation</title>
+         <link href="/liens/2025/01/05/the-growth-product-manager-contributing-to-the-product-cycle-through-research-and-experimentation/"/>
+         <updated>2025-01-05T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/05/the-growth-product-manager-contributing-to-the-product-cycle-through-research-and-experimentation/</id>
+
+         <content type="html">
+            In the ever-changing world of product management, two key roles stand out in terms of their approach and specific objectives: the traditional Product Manager (PM) and the Growth Product Manager (GPM). Although their titles may seem similar, their responsibilities, methodologies and priorities differ considerably. This article explores these essential distinctions to better understand how each of these roles contributes to a product’s success. We will also look at the essential role played by the Growth Product Manager (GPM) in product evolution, through his or her focus on growth and ability to conduct structured experimentation. We will look at key concepts such as A/B testing and feature management (or feature flag) to illustrate this contribution.
+         </content>
+      </entry>
    
       <entry>
          <title>Techno-autoritarisme et design persuasif : quels risques pour nos libertés ?</title>
