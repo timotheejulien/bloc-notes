@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-07T15:23:06+01:00</updated>
+   <updated>2025-01-08T16:02:23+01:00</updated>
    <id>https://fromages.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/fromages/?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Je quitte Méta et Bluesky</title>
+         <link href="/liens/2025/01/08/je-quitte-meta-facebook-threads-instagram-whatsapp-et-bluesky/"/>
+         <updated>2025-01-08T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/08/je-quitte-meta-facebook-threads-instagram-whatsapp-et-bluesky/</id>
+
+         <content type="html">
+            Il y a déjà un moment que j’ai laissé Twitter. Conscient des problèmes posés par les réseaux sociaux, j’ai tenté depuis un moment de me fixer des règles d’hygiène. En poursuivant la réflexion que je vais développer plus bas, j’ai décidé de quitter les réseaux sociaux commerciaux. Le 10 janvier 2025 au soir, je ne serai plus présent sur Méta et je quitte également Bluesky. Je le fais par souci de cohérence avec mes valeurs, d’une certaine façon pour reprendre la main en donnant plus de sens aux échanges « numériques ». Je fais le pari de la singularité et de l’approfondissement sur la comparaison et la réactivité sans recul. Je préfère rechercher des échanges de qualité, une communication sincère animée par la curiosité et non l’intrusion toxique. Je préfère promouvoir la coopération ou le partage.
+         </content>
+      </entry>
    
       <entry>
          <title>Nicolas Nova, la pensée sauvage : l’hommage de Frédéric Kaplan</title>
