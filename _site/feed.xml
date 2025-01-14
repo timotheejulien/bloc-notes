@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-14T13:44:19+01:00</updated>
+   <updated></updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -43,6 +43,17 @@
 
          <content type="html">
             Ces derniers jours ont été occupés par un enchaînement de déclarations et de prises de position de Donald Trump et Elon Musk qui s’apparenteraient à une forme paroxystique de burlesque si le monde qu’elles inaugurent n’avaient pas tous les atours du tragique.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Le freelancing et l'optimisation de son IR</title>
+         <link href="/liens/2025/01/14/freelancing-optimisation-impot-revenus/"/>
+         <updated>2025-01-14T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/14/freelancing-optimisation-impot-revenus/</id>
+
+         <content type="html">
+            Parmi les autre formes de libertés j&apos;aimerai faire un focus sur la liberté dans sa rémunération. C&apos;est souvent oublié, mais comme toute liberté cela vient avec des responsabilités : le freelance (sans rentrer dans les différents statuts) n&apos;étant pas logé à la même enseigne qu&apos;un salarié (sauf portage salarial), il a à sa charge de gérer toutes les facettes liées à la dimension sociale. Nombreux sont ceux qui en parlent, et je laisserai cette dimension de côté dans cet article pour me concentrer surs la dimensions fiscale, autrement dit l&apos;optimisation fiscale. Bien évidemment, cette optimisation ne pouvant être décorrelée des enjeux sociaux, les suggestions qui suivent sont à confronter au cas particulier de chacun. De plus, le propos qui va suivre fait l&apos;hypothèse d&apos;une non affiliation à France Travail. C&apos;est un sujet particulier et, n&apos;ayant pas été dans cette situation, je laisse à d&apos;autres mettre en avant les optimisations que je trouve parfois tirées par les cheveux dans les cas où elles ne sont pas en lien avec un véritable projet entrepreneurial.
          </content>
       </entry>
    

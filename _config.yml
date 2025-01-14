@@ -6,6 +6,7 @@ title: Bloc-notes
 description: Centralisation de mes notes et liens en tout genre.
 url: https://bloc-notes.timotheejulien.fr
 permalink: /:categories/:year/:month/:day/:title/
+timezone: Europe/Paris
 
 collections:
   previews:
