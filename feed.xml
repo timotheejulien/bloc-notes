@@ -6,7 +6,7 @@ layout: null
    <title type="text" xml:lang="fr">{{ site.title }}</title>
    <link type="application/atom+xml" href="{{ site.url }}/feed.xml" rel="self"/>
    <link type="text/html" href="{{ site.url }}/feed" rel="alternate"/>
-   <updated>{{ page.time | date_to_xmlschema }}</updated>
+   <updated>{{ site.time | date_to_xmlschema }}</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -20,6 +20,7 @@ layout: null
          <title>{{ post.title }}</title>
          <link href="{{ post.url }}"/>
          <updated>{{ post.date | date_to_xmlschema }}</updated>
+         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
          <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
 
          <content type="html">
