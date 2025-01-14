@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La vie en bleu #5 – Fromage & Santé"
+title: "La vie en bleu #5 – Fromage et Santé"
 link: "https://www.monbleu.fr/la-vie-en-bleu-5-fromage-sante"
 author: "Monbleu"
 published_date: "14/03/2022"

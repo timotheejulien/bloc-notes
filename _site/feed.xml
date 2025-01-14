@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-14T09:23:01+01:00</updated>
+   <updated>2025-01-14T10:02:29+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -6455,7 +6455,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>La vie en bleu #5 – Fromage & Santé</title>
+         <title>La vie en bleu #5 – Fromage et Santé</title>
          <link href="/liens/2022/03/14/la-vie-en-bleu-5-fromage-sante/"/>
          <updated>2022-03-14T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2022/03/14/la-vie-en-bleu-5-fromage-sante/</id>
