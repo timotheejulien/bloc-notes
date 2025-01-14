@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-14T13:41:03+01:00</updated>
+   <updated>2025-01-14T13:44:19+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -25,7 +25,7 @@
       </entry>
    
       <entry>
-         <title>https://www.theverge.com/2025/1/7/24338471/meta-hate-speech-hateful-conduct-policy-moderation</title>
+         <title>Here are some of the horrible things that you can now say on Instagram and Facebook</title>
          <link href="/liens/2025/01/14/meta-hate-speech-hateful-conduct-policy-moderation/"/>
          <updated>2025-01-14T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2025/01/14/meta-hate-speech-hateful-conduct-policy-moderation/</id>
