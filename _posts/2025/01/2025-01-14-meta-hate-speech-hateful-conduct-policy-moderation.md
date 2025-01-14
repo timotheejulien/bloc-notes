@@ -4,7 +4,7 @@ title: "https://www.theverge.com/2025/1/7/24338471/meta-hate-speech-hateful-cond
 link: "Here are some of the horrible things that you can now say on Instagram and Facebook"
 author: "Richard Lawler"
 published_date: "08/01/2025"
-description: "Meta’s policy changes allow calling gay and trans people ‘mentally ill’ while removing a ban on referring to women as ‘household objects."
+description: "Meta’s policy changes allow calling gay and trans people « mentally ill » while removing a ban on referring to women as ‘household objects."
 language: "en"
 categories: 
    - Liens
