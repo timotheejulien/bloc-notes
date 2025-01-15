@@ -20,7 +20,6 @@ layout: null
          <title>{{ post.title }}</title>
          <link href="{{ post.url }}"/>
          <updated>{{ post.date | date_to_xmlschema }}</updated>
-         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
          <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
 
          <content type="html">
