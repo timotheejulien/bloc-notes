@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "https://ploum.net/2025-01-20-vous-etiez-prevenus.html"
+title: "Ne venez pas dire que vous n’étiez pas prévenus…"
 link: "https://ploum.net/2025-01-20-vous-etiez-prevenus.html"
 author: "Ploum"
 published_date: "20/01/2025"
