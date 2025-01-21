@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-20T21:23:24+01:00</updated>
+   <updated>2025-01-21T20:40:51+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,7 +14,29 @@
 
    
       <entry>
-         <title>https://ploum.net/2025-01-20-vous-etiez-prevenus.html</title>
+         <title>Spotify, la machine à humeur</title>
+         <link href="/liens/2025/01/21/spotify-la-machine-a-humeur/"/>
+         <updated>2025-01-21T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/21/spotify-la-machine-a-humeur/</id>
+
+         <content type="html">
+            Cela fait des années que la journaliste indépendante Liz Pelly observe Spotify. Son essai, Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist (Simon &amp; Schuster, 2025) estime que la musique est devenue un utilitaire plus qu’un art. Pour les fans de musique, le streaming est, malheureusement, un « produit spectaculaire » : « un jukebox universel et infini ».  Pour les musiciens cependant, Spotify a été une menace plus existentielle que la révolution du partage de fichiers qui l’a précédée, car le streaming, lui, a reçu le vernis de la légitimité, explique le Washington Post dans sa critique du livre. Mais Spotify a surtout détourné les bénéfices de la musique a son profit, tout en préparant le terrain pour remplacer les musiciens par de la musique générée par l’IA. Le secteur d’ailleurs s’y prépare : un récent rapport de la Confédération internationale des sociétés d’auteurs et compositeurs (Cisac) annonce la chute de la rémunération des artistes et le déferlement à venir de la musique générée par IA
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Obtenir le flux RSS d’une chaîne YouTube</title>
+         <link href="/liens/2025/01/21/obtenir-le-flux-rss-une-chaine-youtube/"/>
+         <updated>2025-01-21T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/21/obtenir-le-flux-rss-une-chaine-youtube/</id>
+
+         <content type="html">
+            Pour être informé·e des mises à jour de contenu sur internet, RSS est le standard libre et ouvert de référence. YouTube ne propose pas de flux RSS pour suivre vos chaînes favorites ? Il est facile d’y remédier.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Ne venez pas dire que vous n’étiez pas prévenus…</title>
          <link href="/liens/2025/01/20/vous-etiez-prevenus/"/>
          <updated>2025-01-20T00:00:00+01:00</updated>
          <id>http://localhost:4000/liens/2025/01/20/vous-etiez-prevenus/</id>

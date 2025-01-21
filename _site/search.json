@@ -1,7 +1,21 @@
 [
       
             {
-                  "title"    : "https://ploum.net/2025-01-20-vous-etiez-prevenus.html",
+                  "title"    : "Spotify, la machine à humeur",
+                  "url"      : "/liens/2025/01/21/spotify-la-machine-a-humeur/",
+                  "tags"     : "app, musique, vie-privée"
+            } 
+      ,
+  
+            {
+                  "title"    : "Obtenir le flux RSS d’une chaîne YouTube",
+                  "url"      : "/liens/2025/01/21/obtenir-le-flux-rss-une-chaine-youtube/",
+                  "tags"     : "youtube, rss"
+            } 
+      ,
+  
+            {
+                  "title"    : "Ne venez pas dire que vous n’étiez pas prévenus…",
                   "url"      : "/liens/2025/01/20/vous-etiez-prevenus/",
                   "tags"     : "surveillance, technologie, société, vie-privée"
             } 
