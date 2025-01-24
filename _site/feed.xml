@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-24T09:46:37+01:00</updated>
+   <updated>2025-01-24T16:56:08+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Walmart, leader mondial de la grande distribution, a récemment dévoilé une identité visuelle rafraîchie pour refléter son évolution en tant que marque omnicanal, intégrant harmonieusement services numériques, physiques et de santé. Fondée en 1951 sous le nom de Walton’s dans l’Arkansas, l’entreprise est devenue Walmart en 1962, une combinaison du nom de son fondateur, Sam Walton, et de “Mart” pour “market”.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>IA : La CIA crée des doubles numériques de dirigeants pour anticiper leurs comportements</title>
+         <link href="/liens/2025/01/24/ia-la-cia-cree-des-doubles-numeriques-de-dirigeants-pour-anticiper-leurs-comportements/"/>
+         <updated>2025-01-24T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/24/ia-la-cia-cree-des-doubles-numeriques-de-dirigeants-pour-anticiper-leurs-comportements/</id>
+
+         <content type="html">
+            La CIA a mis au point un chatbot qui permet à ses employés de dialoguer avec des versions virtuelles de présidents et premiers ministres étrangers dans le but de « prédire leurs comportements ». Un nouvel outil qui en dit long sur l’intérêt de l’agence de renseignement américaine pour l’intelligence artificielle…
          </content>
       </entry>
    
