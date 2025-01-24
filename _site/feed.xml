@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-21T20:40:51+01:00</updated>
+   <updated>2025-01-24T09:46:37+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Walmart rallume la Spark</title>
+         <link href="/liens/2025/01/24/wallmart-rallume-le-spark/"/>
+         <updated>2025-01-24T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/24/wallmart-rallume-le-spark/</id>
+
+         <content type="html">
+            Walmart, leader mondial de la grande distribution, a récemment dévoilé une identité visuelle rafraîchie pour refléter son évolution en tant que marque omnicanal, intégrant harmonieusement services numériques, physiques et de santé. Fondée en 1951 sous le nom de Walton’s dans l’Arkansas, l’entreprise est devenue Walmart en 1962, une combinaison du nom de son fondateur, Sam Walton, et de “Mart” pour “market”.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Design systems 103: Documentation that drives adoption</title>
+         <link href="/liens/2025/01/24/design-systems-103-documentation-that-drives-adoption/"/>
+         <updated>2025-01-24T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/24/design-systems-103-documentation-that-drives-adoption/</id>
+
+         <content type="html">
+            Clear documentation transforms abstract design principles into practical tools. Here’s how leading teams build and maintain living documentation that evolves alongside their design systems.
+         </content>
+      </entry>
    
       <entry>
          <title>Spotify, la machine à humeur</title>
