@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-26T20:38:33+01:00</updated>
+   <updated>2025-01-26T21:42:02+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,17 @@
 
    
       <entry>
+         <title>Université Paris 1 Panthéon-Sorbonne : la première université française en sciences humaines et sociales repense son identité visuelle, entre héritage et innovation</title>
+         <link href="/liens/2025/01/26/universite-paris-1-pantheon-sorbonne-identite-visuelle/"/>
+         <updated>2025-01-26T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/26/universite-paris-1-pantheon-sorbonne-identite-visuelle/</id>
+
+         <content type="html">
+            En 2024, Graphéine a accompagné l’Université Paris 1 Panthéon-Sorbonne pour la mise à jour de sa charte graphique. Le cahier des charges comprend une réflexion sur la responsivité du logotype. L’Université Paris 1 Panthéon-Sorbonne porte un héritage singulier entre histoire classique, conservatrice et esprit innovant, révolutionnaire. Deux caractères qui font l’histoire de l’université.
+         </content>
+      </entry>
+   
+      <entry>
          <title>« Pour les dirigeants de Spotify, l’utilisateur moyen de la plateforme ne remarquera pas si les chansons sont produites par de faux artistes »</title>
          <link href="/liens/2025/01/26/pour-les-dirigeants-de-spotify-l-utilisateur-moyen-de-la-plateforme-ne-remarquera-pas-si-les-chansons-sont-produites-par-de-faux-artistes/"/>
          <updated>2025-01-26T00:00:00+01:00</updated>
@@ -21,6 +32,41 @@
 
          <content type="html">
             Dans un entretien au « Monde », la journaliste américaine Liz Pelly explique comment elle a, par le biais de son livre « Mood Machine », révélé un programme secret mis en place par la plateforme de streaming. Celui-ci vise à remplir certaines playlists ultrapopulaires de morceaux créés par des auteurs fictifs, afin de diminuer la part des revenus à reverser aux artistes. 
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Mastodon n’est pas un réseau social</title>
+         <link href="/liens/2025/01/26/mastodon-nest-pas-un-reseau-social/"/>
+         <updated>2025-01-26T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/26/mastodon-nest-pas-un-reseau-social/</id>
+
+         <content type="html">
+            Si on pense Mastodon comme un réseau social, on n’y com­prend rien. Mastodon est un outil de créa­tion de com­mu­nau­tés locales qui com­mu­niquent entre elles, mais sans aucune uni­té. Un sys­tème qui res­semble for­te­ment… à la socia­bi­li­té hors-ligne.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La merdification de Twitter et des plateformes en général</title>
+         <link href="/liens/2025/01/26/la-merdification-de-Twitter-et-des-plateformes-en-general/"/>
+         <updated>2025-01-26T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/26/la-merdification-de-Twitter-et-des-plateformes-en-general/</id>
+
+         <content type="html">
+            Les gens quittent Twitter/X parce que c’est devenu un feu de poubelle. Un algo toxique, truqué par son nouveau propriétaire en sa faveur. Des scandales à répétition, des insultes envers les annonceurs, des propos nauséabonds en rafale, du racisme, de l’homophobie, de la transphobie, une modération qui part en quenouille et cerise sur le gâteau, des saluts nazis (ou mussoliniens).
+Pas étonnant que les gens partent en nombre. Pour ma part, j’ai dit adieu à mes 96 000 followers il y a presque 18 mois avec soulagement. Depuis, Twitter/X n’a fait que dévisser dans l’estime des gens.
+Musk récolte ce qu’il a semé. Soit.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>The protesters' guide to smartphone security</title>
+         <link href="/liens/2025/01/26/activists-guide-securing-your-smartphone/"/>
+         <updated>2025-01-26T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/26/activists-guide-securing-your-smartphone/</id>
+
+         <content type="html">
+            For most protesters, activists, and journalists, your smartphone is an essential tool you depend on for organizing with your peers, accessing and distributing information, and helping others. It also represents a great risk, as a tool that is easily appropriated by authorities for targeted and mass surveillance.
          </content>
       </entry>
    
