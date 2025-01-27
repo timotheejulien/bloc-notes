@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-26T21:42:02+01:00</updated>
+   <updated>2025-01-27T19:05:41+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Privés de vie privée ?</title>
+         <link href="/liens/2025/01/27/prives-de-vie-privee/"/>
+         <updated>2025-01-27T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/27/prives-de-vie-privee/</id>
+
+         <content type="html">
+            Alors que les États-Unis semblent faire marche arrière sur les questions de surveillance massive par la NSA, en France le projet de loi sur le renseignement parait faire le chemin inverse. Depuis la naissance des technologies modernes de communication, la surveillance de ce qui passe dans les tuyaux a toujours butté sur la question de la protection de la vie privée des individus. Un équilibre fragile que logiquement seule la loi doit préserver en définissant clairement qui peut faire quoi, comment et pourquoi. Car une fois que le sentiment de surveillance s&apos;installe, la liberté de chacun s&apos;efface.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’ère post-TikTok va continuer de bouleverser la société</title>
+         <link href="/liens/2025/01/27/lere-de-tiktok-va-bouleverser-la-societe/"/>
+         <updated>2025-01-27T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/27/lere-de-tiktok-va-bouleverser-la-societe/</id>
+
+         <content type="html">
+            Ce que le passage d’une information largement textuelle à la vidéo change à la société.
+         </content>
+      </entry>
    
       <entry>
          <title>Université Paris 1 Panthéon-Sorbonne : la première université française en sciences humaines et sociales repense son identité visuelle, entre héritage et innovation</title>
