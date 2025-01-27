@@ -3,7 +3,7 @@ layout: post
 title: "L’ère post-TikTok va continuer de bouleverser la société"
 link: https://danslesalgorithmes.net/2025/01/27/lere-de-tiktok-va-bouleverser-la-societe/
 author: "Dans les algorithmes"
-published_date: ""
+published_date: "27/01/2025"
 description: "Ce que le passage d’une information largement textuelle à la vidéo change à la société."
 language: "fr"
 categories: "Liens"
