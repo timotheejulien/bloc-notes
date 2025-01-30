@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-30T13:13:19+01:00</updated>
+   <updated>2025-01-30T13:15:46+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Reimagining the future of experience analytics: new branding for ContentSquare</title>
+         <link href="/liens/2025/01/30/reimagining-the-future-of-experience-analytics-new-branding-for-contentsquare/"/>
+         <updated>2025-01-30T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/30/reimagining-the-future-of-experience-analytics-new-branding-for-contentsquare/</id>
+
+         <content type="html">
+            Contentsquare is a global leader in digital analytics. After acquiring fellow analytics platforms Hotjar and Heap, they sought to unify their diverse tools, customer bases, and offerings into an all-in-one product and a cohesive masterbrand. We collaborated with Contentsquare to transform their brand identity, delivering a seamless experience for customers and employees alike. Their new identity marks a pivotal moment in their evolution, as they shape a new future in understanding how people engage with digital products.
+         </content>
+      </entry>
    
       <entry>
          <title>Quand l’intelligence artificielle remplace les agents des impôts</title>
@@ -36,13 +47,13 @@
       </entry>
    
       <entry>
-         <title>Reimagining the future of experience analytics: new branding for ContentSquare</title>
-         <link href="/liens/2025/01/30/reimagining-the-future-of-experience-analytics-new-branding-for-contentsquare/"/>
+         <title>Le drama Proton</title>
+         <link href="/liens/2025/01/30/le-drama-proton/"/>
          <updated>2025-01-30T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2025/01/30/reimagining-the-future-of-experience-analytics-new-branding-for-contentsquare/</id>
+         <id>http://localhost:4000/liens/2025/01/30/le-drama-proton/</id>
 
          <content type="html">
-            Contentsquare is a global leader in digital analytics. After acquiring fellow analytics platforms Hotjar and Heap, they sought to unify their diverse tools, customer bases, and offerings into an all-in-one product and a cohesive masterbrand. We collaborated with Contentsquare to transform their brand identity, delivering a seamless experience for customers and employees alike. Their new identity marks a pivotal moment in their evolution, as they shape a new future in understanding how people engage with digital products.
+            Il faut se calmer avec le #drama #Proton. Andy Yen le propriétaire de proton, une entreprise proposant des services en ligne (mail, calendrier, drive) respectueux de votre vie privée, a publié un message sur twitter/X expliquant que si il y a 10 ans les démocrates s’opposaient aux dérives des compagnies de la big tech (comprendre les Gafam), la situation est aujourd’hui inverse et ce sont aujourd’hui les républicains qui jouent aujourd’hui ce rôle, le tout en citant un message de Trump.
          </content>
       </entry>
    
