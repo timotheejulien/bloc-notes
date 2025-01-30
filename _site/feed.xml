@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-30T13:00:25+01:00</updated>
+   <updated>2025-01-30T13:13:19+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -32,6 +32,17 @@
 
          <content type="html">
             Comme certains d&apos;entre vous le savent probablement, nous avons récemment lancé notre rubrique TechTok - une sorte de rubrique de conseils où vous pouvez envoyer vos questions, et aucune question n&apos;est trop basique ou trop technique pour nous. Le petit article ci-dessous est la première édition de notre rubrique, dans laquelle nous répondons à la question posée par l&apos;un de nos lecteurs : « Décrivez le mécanisme technique d&apos;un tunnel VPN en termes simples ! »
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Reimagining the future of experience analytics: new branding for ContentSquare</title>
+         <link href="/liens/2025/01/30/reimagining-the-future-of-experience-analytics-new-branding-for-contentsquare/"/>
+         <updated>2025-01-30T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/30/reimagining-the-future-of-experience-analytics-new-branding-for-contentsquare/</id>
+
+         <content type="html">
+            Contentsquare is a global leader in digital analytics. After acquiring fellow analytics platforms Hotjar and Heap, they sought to unify their diverse tools, customer bases, and offerings into an all-in-one product and a cohesive masterbrand. We collaborated with Contentsquare to transform their brand identity, delivering a seamless experience for customers and employees alike. Their new identity marks a pivotal moment in their evolution, as they shape a new future in understanding how people engage with digital products.
          </content>
       </entry>
    
