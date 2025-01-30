@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-30T12:48:26+01:00</updated>
+   <updated>2025-01-30T13:00:25+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             La direction des Finances publiques utilise des outils d’intelligence artificielle depuis des années déjà. Le syndicat Solidaires a enquêté auprès des agents sur les effets de ces IA sur le travail : la très grande majorité les jugent négatifs.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Qu'est-ce qu'un tunnel VPN et comment il fonctionne</title>
+         <link href="/liens/2025/01/30/qu'est-ce-qu-un-tunnel-vpn-et-comment-il-fonctionne/"/>
+         <updated>2025-01-30T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/30/qu'est-ce-qu-un-tunnel-vpn-et-comment-il-fonctionne/</id>
+
+         <content type="html">
+            Comme certains d&apos;entre vous le savent probablement, nous avons récemment lancé notre rubrique TechTok - une sorte de rubrique de conseils où vous pouvez envoyer vos questions, et aucune question n&apos;est trop basique ou trop technique pour nous. Le petit article ci-dessous est la première édition de notre rubrique, dans laquelle nous répondons à la question posée par l&apos;un de nos lecteurs : « Décrivez le mécanisme technique d&apos;un tunnel VPN en termes simples ! »
          </content>
       </entry>
    
