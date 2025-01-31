@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-31T14:14:20+01:00</updated>
+   <updated>2025-01-31T16:39:01+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Reconnaissance faciale, analyse des émotions… Comment la France a volontairement affaibli l’AI Act</title>
+         <link href="/liens/2025/01/31/reconnaissance-faciale-analyse-des-emotions-comment-la-france-a-volontairement-affaibli-l-ai-act/"/>
+         <updated>2025-01-31T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/31/reconnaissance-faciale-analyse-des-emotions-comment-la-france-a-volontairement-affaibli-l-ai-act/</id>
+
+         <content type="html">
+            Les autorités françaises ont milité pour que des technologies ultra intrusives soient autorisés par le règlement européen sur l’intelligence artificielle, révèle une enquête menée par Disclose et Investigate Europe.
+         </content>
+      </entry>
    
       <entry>
          <title>La justice confirme enfin l'illégalité de Briefcam</title>
