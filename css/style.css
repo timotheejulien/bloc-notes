@@ -82,6 +82,10 @@ h1, .h1 {
    line-height: normal;
 }
 
+#page-categories-title {
+   margin-bottom: var(--space-regular);
+}
+
 h2, .h2 {
    margin: 0;
    font-size: 36px;
@@ -154,8 +158,7 @@ a:hover {
    background: var(--color-button-background-primary-hover);
 }
 
-
-/* VARiaBLE LAYOUT */
+/* VARIABLE LAYOUT */
 .flex {
    display: flex;
    gap: var(--space-small);
@@ -176,6 +179,11 @@ hr {
    background-color: var(--color-divider);
    height: 1px;
    border: 0;
+}
+
+.card {
+   background: var(--color-background-elevated);
+   border-radius: 16px;
 }
 
 /* LAYOUT */
@@ -376,6 +384,62 @@ body {
    background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
+}
+
+.page-categories-mobile {
+   width: 100%;
+   padding-bottom: calc(60px + var(--space-regular) );
+}
+
+.page-categories-mobile > ul {
+   margin: var(--space-none);
+   padding: var(--space-regular);
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   justify-content: flex-start;
+   align-items: stretch;
+   align-content: stretch;
+   gap: var(--space-regular);
+}
+
+.page-categories-mobile > ul > li {
+   align-items: stretch;
+   margin: var(--space-none);
+   padding-bottom: var(--space-regular);
+   list-style: none;
+   border-bottom: 1px solid;
+   border-color: var(--color-divider);
+}
+
+.page-categories-mobile > ul > li:last-child {
+   padding-bottom: var(--space-none);
+   border-bottom: 0px solid;
+}
+
+.list-link-item {
+   padding: var(--space-x-none) var(--space-xx-small) var(--space-x-small) var(--space-xx-small); 
+   position: relative;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   justify-content: normal;
+   align-items: center;
+   align-content: normal;
+   gap: var(--space-small);
+   font-weight: 500;
+   font-size: 16px;
+   font-family: MonaSans-title, sans-serif;
+   line-height: 1.3rem;
+   letter-spacing: 0px; 
+   text-decoration: none;
+}
+
+.list-link-item-icon {
+   width: 24px;
+   height: 24px;
+   background-position: center;
+   background-repeat: no-repeat;
 }
 
 .list-article {
@@ -769,7 +833,7 @@ ul.footer-nav li {
       --color-button-text-primary: #343434;
       --color-button-background-secondary: #DEDEDE;
       --color-button-text-secondary: #202020;
-      --color-divider: #343434;
+      --color-divider: #414141;
       --color-text-primary: #FBFBFB;
       --color-text-secondary: #BABABA;
       --color-text-third: #DEDEDE;
