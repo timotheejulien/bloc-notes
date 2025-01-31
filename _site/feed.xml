@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-01-31T16:39:01+01:00</updated>
+   <updated>2025-01-31T16:44:53+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Signal, WhatsApp… Les sénateurs demandent une explosive backdoor dans les messageries chiffrées</title>
+         <link href="/liens/2025/01/31/signal-whatsapp-les-senateurs-demandent-une-explosive-backdoor-dans-les-messageries-chiffrees/"/>
+         <updated>2025-01-31T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/31/signal-whatsapp-les-senateurs-demandent-une-explosive-backdoor-dans-les-messageries-chiffrees/</id>
+
+         <content type="html">
+            La Chambre haute vient de voter une disposition en ce sens dans la proposition de loi contre le narcotrafic.
+         </content>
+      </entry>
    
       <entry>
          <title>Reconnaissance faciale, analyse des émotions… Comment la France a volontairement affaibli l’AI Act</title>
@@ -32,6 +43,17 @@
 
          <content type="html">
             Victoire totale aujourd’hui au tribunal administratif de Grenoble ! L’affaire opposant La Quadrature du Net à la ville de Moirans, en Isère, s’achève par une décision reconnaissant l’illégalité du logiciel de vidéosurveillance algorithmique Briefcam. La justice ordonne à la commune de cesser immédiatement l’utilisation de ce logiciel.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Data privacy day 2020</title>
+         <link href="/liens/2025/01/31/data-privacy-day-2020/"/>
+         <updated>2025-01-31T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/01/31/data-privacy-day-2020/</id>
+
+         <content type="html">
+            Today is the Data Privacy Day. The purpose of this initiative, launched in 2007 by the Council of Europe, is to raise awareness and promote privacy and data protection best practices.
          </content>
       </entry>
    
