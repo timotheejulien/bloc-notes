@@ -7,7 +7,7 @@ published_date: 31/01/2025
 description: La Chambre haute vient de voter une disposition en ce sens dans la proposition de loi contre le narcotrafic.
 language: fr
 categories: "Liens"
-tags: "surveillance vie-privée politique législation"
-og-tags: "surveillance vie-privée politique législation"
+tags: "surveillance vie-privée politique législation signal whatsapp"
+og-tags: "surveillance vie-privée politique législation signal whatsapp"
 permalink: /:categories/:year/:month/:day/:title/
 ---
