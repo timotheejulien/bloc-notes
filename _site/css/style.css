@@ -470,17 +470,15 @@ body {
    height: 32px;
    min-height: 32px;
    margin: 2px 0;
-   border: 1px solid var(--color-divider);
    border-radius: 32px;
-   background-position: center;
-   background-repeat: no-repeat;
+   background-color: var(--color-background-elevated);
    overflow: hidden;
 }
 
 .article-icon img {
-   width: 20px;
-   height: 20px;
-   margin: 5px;
+   width: 18px;
+   height: 18px;
+   margin: 7px;
    border-radius: 2px;
 }
 
