@@ -6,7 +6,9 @@
    <section class="section list-article">
       <article class="article">
          <header>
-            <div class="article-icon article-icon-{{ page.categories }}"></div>
+            <div class="article-icon">
+               <img src="https://favicon.im/{{ page.link }}" alt="Favicon" />
+            </div>
             <div class="article-meta">
                <p>{{ page.author }} • {{ page.published_date }}</p>
                <a href="{{ page.link }}" target="_blank">{{ page.link }}</a>

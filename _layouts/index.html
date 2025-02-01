@@ -8,7 +8,9 @@
          {% for post in paginator.posts %}
          <article class="article">
             <header>
-               <div class="article-icon article-icon-{{ post.categories }}"></div>
+               <div class="article-icon">
+                  <img src="https://favicon.im/{{ post.link }}" alt="Favicon" />
+               </div>
                <div class="article-meta">
                   <p>{{ post.author }} • {{ post.published_date }}</p>
                   <a href="{{ post.link }}" target="_blank">{{ post.link }}</a>
