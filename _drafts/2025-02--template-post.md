@@ -9,6 +9,7 @@ language: ""
 categories: 
    - Liens
    - Citations
+   - Vidéos
 tags: ""
 og-tags: ""
 permalink: /:categories/:year/:month/:day/:title/

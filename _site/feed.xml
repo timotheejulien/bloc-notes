@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-02T11:20:20+01:00</updated>
+   <updated>2025-02-02T11:33:11+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>UX is easy, but we made it complicated</title>
+         <link href="/liens/2025/02/02/ux-is-easy-but-we-made-it-complicated/"/>
+         <updated>2025-02-02T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/02/ux-is-easy-but-we-made-it-complicated/</id>
+
+         <content type="html">
+            The entire discipline is premised on close contact and empathy with users. Yet, it is challenging to transform that knowledge into practical solutions and achieve prominence in companies. Why does this phenomenon occur?
+         </content>
+      </entry>
    
       <entry>
          <title>Signal, WhatsApp… Les sénateurs demandent une explosive backdoor dans les messageries chiffrées</title>
