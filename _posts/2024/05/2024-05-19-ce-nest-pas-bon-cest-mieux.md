@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ce n'est pas bon. « c’est mieux ! »"
+title: "Ce n'est pas bon. « C’est mieux ! »"
 link: "https://smartquotesforsmartpeople.vincent-valentin.name"
-author: N/A
-published_date: "19/05/2024"
-description: ""
-language: en
+author: Jason Santa Maria
+published_date: "2013"
+description: "Une typographie élégante utilise des guillemets et des apostrophes courbes, pas des guillemets et des apostrophes droits"
+language: fr
 categories:
 - Liens
 

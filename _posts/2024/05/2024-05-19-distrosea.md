@@ -2,10 +2,10 @@
 layout: post
 title: "Distrosea"
 link: "https://distrosea.com"
-author: N/A
-published_date: "19/05/2024"
-description: ""
-language: en
+author: DistroSea
+published_date: "N/A"
+description: "Permet de tester les distributions Linux en ligne !"
+language: fr
 categories:
 - Liens
 

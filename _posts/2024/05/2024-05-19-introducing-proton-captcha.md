@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Introducing proton captcha"
+title: "Introducing Proton CAPTCHA"
 link: "https://proton.me/blog/proton-captcha"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Eamonn Maguire
+published_date: "21/09/2023"
+description: "At Proton, we’re always working on new and innovative ways to protect the privacy and data of the Proton community. Sometimes that means developing entirely new services, like our Proton Sentinel program, which combines AI and human security analysts to increase the account security for high-profile users. Other times, it means taking an old idea and putting a new twist on it, like our new, custom-built CAPTCHA."
 language: en
 categories:
 - Liens

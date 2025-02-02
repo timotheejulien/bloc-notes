@@ -2,9 +2,9 @@
 layout: post
 title: "History of data protection: an online anthology"
 link: "https://glgonzalezfuster.blog/history-of-data-protection-an-online-anthology"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Gloria González Fuster
+published_date: "N/A"
+description: "A compilation of resources about the history of data protection law, focusing mainly on European developments."
 language: en
 categories:
 - Liens

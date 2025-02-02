@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "« l’accès au numérique est une force et la garantie d'une société démocratique » – la tribune du parti pirate"
+title: "« L’accès au numérique est une force et la garantie d'une société démocratique » – la tribune du Parti Pirate"
 link: "https://www.lopinion.fr/economie/lacces-au-numerique-est-une-force-et-la-garantie-dune-societe-democratique-la-tribune-du-parti-pirate"
-author: N/A
+author: Caroline Zorn, Pierre Beyssac
 published_date: "19/05/2024"
-description: ""
+description: "Caroline Zorn et Pierre Beyssac, respectivement tête de liste et n° 2 de la liste du Parti Pirate pour les élections européennes, répondent à la proposition de l’ancienne ministre de l’Education nationale Najat Vallaud-Belkacem de «rationner Internet». Pour eux, elle développe une « vision simpliste, toxique et moraliste des questions numériques »"
 language: fr
 categories:
 - Liens

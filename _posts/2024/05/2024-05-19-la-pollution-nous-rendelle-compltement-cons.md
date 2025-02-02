@@ -2,9 +2,9 @@
 layout: post
 title: "La pollution nous rend-elle complètement cons ?"
 link: "https://usbeketrica.com/fr/article/la-pollution-nous-rend-elle-completement-cons"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Pablo Maillé
+published_date: "07/08/2023"
+description: "On a passé en revue les articles scientifiques consacrés aux effets de la pollution sur le cerveau humain. Et le moins que l’on puisse dire, c’est que les résultats sont préoccupants."
 language: fr
 categories:
 - Liens

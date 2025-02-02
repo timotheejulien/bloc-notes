@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Transformer le numérique : des pistes pour un alternumérisme radical"
+title: "Transformer le numérique : des pistes pour un alternumérisme radical"
 link: "https://louisderrac.com/2023/08/transformer-le-numerique-des-pistes-pour-un-alternumerisme-radical"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Louis Derrac
+published_date: "29/08/2023"
+description: "Cet article est largement basé sur la troisième et dernière conférence de mon cycle « Comprendre le numérique », et sur la retranscription qui en a été faite par Libre à lire !, le groupe Transcriptions de l’April. Un grand merci à ses bénévoles."
 language: fr
 categories:
 - Liens

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "google : un procès historique qui rappelle le cas de microsoft"
+title: "Google : un procès historique qui rappelle le cas de microsoft"
 link: "https://www.lexpress.fr/economie/high-tech/google-un-proces-historique-qui-rappelle-le-cas-de-microsoft-FKMHEN7SR5CVBBG3FEAMNOF5XI"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Maxime Recoquillé
+published_date: "11/08/2023"
+description: "Dans un mois, le géant du numérique passera sous les fourches caudines de l’antitrust américain. Ce premier assaut devant les tribunaux rappelle l’histoire de Microsoft, il y a bientôt vingt-cinq ans."
 language: fr
 categories:
 - Liens

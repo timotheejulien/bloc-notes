@@ -2,9 +2,9 @@
 layout: post
 title: "Que peut le design pour qu’on se mette (enfin) à lire les études ?"
 link: "https://praticable.fr/publications/le-probleme-des-etudes"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Praticable
+published_date: "Date N/A"
+description: "ONG, Agences nationales, think-tank, entreprises… Toutes sortes d’organismes produisent quantité d’études et rapports, en particulier pour répondre aux grands enjeux écologiques et sociaux. On est nombreux à en saisir l’importance, mais qui les lit vraiment ? De bon cœur ? La plupart dorment paisiblement dans les méandres du web, attendant d’être exhumé par un passant, une journaliste, un chercheur."
 language: fr
 categories:
 - Liens

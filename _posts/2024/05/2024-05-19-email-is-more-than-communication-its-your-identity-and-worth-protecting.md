@@ -2,9 +2,9 @@
 layout: post
 title: "Email is more than communication – it’s your identity and worth protecting"
 link: "https://proton.me/blog/email-is-your-digital-id"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Andy Yen
+published_date: "14/08/2023"
+description: "With over 4 billion active users(new window) and around 350 million messages sent daily, email is the most successful communications tool ever invented. Yet, it has probably been 15 or 20 years since email has primarily been about communications."
 language: en
 categories:
 - Liens

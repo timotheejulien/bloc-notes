@@ -2,9 +2,9 @@
 layout: post
 title: "Iconography in design systems: easy troubleshooting and maintenance"
 link: "https://www.smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Tatsiana Tarkan
+published_date: "03/04/2024"
+description: "No matter how sick you might be dealing with unending visual inconsistency, design systems are still challenging. They can scare any designer regardless of their experience. Still, if you want to bring order to chaos, introducing a design system into your workflow is worth the trouble. Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process."
 language: en
 categories:
 - Liens

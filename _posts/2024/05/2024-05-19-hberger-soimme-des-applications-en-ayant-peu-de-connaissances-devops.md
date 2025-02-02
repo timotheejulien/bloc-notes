@@ -2,9 +2,9 @@
 layout: post
 title: "Héberger soi-même des applications en ayant peu de connaissances devops"
 link: "https://www.teotimepacreau.fr/blog/heberger-soi-meme-des-applications"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Téotime Pacrezau
+published_date: "04/04/2024"
+description: "Pour sortir des solutions propriétaires, héberger soi-même est la clé. Mais comment faire quand on a peu de connaissances en réseau, Linux et Docker ?"
 language: fr
 categories:
 - Liens

@@ -2,9 +2,9 @@
 layout: post
 title: "Le guide expert pour réussir ses entretiens utilisateurs"
 link: "https://stephaniewalter.design/fr/blog/le-guide-expert-pour-reussir-ses-entretiens-utilisateurs"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Stéphanie Walter
+published_date: "29/09/2023"
+description: "Techniques pour rédiger des questions et des guides d’entretiens pertinents et efficaces"
 language: fr
 categories:
 - Liens

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sncf de-connect"
+title: "SNCF de-connect"
 link: "https://www.radiofrance.fr/franceculture/podcasts/superfail/sncf-de-connect-7341235"
 author: Superfail
 published_date: "18/09/2022"

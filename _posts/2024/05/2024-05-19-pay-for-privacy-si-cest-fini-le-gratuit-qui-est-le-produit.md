@@ -2,9 +2,9 @@
 layout: post
 title: "Pay for privacy. Si c’est fini le gratuit… qui est le produit ?"
 link: "https://affordance.framasoft.org/2023/11/pay-for-privacy-si-cest-fini-le-gratuit-qui-est-le-produit"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author:  Olivier Ertzscheid
+published_date: "18/11/2023"
+description: "Lentement, sûrement, inexorablement nous sortons de l’ère non pas uniquement d’un « web » gratuit mais essentiellement de médias et réseaux sociaux gratuits."
 language: fr
 categories:
 - Liens

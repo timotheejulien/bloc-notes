@@ -2,9 +2,9 @@
 layout: post
 title: "Creating coherence: how spotify’s design system goes beyond platforms"
 link: "https://www.figma.com/blog/creating-coherence-how-spotifys-design-system-goes-beyond-platforms"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Juli Sombat
+published_date: "31/08/2023"
+description: "Design Manager Juli Sombat sheds light on how a need for more cohesion led Spotify’s design systems team to take a cross-platform approach to components."
 language: en
 categories:
 - Liens

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "zoom et les politiques de confidentialité"
+title: "Zoom et les politiques de confidentialité"
 link: "https://framablog.org/2023/08/17/wip-zoom-et-les-politiques-de-confidentialite"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Aaron Sankin
+published_date: "17/08/2023"
+description: "Une récente polémique sur la capacité de Zoom à entraîner des intelligences artificielles avec les conversations des utilisateurs montre l’importance de lire les petits caractères"
 language: fr
 categories:
 - Liens

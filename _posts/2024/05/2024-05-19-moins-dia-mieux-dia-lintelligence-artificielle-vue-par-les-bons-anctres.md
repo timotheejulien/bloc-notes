@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Moins d'ia, mieux d’ia : l’intelligence artificielle vue par les bons ancêtres"
+title: "Moins d'IA, mieux d’IA : l’intelligence artificielle vue par les bons ancêtres"
 link: "https://usbeketrica.com/fr/article/moins-d-ia-mieux-d-ia-l-intelligence-artificielle-vue-par-les-bons-ancetres"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Le Club des Bons Ancêtres
+published_date: "24/07/2023"
+description: "Le Club des Bons Ancêtres s’est rassemblé autour d’un premier « feu de camp » pour questionner la place de l’humanité face aux intelligences artificielles. Compte rendu de ces échanges passionnant sur la régulation et l’impact de l’IA sur le travail."
 language: fr
 categories:
 - Liens

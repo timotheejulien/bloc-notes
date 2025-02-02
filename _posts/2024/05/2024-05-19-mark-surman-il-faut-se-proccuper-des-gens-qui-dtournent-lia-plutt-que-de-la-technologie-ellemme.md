@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Mark surman : il faut se préoccuper des gens qui détournent l'ia plutôt que de la technologie elle-même"
+title: "Mark Surman : il faut se préoccuper des gens qui détournent l'IA plutôt que de la technologie elle-même"
 link: "https://www.radiofrance.fr/franceculture/mark-surman-il-faut-se-preoccuper-des-gens-qui-detournent-l-ia-plutot-que-de-la-technologie-elle-meme-5287298"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Richard Place
+published_date: "30/09/2023"
+description: "Mark Surman est un vieux routier des nouvelles technologies, militant d'un internet libre. Ce Canadien préside aujourd'hui la Mozilla Foundation dont l'objectif majeur est l'encadrement de l'Intelligence Artificielle. Il la voit comme un danger si ce travail de réglementation n'est pas fait. "
 language: fr
 categories:
 - Liens

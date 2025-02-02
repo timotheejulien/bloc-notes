@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Le début de la fin pour chat-gpt ? openai pourrait faire faillite dès 2024"
-link: "https://www.clubic.com/chat-gpt/actualite-481306-le-debut-de-la-fin-pour-chat-gpt-openai-pourrait-faire-faillite-des-2024.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+title: "Le début de la fin pour ChatGPT ? OpenAI pourrait faire faillite dès 2024"
+link: "https://www.clubic.com/chatgpt/actualite-481306-le-debut-de-la-fin-pour-chatgpt-openai-pourrait-faire-faillite-des-2024.html"
+author: Alexandre Schmid
+published_date: "16/08/2023"
+description: "ChatGPT demande énormément d'argent à OpenAI pour fonctionner, alors que l'entreprise a du mal à générer des revenus suffisants pour compenser les dépenses. Les pertes sont abyssales, et l'avenir d'OpenAI est même remis en cause."
 language: fr
 categories:
 - Liens
@@ -12,7 +12,8 @@ categories:
 tags:
 - "ia"
 - "chatgpt"
+- "openai"
 
-og-tags: "ia, chatgpt"
+og-tags: "ia, chatgpt, openai"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Loi sur l'ia de l'ue : première réglementation de l'intelligence artificielle"
+title: "Loi sur l'IA de l'UE : première réglementation de l'intelligence artificielle"
 link: "https://www.europarl.europa.eu/news/fr/headlines/society/20230601STO93804/loi-sur-l-ia-de-l-ue-premiere-reglementation-de-l-intelligence-artificielle"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Parlement européen
+published_date: "09/06/2023"
+description: "L'utilisation de l'intelligence artificielle dans l'UE sera réglementée par la loi sur l'IA, la première loi globale sur l'IA au monde. Découvrez comment elle vous protégera."
 language: fr
 categories:
 - Liens

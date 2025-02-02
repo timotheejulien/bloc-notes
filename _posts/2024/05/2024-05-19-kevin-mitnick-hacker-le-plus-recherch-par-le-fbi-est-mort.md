@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Kevin mitnick, hacker le plus recherché par le fbi, est mort"
+title: "Kevin Mitnick, hacker le plus recherché par le FBI, est mort"
 link: "https://www.numerama.com/cyberguerre/1453694-kevin-mitnick-hacker-le-plus-recherche-par-le-fbi-est-mort.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Julien Lausson
+published_date: "20/07/2023"
+description: "Kevin Mitnick, l’un des plus célèbres pirates informatiques au monde, est mort à l’âge de 59 ans."
 language: fr
 categories:
 - Liens

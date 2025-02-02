@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Le legal design : qu'est-ce que c'est ?"
+title: "Le legal design : qu'est-ce que c'est ?"
 link: "https://www.teotimepacreau.fr/blog/legal-design"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Téotime Pacreau
+published_date: "20/01/2024"
+description: "Découverte des enjeux de simplification et d'accessibilité des normes juridiques."
 language: fr
 categories:
 - Liens

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "numérique responsable, critique d'un oxymore"
+title: "Numérique responsable, critique d'un oxymore"
 link: "https://louisderrac.com/2023/06/numerique-responsable-critique-dun-oxymore"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Louis derrac
+published_date: "22/06/2023"
+description: "Dans cet article, je m’aventure avec prudence et humilité dans un domaine dont je ne suis pas spécialiste, la sémantique. Il me parait important de préciser, dès l’introduction, que mon objectif se limite à questionner sereinement le terme de numérique responsable et d’engager une discussion et une réflexion que j’espère collectives."
 language: fr
 categories:
 - Liens

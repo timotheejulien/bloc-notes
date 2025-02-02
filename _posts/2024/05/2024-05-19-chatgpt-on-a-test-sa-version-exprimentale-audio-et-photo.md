@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "chat-gpt : on a testé sa version expérimentale audio et photo"
+title: "ChatGPT : on a testé sa version expérimentale audio et photo"
 link: "https://www.lemonde.fr/pixels/article/2023/10/21/chat-gpt-on-a-teste-sa-version-experimentale-audio-et-photo_6195780_4408996.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
-language: en
+author: Nicolas Six
+published_date: "01/10/2023"
+description: "Cette édition bêta de l’intelligence artificielle d’OpenAI peut désormais déchiffrer, souvent assez mal, les images qu’on lui soumet, mais aussi discuter à l’oral de façon bien plus convaincante."
+language: fr
 categories:
 - Liens
 
 tags:
 - "ia"
 - "chatgpt"
+- "openai"
 
-og-tags: "ia, chat-gpt"
+og-tags: "ia, chatgpt, openai"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Comment la chine contrôle 1,5 milliard de personnes"
 link: "https://www.youtube.com/watch?v=wOLXdjKuxng"
 author: Tev
-published_date: "19/05/2024"
+published_date: "20/10/2023"
 description: "Tev explique le fonctionnement de WeChat et de ses dérives."
 language: fr
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google exulte : Apple va finalement adopter RCS, le « sms 2.0 », en 2024"
+title: "Google exulte : Apple va finalement adopter RCS, le « SMS 2.0 », en 2024"
 link: "https://www.igen.fr/services/2023/11/google-exulte-apple-va-finalement-adopter-rcs-le-sms-20-en-2024-140493"
 author: Stéphane Moussie
 published_date: "17/11/2023"

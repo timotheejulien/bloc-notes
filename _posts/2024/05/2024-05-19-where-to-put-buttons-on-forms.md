@@ -2,9 +2,9 @@
 layout: post
 title: "Where to put buttons on forms"
 link: "https://adamsilver.io/blog/where-to-put-buttons-on-forms"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Adam Silver
+published_date: "16/09/2019"
+description: "Recommandations UX sur l'emplacement des boutons"
 language: en
 categories:
 - Liens

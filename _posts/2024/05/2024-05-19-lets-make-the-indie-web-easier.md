@@ -2,9 +2,9 @@
 layout: post
 title: "Let’s make the indie web easier"
 link: "https://gilest.org/indie-easy.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Giles Turnbull
+published_date: "08/01/2024"
+description: "We need more than Wordpress"
 language: en
 categories:
 - Liens

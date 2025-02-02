@@ -2,9 +2,9 @@
 layout: post
 title: "Mv3 pour chrome émerge de la brume : à quoi s'attendre ?"
 link: "https://adguard.com/fr/blog/chrome-manifest-v3-where-we-stand.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: AdGuard
+published_date: "10/11/2023"
+description: "Il y a plus de quatre ans, au début de l'année 2019, l'équipe de Google Chrome a annoncé des changements révolutionnaires pour la plateforme d'extensions du navigateur, connus sous le nom de « Manifest V3 »."
 language: fr
 categories:
 - Liens

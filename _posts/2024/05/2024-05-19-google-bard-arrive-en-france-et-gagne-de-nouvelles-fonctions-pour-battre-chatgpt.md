@@ -2,9 +2,9 @@
 layout: post
 title: "google bard arrive en france et gagne de nouvelles fonctions pour battre chat-gpt"
 link: "https://www.numerama.com/tech/1447238-google-bard-arrive-en-france-et-gagne-de-nouvelles-fonctions-pour-battre-chat-gpt.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Nicolas Lellouche
+published_date: "08/12/2023"
+description: "À Paris, Numerama a pu discuter avec Jack Krawczyk, le directeur produit en charge de Google Bard. Il nous annonce l’arrivée de l’intelligence artificielle dans l’Union européenne, l’ajout de la reconnaissance d’images, la possibilité de lui parler vocalement et l’introduction d’un historique, pour revenir sur d’anciennes conversations."
 language: fr
 categories:
 - Liens

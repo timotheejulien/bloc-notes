@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The new google fonts: find what you’re looking for"
+title: "The new Google Fonts: find what you’re looking for"
 link: "https://material.io/blog/2023-google-fonts-redesign"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Tobias Kunisch
+published_date: "07/09/2023"
+description: "A redesigned Google Fonts website helps you find the right fonts and icons for your project"
 language: en
 categories:
 - Liens

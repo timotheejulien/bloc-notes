@@ -2,9 +2,9 @@
 layout: post
 title: "L’espionnage des journalistes bientôt autorisé par une loi européenne ?"
 link: "https://www.telerama.fr/debats-reportages/l-espionnage-des-journalistes-bientot-autorise-par-une-loi-europeenne-7016097.php"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Olivier Tesquet
+published_date: "21/06/2023"
+description: "Actuellement à l’étude au Parlement européen, le Media Freedom Act prévoit la possibilité pour les États de surveiller les journalistes afin d’identifier leurs sources. Une mesure fortement encouragée par la France."
 language: fr
 categories:
 - Liens

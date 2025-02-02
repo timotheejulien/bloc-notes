@@ -2,9 +2,9 @@
 layout: post
 title: "Du web sémantique au web synthétique"
 link: "https://affordance.framasoft.org/2023/10/du-web-semantique-au-web-synthetique"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Olivier Ertzscheid
+published_date: "09/10/2023"
+description: "Pour archivage et partage, je republie ici une version (légèrement plus longue et agrémentée de liens) de la tribune parue dans le journal Le Monde du Samedi 7 Octobre 2023 sous le titre « Intelligence artificielle : nous sommes passés du rêve d’un web sémantique à la réalité d’un web synthétique. »"
 language: fr
 categories:
 - Liens

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "How signal walks the line between anarchism and pragmatism"
+title: "How Signal walks the line between anarchism and pragmatism"
 link: "https://www.wired.com/story/signal-politics-software-criticism"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Kai Ye
+published_date: "23/07/2023"
+description: "The privacy-focused messaging app arose from a fringe culture that emphasized individual autonomy and skepticism of authority. As it tries to go mainstream, can it escape its roots?"
 language: en
 categories:
 - Liens

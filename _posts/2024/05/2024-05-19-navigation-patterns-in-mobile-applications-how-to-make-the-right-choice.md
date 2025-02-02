@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Navigation patterns in mobile applications. how to make the right choice?"
+title: "Navigation patterns in mobile applications. How to make the right choice?"
 link: "https://uxdesign.cc/navigation-patterns-in-mobile-applications-how-to-make-the-right-choice-fa3c228e5097"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Ksenia Toloknova
+published_date: "10/12/2023"
+description: "Navigation is the heart of any mobile application. The success of an application may depend on how intuitive, efficient, and user-friendly its navigation is. It is crucial for a designer to understand how navigation can function in every application to make the most suitable decisions for their specific situation. This article will explore the most common navigation practices in the market as of the end of 2023."
 language: en
 categories:
 - Liens

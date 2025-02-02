@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "mastodon : un autre twitter est possible"
+title: "Mastodon : un autre Twitter est possible"
 link: "https://www.liberation.fr/futurs/2017/04/19/mastodon-un-autre-twitter-est-possible_1563858"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Amaelle Guiton
+published_date: "19/04/2017"
+description: "Depuis début avril, Mastodon, nouveau réseau social libre et décentralisé lancé par un Allemand, enregistre un afflux important d’utilisateurs. Deviendra-t-il une alternative grand public ?"
 language: fr
 categories:
 - Liens

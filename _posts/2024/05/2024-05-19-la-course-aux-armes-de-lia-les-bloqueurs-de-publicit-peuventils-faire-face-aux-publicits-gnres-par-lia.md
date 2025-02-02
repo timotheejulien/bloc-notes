@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "La course aux armes de l'ia : les bloqueurs de publicité peuvent-ils faire face aux publicités générées par l'ia ?"
+title: "La course aux armes de l'IA : les bloqueurs de publicité peuvent-ils faire face aux publicités générées par l'IA ?"
 link: "https://adguard.com/fr/blog/ai-generated-ads-arms-race.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: AdGuard
+published_date: "03/08/2023"
+description: "L'IA générative bouleverse de nombreux secteurs, depuis l'art numérique jusqu'au codage et à la découverte de médicaments. Alors que certains se préparent encore à l'impact total des changements qu'apportera la révolution de l'IA, d'autres sont en train de subir une transformation de l'IA - ou un relookage - en temps réel. Le secteur de la publicité en ligne en est le meilleur exemple."
 language: fr
 categories:
 - Liens

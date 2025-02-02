@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "L'apple vision pro pourrait être privé de netflix"
+title: "L'Apple Vision Pro pourrait être privé de Netflix"
 link: "https://www.numerama.com/tech/1456246-lapple-vision-pro-pourrait-etre-prive-de-netflix.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Nicolas Lellouche
+published_date: "25/07/203"
+description: "Selon Bloomberg, Netflix a décidé de ne pas développer d’application pour l’ordinateur spatial d’Apple, alors que les relations entre les deux entreprises sont assez tendues. Un coup dur pour le casque, qui aura besoin d’applications pour s’imposer."
 language: fr
 categories:
 - Liens

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Loading &amp; progress indicators"
+title: "Loading & progress indicators"
 link: "https://uxdesign.cc/loading-progress-indicators-ui-components-series-f4b1fc35339a"
-author: N/A
+author: Taras Bakusevych
 published_date: "19/05/2024"
-description: ""
+description: "Engage users and enhance waiting experiences with these simple recommendations."
 language: en
 categories:
 - Liens

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "figma variables — ultimate guide"
+title: "Figma Variables — Ultimate guide"
 link: "https://blog.prototypr.io/figma-variables-ultimate-guide-47cef3dc3ce7"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Thalion
+published_date: "29/05/2023"
+description: "Learn the capabilities of the new feature"
 language: en
 categories:
 - Liens

@@ -2,9 +2,9 @@
 layout: post
 title: "proton publie le code source de son gestionnaire de mots de passe pour montrer qu'il n'a rien à cacher"
 link: "https://www.clubic.com/antivirus-securite-informatique/actualite-478855-proton-publie-le-code-source-de-son-gestionnaire-de-mots-de-passe-pour-montrer-qu-il-n-a-rien-a-cacher.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Camille Coirault
+published_date: "22/07/2023"
+description: "Proton Mail, la messagerie suisse connue pour son service crypté, vient de publier l'intégralité du code source de son gestionnaire de mots de passe. Une belle preuve de son engagement envers la sécurité et de sa transparence."
 language: fr
 categories:
 - Liens

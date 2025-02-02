@@ -2,9 +2,9 @@
 layout: post
 title: "google’s privacy sandbox is privacy quicksand"
 link: "https://proton.me/blog/google-privacy-sandbox"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Ben Wolford
+published_date: "15/09/2023"
+description: "Google has already taken privacy washing to the extreme by trying to brand itself as “privacy focused”, even though its business model is based on surveillance."
 language: en
 categories:
 - Liens

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Elon Musk annonce la fin de twitter, remplacé par x.com"
+title: "Elon Musk annonce la fin de Twitter, remplacé par x.com"
 link: "https://www.numerama.com/tech/1455894-elon-musk-annonce-la-fin-de-twitter-remplace-par-x-com.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Nicolas Lellouche
+published_date: "24/07/2023"
+description: "Plusieurs mois après avoir promis qu’il créerait un jour « X, l’application pour tout faire », Elon Musk a décidé de renommer Twitter et de détruire son identité. Le réseau social à l’oiseau bleu commence à perdre son oiseau, et son bleu."
 language: fr
 categories:
 - Liens
@@ -12,7 +12,8 @@ categories:
 tags:
 - "app"
 - "x"
+- "elon-musk"
 
-og-tags: "app, x"
+og-tags: "app, x, elon-musk"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -2,9 +2,9 @@
 layout: post
 title: "Les cookies tiers sont de plus en plus rares… et c’est peut-être une mauvaise nouvelle pour la vie privée des internautes"
 link: "https://www.mntd.fr/fin-des-cookies-tiers/les-cookies-tiers-sont-de-plus-en-plus-rares-et-c-est-peut-etre-une-mauvaise-nouvelle-pour-la-vie-privee-des-utilisateurs-756034"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Nicolas Jaimes
+published_date: "10/01/2024"
+description: "Les cookies tiers se font de plus en plus rares sur les navigateurs des utilisateurs. On s’en doutait mais on en a enfin la preuve, grâce aux données communiquées par Didomi en exclusivité pour Minted."
 language: fr
 categories:
 - Liens

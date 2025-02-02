@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Comparatif simple et efficace entre whatsapp et signal"
+title: "Comparatif simple et efficace entre WhatsApp et Signal"
 link: "https://eldritch.cafe/@PetitPas/112044786649725711"
-author: N/A
-published_date: "19/05/2024"
-description: ""
-language: en
+author: PetitPas
+published_date: "05/05/2024"
+description: "Voilà des arguments très simples et concrets rassemblés par @rakoo. Whatsapp vs Signal, quel est le problème ?"
+language: fr
 categories:
 - Liens
 

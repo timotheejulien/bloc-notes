@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "« les bonnes pratiques des développeurs rejaillissent sur l’accessibilité »"
+title: "« Les bonnes pratiques des développeurs rejaillissent sur l’accessibilité »"
 link: "https://accessibilite.public.lu/fr/news/2023-07-10-interview-stephanie-walter.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Stéphanie Walter
+published_date: "10/07/2023"
+description: "L’accessibilité numérique devient un impératif pour nombre d’entreprises. Stéphanie Walter, experte en design inclusif, insiste sur le choix du bon partenaire."
 language: fr
 categories:
 - Liens

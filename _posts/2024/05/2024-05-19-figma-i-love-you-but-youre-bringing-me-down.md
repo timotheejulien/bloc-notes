@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "figma, i love you but you’re bringing me down"
+title: "Figma, i love you but you’re bringing me down"
 link: "https://uxdesign.cc/figma-i-love-you-but-youre-bringing-me-down-fd2ca26c89c4"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Joe Bernstein
+published_date: "24/04/2023"
+description: "Confronting the conflict between what’s possible and what’s practical"
 language: en
 categories:
 - Liens

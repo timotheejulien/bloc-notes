@@ -2,9 +2,9 @@
 layout: post
 title: "No instagram threads app in the eu: irish dpc says meta's new twitter rival won't be launched here"
 link: "https://m.independent.ie/business/technology/no-instagram-threads-app-in-the-eu-irish-dpc-says-metas-new-twitter-rival-wont-be-launched-here/a1927220337.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Adrian Weckler
+published_date: "07/07/2023"
+description: "Meta’s new Twitter rival wants to suck Instagram users’ data, including health, location, search history and sensitive information, into the new Threads service. Under EU data privacy rules, it faces higher hurdles than in the US or UK, where it has launched"
 language: en
 categories:
 - Liens

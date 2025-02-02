@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "La guerre du xxième se joue aussi dans nos cerveaux"
+title: "La guerre du XXIème se joue aussi dans nos cerveaux"
 link: "https://www.ladn.eu/media-mutants/troisieme-guerre-mondiale-cerveaux"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Béatrice Sutter
+published_date: "15/11/2023"
+description: "C'est la guerre qu'on n'a pas vu venir et qui menace désormais nos démocraties. La « guerre intelligentisée » gagne nos cerveaux et il est temps de lancer un état d'urgence informationnel. Interview de David Colon."
 language: fr
 categories:
 - Liens

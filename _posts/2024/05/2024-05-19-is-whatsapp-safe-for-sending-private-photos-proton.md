@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Is whatsapp safe for sending private photos? | proton"
+title: "Is WhatsApp safe for sending private photos? | proton"
 link: "https://proton.me/blog/whatsapp-safe-private-photos"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Fergus O'Sullivan
+published_date: "16/04/2024"
+description: "WhatsApp is the world’s leading messaging app, trusted by billions of people around the globe to send and receive messages. However, is WhatsApp safe for sending private photos? Or are there better ways to share photos online privately? Let’s find out."
 language: en
 categories:
 - Liens

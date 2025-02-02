@@ -2,9 +2,9 @@
 layout: post
 title: "Best whatsapp alternatives for privacy"
 link: "https://proton.me/blog/whatsapp-alternatives"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Douglas Crawford
+published_date: "15/02/2021"
+description: "Learn about the best end-to-end encrypted messaging apps to replace WhatsApp with that ensure your online chat remains private."
 language: en
 categories:
 - Liens

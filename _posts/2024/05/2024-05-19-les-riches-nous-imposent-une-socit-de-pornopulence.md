@@ -2,9 +2,9 @@
 layout: post
 title: "« Les riches nous imposent une société de pornopulence »"
 link: "https://usbeketrica.com/fr/article/les-riches-nous-imposent-une-societe-de-pornopulence"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Pablo Maillé
+published_date: "22/08/2023"
+description: "Entretien avec la sociologue Dahlia Namian, autrice d’un essai sur « la société de provocation », un terme emprunté à Romain Gary pour désigner « cet ordre social où l’exhibitionnisme de la richesse érige en vertu la démesure »."
 language: fr
 categories:
 - Liens

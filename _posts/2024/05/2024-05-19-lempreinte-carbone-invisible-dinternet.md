@@ -2,10 +2,10 @@
 layout: post
 title: "L’empreinte carbone invisible d’internet"
 link: "https://foundation.mozilla.org/fr/blog/ai-internet-carbon-footprint"
-author: N/A
-published_date: "19/05/2024"
-description: ""
-language: en
+author: Xavier Harding
+published_date: "03/08/2023"
+description: "Saviez-vous que l’envoi d’un e-mail peut libérer plus de 17 grammes de dioxyde de carbone dans l’atmosphère ? Ou que le fait de passer des appels Zoom en mode audio uniquement peut réduire jusqu’à 96 % des émissions de carbone ?"
+language: fr
 categories:
 - Liens
 

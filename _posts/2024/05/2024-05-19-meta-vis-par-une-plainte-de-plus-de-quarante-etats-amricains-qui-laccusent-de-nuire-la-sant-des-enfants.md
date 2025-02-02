@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "meta visé par une plainte de plus de quarante etats américains, qui l’accusent de nuire à la santé des enfants"
+title: "Meta visé par une plainte de plus de quarante états américains, qui l’accusent de nuire à la santé des enfants"
 link: "https://www.lemonde.fr/pixels/article/2023/10/24/plus-de-quarante-etats-americains-portent-plainte-contre-meta-accuse-de-nuire-a-la-sante-des-enfants_6196281_4408996.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Le Monde, AFP, Reuters
+published_date: "24/10/2023"
+description: "Ils affirment que le groupe, qui comprend Facebook et Instagram, a trompé à plusieurs reprises le public sur les dangers de ses plates-formes et a sciemment incité les plus jeunes à les utiliser de manière addictive et compulsive."
 language: fr
 categories:
 - Liens

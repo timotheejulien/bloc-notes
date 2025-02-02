@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Vos documents sur google sont-ils à l'abri de l'ia de google ?"
+title: "Vos documents sur Google sont-ils à l'abri de l'IA de Google ?"
 link: "https://www.zdnet.fr/actualites/vos-documents-sur-google-sont-ils-a-l-abri-de-l-ia-de-google-39960312.htm"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Jack Wallen
+published_date: "05/07/2023"
+description: "Technologie : Alors que l'IA poursuit sa lente montée en puissance, les utilisateurs des services de bureautique en ligne s'inquiètent de l'utilisation de leur contenu personnel pour former les outils d'IA générative de Google."
 language: fr
 categories:
 - Liens

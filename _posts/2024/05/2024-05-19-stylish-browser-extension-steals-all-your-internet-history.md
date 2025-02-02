@@ -2,9 +2,9 @@
 layout: post
 title: "Stylish browser extension steals all your internet history"
 link: "https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Robert Heaton
+published_date: "02/07/2018"
+description: "Before it became a covert surveillance tool disguised as an outstanding browser extension, Stylish really was an outstanding browser extension. It bestowed upon its users nothing less than the power to change the appearance of the internet. Its extensive bank of user-made skins gave bright websites a dark background, undid disliked UI changes, and added manga pictures to everything that wasn’t a manga picture already. I spent many wonderful hours in its simple CSS editor, hiding the distracting parts of the web whilst unknowingly being spied on. Facebook news feed - gone. Twitter news feed - gone. Personal browsing history - gone. Quality of life and unexplained ennui - up and down respectively."
 language: en
 categories:
 - Liens

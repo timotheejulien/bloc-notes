@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Les défis d’une ia frugale"
+title: "Les défis d’une IA frugale"
 link: "https://lejournal.cnrs.fr/articles/les-defis-dune-ia-frugale"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Martin Koppe
+published_date: "24/11/2023"
+description: "Alors que le développement de l’intelligence artificielle (IA) va réclamer toujours plus d’énergie, comment limiter son impact sur le changement climatique ?"
 language: fr
 categories:
 - Liens

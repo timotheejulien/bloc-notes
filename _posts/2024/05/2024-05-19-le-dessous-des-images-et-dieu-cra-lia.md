@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Et dieu créa l'IA ?"
+title: "Et Dieu créa l'IA ?"
 link: "https://www.arte.tv/fr/videos/110342-147-A/le-dessous-des-images"
 author: Le dessous des images
-published_date: "19/05/2024"
+published_date: "05/12/2023"
 description: "Deux êtres qui se saluent du bout de l'index, un fond bleuté, du code informatique : les ingrédients habituels utilisés pour représenter l'intelligence artificielle. Une image sans aucun rapport avec sa réalité technique et sociale ! Présenté par Sonia Devillers, le magazine qui analyse les images de notre époque. Depuis 2020, elle est partout. Dans les médias d'actualité ou consacrés à la technologie, sur les sites des gouvernements ou des banques... Cette illustration à succès fait partie des images de l'agence Getty à disposition des médias et des communicants. Elle convoque des références bibliques et un univers futuriste qui en disent plus sur nous que sur l'intelligence artificielle. Rebecca Swift, vice-présidente et responsable internationale des stratégies créatives chez Getty, nous explique les dessous de cette illustration. Antonio Casilli, chercheur en sociologie, décrypte les symboles contenus dans ce type d'images... et nous en propose d'autres, plus proches de la réalité !"
 language: fr
 categories:

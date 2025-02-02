@@ -2,9 +2,9 @@
 layout: post
 title: "Making of true multi-brand design system"
 link: "https://uxdesign.cc/flexible-styles-for-multi-brand-design-systems-638f9c25c227"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Pavel Kiselev
+published_date: "21/02/2024"
+description: "Building an advanced design system for true white-label products with full control over colours, typography and visual styles"
 language: en
 categories:
 - Liens

@@ -2,9 +2,9 @@
 layout: post
 title: "Je n’ai jamais le temps de lire… comment faire ?"
 link: "https://culturev.fr/comment-lire-plus"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Charlotte Tortat
+published_date: "30/03/2024"
+description: "Amoureuse des livres, je me suis rendu compte ces dernières années que j’y consacrais de moins en moins de temps. C’est peut-être aussi votre cas ? Puis, j’ai commencé à réintégrer la lecture dans ma vie. Voici quelques astuces pour redonner une place, en douceur, à la lecture dans vos semaines."
 language: fr
 categories:
 - Liens

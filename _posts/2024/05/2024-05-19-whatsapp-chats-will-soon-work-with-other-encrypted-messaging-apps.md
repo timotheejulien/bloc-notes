@@ -2,9 +2,9 @@
 layout: post
 title: "whatsapp chats will soon work with other encrypted messaging apps"
 link: "https://www.wired.com/story/whatsapp-interoperability-messaging"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Matt Burgess
+published_date: "06/02/2024"
+description: "New EU rules mean WhatsApp and Messenger must be interoperable with other chat apps. Here’s how that will work."
 language: en
 categories:
 - Liens

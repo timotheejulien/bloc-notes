@@ -3,7 +3,7 @@ layout: post
 title: "Une amende de plus de 100 millions d’euros pour société Générale et BNP à cause… de WhatsApp"
 link: "https://www.presse-citron.net/une-amende-de-plus-de-100-millions-deuros-pour-societe-generale-et-bnp-a-cause-de-whatsapp"
 author: Romain Pomian-Bonnemaison 
-published_date: "19/05/2024"
+published_date: "10/08/2023"
 description: "Mieux vaut ne pas utiliser WhatsApp, iMessage ou Signal dans le cadre du travail… voici pourquoi."
 language: fr
 categories:

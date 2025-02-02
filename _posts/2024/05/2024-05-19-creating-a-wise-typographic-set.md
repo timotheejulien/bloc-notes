@@ -2,9 +2,9 @@
 layout: post
 title: "Creating a wise typographic set"
 link: "https://medium.com/transferwise-design/creating-a-wise-typographic-set-1052503f9f01"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Ness Grixti
+published_date: "29/08/2023"
+description: "How we created an international type library for everyone, everywhere."
 language: en
 categories:
 - Liens

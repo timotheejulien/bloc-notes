@@ -2,9 +2,9 @@
 layout: post
 title: "L'algorithme de facebook ne modifie pas les croyances politiques des usagers, selon des études américaines"
 link: "https://www.francetvinfo.fr/internet/reseaux-sociaux/facebook/l-algorithme-de-facebook-ne-modifie-pas-les-croyances-politiques-des-usagers-selon-des-etudes-americaines_5975357.html"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: franceinfo, AFP
+published_date: "27/07/2023"
+description: "Ces études, publiées dans les revues « Science » et « Nature », ont été réalisées pendant l'élection présidentielle de 2020 aux Etats-Unis. "
 language: fr
 categories:
 - Liens

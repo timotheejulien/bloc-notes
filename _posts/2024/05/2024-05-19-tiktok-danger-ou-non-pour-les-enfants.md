@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "tiktok : danger ou non pour les enfants ?"
+title: "TikTok : danger ou non pour les enfants ?"
 link: "https://www.francetvinfo.fr/replay-radio/le-billet-sciences-du-week-end/tiktok-danger-ou-non-pour-les-enfants_5936450.html"
-author: N/A
+author: franceinfo
 published_date: "19/05/2024"
-description: ""
+description: "Les réseaux sociaux, et en particulier Tiktok, sont-ils réellement un danger pour la santé des enfants ? Les choses ne sont pas si simples en la matière. Retour sur le rapport du Sénat."
 language: fr
 categories:
 - Liens

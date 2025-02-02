@@ -2,9 +2,9 @@
 layout: post
 title: "Underage workers are training ai"
 link: "https://www.wired.co.uk/article/artificial-intelligence-data-labeling-children"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Niamh Rowe
+published_date: "15/11/2023"
+description: "Companies that provide Big Tech with AI data-labeling services are inadvertently hiring young teens to work on their platforms, often exposing them to traumatic content."
 language: en
 categories:
 - Liens
