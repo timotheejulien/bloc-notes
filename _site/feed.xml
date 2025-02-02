@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-02T10:26:27+01:00</updated>
+   <updated>2025-02-02T11:20:20+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -1670,9 +1670,9 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
    
       <entry>
          <title>Apple : la pomme écrasée par sa pub</title>
-         <link href="/liens/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/"/>
+         <link href="/vid%C3%A9os/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/"/>
          <updated>2024-11-05T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/</id>
 
          <content type="html">
             Dans ce spot publicitaire, une presse hydraulique écrase trompette, pots de peinture et guitare pour ne laisser qu’une fine tablette iPad. Mais pourquoi cette image du virtuel, venant écraser les symboles de la créativité humaine, a-t-elle suscitée une si vive émotion ? Dès sa présentation sur X en mai 2024 par le PDG d’Apple, cette publicité a suscité un véritable tollé. Accusé sur les réseaux sociaux de prôner la destruction du génie humain à grands coups d’intelligence artificielle, le géant californien s’est vu contraint de faire machine arrière. Maxime Delmas, spécialiste de la créativité marketing et publicitaire, nous explique comment ce bad buzz, inhabituel pour la marque, s’est déclenché. Pour Catherine Dufour, autrice de science-fiction et ingénieure, les codes visuels pour vanter le progrès technique se sont inversés. Désormais, l’intelligence artificielle nous plonge dans un monde angoissant. 
@@ -1736,9 +1736,9 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
    
       <entry>
          <title>Internet est mort, vive internet !</title>
-         <link href="/liens/2024/10/30/internet-est-mort-vive-internet/"/>
+         <link href="/vid%C3%A9os/2024/10/30/internet-est-mort-vive-internet/"/>
          <updated>2024-10-30T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2024/10/30/internet-est-mort-vive-internet/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/10/30/internet-est-mort-vive-internet/</id>
 
          <content type="html">
             Et si l&apos;Apocalypse avait déjà eu lieu... sur internet ? La preuve : des images de Jésus en crevette qui envahissent nos fils d’actualité facebook abandonnés et amassent des millions de likes et de commentaires. “Shrimp Jesus”, seigneur des crustacés version intelligence artificielle, est l&apos;une des nombreuses manifestations de la théorie de l&apos;internet mort, une théorie du complot un peu barge qui révèle pourtant un changement bien réel sur le web : les bots sont en train de nous grand remplacer. Aujourd&apos;hui, plus de la moitié du trafic internet est généré par des bots, et la plupart de nos interactions en ligne n&apos;ont donc quasiment plus rien d&apos;humain. Tracks part à la rencontre des artistes qui préparent les funérailles du World Wide web, et imaginent la vie après la déconnexion. L&apos;artiste Aleks Slota, habitué des performances extrêmes, est devenu collectionneur des images pieuses générées par ia sur un internet zombie qui vit ses dernières heures, le duo ! Mediengruppe Bitnik recherche la source des diktats algorithmiques qui influencent notre vision du monde, tandis que Lou Fauroux nous emmène en cure de désintoxication après l’effondrement du web. internet, 1983 - ? RIP.
@@ -3409,9 +3409,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>The internet's own boy</title>
-         <link href="/liens/2024/05/19/the-internets-own-boy/"/>
+         <link href="/vid%C3%A9os/2024/05/19/the-internets-own-boy/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/the-internets-own-boy/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/the-internets-own-boy/</id>
 
          <content type="html">
             Ce film raconte l&apos;histoire de Aaron Swartz, programmeur de génie et activiste de l&apos;information. Depuis l&apos;aide qu&apos;il a apportée au développement de RSS, l&apos;un des protocoles à la base d&apos;Internet, à la co-fondation de Reddit, son empreinte est partout sur Internet.
@@ -4751,9 +4751,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>Le mystère de la vidéo satisfaisante</title>
-         <link href="/liens/2024/05/19/le-mystre-de-la-vido-satisfaisante/"/>
+         <link href="/vid%C3%A9os/2024/05/19/le-mystre-de-la-vido-satisfaisante/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/le-mystre-de-la-vido-satisfaisante/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/le-mystre-de-la-vido-satisfaisante/</id>
 
          <content type="html">
             Une pâte de sable rose est malaxée, aplatie puis coupée de façon parfaitement symétrique. Postée sur tiktok en janvier 2022, cette vidéo a été vue plusieurs millions de fois. À vous de jouer maintenant : appuyez sur “play“. Alors, plus détendu ? Apparu sur un forum de partage il y a dix ans, le genre visuel des “vidéos satisfaisantes“ est toujours en tête des vues sur les réseaux sociaux. Il existe une multitude de catégories, mais certains codes se distinguent : des gestes précis, des formes géométriques, un fond sonore agréable. Ces contenus visuels, parfois absurdes mais souvent ludiques, font appel à nos cinq sens. Le créateur de cette vidéo, Cyrille Guérineau, nous explique la fabrication de ces images. Selon lui, elles sont tout aussi satisfaisantes à voir qu&apos;à réaliser. Le docteur en neurosciences cognitives, Albert Moukheiber, analyse les mécanismes à l&apos;œuvre dans notre perception et dans notre corps quand nous regardons ces vidéos.
@@ -4838,13 +4838,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Le dessous des images - et dieu créa l'ia ?</title>
-         <link href="/liens/2024/05/19/le-dessous-des-images-et-dieu-cra-lia/"/>
+         <title>Et dieu créa l'IA ?</title>
+         <link href="/vid%C3%A9os/2024/05/19/le-dessous-des-images-et-dieu-cra-lia/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/le-dessous-des-images-et-dieu-cra-lia/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/le-dessous-des-images-et-dieu-cra-lia/</id>
 
          <content type="html">
-            
+            Deux êtres qui se saluent du bout de l&apos;index, un fond bleuté, du code informatique : les ingrédients habituels utilisés pour représenter l&apos;intelligence artificielle. Une image sans aucun rapport avec sa réalité technique et sociale ! Présenté par Sonia Devillers, le magazine qui analyse les images de notre époque. Depuis 2020, elle est partout. Dans les médias d&apos;actualité ou consacrés à la technologie, sur les sites des gouvernements ou des banques... Cette illustration à succès fait partie des images de l&apos;agence Getty à disposition des médias et des communicants. Elle convoque des références bibliques et un univers futuriste qui en disent plus sur nous que sur l&apos;intelligence artificielle. Rebecca Swift, vice-présidente et responsable internationale des stratégies créatives chez Getty, nous explique les dessous de cette illustration. Antonio Casilli, chercheur en sociologie, décrypte les symboles contenus dans ce type d&apos;images... et nous en propose d&apos;autres, plus proches de la réalité !
          </content>
       </entry>
    
@@ -4905,12 +4905,12 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>L'amour sous algorithme</title>
-         <link href="/liens/2024/05/19/lamour-sous-algorithme/"/>
+         <link href="/vid%C3%A9os/2024/05/19/lamour-sous-algorithme/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/lamour-sous-algorithme/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/lamour-sous-algorithme/</id>
 
          <content type="html">
-            
+            Deux milliards de matchs chaque jour sur le site de rencontre Tinder et trois milliards en une seule journée en plein confinement : un record historique pour cette application. Quel est l&apos;impact des applications de rencontre sur les vies amoureuses ? Peut-on aimer librement après une rencontre prédéterminée ? Des couples durables sont-ils susceptibles de se former grâce à ces coups de pouces informatiques ? Miroir aux alouettes ou vraies possibilités de relations ? Entre espoirs et désarrois amoureux, enquête sur l&apos;amour au temps des algorithmes.
          </content>
       </entry>
    
@@ -5806,13 +5806,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>designing fluid interfaces - wwdc18</title>
-         <link href="/liens/2024/05/19/designing-fluid-interfaces-wwdc18/"/>
+         <title>Designing fluid interfaces (WWDC18)</title>
+         <link href="/vid%C3%A9os/2024/05/19/designing-fluid-interfaces-wwdc18/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/designing-fluid-interfaces-wwdc18/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/designing-fluid-interfaces-wwdc18/</id>
 
          <content type="html">
-            
+            Discover the techniques used to create the fluid gestural interface of iPhone X. Learn how to design with gestures and motion that feel intuitive and natural, making your app a delight to use.
          </content>
       </entry>
    
@@ -5950,12 +5950,12 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>Cybermonde - l'avenir c'est maintenant</title>
-         <link href="/liens/2024/05/19/cybermonde-lavenir-cest-maintenant/"/>
+         <link href="/vid%C3%A9os/2024/05/19/cybermonde-lavenir-cest-maintenant/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/cybermonde-lavenir-cest-maintenant/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/cybermonde-lavenir-cest-maintenant/</id>
 
          <content type="html">
-            
+            La promesse d&apos;Internet, l&apos;or noir des data, l&apos;intelligence artificielle, la cyberguerre : en quatre tableaux, revue des récents bouleversements causés par l&apos;irruption du cyber dans nos vies. Le préfixe cyber est issu d’un mot de grec ancien qui signifie « contrôler ». Mais sommes-nous réellement capables de maîtriser des technologies qui nous dépassent ? Depuis 2016 et les ingérences étrangères dans l&apos;élection américaine, puis celles ayant accéléré l&apos;avènement du Brexit, les évolutions du cyber ont pris une place quasi monopolistique dans nos vies, aussi bien dans le cadre privé qu&apos;à l&apos;échelle de nos sociétés. De l&apos;invention d&apos;Internet au nouvel or noir des data, sans oublier la frénésie actuelle causée par le bond en avant de l&apos;intelligence artificielle et l&apos;importance prise par la guerre cyber, actuellement au premier plan de la stratégie russe contre l&apos;Occident (suivant la vieille doctrine soviétique des trois D : « duperie, dénégation et désinformation »), revue des récents bouleversements de notre nouveau « cybermonde ».
          </content>
       </entry>
    

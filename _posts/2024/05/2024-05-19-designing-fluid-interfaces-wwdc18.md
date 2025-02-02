@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "designing fluid interfaces - wwdc18"
+title: "Designing fluid interfaces (WWDC18)"
 link: "https://developer.apple.com/videos/play/wwdc2018/803"
-author: N/A
+author: Apple
 published_date: "19/05/2024"
-description: ""
+description: "Discover the techniques used to create the fluid gestural interface of iPhone X. Learn how to design with gestures and motion that feel intuitive and natural, making your app a delight to use."
 language: en
 categories:
-- Liens
+- Vidéos
 
 tags:
 - "apple"

@@ -13,4 +13,4 @@ og-tags: "journalisme presse documentaire design vidéos"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qatil6kmM9M?si=9e3qzKnAS90dBvwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hqlGwWyuPZQ?si=qjGiJuRlJ3pfngDl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

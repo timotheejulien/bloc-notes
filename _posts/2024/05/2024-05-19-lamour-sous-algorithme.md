@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "L'amour sous algorithme"
-link: "https://video.ploud.fr/w/15b98ab8-bb6c-4a76-8c37-599866eb89e1"
-author: N/A
+link: "https://www.france.tv/documentaires/documentaires-societe/a-l-epreuve-des-reseaux/3014481-l-amour-sous-algorithme.html"
+author: Jérôme Clément-Wilz
 published_date: "19/05/2024"
-description: ""
-language: en
+description: "Deux milliards de matchs chaque jour sur le site de rencontre Tinder et trois milliards en une seule journée en plein confinement : un record historique pour cette application. Quel est l'impact des applications de rencontre sur les vies amoureuses ? Peut-on aimer librement après une rencontre prédéterminée ? Des couples durables sont-ils susceptibles de se former grâce à ces coups de pouces informatiques ? Miroir aux alouettes ou vraies possibilités de relations ? Entre espoirs et désarrois amoureux, enquête sur l'amour au temps des algorithmes."
+language: fr
 categories:
-- Liens
+- Vidéos
 
 tags:
 - "vie-privée"
