@@ -2,12 +2,12 @@
 layout: post
 title: "Comment la chine contrôle 1,5 milliard de personnes"
 link: "https://www.youtube.com/watch?v=wOLXdjKuxng"
-author: N/A
+author: Tev
 published_date: "19/05/2024"
-description: ""
+description: "Tev explique le fonctionnement de WeChat et de ses dérives."
 language: fr
 categories:
-- Liens
+- Vidéos
 
 tags:
 - "vie-privée"
@@ -19,3 +19,5 @@ tags:
 og-tags: "vie-privée, app, surveillance, vidéos, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hf_KFA5Idac?si=pIxMeqyLrcNQvI8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

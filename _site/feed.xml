@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-01T21:46:54+01:00</updated>
+   <updated>2025-02-02T10:26:27+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -623,9 +623,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>L'histoire de la police la plus injustement détestée</title>
-         <link href="/liens/2024/12/16/histoire-dela-police-la-plus-injustement-detestee/"/>
+         <link href="/vid%C3%A9os/2024/12/16/histoire-dela-police-la-plus-injustement-detestee/"/>
          <updated>2024-12-16T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2024/12/16/histoire-dela-police-la-plus-injustement-detestee/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/12/16/histoire-dela-police-la-plus-injustement-detestee/</id>
 
          <content type="html">
             Dans cette vidéo je vous explique pourquoi certaines marques décident de se faire conceptualiser une police d&apos;écriture personnalisée, quels sont les motivations derrière ce choix et ensuite, je crée ma propre police d&apos;écriture pour l&apos;intégrer à mon nouveau site web.
@@ -722,9 +722,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>« OSINT : du journalisme au design », un documentaire du Media Design Lab</title>
-         <link href="/liens/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/"/>
+         <link href="/vid%C3%A9os/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/"/>
          <updated>2024-12-11T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/</id>
 
          <content type="html">
             L&apos;enquête journalistique se définit par un travail de terrain et une récolte d&apos;information en situation. L&apos;introduction des technologies numériques ces dernières décennies a amené une évolution des méthodes liées à l&apos;investigation. Ainsi, de nombreux journalistes à travers le monde développent depuis les années 2000 une pratique appelée OSINT pour « Open Source INTelligence » qui permet désormais de documenter le réel autrement. Le design joue aujourd&apos;hui un rôle central dans la mise en œuvre de ces nouvelles pratiques d&apos;enquête.
@@ -1626,12 +1626,12 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
    
       <entry>
          <title>L'attaque informatique la plus sophistiquée de l'Histoire</title>
-         <link href="/liens/2024/11/06/lattaque-informatique-la-plus-sophistiquee-de-lhistoire.md/"/>
+         <link href="/vid%C3%A9os/2024/11/06/lattaque-informatique-la-plus-sophistiquee-de-lhistoire.md/"/>
          <updated>2024-11-06T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/2024/11/06/lattaque-informatique-la-plus-sophistiquee-de-lhistoire.md/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/11/06/lattaque-informatique-la-plus-sophistiquee-de-lhistoire.md/</id>
 
          <content type="html">
-            Micode parle de la backdoor sur xz
+            Micode parle de la backdoor sur xz.
          </content>
       </entry>
    
@@ -2748,14 +2748,12 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
    
       <entry>
          <title>Pourquoi nos pistes cyclables sont nulles ?</title>
-         <link href="/liens/2024/05/31/pourquoi-nos-pistes-cyclables-sont-nulles/"/>
+         <link href="/vid%C3%A9os/2024/05/31/pourquoi-nos-pistes-cyclables-sont-nulles/"/>
          <updated>2024-05-31T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/31/pourquoi-nos-pistes-cyclables-sont-nulles/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/31/pourquoi-nos-pistes-cyclables-sont-nulles/</id>
 
          <content type="html">
-            Pourquoi nos pistes cyclables sont nulles ?
-Entre 2019 et 2022, la mortalité à vélo a bondi de 31 % en France. Et pour cause, nos pistes cyclables sont dangereuses. Le résultat de décisions politiques prises dans les années 70 en faveur du modèle tout-voiture, qui ont grandement retardé la modernisation de nos infrastructures. Mais tandis que la France tournait le dos aux vélos, d&apos;autres pays ont fait de la construction de pistes cyclables une spécialité.
-Qu&apos;est-ce qui cloche avec nos pistes cyclables ? Et comment les améliorer ? On vous emmène à Copenhague, voir comment la capitale danoise est devenue l&apos;eldorado des cyclistes, mais aussi - et c&apos;est moins connu -, comment des villes comme Bogota ou Séville ont viré cyclistes en deux temps trois mouvements.
+            Pourquoi nos pistes cyclables sont nulles ? Entre 2019 et 2022, la mortalité à vélo a bondi de 31 % en France. Et pour cause, nos pistes cyclables sont dangereuses. Le résultat de décisions politiques prises dans les années 70 en faveur du modèle tout-voiture, qui ont grandement retardé la modernisation de nos infrastructures. Mais tandis que la France tournait le dos aux vélos, d&apos;autres pays ont fait de la construction de pistes cyclables une spécialité. Qu&apos;est-ce qui cloche avec nos pistes cyclables ? Et comment les améliorer ? On vous emmène à Copenhague, voir comment la capitale danoise est devenue l&apos;eldorado des cyclistes, mais aussi - et c&apos;est moins connu -, comment des villes comme Bogota ou Séville ont viré cyclistes en deux temps trois mouvements.
          </content>
       </entry>
    
@@ -6084,12 +6082,12 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>Comment la chine contrôle 1,5 milliard de personnes</title>
-         <link href="/liens/2024/05/19/comment-la-chine-contrle-15-milliard-de-personnes/"/>
+         <link href="/vid%C3%A9os/2024/05/19/comment-la-chine-contrle-15-milliard-de-personnes/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/comment-la-chine-contrle-15-milliard-de-personnes/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/comment-la-chine-contrle-15-milliard-de-personnes/</id>
 
          <content type="html">
-            
+            Tev explique le fonctionnement de WeChat et de ses dérives.
          </content>
       </entry>
    

@@ -4,10 +4,10 @@ title: "L'attaque informatique la plus sophistiquée de l'Histoire"
 link: "https://www.youtube.com/watch?v=WQBLPYToLME&t=313s"
 author: "Micode"
 published_date: "05/11/2024"
-description: "Micode parle de la backdoor sur xz"
+description: "Micode parle de la backdoor sur xz."
 language: "fr"
 categories: 
-   - Liens
+   - Vidéos
 tags: "hacking vidéos web open-source"
 og-tags: "hacking vidéos web open-source"
 permalink: /:categories/:year/:month/:day/:title/
