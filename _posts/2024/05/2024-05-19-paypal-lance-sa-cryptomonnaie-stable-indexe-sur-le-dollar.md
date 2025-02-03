@@ -9,10 +9,8 @@ language: fr
 categories:
 - Liens
 
-tags:
-- "crypto"
-- "paypal"
+tags: "paypal"
 
-og-tags: "crypto, paypal"
+og-tags: "paypal"
 permalink: /:categories/:year/:month/:day/:title/
 ---
