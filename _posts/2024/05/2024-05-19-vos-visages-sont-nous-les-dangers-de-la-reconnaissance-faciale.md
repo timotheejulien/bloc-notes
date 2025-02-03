@@ -9,8 +9,8 @@ language: fr
 categories:
 - Liens
 
-tags: "vie-privée surveillance clearview vidéos big-data"
+tags: "vie-privée surveillance vidéos big-data"
 
-og-tags: "vie-privée, surveillance, clearview, vidéos, big-data"
+og-tags: "vie-privée, surveillance, vidéos, big-data"
 permalink: /:categories/:year/:month/:day/:title/
 ---
