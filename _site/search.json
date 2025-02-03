@@ -1,6 +1,34 @@
 [
       
             {
+                  "title"    : "The paradox of UX personalization",
+                  "url"      : "/liens/2025/02/03/the-paradox-of-ux-personalization/",
+                  "tags"     : "design, ia, ux"
+            } 
+      ,
+  
+            {
+                  "title"    : "Pourquoi je n’utilise pas ChatGPT",
+                  "url"      : "/liens/2025/02/03/pourquoi-je-nutiliserai-pas-chatgpt/",
+                  "tags"     : "ia, openai, chatgpt"
+            } 
+      ,
+  
+            {
+                  "title"    : "Automation in retail is even worse than you thought",
+                  "url"      : "/liens/2025/02/03/automation-in-retail-is-even-worse-than-you-thought/",
+                  "tags"     : "surveillance, consommation, vie-privée, économie"
+            } 
+      ,
+  
+            {
+                  "title"    : "4 tips for overcoming analysis paralisys ",
+                  "url"      : "/liens/2025/02/03/analysis-paralysis/",
+                  "tags"     : "design, ux, méthodologie"
+            } 
+      ,
+  
+            {
                   "title"    : "UX is easy, but we made it complicated",
                   "url"      : "/liens/2025/02/02/ux-is-easy-but-we-made-it-complicated/",
                   "tags"     : "design, ux, méthodologie"
@@ -885,7 +913,7 @@
             {
                   "title"    : "Vivaldi et l’Open Source",
                   "url"      : "/liens/2024/11/11/vivaldi-et-open-source/",
-                  "tags"     : "web, app, navigateur, open-source, vivaldi"
+                  "tags"     : "web, app, navigateur, open-source"
             } 
       ,
   
@@ -1963,7 +1991,7 @@
             {
                   "title"    : "Vos visages sont à nous : les dangers de la reconnaissance faciale",
                   "url"      : "/liens/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/",
-                  "tags"     : "vie-privée, surveillance, clearview, vidéos, big-data"
+                  "tags"     : "vie-privée, surveillance, vidéos, big-data"
             } 
       ,
   
@@ -2320,7 +2348,7 @@
             {
                   "title"    : "Quels appareils consomment le plus d’électricité à la maison ?",
                   "url"      : "/liens/2024/05/19/quels-appareils-consomment-le-plus-dlectricit-la-maison/",
-                  "tags"     : "écologie, société, énergie"
+                  "tags"     : "écologie société consommation"
             } 
       ,
   
@@ -2488,7 +2516,7 @@
             {
                   "title"    : "PayPal lance sa cryptomonnaie stable, indexée sur le dollar",
                   "url"      : "/liens/2024/05/19/paypal-lance-sa-cryptomonnaie-stable-indexe-sur-le-dollar/",
-                  "tags"     : "crypto, paypal"
+                  "tags"     : "paypal"
             } 
       ,
   
@@ -4068,9 +4096,9 @@
       ,
   
             {
-                  "title"    : "apple’s new vision pro is a privacy mess waiting to happen",
+                  "title"    : "Apple’s new Vision Pro is a privacy mess waiting to happen",
                   "url"      : "/liens/2024/05/19/apples-new-vision-pro-is-a-privacy-mess-waiting-to-happen/",
-                  "tags"     : "vie-privée, surveillance, apple, vision-pro"
+                  "tags"     : "vie-privée, surveillance, apple, vision-pro, device"
             } 
       ,
   

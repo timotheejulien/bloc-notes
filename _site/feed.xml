@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-02T18:28:09+01:00</updated>
+   <updated>2025-02-03T22:07:35+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>The paradox of UX personalization</title>
+         <link href="/liens/2025/02/03/the-paradox-of-ux-personalization/"/>
+         <updated>2025-02-03T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/03/the-paradox-of-ux-personalization/</id>
+
+         <content type="html">
+            AI-driven UX curates familiarity, but in doing so, it narrows the path to new experiences.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Pourquoi je n’utilise pas ChatGPT</title>
+         <link href="/liens/2025/02/03/pourquoi-je-nutiliserai-pas-chatgpt/"/>
+         <updated>2025-02-03T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/03/pourquoi-je-nutiliserai-pas-chatgpt/</id>
+
+         <content type="html">
+            En tant qu’enseignante-chercheuse en informatique, j’ai lu l’article fondateur On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?1 en 2021. Tous les effets négatifs observés des grands modèles de langage et des IAs génératives sont annoncés dans cet article, comme le dit d’ailleurs l’une des autrices dans un entretien récent. Quand j’ai été confrontée personnellement à des textes rendus par des étudiant·es et écrits par ChatGPT, dès janvier 2023, ma méfiance a priori pour cette branche du numérique a commencé à s’incarner dans l’expérience personnelle. Depuis j’accumule des articles et des prises de position sur ce phénomène, mais je n’ai jamais été tentée d’essayer moi-même. Avant de faire un tour d’horizon des divers arguments qui m’ont fait refuser absolument l’usage — et critiquer vertement le développement — des IAs génératives en tout genre, que ce soit dans l’enseignement supérieur ou ailleurs, précisons un peu le sujet.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Automation in retail is even worse than you thought</title>
+         <link href="/liens/2025/02/03/automation-in-retail-is-even-worse-than-you-thought/"/>
+         <updated>2025-02-03T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/03/automation-in-retail-is-even-worse-than-you-thought/</id>
+
+         <content type="html">
+            New technology is not just making shopping more challenging for workers and consumers—it’s poised to rip off the most vulnerable.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>4 tips for overcoming analysis paralisys </title>
+         <link href="/liens/2025/02/03/analysis-paralysis/"/>
+         <updated>2025-02-03T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/03/analysis-paralysis/</id>
+
+         <content type="html">
+            Analysis paralysis is the inability to make a decision due to overthinking or an abundance of choice. If you’re suffering from indecision, here are a few tips on how you can combat analysis paralysis when it happens.
+         </content>
+      </entry>
    
       <entry>
          <title>UX is easy, but we made it complicated</title>
@@ -3667,7 +3711,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/19/quels-appareils-consomment-le-plus-dlectricit-la-maison/</id>
 
          <content type="html">
-             Chauffage, frigo, télé... Visualisez les grands postes de dépense et les pistes d’actions pour réduire sa consommation, alors que le prix de l’électricité augmente de près de 10 % en février. 
+            Chauffage, frigo, télé... Visualisez les grands postes de dépense et les pistes d’actions pour réduire sa consommation, alors que le prix de l’électricité augmente de près de 10 % en février. 
          </content>
       </entry>
    
@@ -6413,13 +6457,13 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>apple’s new vision pro is a privacy mess waiting to happen</title>
+         <title>Apple’s new Vision Pro is a privacy mess waiting to happen</title>
          <link href="/liens/2024/05/19/apples-new-vision-pro-is-a-privacy-mess-waiting-to-happen/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/apples-new-vision-pro-is-a-privacy-mess-waiting-to-happen/</id>
 
          <content type="html">
-            
+            The Vision Pro brings us a whole new dimension of privacy risks. Apple appears to have only partial solutions. 
          </content>
       </entry>
    
