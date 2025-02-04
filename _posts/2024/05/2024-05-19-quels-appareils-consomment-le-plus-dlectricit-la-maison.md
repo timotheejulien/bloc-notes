@@ -9,9 +9,7 @@ language: fr
 categories:
 - Liens
 
-tags:
-- "écologie société consommation"
-
+tags: "écologie société consommation"
 og-tags: "écologie, société, consommation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

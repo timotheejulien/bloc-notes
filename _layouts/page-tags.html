@@ -5,7 +5,7 @@
 
    <h1 id="page-categories-title" class="h2">Tags</h1>
    <div class="page-categories-mobile">
-      <ul class="card">
+      <ul class="card sort-by-alphabetical">
          {%- assign sorted_tags = site.tags | sort -%}  <!-- Trie les tags alphabétiquement -->
          {%- for tag in sorted_tags -%}
          <li>
