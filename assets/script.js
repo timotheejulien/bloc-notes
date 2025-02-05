@@ -1,3 +1,4 @@
+//DISPLAY OR NOT THE SEARCH MODAL
 function mailTo() {
 	var $mailToEmail = "email@timotheejulien.fr";
 	var $mailToSubject = "Notes caséologiques : prise de contact";
@@ -10,6 +11,18 @@ function search_modal() {
 	document.getElementById("search-input").focus();
 }
 
+document.addEventListener("keydown", function(event) {  
+   if (event.key === "Escape") {  
+       let input = document.getElementById("search-input");  
+       if (input) {
+           input.value = ""; // Efface le contenu de l'input
+       }
+       search_modal();  
+   }  
+});
+
+
+//SORT BY ALPHABETICAL ANY UL LIST WITH "sort-by-alphabetical" CLASS
 document.addEventListener("DOMContentLoaded", function() {
    document.querySelectorAll("ul.sort-by-alphabetical").forEach(ul => {
        let items = Array.from(ul.querySelectorAll("li"));

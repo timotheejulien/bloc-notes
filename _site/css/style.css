@@ -337,7 +337,7 @@ body {
    font-weight: 450;
    line-height: 1.2;
    letter-spacing: .4px;
-   color: var(--color-text-primary);
+   color: var(--color-text-secondary);
 }
 
 #search-input:focus {
