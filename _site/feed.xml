@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-05T16:09:45+01:00</updated>
+   <updated>2025-02-07T12:06:01+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Retour d'expérience : audit de conformité RGESN pour Les Champs Libres</title>
+         <link href="/liens/2025/02/07/retour-dexperience-les-champs-libres-et-le-rgesn/"/>
+         <updated>2025-02-07T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/07/retour-dexperience-les-champs-libres-et-le-rgesn/</id>
+
+         <content type="html">
+            Avec Les Champs Libres nous avons pu réaliser notre premier audit RGESN version ARCEP de bout en bout. On vous raconte.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>De la décadence technologique et des luddites technophiles</title>
+         <link href="/liens/2025/02/06/decadence-technologique/"/>
+         <updated>2025-02-06T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/06/decadence-technologique/</id>
+
+         <content type="html">
+            Thierry s’essaie à publier son blog sur le réseau Gemini, mais a du mal avec le format minimaliste. Qui est justement pour moi la meilleure partie du protocole Gemini.
+         </content>
+      </entry>
    
       <entry>
          <title>OpenAI: rebranding</title>
