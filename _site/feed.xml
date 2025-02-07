@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-07T12:06:01+01:00</updated>
+   <updated>2025-02-07T15:54:07+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Avec Les Champs Libres nous avons pu réaliser notre premier audit RGESN version ARCEP de bout en bout. On vous raconte.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Sauvegarde iCloud : le gouvernement britannique aurait demandé à Apple de briser son chiffrement de bout en bout</title>
+         <link href="/liens/2025/02/07/le-gouvernement-britannique-aurait-formellement-demande-apple-de-briser-son-chiffrement-de-bout-en-bout/"/>
+         <updated>2025-02-07T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/07/le-gouvernement-britannique-aurait-formellement-demande-apple-de-briser-son-chiffrement-de-bout-en-bout/</id>
+
+         <content type="html">
+            Le gouvernement britannique veut la peau du chiffrement de bout en bout. Selon le Washington Post, Apple aurait reçu pour ordre de créer une porte dérobée permettant d’accéder au contenu chiffré de tous les utilisateurs d’iCloud. Cette demande ne concerne pas la possibilité d’accéder à des comptes spécifiques : le régulateur aurait exigé l’accès à n’importe quel fichier chiffré envoyé sur iCloud par n’importe quel utilisateur à travers le monde, britannique ou non. Si elle cède à cette pression, Cupertino n’aurait même pas le droit de prévenir ses clients que leur service n’est plus entièrement sécurisé.
          </content>
       </entry>
    
