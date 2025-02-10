@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "microsoft study finds AI makes human cognition « atrophied and unprepared »"
+title: "Microsoft study finds AI makes human cognition « atrophied and unprepared »"
 link: https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/
 author: "Emanuel Maiberg"
 published_date: "10/02/2025"
-description: ""
+description: "Researchers find that the more people use AI at their job, the less critical thinking they use."
 language: "en"
 categories: "Liens"
 tags: "ia"
