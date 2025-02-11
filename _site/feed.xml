@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-11T08:03:35+01:00</updated>
+   <updated>2025-02-11T14:09:49+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             A custom typeface family for Mozilla by Studio DRAMA. The Mozilla type family has two styles: Mozilla Headline and Mozilla Text.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Decathlon, champion de l’exploitation</title>
+         <link href="/liens/2025/02/11/decathlon-champion-de-lexploitation/"/>
+         <updated>2025-02-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/11/decathlon-champion-de-lexploitation/</id>
+
+         <content type="html">
+            Un an d’enquête au cœur du système Decathlon. Documents confidentiels et témoignages inédits de salarié·es à l’appui, Disclose révèle les graves conséquences humaines et écologiques de la stratégie « low cost » du géant français du sport.
          </content>
       </entry>
    
