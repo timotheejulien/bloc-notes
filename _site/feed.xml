@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-12T09:05:02+01:00</updated>
+   <updated>2025-02-17T20:47:03+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>From a turntable to an iPad Home dashboard: my first experience with vinyl</title>
+         <link href="/liens/2025/02/17/from-a-turntable-to-an-ipad-home-dashboard-my-first-experience-with-vinyl/"/>
+         <updated>2025-02-17T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/17/from-a-turntable-to-an-ipad-home-dashboard-my-first-experience-with-vinyl/</id>
+
+         <content type="html">
+            Dans son article, Niléane raconte comment l&apos;installation d&apos;un tourne-disque inutilisé a conduit à une transformation technologique de son salon. Confrontée au défi de connecter le tourne-disque à des HomePod minis dépourvus de connexion filaire, elle a utilisé un iPad Pro et l&apos;application Quanta pour diffuser le son via AirPlay. Cette configuration a également permis à l&apos;iPad de servir de tableau de bord pour contrôler les appareils HomeKit. Cependant, elle souligne les limitations logicielles d&apos;Apple, notamment l&apos;absence de support multi-utilisateur sur iPadOS, ce qui l&apos;a obligée à créer un compte Apple dédié pour partager l&apos;iPad en toute sécurité.
+         </content>
+      </entry>
    
       <entry>
          <title>Les sacrifiés de l'IA</title>
