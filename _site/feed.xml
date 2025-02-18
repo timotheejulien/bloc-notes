@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-18T13:11:11+01:00</updated>
+   <updated>2025-02-18T16:19:42+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -32,6 +32,17 @@
 
          <content type="html">
             Un blogueur que j’aime beaucoup, Gee, revient sur ses 10 ans de blogging. Cela me fascine de voir l’envers du décor des autres créateurs. Gee pense avoir fait l’erreur de ne pas profiter de la vague d’enthousiasme qu’à connu son Geektionnerd et de ne pas en avoir profité pour faire plus de promo.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Chinese app design: weird, but it works. Here's why</title>
+         <link href="/vid%C3%A9os/2025/02/18/chinese-app-design-weird-but-it-works-heres-why/"/>
+         <updated>2025-02-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/02/18/chinese-app-design-weird-but-it-works-heres-why/</id>
+
+         <content type="html">
+            Chinese app design looks weird. But, they work just as well as other apps and websites around the world. Why is that? I mean, it&apos;s cluttered, overwhelming for the eyes, and kinda just throws a bunch of things at you. Turns out, beneath the incredibly cluttered user interface lies undeniable psychology. In this video, I cover why this « cluttered and weird » design is necessary, how physical space correlates with Chinese software design, why Chinese users might prefer mobile over desktop altogether, and how all of this impacts us.
          </content>
       </entry>
    
