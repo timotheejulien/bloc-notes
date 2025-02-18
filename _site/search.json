@@ -1,9 +1,30 @@
 [
       
             {
+                  "title"    : "No, privacy is not dead: beware the all-or-nothing mindset",
+                  "url"      : "/liens/2025/02/18/privacy-is-not-dead/",
+                  "tags"     : "vie-privée"
+            } 
+      ,
+  
+            {
+                  "title"    : "Le succès existe-t-il ?",
+                  "url"      : "/liens/2025/02/18/le-succes/",
+                  "tags"     : "blog"
+            } 
+      ,
+  
+            {
                   "title"    : "From a turntable to an iPad Home dashboard: my first experience with vinyl",
                   "url"      : "/liens/2025/02/17/from-a-turntable-to-an-ipad-home-dashboard-my-first-experience-with-vinyl/",
                   "tags"     : "musique, apple"
+            } 
+      ,
+  
+            {
+                  "title"    : "Bringing quote posts to Mastodon",
+                  "url"      : "/liens/2025/02/16/bringing-quote-posts-to-mastodon/",
+                  "tags"     : "mastodon, réseau-social"
             } 
       ,
   

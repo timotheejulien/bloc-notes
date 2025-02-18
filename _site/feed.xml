@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-17T20:47:03+01:00</updated>
+   <updated>2025-02-18T13:11:11+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,28 @@
 
    
       <entry>
+         <title>No, privacy is not dead: beware the all-or-nothing mindset</title>
+         <link href="/liens/2025/02/18/privacy-is-not-dead/"/>
+         <updated>2025-02-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/18/privacy-is-not-dead/</id>
+
+         <content type="html">
+            In my work as a privacy advocate, I regularly encounter two types of discourse that I find very damaging to privacy as a whole. The first one is the idea that privacy is dead, implying it&apos;s not worth putting any effort to protect personal data anymore. This is the abdication mindset. This attitude is the one that scares me the most because without giving it a fight then of course the battle is lost in advance. Like a self-fulfilling prophecy, privacy is dead if you let it die.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Le succès existe-t-il ?</title>
+         <link href="/liens/2025/02/18/le-succes/"/>
+         <updated>2025-02-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/18/le-succes/</id>
+
+         <content type="html">
+            Un blogueur que j’aime beaucoup, Gee, revient sur ses 10 ans de blogging. Cela me fascine de voir l’envers du décor des autres créateurs. Gee pense avoir fait l’erreur de ne pas profiter de la vague d’enthousiasme qu’à connu son Geektionnerd et de ne pas en avoir profité pour faire plus de promo.
+         </content>
+      </entry>
+   
+      <entry>
          <title>From a turntable to an iPad Home dashboard: my first experience with vinyl</title>
          <link href="/liens/2025/02/17/from-a-turntable-to-an-ipad-home-dashboard-my-first-experience-with-vinyl/"/>
          <updated>2025-02-17T00:00:00+01:00</updated>
@@ -21,6 +43,17 @@
 
          <content type="html">
             Dans son article, Niléane raconte comment l&apos;installation d&apos;un tourne-disque inutilisé a conduit à une transformation technologique de son salon. Confrontée au défi de connecter le tourne-disque à des HomePod minis dépourvus de connexion filaire, elle a utilisé un iPad Pro et l&apos;application Quanta pour diffuser le son via AirPlay. Cette configuration a également permis à l&apos;iPad de servir de tableau de bord pour contrôler les appareils HomeKit. Cependant, elle souligne les limitations logicielles d&apos;Apple, notamment l&apos;absence de support multi-utilisateur sur iPadOS, ce qui l&apos;a obligée à créer un compte Apple dédié pour partager l&apos;iPad en toute sécurité.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Bringing quote posts to Mastodon</title>
+         <link href="/liens/2025/02/16/bringing-quote-posts-to-mastodon/"/>
+         <updated>2025-02-16T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/16/bringing-quote-posts-to-mastodon/</id>
+
+         <content type="html">
+            Quote Posts are a popular feature of many social media platforms. They offer the ability to share another person&apos;s post to one&apos;s own followers, while adding a comment. We want to share our thinking process in implementing Quote Posts in Mastodon, and explain why it has taken us some time to do so.
          </content>
       </entry>
    
