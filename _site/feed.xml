@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-23T12:02:53+01:00</updated>
+   <updated>2025-02-24T20:49:05+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Legible</title>
+         <link href="/liens/2025/02/24/legible/"/>
+         <updated>2025-02-24T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/24/legible/</id>
+
+         <content type="html">
+            How and why typography affecte rase of reading
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Fin ou transformation d’un métier</title>
+         <link href="/liens/2025/02/24/fin-ou-transformation-dun-metier/"/>
+         <updated>2025-02-24T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/24/fin-ou-transformation-dun-metier/</id>
+
+         <content type="html">
+            Éric se questionne sur l’évolution du métier de développeur au vu des possibilités futures de l’IA
+         </content>
+      </entry>
    
       <entry>
          <title>Severance — Music To Refine To</title>
