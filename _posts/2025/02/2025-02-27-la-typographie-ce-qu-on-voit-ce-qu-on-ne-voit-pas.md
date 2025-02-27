@@ -1,16 +1,16 @@
 ---
 layout: post
-title: ""
-link: ""
-author: ""
-published_date: ""
+title: "La typographie : ce qu'on voit, ce qu'on ne voit pas"
+link: "https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/la-typographie-ce-qu-on-voit-ce-qu-on-ne-voit-pas-6729837"
+author: "Le code a changé"
+published_date: "21/02/2023"
 description: ""
-language: ""
+language: "fr"
 categories: 
    - Liens
-   - Citations
-   - Vidéos
-tags: ""
-og-tags: ""
+tags: "design font"
+og-tags: "design font"
 permalink: /:categories/:year/:month/:day/:title/
 ---
+
+<iframe src="https://embed.radiofrance.fr/franceinter/diffusion/792a3aed-d974-4eb3-be11-433a934817b8" frameborder="0" width="100%" height="auto"></iframe>

@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-27T08:54:41+01:00</updated>
+   <updated>2025-02-27T08:58:00+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,10 +14,10 @@
 
    
       <entry>
-         <title></title>
-         <link href="/liens/citations/vid%C3%A9os/2025/02/27/la-typographie-ce-qu-on-voit-ce-qu-on-ne-voit-pas/"/>
+         <title>La typographie : ce qu'on voit, ce qu'on ne voit pas</title>
+         <link href="/liens/2025/02/27/la-typographie-ce-qu-on-voit-ce-qu-on-ne-voit-pas/"/>
          <updated>2025-02-27T00:00:00+01:00</updated>
-         <id>http://localhost:4000/liens/citations/vid%C3%A9os/2025/02/27/la-typographie-ce-qu-on-voit-ce-qu-on-ne-voit-pas/</id>
+         <id>http://localhost:4000/liens/2025/02/27/la-typographie-ce-qu-on-voit-ce-qu-on-ne-voit-pas/</id>
 
          <content type="html">
             
