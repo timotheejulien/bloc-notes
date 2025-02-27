@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-24T20:49:05+01:00</updated>
+   <updated>2025-02-27T08:54:41+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title></title>
+         <link href="/liens/citations/vid%C3%A9os/2025/02/27/la-typographie-ce-qu-on-voit-ce-qu-on-ne-voit-pas/"/>
+         <updated>2025-02-27T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/citations/vid%C3%A9os/2025/02/27/la-typographie-ce-qu-on-voit-ce-qu-on-ne-voit-pas/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Introducing a terms of use and updated privacy notice for Firefox</title>
+         <link href="/liens/2025/02/27/firefox-terms-of-use/"/>
+         <updated>2025-02-27T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/27/firefox-terms-of-use/</id>
+
+         <content type="html">
+            We’re introducing a Terms of Use for Firefox for the first time, along with an updated Privacy Notice. Why now? Although we’ve historically relied on our open source license for Firefox and public commitments to you, we are building in a much different technology landscape today. We want to make these commitments abundantly clear and accessible.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Quel futur désirable pour nos métiers du numérique ?</title>
+         <link href="/liens/2025/02/26/quel-futur-desirable-pour-nos-metiers-du-numerique/"/>
+         <updated>2025-02-26T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/26/quel-futur-desirable-pour-nos-metiers-du-numerique/</id>
+
+         <content type="html">
+            À l’occasion de la journée de l’écoconception numérique, j’ai pris le temps d’approfondir le sujet de l’impact psychosocial de l’intelligence artificielle sur nos métiers du numérique. Je vous propose donc une version enrichie de ce que j’ai pu raconter lors de cette présentation.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Pourquoi les jeunes sont devenus si nuls en informatique</title>
+         <link href="/liens/2025/02/25/pourquoi-les-jeunes-sont-devenus-si-nuls-en-informatique/"/>
+         <updated>2025-02-25T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/25/pourquoi-les-jeunes-sont-devenus-si-nuls-en-informatique/</id>
+
+         <content type="html">
+            Le bon sens populaire veut que les jeunes sont naturellement à l’aise avec les nouvelles technologies, comme l’informatique. Or, ce n’est plus vraiment le cas depuis des années, mais pourquoi ?
+         </content>
+      </entry>
    
       <entry>
          <title>Legible</title>
