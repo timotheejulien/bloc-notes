@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-28T18:10:51+01:00</updated>
+   <updated>2025-02-28T19:09:39+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -21,6 +21,17 @@
 
          <content type="html">
             Retour d&apos;expérience sur la création de Mistral AI
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Fire­fox, cœur du web ouvert</title>
+         <link href="/liens/2025/02/28/firefox-coeur-du-web-ouvert/"/>
+         <updated>2025-02-28T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/02/28/firefox-coeur-du-web-ouvert/</id>
+
+         <content type="html">
+            Fire­fox ce n’est pas juste un navi­ga­teur. Sans Mozilla et Fire­fox, nous n’au­rions pas le web libre d’aujourd’­hui. Sans Mozilla et Fire­fox nous n’en auront peut-être plus demain, ou plus sous cette forme. Rien que ça.
          </content>
       </entry>
    
