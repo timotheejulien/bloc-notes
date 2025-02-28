@@ -482,6 +482,10 @@ body {
    border-radius: 2px;
 }
 
+.article-icon-bookBookmark {
+   background-image: url( '/assets/images/icon-book-bookmark-light.svg' );
+}
+
 .article-icon-Liens {
    background-image: url( '/assets/images/icon-link-light.svg' );
 }
@@ -584,11 +588,13 @@ ul.listing li {
 }
 
 .pagination ul li a {
-   width: 48px;
+   min-width: 48px;
    height: 48px;
+   padding: var(--space-none) var(--space-regular) var(--space-none) var(--space-regular);
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
+   gap: var(--space-small);
    justify-content: center;
    align-items: normal;
    align-content: center;
@@ -874,6 +880,10 @@ ul.footer-nav li {
 
    img {
       filter: brightness(.8) contrast(1.2);
+   }
+
+   .article-icon-bookBookmark {
+      background-image: url( '/assets/images/icon-book-bookmark-dark.svg' );
    }
 
    .article-icon-Liens {

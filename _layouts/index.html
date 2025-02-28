@@ -3,13 +3,17 @@
 <main class="main container">
    {% include nav.html %}
 
-   <div class="sub-main">
+   <div class="list-article">
+      <header class="page-header-tag">
+         <div class="page-header-icon article-icon-bookBookmark"></div>
+         <h1 class="h2 page-title-tag">Notes</h1>
+      </header>
       <section class="list-article">
          {% for post in paginator.posts %}
          <article class="article">
             <header>
                <div class="article-icon">
-                  <img src="https://favicon.im/{{ post.link }}" alt="Favicon" />
+                  <img src="https://favicon.im/{{ post.link }}" alt="Favicon du lien : {{ post.link }}" />
                </div>
                <div class="article-meta">
                   <p>{{ post.author }} • {{ post.published_date }}</p>
@@ -34,7 +38,7 @@
       <section class="pagination">
          <ul>
             {% if paginator.previous_page %}
-            <li><a href="{{ paginator.previous_page_path }}"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path></svg></a></li>
+            <li><a href="{{ paginator.previous_page_path }}"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path></svg>Précédent</a></li>
             {% endif %}
          
             {% for i in (1..paginator.total_pages) %}
@@ -42,7 +46,7 @@
             {% endfor %}
          
             {% if paginator.next_page %}
-            <li><a href="{{ paginator.next_page_path }}"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"></path></svg></a></li>
+            <li><a href="{{ paginator.next_page_path }}">Suivant<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"></path></svg></a></li>
             {% endif %}
          </ul>
       </section>
