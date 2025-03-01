@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-03-01T09:32:52+01:00</updated>
+   <updated>2025-03-01T09:40:22+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Avec la loi Narcotrafic, Signal quittera la France</title>
+         <link href="/liens/2025/03/01/avec-la-loi-narcotrafic-signal-quittera-la-france/"/>
+         <updated>2025-03-01T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/01/avec-la-loi-narcotrafic-signal-quittera-la-france/</id>
+
+         <content type="html">
+            La présidente de la fondation Signal a affirmé publiquement qu&apos;elle ne distribuerait plus la messagerie sécurisée au sein des pays ayant voté des lois visant à interdire ou amoindrir le chiffrement.
+         </content>
+      </entry>
    
       <entry>
          <title>L'IA open source peut-elle tuer ChatGPT ? (interview Mistral AI)</title>

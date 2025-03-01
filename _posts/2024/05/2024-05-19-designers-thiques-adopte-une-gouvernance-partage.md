@@ -11,9 +11,8 @@ categories:
 
 tags:
 - "design"
-- "association"
 - "retour-expérience"
 
-og-tags: "design, association, retour-expérience"
+og-tags: "design, retour-expérience"
 permalink: /:categories/:year/:month/:day/:title/
 ---

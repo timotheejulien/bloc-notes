@@ -11,9 +11,8 @@ categories:
 
 tags:
 - "design"
-- "airbnb"
 - "stratégie-business"
 
-og-tags: "design, airbnb, stratégie-business"
+og-tags: "design, stratégie-business"
 permalink: /:categories/:year/:month/:day/:title/
 ---
