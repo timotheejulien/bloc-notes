@@ -10,12 +10,11 @@ categories:
 - Vidéos
 
 tags:
-- "vidéos"
 - "web"
 - "documentaire"
 - "rss"
 
-og-tags: "vidéos, web, documentaire, rss"
+og-tags: "web, documentaire, rss"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-02-28T19:09:39+01:00</updated>
+   <updated>2025-03-01T09:32:52+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -3507,13 +3507,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Vos visages sont à nous : les dangers de la reconnaissance faciale</title>
-         <link href="/liens/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/"/>
+         <title>Vos visages sont à nous : les dangers de la reconnaissance faciale</title>
+         <link href="/vid%C3%A9os/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/</id>
 
          <content type="html">
-            
+            La société américaine Clearview AI est l’une des entreprises de reconnaissance faciale les plus controversées de la planète. Les algorithmes de Clearview AI collectent les visages en ligne. L’entreprise s’est constituée une base de données de plusieurs milliards d’images, dont une bonne partie proviennent des réseaux sociaux. Ces données biométriques obtenues sans le consentement des intéressés, Clearview les met à la disposition des polices américaines et d’autres agences de sécurité. Officiellement, pour lutter contre la criminalité. Jessica Le Masurier et Roméo Langlois ont exploré la face sombre de Clearview AI : liens avec l’extrême-droite, surveillance de masse, ciblage des minorités, impacts de la reconnaissance faciale dans les sociétés démocratiques.
          </content>
       </entry>
    
@@ -3948,9 +3948,9 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
    
       <entry>
          <title>« Sky Dome 2123 », somptueux film d’animation SF sur l’effondrement climatique</title>
-         <link href="/liens/2024/05/19/sky-dome-2123-somptueux-film-danimation-sf-sur-leffondrement-climatique/"/>
+         <link href="/vid%C3%A9os/2024/05/19/sky-dome-2123-somptueux-film-danimation-sf-sur-leffondrement-climatique/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/2024/05/19/sky-dome-2123-somptueux-film-danimation-sf-sur-leffondrement-climatique/</id>
+         <id>http://localhost:4000/vid%C3%A9os/2024/05/19/sky-dome-2123-somptueux-film-danimation-sf-sur-leffondrement-climatique/</id>
 
          <content type="html">
             Récompensé d’un Méliès d’argent à Strasbourg, Sky Dome 2123 projette un monde où l’effondrement climatique oblige l’humanité à adopter des techniques de survie propres à l’hybridation. Premier long-métrage des réalisateurs Tibor Bánóczki et Sarolta Szabó, ce film post-apocalyptique se différencie tant par son message que par son animation singulière. À découvrir en salle ce mercredi 24 avril.
@@ -6369,7 +6369,7 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>Cybermonde - l'avenir c'est maintenant</title>
+         <title>Cybermonde - L'avenir c'est maintenant</title>
          <link href="/vid%C3%A9os/2024/05/19/cybermonde-lavenir-cest-maintenant/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/vid%C3%A9os/2024/05/19/cybermonde-lavenir-cest-maintenant/</id>

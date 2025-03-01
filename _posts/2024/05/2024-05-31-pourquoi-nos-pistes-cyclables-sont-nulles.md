@@ -10,11 +10,10 @@ categories:
 - Vidéos
 
 tags:
-- "vidéos"
 - "documentaire"
 - "vélo"
 
-og-tags: "vidéos, documentaire, vélo"
+og-tags: "documentaire, vélo"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

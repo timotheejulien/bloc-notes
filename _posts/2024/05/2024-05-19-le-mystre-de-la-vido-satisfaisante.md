@@ -12,10 +12,9 @@ categories:
 tags:
 - "réseau-social"
 - "société"
-- "vidéos"
 - "science"
 
-og-tags: "Réseau social, société, vidéos, science"
+og-tags: "Réseau social, société, science"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

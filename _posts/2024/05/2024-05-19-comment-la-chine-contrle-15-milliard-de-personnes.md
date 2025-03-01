@@ -13,11 +13,10 @@ tags:
 - "vie-privée"
 - "app"
 - "surveillance"
-- "vidéos"
 - "web"
 
-og-tags: "vie-privée, app, surveillance, vidéos, web"
+og-tags: "vie-privée, app, surveillance, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hf_KFA5Idac?si=pIxMeqyLrcNQvI8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wOLXdjKuxng?si=u56xf4eBDi-1-KWj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

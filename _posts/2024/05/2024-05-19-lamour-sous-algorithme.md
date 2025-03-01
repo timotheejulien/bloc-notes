@@ -9,10 +9,8 @@ language: fr
 categories:
 - Vidéos
 
-tags:
-- "vie-privée"
-- "vidéos"
+tags: "vie-privée app"
 
-og-tags: "vie-privée, vidéos"
+og-tags: "vie-privée, app"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -14,8 +14,7 @@ tags:
 - "design"
 - "ui"
 - "ux"
-- "vidéos"
 
-og-tags: "apple, design, ui, ux, vidéos"
+og-tags: "apple, design, ui, ux"
 permalink: /:categories/:year/:month/:day/:title/
 ---

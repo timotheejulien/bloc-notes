@@ -430,7 +430,7 @@
             {
                   "title"    : "10 ans de Netflix en France : qu&#39;est-ce que ça a changé ?",
                   "url"      : "/liens/2025/01/17/10-ans-de-netflix-en-france-quest-ce-que-ca-a-change/",
-                  "tags"     : "vidéos, netflix"
+                  "tags"     : "netflix"
             } 
       ,
   
@@ -654,7 +654,7 @@
             {
                   "title"    : "L&#39;histoire de la police la plus injustement détestée",
                   "url"      : "/vid%C3%A9os/2024/12/16/histoire-dela-police-la-plus-injustement-detestee/",
-                  "tags"     : "vidéos, font, design"
+                  "tags"     : "font, design"
             } 
       ,
   
@@ -717,7 +717,7 @@
             {
                   "title"    : "« OSINT : du journalisme au design », un documentaire du Media Design Lab",
                   "url"      : "/vid%C3%A9os/2024/12/11/osint-du-journalisme-au-design-un-documentaire-du-media-design-lab/",
-                  "tags"     : "journalisme, presse, documentaire, design, vidéos"
+                  "tags"     : "journalisme, presse, documentaire, design"
             } 
       ,
   
@@ -1025,7 +1025,7 @@
             {
                   "title"    : "Comment les séries télévisées façonnent nos représentations sociales",
                   "url"      : "/liens/2024/11/16/comment-les-series-televisees-faconnent-nos-representations-sociales/",
-                  "tags"     : "vidéos, société"
+                  "tags"     : "société"
             } 
       ,
   
@@ -1291,7 +1291,7 @@
             {
                   "title"    : "L&#39;attaque informatique la plus sophistiquée de l&#39;Histoire",
                   "url"      : "/vid%C3%A9os/2024/11/06/lattaque-informatique-la-plus-sophistiquee-de-lhistoire.md/",
-                  "tags"     : "hacking, vidéos, web, open-source"
+                  "tags"     : "hacking, web, open-source"
             } 
       ,
   
@@ -1319,7 +1319,7 @@
             {
                   "title"    : "Apple : la pomme écrasée par sa pub",
                   "url"      : "/vid%C3%A9os/2024/11/05/apple-la-pomme-ecrasee-par-sa-pub/",
-                  "tags"     : "apple, publicité, vidéos"
+                  "tags"     : "apple, publicité"
             } 
       ,
   
@@ -1361,7 +1361,7 @@
             {
                   "title"    : "Internet est mort, vive internet !",
                   "url"      : "/vid%C3%A9os/2024/10/30/internet-est-mort-vive-internet/",
-                  "tags"     : "internet, vidéos, ia"
+                  "tags"     : "internet, ia"
             } 
       ,
   
@@ -2005,7 +2005,7 @@
             {
                   "title"    : "Pourquoi nos pistes cyclables sont nulles ?",
                   "url"      : "/vid%C3%A9os/2024/05/31/pourquoi-nos-pistes-cyclables-sont-nulles/",
-                  "tags"     : "vidéos, documentaire, vélo"
+                  "tags"     : "documentaire, vélo"
             } 
       ,
   
@@ -2220,9 +2220,9 @@
       ,
   
             {
-                  "title"    : "Vos visages sont à nous : les dangers de la reconnaissance faciale",
-                  "url"      : "/liens/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/",
-                  "tags"     : "vie-privée, surveillance, vidéos, big-data"
+                  "title"    : "Vos visages sont à nous : les dangers de la reconnaissance faciale",
+                  "url"      : "/vid%C3%A9os/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/",
+                  "tags"     : "vie-privée, surveillance, big-data"
             } 
       ,
   
@@ -2425,7 +2425,7 @@
             {
                   "title"    : "The internet&#39;s own boy",
                   "url"      : "/vid%C3%A9os/2024/05/19/the-internets-own-boy/",
-                  "tags"     : "vidéos, web, documentaire, rss"
+                  "tags"     : "web, documentaire, rss"
             } 
       ,
   
@@ -2501,8 +2501,8 @@
   
             {
                   "title"    : "« Sky Dome 2123 », somptueux film d’animation SF sur l’effondrement climatique",
-                  "url"      : "/liens/2024/05/19/sky-dome-2123-somptueux-film-danimation-sf-sur-leffondrement-climatique/",
-                  "tags"     : "écologie, société, vidéos"
+                  "url"      : "/vid%C3%A9os/2024/05/19/sky-dome-2123-somptueux-film-danimation-sf-sur-leffondrement-climatique/",
+                  "tags"     : "écologie, société"
             } 
       ,
   
@@ -3279,7 +3279,7 @@
             {
                   "title"    : "Le mystère de la vidéo satisfaisante",
                   "url"      : "/vid%C3%A9os/2024/05/19/le-mystre-de-la-vido-satisfaisante/",
-                  "tags"     : "réseau-social, société, vidéos, science"
+                  "tags"     : "réseau-social, société, science"
             } 
       ,
   
@@ -3335,7 +3335,7 @@
             {
                   "title"    : "Et Dieu créa l&#39;IA ?",
                   "url"      : "/vid%C3%A9os/2024/05/19/le-dessous-des-images-et-dieu-cra-lia/",
-                  "tags"     : "ia, vidéos, graphisme"
+                  "tags"     : "ia, graphisme"
             } 
       ,
   
@@ -3377,7 +3377,7 @@
             {
                   "title"    : "L&#39;amour sous algorithme",
                   "url"      : "/vid%C3%A9os/2024/05/19/lamour-sous-algorithme/",
-                  "tags"     : "vie-privée, vidéos"
+                  "tags"     : "vie-privée, app"
             } 
       ,
   
@@ -3755,7 +3755,7 @@
             {
                   "title"    : "Fromages : où est passé notre terroir ?",
                   "url"      : "/vid%C3%A9os/2024/05/19/fromages-ou-est-pass-notre-terroir/",
-                  "tags"     : "vidéos, fromage, documentaire"
+                  "tags"     : "fromage, documentaire"
             } 
       ,
   
@@ -3951,7 +3951,7 @@
             {
                   "title"    : "Designing fluid interfaces (WWDC18)",
                   "url"      : "/vid%C3%A9os/2024/05/19/designing-fluid-interfaces-wwdc18/",
-                  "tags"     : "apple, design, ui, ux, vidéos"
+                  "tags"     : "apple, design, ui, ux"
             } 
       ,
   
@@ -4040,9 +4040,9 @@
       ,
   
             {
-                  "title"    : "Cybermonde - l&#39;avenir c&#39;est maintenant",
+                  "title"    : "Cybermonde - L&#39;avenir c&#39;est maintenant",
                   "url"      : "/vid%C3%A9os/2024/05/19/cybermonde-lavenir-cest-maintenant/",
-                  "tags"     : "ia, surveillance, société, vidéos, web"
+                  "tags"     : "ia, surveillance, société, web"
             } 
       ,
   
@@ -4126,7 +4126,7 @@
             {
                   "title"    : "Comment la chine contrôle 1,5 milliard de personnes",
                   "url"      : "/vid%C3%A9os/2024/05/19/comment-la-chine-contrle-15-milliard-de-personnes/",
-                  "tags"     : "vie-privée, app, surveillance, vidéos, web"
+                  "tags"     : "vie-privée, app, surveillance, web"
             } 
       ,
   

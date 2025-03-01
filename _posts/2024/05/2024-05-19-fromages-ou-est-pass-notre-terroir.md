@@ -10,10 +10,9 @@ categories:
 - Vidéos
 
 tags:
-- "vidéos"
 - "fromage"
 - "documentaire"
 
-og-tags: "vidéos, fromage, documentaire"
+og-tags: "fromage, documentaire"
 permalink: /:categories/:year/:month/:day/:title/
 ---

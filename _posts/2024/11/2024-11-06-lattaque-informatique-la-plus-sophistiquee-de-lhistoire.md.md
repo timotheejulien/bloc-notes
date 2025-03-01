@@ -8,8 +8,8 @@ description: "Micode parle de la backdoor sur xz."
 language: "fr"
 categories: 
    - Vidéos
-tags: "hacking vidéos web open-source"
-og-tags: "hacking vidéos web open-source"
+tags: "hacking web open-source"
+og-tags: "hacking web open-source"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

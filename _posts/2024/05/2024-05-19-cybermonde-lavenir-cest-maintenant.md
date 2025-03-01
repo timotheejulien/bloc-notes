@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cybermonde - l'avenir c'est maintenant"
+title: "Cybermonde - L'avenir c'est maintenant"
 link: "https://www.arte.tv/fr/videos/089129-000-A/cybermonde-l-avenir-c-est-maintenant"
 author: Arte
 published_date: "N/A"
@@ -13,10 +13,9 @@ tags:
 - "ia"
 - "surveillance"
 - "société"
-- "vidéos"
 - "web"
 
-og-tags: "ia, surveillance, société, vidéos, web"
+og-tags: "ia, surveillance, société, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

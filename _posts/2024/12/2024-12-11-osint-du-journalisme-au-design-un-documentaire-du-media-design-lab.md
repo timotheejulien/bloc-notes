@@ -8,8 +8,8 @@ description: "L'enquête journalistique se définit par un travail de terrain et
 language: "fr"
 categories: 
    - Vidéos
-tags: "journalisme presse documentaire design vidéos"
-og-tags: "journalisme presse documentaire design vidéos"
+tags: "journalisme presse documentaire design"
+og-tags: "journalisme presse documentaire design"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

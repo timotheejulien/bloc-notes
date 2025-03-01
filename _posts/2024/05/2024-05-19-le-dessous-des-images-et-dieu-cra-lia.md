@@ -11,10 +11,9 @@ categories:
 
 tags:
 - "ia"
-- "vidéos"
 - "graphisme"
 
-og-tags: "ia, vidéos, graphisme"
+og-tags: "ia, graphisme"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

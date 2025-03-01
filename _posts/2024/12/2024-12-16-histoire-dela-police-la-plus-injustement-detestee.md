@@ -8,8 +8,8 @@ description: "Dans cette vidéo je vous explique pourquoi certaines marques déc
 language: "fr"
 categories: 
    - Vidéos
-tags: "vidéos font design"
-og-tags: "vidéos font design"
+tags: "font design"
+og-tags: "font design"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
