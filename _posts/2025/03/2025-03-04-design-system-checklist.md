@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design systeme checklist"
+title: "Design system checklist"
 link: "https://www.designsystemchecklist.com/"
 author: "Arda Karacizmeli, Dmitry Belyaev, Steven Baguley."
 published_date: "09/04/2021"
