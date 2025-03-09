@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design system checklist"
-link: "https://www.designsystemchecklist.com/"
+link: "https://www.designsystemchecklist.com"
 author: "Arda Karacizmeli, Dmitry Belyaev, Steven Baguley."
 published_date: "09/04/2021"
 description: "An open-source checklist to help you plan, build and grow your design system."
