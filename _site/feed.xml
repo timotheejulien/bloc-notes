@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-03-09T20:04:34+01:00</updated>
+   <updated>2025-03-16T09:34:05+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,84 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Demain, les nains…</title>
+         <link href="/liens/2025/03/15/demain-les-nains/"/>
+         <updated>2025-03-15T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/15/demain-les-nains/</id>
+
+         <content type="html">
+            Et si les géants de la technologie numérique étaient concurrencés et peut-être remplacés par les nains des technologies modestes et respectueuses des êtres humains ? Telle est l’utopie qu’expose Aral Balkan ci-dessous. Faut-il préciser que chez Framasoft, nous avons l’impression d’être en phase avec cette démarche et de cocher déjà des cases qui font de nous ce qu’Aral appelle une Small Tech (littéralement : les petites technologies) par opposition aux Big Tech, autrement dit les GAFAM et leurs successeurs déjà en embuscade pour leur disputer les positions hégémoniques.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Always Firefox</title>
+         <link href="/liens/2025/03/15/always-firefox/"/>
+         <updated>2025-03-15T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/15/always-firefox/</id>
+
+         <content type="html">
+            L&apos;affaire des « Terms of Service » de Firefox (Mozilla). Cela commence avec ce commit. Mozilla vient d&apos;enlever la phrase qui mentionnait qu&apos;ils ne vendraient jamais les données des utilisateurs quand ceux-ci utilisent Firefox. C&apos;est une séquence de quelques mots qui déclenchent une tempête émotionnelle très importante, qui ne sera plus dans quelques jours car tel est le cycle de nos émotions et de nos obfuscations médiatiques.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do.</title>
+         <link href="/citations/2025/03/11/hire-smart-people/"/>
+         <updated>2025-03-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/citations/2025/03/11/hire-smart-people/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>N’attendez pas, changez vos paradigmes !</title>
+         <link href="/liens/2025/03/11/changez-vos-paradigmes/"/>
+         <updated>2025-03-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/11/changez-vos-paradigmes/</id>
+
+         <content type="html">
+            Il faut se passer de voiture pendant un certain temps pour réellement comprendre au plus profond de soi que la solution à beaucoup de nos problèmes sociétaux n’est pas une voiture électrique, mais une ville cyclable.
+Nous ne devons pas chercher des « alternatives équivalentes » à ce que nous offre le marché, nous devons changer les paradigmes, les fondements. Si on ne change pas le problème, si on ne revoit pas en profondeur nos attentes et nos besoins, on obtiendra toujours la même solution.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Privacy is also protecting the data of others</title>
+         <link href="/liens/2025/03/11/10-the-privacy-of-others/"/>
+         <updated>2025-03-11T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/11/10-the-privacy-of-others/</id>
+
+         <content type="html">
+            In privacy, we talk a lot about how to protect our own data, but what about our responsibility to protect the data of others? If you care about privacy rights, you must also care for the data of the people around you. To make privacy work, we need to develop a culture that normalizes caring for everyone&apos;s data, not just our own. Privacy cannot solely be a personal responsibility, data privacy is team work.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Meet Rayhunter: a new open source tool from EFF to detect cellular spying</title>
+         <link href="/liens/2025/03/10/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying/"/>
+         <updated>2025-03-10T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/10/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying/</id>
+
+         <content type="html">
+            At EFF we spend a lot of time thinking about Street Level Surveillance technologies—the technologies used by police and other authorities to spy on you while you are going about your everyday life—such as automated license plate readers, facial recognition, surveillance camera networks, and cell-site simulators (CSS). Rayhunter is a new open source tool we’ve created that runs off an affordable mobile hotspot that we hope empowers everyone, regardless of technical skill, to help search out CSS around the world.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Bref : le monde n'existe pas</title>
+         <link href="/liens/2025/03/10/bref-le-monde-nexiste-pas/"/>
+         <updated>2025-03-10T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/10/bref-le-monde-nexiste-pas/</id>
+
+         <content type="html">
+            La série de Kyan Khojandi cartonne en ce moment : se flattant d&apos;être la « mieux notée de tous les temps » par les téléspectateurs sur AlloCiné, et la plus visionnée sur Disney +, elle semble recueillir un assentiment unanime qui en fait un phénomène de société. Comme toujours, de tels succès sont des symptômes, dont il est tentant d&apos;explorer les ressorts...
+         </content>
+      </entry>
    
       <entry>
          <title>Quand Trump défend ses GAFAM</title>
@@ -32,6 +110,17 @@
 
          <content type="html">
             Alors qu’à l’origine, Internet devait se construire sur un modèle distribué, la fameuse toile, sa structure tend à se fracturer. En cause, un double mouvement de consolidation et de privatisation du réseau qui fragmente Internet en un ensemble de réseaux séparés, délimités par des lignes géopolitiques et des frontières créées par des intérêts commerciaux privés.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Chaque personne sujette à une décision prise par une IA a le droit de savoir sur quels fondements l'algorithme s'est prononcé</title>
+         <link href="/liens/2025/03/09/chaque-personne-sujette-a-une-decision-prise-par-une-ia-a-le-droit-de-savoir/"/>
+         <updated>2025-03-09T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/09/chaque-personne-sujette-a-une-decision-prise-par-une-ia-a-le-droit-de-savoir/</id>
+
+         <content type="html">
+            La multiplication des processus automatisés de prise de décision n&apos;exonère par les organisations de leur obligation d&apos;expliquer, de manière compréhensible par tous, les actions confiées à des algorithmes. La Cour de Justice de l&apos;UE vient d&apos;affirmer ce droit.
          </content>
       </entry>
    
