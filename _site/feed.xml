@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-03-16T09:34:05+01:00</updated>
+   <updated>2025-03-19T10:14:30+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Le gouvernement prêt à tout pour casser le droit au chiffrement</title>
+         <link href="/liens/2025/03/19/le-gouvernement-pret-a-tout-pour-casser-le-droit-au-chiffrement/"/>
+         <updated>2025-03-19T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/19/le-gouvernement-pret-a-tout-pour-casser-le-droit-au-chiffrement/</id>
+
+         <content type="html">
+            Les discussions viennent de recommencer à l’Assemblée nationale concernant la loi « Narcotrafic ». Les mesures les plus dangereuses pourraient être réintroduites par voie d’amendement : obligation pour les services de communication chiffrée de donner accès au contenu des échanges (article 8 ter), logiciels-espions pour accéder à distance aux fonctionnalités d’un appareil numérique (articles 15 ter et 15 quater) et « dossier coffre » (article 16). Elles sont toutes soutenues par le gouvernement et en particulier Bruno Retailleau. Concernant le chiffrement, celui-ci n’hésite pas à aligner les mensonges pour justifier la disposition. Petite (re)mise au point.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Nous sommes trop cons - Ou comment la tech bouffe notre cerveau</title>
+         <link href="/liens/2025/03/18/nous-sommes-trop-cons/"/>
+         <updated>2025-03-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/18/nous-sommes-trop-cons/</id>
+
+         <content type="html">
+            Le déclin cognitif de notre société pourrait être la plus grande menace invisible du 21e siècle. En effet, selon des données préoccupantes publiées par le Financial Times, nos capacités de raisonnement et de résolution de problèmes semblent avoir atteint leur pic au début des années 2010 et ne cessent de décliner depuis. Ça expliquerait enfin pourquoi je trouve que la plupart des gens passent leurs journées à faire et à dire des trucs stupides. Incroyable !
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Les géants du Web veulent vous emprisonner. Le Web ouvert veut vous libérer.</title>
+         <link href="/liens/2025/03/18/geants-du-web-vs-web-ouvert/"/>
+         <updated>2025-03-18T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/18/geants-du-web-vs-web-ouvert/</id>
+
+         <content type="html">
+            Les géants du Web ont conçu leurs plateformes pour vous emprisonner.
+         </content>
+      </entry>
    
       <entry>
          <title>Demain, les nains…</title>
