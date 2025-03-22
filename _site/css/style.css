@@ -113,6 +113,7 @@ h4, .h4 {
 p {
    line-height: 1.5;
    letter-spacing: .4px;
+   font-feature-settings: 'ss01' on;
 }
 
 p strong, strong {
