@@ -32,6 +32,7 @@ body {
    padding-bottom: env(safe-area-inset-bottom);
    padding-left: env(safe-area-inset-left);
    padding-right: env(safe-area-inset-right);
+   text-rendering: optimizeLegibility;
 }
 
 /* COLOR */
@@ -45,41 +46,22 @@ svg {
 
 /* TYPOGRAPHY */
 @font-face {
-   font-family: MonaSans-title;
-   src: url(../assets/fonts/MonaSans-title.woff2) format("woff2");
+   font-family: UncutSans-Variable;
+   src: url(../assets/fonts/UncutSans-Variable.ttf) format("truetype");
    font-style: normal;
-   font-weight: 500;
-   font-display: fallback;
-}
-
-@font-face {
-   font-family: MonaSans-body;
-   src: url(../assets/fonts/MonaSans-body.woff2) format("woff2");
-   font-style: normal;
-   font-weight: 400;
-   font-feature-settings: "ss01" on;
-   font-display: fallback;
-}
-
-@font-face {
-   font-family: MonaSans-bodyBold;
-   src: url(../assets/fonts/MonaSans-bodyBold.woff2) format("woff2");
-   font-style: normal;
-   font-weight: 700;
-   font-feature-settings: "ss01" on;
+   font-feature-settings: 'dlig' on, 'salt' on, 'rvrn' on, 'ss01' on, 'ss02' on, 'ss03' on, 'ss06' on, 'ss07' on, 'ss08' on;
    font-display: fallback;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-   font-family: MonaSans-title, sans-serif;
-   font-feature-settings: "ss01" off;
+   font-family: UncutSans-Variable, sans-serif;
 }
 
 h1, .h1 { 
    margin: 0;
    font-size: 44px;
    font-style: normal;
-   font-weight: 500;
+   font-weight: 400;
    line-height: normal;
 }
 
@@ -91,7 +73,7 @@ h2, .h2 {
    margin: 0;
    font-size: 36px;
    font-style: normal;
-   font-weight: 500;
+   font-weight: 400;
    line-height: 44px;
 }
 
@@ -99,35 +81,33 @@ h3, .h3 {
    margin: 0;
    font-size: 28px;
    font-style: normal;
-   font-weight: 500;
+   font-weight: 400;
    line-height: 120%;
 }
 
 h4, .h4 {
    font-size: 18px;
-   font-weight: 450;
+   font-weight: 500;
    margin: 0;
    margin-bottom: 0px;
    line-height: 26px;
+   
 }
 
 p {
-   line-height: 1.5;
-   letter-spacing: .4px;
-   font-feature-settings: "ss01" on;
+   line-height: 1.4;
+   letter-spacing: 0px;
 }
 
 p strong, strong {
-   font-family: MonaSans-bodyBold, sans-serif;
-   font-feature-settings: "ss01" on;
+   font-family: UncutSans-Variable, sans-serif;
 }
 
 a {
-   line-height: 1.5;
-   letter-spacing: .4px;
+   line-height: 1.4;
+   letter-spacing: 0;
    text-decoration: underline;
    color: var(--color-text-primary);
-   font-feature-settings: 'ss01' on;
 }
 
 a:hover {
@@ -144,7 +124,7 @@ a:hover {
    display: inline-block;
    vertical-align: middle;
    text-decoration: none;
-   font-family: MonaSans-title;
+   font-family: UncutSans-Variable, sans-serif;
    font-weight: 500;
    font-size: 18px;
    border-radius: 360px;
@@ -205,8 +185,8 @@ body {
    height: 100%;
    margin: 0;
    padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
-   font-family: MonaSans-body, sans-serif;
-   font-size: 18px;
+   font-family: UncutSans-Variable, sans-serif;
+   font-size: 20px;
    font-weight: 400;
    line-height: 26px;
    color: var(--color-text-primary);
@@ -270,9 +250,8 @@ body {
    gap: 0;
    font-weight: 500;
    font-size: 12px;
-   font-family: MonaSans-title, sans-serif;
-   font-feature-settings: "ss01" off;
-   line-height: 1.3rem;
+   font-family: UncutSans-Variable, sans-serif;
+   line-height: 1.4;
    letter-spacing: 0px; 
    text-decoration: none;
 }
@@ -327,21 +306,20 @@ body {
    background: var(--color-background-elevated);
    border: none;
    border-radius: 8px;
-   font-family: MonaSans-body, sans-serif;
+   font-family: UncutSans-Variable, sans-serif;
    font-size: 18px;
-   font-weight: 450;
-   line-height: 1.2;
-   line-height: 1.5;
-   letter-spacing: .4px;
+   font-weight: 400;
+   line-height: 1.4;
+   letter-spacing: 0px;
    color: var(--color-text-primary);
 }
 
 #search-input::placeholder {
-   font-family: MonaSans-body, sans-serif;
+   font-family: UncutSans-Variable, sans-serif;
    font-size: 18px;
-   font-weight: 450;
-   line-height: 1.2;
-   letter-spacing: .4px;
+   font-weight: 400;
+   line-height: 1.4;
+   letter-spacing: 0px;
    color: var(--color-text-secondary);
 }
 
@@ -433,9 +411,9 @@ body {
    align-content: normal;
    gap: var(--space-small);
    font-weight: 500;
-   font-size: 16px;
-   font-family: MonaSans-title, sans-serif;
-   line-height: 1.3rem;
+   font-size: 18px;
+   font-family: UncutSans-Variable, sans-serif;
+   line-height: 1.4;
    letter-spacing: 0px; 
    text-decoration: none;
 }
@@ -534,7 +512,8 @@ body {
 
 p.article-description {
    margin: var(--space-small) var(--space-none) var(--space-regular) var(--space-none);
-   display: -webkit-box; 
+   display: -webkit-box;
+   font-size: 16px;
    -webkit-line-clamp: 3;
    -webkit-box-orient: vertical;   /* Orientation vertical de la boite */
    overflow: hidden;
@@ -604,7 +583,7 @@ ul.listing li {
    align-items: normal;
    align-content: center;
    font-size: 14px;
-   font-family: MonaSans-title, sans-serif;
+   font-family: UncutSans-Variable, sans-serif;
    line-height: 1.3rem;
    text-decoration: none;
    color: var(--color-text-primary);
@@ -668,21 +647,21 @@ ul.footer-nav li {
    h1, .h1 { 
       font-size: 100px;
       font-style: normal;
-      font-weight: 500;
+      font-weight: 400;
       line-height: 120px;
    }
    
    h2, .h2 {
       font-size: 48px;
       font-style: normal;
-      font-weight: 500;
+      font-weight: 400;
       line-height: 54px;
    }
 
    h3, .h3 {
       font-size: 36px;
       font-style: normal;
-      font-weight: 500;
+      font-weight: 400;
    }
 
    /* VARIABLE LAYOUT */
@@ -741,11 +720,12 @@ ul.footer-nav li {
       align-content: normal;
       gap: var(--space-small);
       font-weight: 500;
-      font-size: 16px;
-      font-family: MonaSans-title, sans-serif;
-      line-height: 1.3rem;
+      font-size: 18px;
+      font-family: UncutSans-Variable, sans-serif;
+      line-height: 1.4;
       letter-spacing: 0px; 
       text-decoration: none;
+      text-rendering: optimizeLegibility;
    }
 
    .nav-item-icon {
