@@ -101,6 +101,7 @@ p {
 
 p strong, strong {
    font-family: UncutSans-Variable, sans-serif;
+   font-weight: 600;
 }
 
 a {
@@ -248,7 +249,7 @@ body {
    align-items: center;
    align-content: normal;
    gap: 0;
-   font-weight: 500;
+   font-weight: 600;
    font-size: 12px;
    font-family: UncutSans-Variable, sans-serif;
    line-height: 1.4;
@@ -719,7 +720,7 @@ ul.footer-nav li {
       align-items: center;
       align-content: normal;
       gap: var(--space-small);
-      font-weight: 500;
+      font-weight: 600;
       font-size: 18px;
       font-family: UncutSans-Variable, sans-serif;
       line-height: 1.4;
