@@ -2,8 +2,8 @@
 layout: post
 title: "Tout sauve­gar­der – mars 2025"
 link: https://n.survol.fr/n/tout-sauvegarder-mars-2025
-author: ""
-published_date: ""
+author: "Éric Daspet"
+published_date: "03/2025"
 description: "Nettoyer les écuries d’Au­gias c’est de la nioniotte à côté du projet de rapa­trier toutes mes données en local pour les sauve­gar­der."
 language: "fr"
 categories: "Liens"
