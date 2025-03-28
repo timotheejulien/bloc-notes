@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-03-27T09:31:29+01:00</updated>
+   <updated>2025-03-28T08:27:59+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>A glimpse into the history of Windows design</title>
+         <link href="/liens/2025/03/28/a-glimpse-into-the-history-of-windows-design/"/>
+         <updated>2025-03-28T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/28/a-glimpse-into-the-history-of-windows-design/</id>
+
+         <content type="html">
+             At the turn of the millennium, the widespread adoption of Microsoft Windows was a pivotal moment in technology. It played a crucial role in the integration of personal computers into both business and home environments. Windows introduced features that revolutionized network management and enhanced support for mobile computing, paving the way for the modern, connected workplace. &lt;br&gt;&lt;br&gt;Harold Gomez, Jeremy Knudsen, and Kim Sealls are three designers at Microsoft who have contributed to Windows design since 2000 and witnessed its design evolution. From the iconic Windows XP to the sleek Windows 11, Windows has constantly evolved to reflect the changing needs and preferences of users worldwide.  In this roundtable discussion, we delve into the remarkable journey of Windows design.
+         </content>
+      </entry>
    
       <entry>
          <title>Tout sauve­gar­der – mars 2025</title>
