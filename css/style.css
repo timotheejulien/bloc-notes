@@ -121,14 +121,14 @@ a:hover {
 
 /* BUTTON */
 .btn {
-   transition: all .3s ease-in-out;
+   transition: all .1s ease-in-out;
    display: inline-block;
    vertical-align: middle;
    text-decoration: none;
    font-family: UncutSans-Variable, sans-serif;
    font-weight: 500;
    font-size: 18px;
-   border-radius: 360px;
+   border-radius: 8px;
    padding: 12px 24px;
    border: none;
    cursor: pointer;
@@ -140,7 +140,7 @@ a:hover {
 }
 
 .btn-primary:hover {
-   background: var(--color-button-background-primary-hover);
+   border-radius: 0px;
 }
 
 /* VARIABLE LAYOUT */
