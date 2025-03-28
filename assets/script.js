@@ -1,7 +1,7 @@
 //DISPLAY OR NOT THE SEARCH MODAL
 function mailTo() {
 	var $mailToEmail = "email@timotheejulien.fr";
-	var $mailToSubject = "Notes caséologiques : prise de contact";
+	var $mailToSubject = "Bloc-notes : prise de contact";
 	window.location.href='mailto:'+$mailToEmail+'?subject='+$mailToSubject;
 }
 
