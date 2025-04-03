@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-03-28T18:25:23+01:00</updated>
+   <updated>2025-04-03T09:59:39+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Poisson artificiel</title>
+         <link href="/liens/2025/04/03/poisson-artificiel/"/>
+         <updated>2025-04-03T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/03/poisson-artificiel/</id>
+
+         <content type="html">
+            Ça y est, tout le monde a généré sa petite image Ghibli et s’est senti pousser les ailes d’un artiste ? On peut revenir un peu sur Terre et parler de vrais problèmes, ou bien ?
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L'île typographique de San Serriffe</title>
+         <link href="/liens/2025/04/03/ile-de-san-serriffe-poisson-avril-typographique/"/>
+         <updated>2025-04-03T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/03/ile-de-san-serriffe-poisson-avril-typographique/</id>
+
+         <content type="html">
+            En 1977, le journal britannique The Guardian a offert à ses lecteurs un voyage inattendu dans un pays aussi exotique que fantaisiste : San Serriffe. Publiée le 1er avril, ce canular est devenue légendaire pour avoir habilement mélangé humour subtil, satire géopolitique et jeux typographiques raffinés.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Un réseau vraiment social ? C’est possible…</title>
+         <link href="/liens/2025/03/30/un-reseau-vraiment-social-cest-possible/"/>
+         <updated>2025-03-30T00:00:00+01:00</updated>
+         <id>http://localhost:4000/liens/2025/03/30/un-reseau-vraiment-social-cest-possible/</id>
+
+         <content type="html">
+            Si je reste très critique avec certains usages, à l’heure où l’on fait porter tous les maux sur les réseaux sociaux, sans angélisme, on peut dire qu’un réseau vraiment social , c’est possible. L’instance Mastodon que je fréquente est enrichissante par les contenus comme nombre de personnes qui l’animent. C’est à préserver, à promouvoir en se plaçant du côté des valeurs.
+         </content>
+      </entry>
    
       <entry>
          <title>The candid naivety of geeks</title>
