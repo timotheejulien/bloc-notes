@@ -9,9 +9,9 @@ language: fr
 categories:
 - Liens
 
-tags:
+tags: "openai ia"
 
 
-og-tags: ""
+og-tags: "openai ia"
 permalink: /:categories/:year/:month/:day/:title/
 ---

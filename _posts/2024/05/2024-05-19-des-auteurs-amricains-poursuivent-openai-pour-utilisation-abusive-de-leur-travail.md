@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "ia"
-- "chatgpt"
+- "openai"
 
-og-tags: "ia, chatgpt"
+og-tags: "ia, openai"
 permalink: /:categories/:year/:month/:day/:title/
 ---

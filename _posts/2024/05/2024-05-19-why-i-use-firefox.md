@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why i use firefox"
+title: "Why I use Firefox"
 link: "https://xn--ime-zza.eu/3"
 author: Šime
 published_date: "26/02/2024"

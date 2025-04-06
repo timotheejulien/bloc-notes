@@ -2,9 +2,9 @@
 layout: post
 title: "apple a publié le code source d’un moteur pour l’intelligence artificielle"
 link: "https://www.macg.co/aapl/2023/08/apple-publie-le-code-source-dun-moteur-pour-lintelligence-artificielle-138881"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Nicolas Furno
+published_date: "28/08/2023"
+description: "Apple est un acteur majeur de l’intelligence artificielle, même si depuis le passage au premier plan d’OpenAI et de son ChatGPT, on pourrait croire que l’entreprise de Tim Cook est à la traine. Les processus d’apprentissage automatisé sont pourtant à l’œuvre dans ses systèmes d’exploitation depuis des années, pour identifier le contenu des photos, pour transcrire du texte à la volée et pour des dizaines d’autres usages. En coulisses, Apple travaille aussi sur d’autres sous-domaines du secteur, comme en témoigne ce dépôt ouvert courant juillet sur GitHub."
 language: fr
 categories:
 - Liens

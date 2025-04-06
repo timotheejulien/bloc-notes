@@ -2,7 +2,7 @@
 layout: post
 title: "« Faire quelque chose, le partager », sans visée commerciale : le combat du logiciel libre n’est pas mort"
 link: "https://basta.media/faire-quelque-chose-le-partager-sans-visee-commerciale-le-combat-du-logiciel-libre"
-author: N/A
+author: Nils Hollenstein
 published_date: "25/09/2023"
 description: "Souvent bénévoles, les développeuses et développeurs de logiciels libres contribuent largement au monde numérique actuel. Deux libristes trentenaires témoignent d’un secteur en recomposition, sous pression des géants du numériques."
 language: fr

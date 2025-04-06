@@ -11,8 +11,8 @@ categories:
 
 tags:
 - "apple"
-- "vision-pro"
+- "device"
 
-og-tags: "apple, vision-pro"
+og-tags: "apple, device"
 permalink: /:categories/:year/:month/:day/:title/
 ---

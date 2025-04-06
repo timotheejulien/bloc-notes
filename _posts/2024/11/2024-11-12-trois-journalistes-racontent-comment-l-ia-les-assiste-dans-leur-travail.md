@@ -8,7 +8,7 @@ description: "Et si, plutôt que de tenter de les remplacer, l’IA devenait une
 language: "fr"
 categories: 
    - Liens
-tags: "ia presse journalisme chatgpt openai"
-og-tags: "ia presse journalisme chatgpt openai"
+tags: "ia presse journalisme openai"
+og-tags: "ia presse journalisme openai"
 permalink: /:categories/:year/:month/:day/:title/
 ---

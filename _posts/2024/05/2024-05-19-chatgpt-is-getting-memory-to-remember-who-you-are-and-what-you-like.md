@@ -13,10 +13,9 @@ tags:
 - "vie-privée"
 - "ia"
 - "surveillance"
-- "chatgpt"
 - "rgpd"
 - "openai"
 
-og-tags: "vie-privée, ia, surveillance, chat-gpt, rgpd, openai"
+og-tags: "vie-privée, ia, surveillance, rgpd, openai"
 permalink: /:categories/:year/:month/:day/:title/
 ---

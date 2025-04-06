@@ -9,8 +9,8 @@ language: fr
 categories:
 - Liens
 
-tags: "paypal"
+tags: "économie numérique"
 
-og-tags: "paypal"
+og-tags: "économie numérique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -8,7 +8,7 @@ description: "C’est une nouvelle fois, c’est une nouvelle occasion. Se déba
 language: "fr"
 categories: 
    - Liens
-tags: "app elon-musk x bluesky mastodon réseau-social"
-og-tags: "app elon-musk x bluesky mastodon réseau-social"
+tags: "app x mastodon réseau-social"
+og-tags: "app x mastodon réseau-social"
 permalink: /:categories/:year/:month/:day/:title/
 ---

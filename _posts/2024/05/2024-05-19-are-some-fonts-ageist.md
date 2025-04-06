@@ -3,7 +3,7 @@ layout: post
 title: "The 14 Worst fonts in the World"
 link: "https://www.fastcompany.com/1665318/the-8-worst-fonts-in-the-world"
 author: Simon Garfield
-published_date: "19/05/2024"
+published_date: "12/03/2023"
 description: "In “Just My Type,” Simon Garfield counts down his least favorite typefaces—and we’ve updated the list."
 language: en
 categories:

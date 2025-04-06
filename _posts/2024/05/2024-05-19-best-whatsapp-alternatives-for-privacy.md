@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best whatsapp alternatives for privacy"
+title: "Best WhatsApp alternatives for privacy"
 link: "https://proton.me/blog/whatsapp-alternatives"
 author: Douglas Crawford
 published_date: "15/02/2021"

@@ -472,7 +472,7 @@
             {
                   "title"    : "Pourquoi je n’utilise pas ChatGPT",
                   "url"      : "/liens/2025/02/03/pourquoi-je-nutiliserai-pas-chatgpt/",
-                  "tags"     : "ia, openai, chatgpt"
+                  "tags"     : "ia, openai"
             } 
       ,
   
@@ -731,7 +731,7 @@
             {
                   "title"    : "Je quitte Méta et Bluesky",
                   "url"      : "/liens/2025/01/08/je-quitte-meta-facebook-threads-instagram-whatsapp-et-bluesky/",
-                  "tags"     : "meta, bluesky, réseau-social"
+                  "tags"     : "meta, réseau-social"
             } 
       ,
   
@@ -1004,7 +1004,7 @@
             {
                   "title"    : "Tote bag, un nouveau totem social ?",
                   "url"      : "/liens/2024/12/05/tote-bag-nouveau-totem-social/",
-                  "tags"     : "social, consommation, société"
+                  "tags"     : "consommation, société"
             } 
       ,
   
@@ -1039,7 +1039,7 @@
             {
                   "title"    : "« On devient fonctionnaire d’OpenAI sitôt que l’on utilise ChatGPT »",
                   "url"      : "/liens/2024/12/03/on-devient-fonctionnaire-openai-sitot-quon-utilise-chatgpt/",
-                  "tags"     : "ia, chatgpt, technologie, numérique, écologie"
+                  "tags"     : "ia, openai, technologie, numérique, écologie"
             } 
       ,
   
@@ -1116,7 +1116,7 @@
             {
                   "title"    : "Et si le problème des réseaux sociaux, c&#39;étaient les phares ?",
                   "url"      : "/liens/2024/11/22/et-si-le-probleme-des-reseaux-sociaux-cetaient-les-phares/",
-                  "tags"     : "mastodon, x, numérique, bluesky, réseau-social"
+                  "tags"     : "mastodon, x, numérique, réseau-social"
             } 
       ,
   
@@ -1137,7 +1137,7 @@
             {
                   "title"    : "Bluesky est-il décentralisé ?",
                   "url"      : "/liens/2024/11/21/bluesky-est-il-decentralise/",
-                  "tags"     : "bluesky, app, réseau-social"
+                  "tags"     : "app, réseau-social"
             } 
       ,
   
@@ -1193,7 +1193,7 @@
             {
                   "title"    : "X et son exode. Comment quitter une forêt lorsque l’on est un arbre.",
                   "url"      : "/liens/2024/11/18/x-et-son-exode-comment-quitter-une-foret-lorsque-lon-est-un-arbre/",
-                  "tags"     : "app, elon-musk, x, bluesky, mastodon, réseau-social"
+                  "tags"     : "app, x, mastodon, réseau-social"
             } 
       ,
   
@@ -1207,7 +1207,7 @@
             {
                   "title"    : "Le web progressiste aurait intérêt à migrer sur Mastodon, pas sur Bluesky",
                   "url"      : "/liens/2024/11/18/le-web-progressiste-aurait-interet-a-migrer-sur-mastodon-pas-sur-bluesky/",
-                  "tags"     : "mastodon, fediverse, bluesky, réseau-social"
+                  "tags"     : "mastodon, fediverse, réseau-social"
             } 
       ,
   
@@ -1312,7 +1312,7 @@
             {
                   "title"    : "Un Chat(GPT) dans le moteur, et réciproquement",
                   "url"      : "/liens/2024/11/13/un-chatgpt-dans-le-moteur-et-reciproquement/",
-                  "tags"     : "ia, numérique, chatgpt, openai"
+                  "tags"     : "ia, numérique, openai"
             } 
       ,
   
@@ -1340,7 +1340,7 @@
             {
                   "title"    : "Trois journalistes racontent comment l’IA les assiste dans leur travail",
                   "url"      : "/liens/2024/11/12/trois-journalistes-racontent-comment-l-ia-les-assiste-dans-leur-travail/",
-                  "tags"     : "ia, presse, journalisme, chatgpt, openai"
+                  "tags"     : "ia, presse, journalisme, openai"
             } 
       ,
   
@@ -1361,7 +1361,7 @@
             {
                   "title"    : "IA : « Les médias qui signent avec OpenAI commettent une faute morale »",
                   "url"      : "/liens/2024/11/12/les-medias-qui-signent-avec-openai-commettent-une-faute-morale/",
-                  "tags"     : "ia, presse, journalisme, chatgpt, openai"
+                  "tags"     : "ia, presse, journalisme, openai"
             } 
       ,
   
@@ -1473,7 +1473,7 @@
             {
                   "title"    : "ChatGPT Isn’t « Hallucinating »— It’s Bullshitting!",
                   "url"      : "/liens/2024/11/08/chatgpt-isnt-hallucinating-its-bullshitting/",
-                  "tags"     : "ia, chatgpt"
+                  "tags"     : "ia, openai"
             } 
       ,
   
@@ -2255,9 +2255,9 @@
       ,
   
             {
-                  "title"    : "paypal is building an ad network based on your Venmo data",
+                  "title"    : "PayPal is building an ad network based on your Venmo data",
                   "url"      : "/liens/2024/05/28/paypal-building-ad-network-transaction-data/",
-                  "tags"     : "vie-privée, surveillance, publicité, paypal"
+                  "tags"     : "vie-privée, surveillance, publicité"
             } 
       ,
   
@@ -2271,7 +2271,7 @@
             {
                   "title"    : "Nouveau livre :-) les ia à l’assaut du cyberespace. vers un web synthétique.",
                   "url"      : "/liens/2024/05/28/nouveau-livre-les-ia-lassaut-du-cyberespace-vers-un-web-synthtique/",
-                  "tags"     : "ia, chatgpt, livre"
+                  "tags"     : "ia, openai, livre"
             } 
       ,
   
@@ -2304,7 +2304,7 @@
       ,
   
             {
-                  "title"    : "Intelligence artificielle et design d’interface : vers un design de la confiance ?",
+                  "title"    : "Intelligence artificielle et design d’interface : vers un design de la confiance ?",
                   "url"      : "/liens/2024/05/27/intelligence-artificielle-et-design-dinterface-vers-un-design-de-la-confiance/",
                   "tags"     : "ia, design"
             } 
@@ -2332,7 +2332,7 @@
       ,
   
             {
-                  "title"    : "Comment l&#39;ia et windows 10 annulent les efforts de microsoft pour le climat - standblog",
+                  "title"    : "Comment l&#39;IA et Windows 10 annulent les efforts de microsoft pour le climat",
                   "url"      : "/liens/2024/05/23/comment-lia-et-windows-10-annulent-les-efforts-de-microsoft-pour-le-climat-standblog/",
                   "tags"     : "écologie, microsoft"
             } 
@@ -2404,7 +2404,7 @@
             {
                   "title"    : "Why Tim Cook is going all in on the Apple Vision Pro",
                   "url"      : "/liens/2024/05/19/why-tim-cook-is-going-all-in-on-the-apple-vision-pro/",
-                  "tags"     : "apple, vision-pro"
+                  "tags"     : "apple, device"
             } 
       ,
   
@@ -2416,7 +2416,7 @@
       ,
   
             {
-                  "title"    : "Why i use firefox",
+                  "title"    : "Why I use Firefox",
                   "url"      : "/liens/2024/05/19/why-i-use-firefox/",
                   "tags"     : "mozilla, firefox"
             } 
@@ -2978,7 +2978,7 @@
             {
                   "title"    : "PayPal lance sa cryptomonnaie stable, indexée sur le dollar",
                   "url"      : "/liens/2024/05/19/paypal-lance-sa-cryptomonnaie-stable-indexe-sur-le-dollar/",
-                  "tags"     : "paypal"
+                  "tags"     : "économie, numérique"
             } 
       ,
   
@@ -3293,14 +3293,14 @@
             {
                   "title"    : "L’intelligence artificielle générative s’attaque aux ressources humaines",
                   "url"      : "/liens/2024/05/19/lintelligence-artificielle-gnrative-sattaque-aux-ressources-humaines/",
-                  "tags"     : ""
+                  "tags"     : "openai, ia"
             } 
       ,
   
             {
                   "title"    : "L’histoire selon ChatGPT",
                   "url"      : "/liens/2024/05/19/lhistoire-selon-chatgpt/",
-                  "tags"     : "ia, chatgpt"
+                  "tags"     : "ia, openai"
             } 
       ,
   
@@ -3573,7 +3573,7 @@
             {
                   "title"    : "Le début de la fin pour ChatGPT ? OpenAI pourrait faire faillite dès 2024",
                   "url"      : "/liens/2024/05/19/le-dbut-de-la-fin-pour-chatgpt-openai-pourrait-faire-faillite-ds-2024/",
-                  "tags"     : "ia, chatgpt, openai"
+                  "tags"     : "ia, openai"
             } 
       ,
   
@@ -4035,7 +4035,7 @@
             {
                   "title"    : "Fake news : « le plus grand menteur d&#39;internet » se confie",
                   "url"      : "/liens/2024/05/19/fake-news-le-plus-grand-menteur-dinternet-se-confie/",
-                  "tags"     : "hacking, société"
+                  "tags"     : "hacking, société, journalisme"
             } 
       ,
   
@@ -4112,7 +4112,7 @@
             {
                   "title"    : "Ecosia Browser, ou quand le greenwashing numérique fume la moquette tout en plantant des arbres",
                   "url"      : "/liens/2024/05/19/ecosia-browser-ou-quand-le-greenwashing-numrique-fume-la-moquette-tout-en-plantant-des-arbres/",
-                  "tags"     : "app, écologie, technologie, greenwashing, navigateur"
+                  "tags"     : "app, écologie, technologie, navigateur"
             } 
       ,
   
@@ -4224,7 +4224,7 @@
             {
                   "title"    : "Des auteurs américains poursuivent OpenAI pour utilisation abusive de leur travail",
                   "url"      : "/liens/2024/05/19/des-auteurs-amricains-poursuivent-openai-pour-utilisation-abusive-de-leur-travail/",
-                  "tags"     : "ia, chatgpt"
+                  "tags"     : "ia, openai"
             } 
       ,
   
@@ -4399,28 +4399,28 @@
             {
                   "title"    : "ChatGPT : on a testé sa version expérimentale audio et photo",
                   "url"      : "/liens/2024/05/19/chatgpt-on-a-test-sa-version-exprimentale-audio-et-photo/",
-                  "tags"     : "ia, chatgpt, openai"
+                  "tags"     : "ia, openai"
             } 
       ,
   
             {
                   "title"    : "chat-gpt is getting « memory » to remember who you are and what you like",
                   "url"      : "/liens/2024/05/19/chatgpt-is-getting-memory-to-remember-who-you-are-and-what-you-like/",
-                  "tags"     : "vie-privée, ia, surveillance, chatgpt, rgpd, openai"
+                  "tags"     : "vie-privée, ia, surveillance, rgpd, openai"
             } 
       ,
   
             {
                   "title"    : "chat-gpt fournit de fausses informations sur les personnes, et openai ne peut pas les corriger",
                   "url"      : "/liens/2024/05/19/chatgpt-fournit-de-fausses-informations-sur-les-personnes-et-openai-ne-peut-pas-les-corriger/",
-                  "tags"     : "vie-privée, ia, surveillance, législation, chatgpt"
+                  "tags"     : "vie-privée, ia, surveillance, législation, openai"
             } 
       ,
   
             {
                   "title"    : "ChatGPT avait-il le droit de s&#39;entraîner sur toutes ces données ? la justice va trancher",
                   "url"      : "/liens/2024/05/19/chatgpt-avaitil-le-droit-de-sentraner-sur-toutes-ces-donnes-la-justice-va-trancher/",
-                  "tags"     : "ia, chatgpt, openai"
+                  "tags"     : "ia, openai"
             } 
       ,
   
@@ -4497,7 +4497,7 @@
             {
                   "title"    : "Bluesky : ce qu’il faut savoir avant de s’inscrire sur le concurrent de Twitter",
                   "url"      : "/liens/2024/05/19/bluesky-ce-quil-faut-savoir-avant-de-sinscrire-sur-le-concurrent-de-twitter/",
-                  "tags"     : "réseau-social, mastodon, x, bluesky"
+                  "tags"     : "réseau-social, mastodon, x"
             } 
       ,
   
@@ -4509,7 +4509,7 @@
       ,
   
             {
-                  "title"    : "Best whatsapp alternatives for privacy",
+                  "title"    : "Best WhatsApp alternatives for privacy",
                   "url"      : "/liens/2024/05/19/best-whatsapp-alternatives-for-privacy/",
                   "tags"     : "vie-privée, whatsapp, app"
             } 
@@ -4523,14 +4523,14 @@
       ,
   
             {
-                  "title"    : "Bbc gel | introducing reith – the new face of the bbc",
+                  "title"    : "Introducing Reith – the new face of the BBC",
                   "url"      : "/liens/2024/05/19/bbc-gel-introducing-reith-the-new-face-of-the-bbc/",
                   "tags"     : "design, font"
             } 
       ,
   
             {
-                  "title"    : "Balises connectées (airtags, smarttag, tiles…) : quelles précautions contre les actes malveillants ?",
+                  "title"    : "Balises connectées (airtags, smarttag, tiles…) : quelles précautions contre les actes malveillants ?",
                   "url"      : "/liens/2024/05/19/balises-connectes-airtags-smarttag-tiles-quelles-prcautions-contre-les-actes-malveillants/",
                   "tags"     : "vie-privée, hacking, web"
             } 
@@ -4551,7 +4551,7 @@
       ,
   
             {
-                  "title"    : "applite, un app store pour gérer les apps fournies par homebrew cask",
+                  "title"    : "Applite, un app store pour gérer les apps fournies par Homebrew Cask",
                   "url"      : "/liens/2024/05/19/applite-un-app-store-pour-grer-les-apps-fournies-par-homebrew-cask/",
                   "tags"     : "app"
             } 
@@ -4560,14 +4560,14 @@
             {
                   "title"    : "Apple’s new Vision Pro is a privacy mess waiting to happen",
                   "url"      : "/liens/2024/05/19/apples-new-vision-pro-is-a-privacy-mess-waiting-to-happen/",
-                  "tags"     : "vie-privée, surveillance, apple, vision-pro, device"
+                  "tags"     : "vie-privée, surveillance, apple, device"
             } 
       ,
   
             {
-                  "title"    : "apple est prêt à bloquer imessage et facetime au royaume-uni pour protéger le chiffrement",
+                  "title"    : "Apple est prêt à bloquer iMessage et FaceTime au Royaume-uni pour protéger le chiffrement",
                   "url"      : "/liens/2024/05/19/apple-est-prt-bloquer-imessage-et-facetime-au-royaumeuni-pour-protger-le-chiffrement/",
-                  "tags"     : "vie-privée, gafam, apple"
+                  "tags"     : "vie-privée, gafam, apple, chiffrement"
             } 
       ,
   
@@ -4705,7 +4705,7 @@
       ,
   
             {
-                  "title"    : "18 design principles to keep in mind when designing for apple’s vision pro",
+                  "title"    : "18 design principles to keep in mind when designing for Apple’s Vision Pro",
                   "url"      : "/liens/2024/05/19/18-design-principles-to-keep-in-mind-when-designing-for-apples-vision-pro/",
                   "tags"     : "apple, design, ui"
             } 

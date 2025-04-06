@@ -2,9 +2,9 @@
 layout: post
 title: "Autisme et accessibilité numérique sur les sites web au quotidien"
 link: "https://www.24joursdeweb.fr/2023/autisme-et-accessibilite-numerique-sur-les-sites-web-au-quotidien"
-author: N/A
-published_date: "19/05/2024"
-description: ""
+author: Juliana Pontois
+published_date: "01/12/2023"
+description: "Dans cet article, nous allons voir comment les personnes autistes vivent l’accessibilité numérique au quotidien à travers leurs navigations sur les sites web."
 language: fr
 categories:
 - Liens

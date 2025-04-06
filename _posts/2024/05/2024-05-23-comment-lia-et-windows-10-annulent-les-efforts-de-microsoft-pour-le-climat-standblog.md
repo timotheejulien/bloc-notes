@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Comment l'ia et windows 10 annulent les efforts de microsoft pour le climat - standblog"
+title: "Comment l'IA et Windows 10 annulent les efforts de microsoft pour le climat"
 link: "https://www.standblog.org/blog/post/2024/05/23/Comment-l-ia-et-Windows-10-annulent-les-efforts-de-microsoft-pour-le-climat"
-author: N/A
+author: Tristan Nitot
 published_date: "23/05/2024"
-description: "Comment l'ia et Windows 10 annulent les efforts de microsoft pour le climat - Standblog"
+description: "Comment l'IA et Windows 10 annulent les efforts de microsoft pour le climat - Standblog"
 language: fr
 categories:
 - Liens

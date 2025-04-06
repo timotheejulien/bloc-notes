@@ -4,7 +4,7 @@ title: "Empathy map – why and how to use it"
 link: "https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it"
 author: N/A
 published_date: "28/05/2024"
-description: "Empathy Map – Why and How to Use It | IxDF"
+description: "Empathy Map – Why and How to Use It"
 language: en
 categories:
 - Liens

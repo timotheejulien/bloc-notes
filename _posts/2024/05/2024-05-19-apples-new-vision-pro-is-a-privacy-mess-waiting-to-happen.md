@@ -9,8 +9,8 @@ language: en
 categories:
 - Liens
 
-tags: "vie-privée surveillance apple vision-pro device"
+tags: "vie-privée surveillance apple device"
 
-og-tags: "vie-privée, surveillance, apple, vision-pro"
+og-tags: "vie-privée, surveillance, apple, device"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -13,9 +13,8 @@ tags:
 - "app"
 - "écologie"
 - "technologie"
-- "greenwashing"
 - "navigateur"
 
-og-tags: "app, écologie, technologie, greenwashing, navigateur"
+og-tags: "app, écologie, technologie, navigateur"
 permalink: /:categories/:year/:month/:day/:title/
 ---

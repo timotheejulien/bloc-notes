@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Bbc gel | introducing reith – the new face of the bbc"
+title: "Introducing Reith – the new face of the BBC"
 link: "https://www.bbc.co.uk/gel/features/introducing-bbc-reith"
-author: N/A
+author: David Bailey
 published_date: "19/05/2024"
-description: ""
+description: "The BBC has introduced a new typeface. Learn how and why."
 language: en
 categories:
 - Liens

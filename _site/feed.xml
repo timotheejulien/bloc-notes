@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-04-06T15:10:18+02:00</updated>
+   <updated>2025-04-06T21:15:28+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -1597,9 +1597,7 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
          <id>http://localhost:4000/liens/2024/12/05/tote-bag-nouveau-totem-social/</id>
 
          <content type="html">
-            C’est un simple sac qui prend aujourd’hui beaucoup de place. C’est sans doute dans une boutique de vêtements qu’on nous a donné le premier, avant que s’accumulent ceux offerts dans un festival, une exposition, une librairie, un marché bio, une sortie cinéma, enfin pour tout et n’importe quoi.
-Le tote bag pourrait s’inscrire dans une réactualisation des Mythologies de Roland Barthes tellement il est devenu un élément incontournable de nos quotidiens urbains. C’est le cabas, le filet à provisions de la grand-mère, simple, utilitaire et pratique.
-Mais que raconte t’il de notre société, de notre époque, de nos habitudes et de nos comportements ? Le tote-bag est devenu un pur produit de consommation, un totem sociétal.
+            C’est un simple sac qui prend aujourd’hui beaucoup de place. C’est sans doute dans une boutique de vêtements qu’on nous a donné le premier, avant que s’accumulent ceux offerts dans un festival, une exposition, une librairie, un marché bio, une sortie cinéma, enfin pour tout et n’importe quoi. &lt;br&gt; Le tote bag pourrait s’inscrire dans une réactualisation des Mythologies de Roland Barthes tellement il est devenu un élément incontournable de nos quotidiens urbains. C’est le cabas, le filet à provisions de la grand-mère, simple, utilitaire et pratique. &lt;br&gt;Mais que raconte t’il de notre société, de notre époque, de nos habitudes et de nos comportements ? Le tote-bag est devenu un pur produit de consommation, un totem sociétal.
          </content>
       </entry>
    
@@ -3562,13 +3560,13 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
       </entry>
    
       <entry>
-         <title>paypal is building an ad network based on your Venmo data</title>
+         <title>PayPal is building an ad network based on your Venmo data</title>
          <link href="/liens/2024/05/28/paypal-building-ad-network-transaction-data/"/>
          <updated>2024-05-28T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/28/paypal-building-ad-network-transaction-data/</id>
 
          <content type="html">
-            paypal will use your purchase information and shopping patterns to sell targeted ads.
+            PayPal will use your purchase information and shopping patterns to sell targeted ads.
          </content>
       </entry>
    
@@ -3601,7 +3599,7 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
          <id>http://localhost:4000/liens/2024/05/28/empathy-map-why-and-how-to-use-it/</id>
 
          <content type="html">
-            Empathy Map – Why and How to Use It | IxDF
+            Empathy Map – Why and How to Use It
          </content>
       </entry>
    
@@ -3634,19 +3632,18 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
          <id>http://localhost:4000/liens/2024/05/27/la-mthode-des-petits-pas/</id>
 
          <content type="html">
-            Ou comment mettre en place des cycles très courts dans un projet ux.
-Depuis quelques années, je suis amené à travailler sur des cycles de conceptions de plus en plus courts. Alors quand je dis court, ça ne veut pas dire bâclé. C’est plus dans l’idée de découper la conception en étapes plus succinctes avec pour chacune des étapes l’implication des utilisateurs et un livrable.
+            Ou comment mettre en place des cycles très courts dans un projet UX. &lt;br&gt;Depuis quelques années, je suis amené à travailler sur des cycles de conceptions de plus en plus courts. Alors quand je dis court, ça ne veut pas dire bâclé. C’est plus dans l’idée de découper la conception en étapes plus succinctes avec pour chacune des étapes l’implication des utilisateurs et un livrable.
          </content>
       </entry>
    
       <entry>
-         <title>Intelligence artificielle et design d’interface : vers un design de la confiance ?</title>
+         <title>Intelligence artificielle et design d’interface : vers un design de la confiance ?</title>
          <link href="/liens/2024/05/27/intelligence-artificielle-et-design-dinterface-vers-un-design-de-la-confiance/"/>
          <updated>2024-05-27T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/27/intelligence-artificielle-et-design-dinterface-vers-un-design-de-la-confiance/</id>
 
          <content type="html">
-            Intelligence Artificielle et design d&amp;rsquo;interface : vers un design de la confiance ? &amp;#8211; graphisme et interactivité
+            Imaginons que dans un futur plus ou moins proche, il nous sera impossible de différencier le contenu créé par un humain du contenu créé par une IA. Dans les lectures, les écoutes musicales, les séries, les films, les photographies et tous les contenus pouvant être numériques il y aura un mélange entre ce qui est conçu humainement et par les IA. &lt;br&gt;Mais avez-vous déjà ressenti ce sentiment étrange de lire quelque chose et de vous rendre compte que c’est écrit par ChatGPT ?
          </content>
       </entry>
    
@@ -3684,13 +3681,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Comment l'ia et windows 10 annulent les efforts de microsoft pour le climat - standblog</title>
+         <title>Comment l'IA et Windows 10 annulent les efforts de microsoft pour le climat</title>
          <link href="/liens/2024/05/23/comment-lia-et-windows-10-annulent-les-efforts-de-microsoft-pour-le-climat-standblog/"/>
          <updated>2024-05-23T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/23/comment-lia-et-windows-10-annulent-les-efforts-de-microsoft-pour-le-climat-standblog/</id>
 
          <content type="html">
-            Comment l&apos;ia et Windows 10 annulent les efforts de microsoft pour le climat - Standblog
+            Comment l&apos;IA et Windows 10 annulent les efforts de microsoft pour le climat - Standblog
          </content>
       </entry>
    
@@ -3712,7 +3709,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
          <id>http://localhost:4000/liens/2024/05/22/are-you-designing-with-the-right-keyboard-in-mind/</id>
 
          <content type="html">
-            When designing interfaces for mobile applications, designers often leave keyboards “out of the picture.” However, this is quite an interesting topic, as the correct (use of the keyboard) keyboard use is what any user expects from an interface.
+            A guide to iOS and Android keyboards.
          </content>
       </entry>
    
@@ -3816,7 +3813,7 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Why i use firefox</title>
+         <title>Why I use Firefox</title>
          <link href="/liens/2024/05/19/why-i-use-firefox/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/why-i-use-firefox/</id>
@@ -6365,7 +6362,7 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
          <id>http://localhost:4000/liens/2024/05/19/fake-news-le-plus-grand-menteur-dinternet-se-confie/</id>
 
          <content type="html">
-            
+            Depuis plus de vingt ans, Tommaso Debenedetti piège les médias avec de faux contenus. Pour lui, c&apos;est une façon de dénoncer le manque de rigueur des journalistes. Il s&apos;en explique.
          </content>
       </entry>
    
@@ -7107,7 +7104,7 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>Best whatsapp alternatives for privacy</title>
+         <title>Best WhatsApp alternatives for privacy</title>
          <link href="/liens/2024/05/19/best-whatsapp-alternatives-for-privacy/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/best-whatsapp-alternatives-for-privacy/</id>
@@ -7129,24 +7126,24 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>Bbc gel | introducing reith – the new face of the bbc</title>
+         <title>Introducing Reith – the new face of the BBC</title>
          <link href="/liens/2024/05/19/bbc-gel-introducing-reith-the-new-face-of-the-bbc/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/bbc-gel-introducing-reith-the-new-face-of-the-bbc/</id>
 
          <content type="html">
-            
+            The BBC has introduced a new typeface. Learn how and why.
          </content>
       </entry>
    
       <entry>
-         <title>Balises connectées (airtags, smarttag, tiles…) : quelles précautions contre les actes malveillants ?</title>
+         <title>Balises connectées (airtags, smarttag, tiles…) : quelles précautions contre les actes malveillants ?</title>
          <link href="/liens/2024/05/19/balises-connectes-airtags-smarttag-tiles-quelles-prcautions-contre-les-actes-malveillants/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/balises-connectes-airtags-smarttag-tiles-quelles-prcautions-contre-les-actes-malveillants/</id>
 
          <content type="html">
-            
+            Les balises connectées peuvent faire l’objet d’une utilisation détournée et illégale, notamment pour suivre quelqu’un à son insu. Que pouvez-vous faire si vous trouvez une balise qui ne vous appartient pas dans vos affaires ?
          </content>
       </entry>
    
@@ -7157,7 +7154,7 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
          <id>http://localhost:4000/liens/2024/05/19/autisme-et-accessibilit-numrique-sur-les-sites-web-au-quotidien/</id>
 
          <content type="html">
-            
+            Dans cet article, nous allons voir comment les personnes autistes vivent l’accessibilité numérique au quotidien à travers leurs navigations sur les sites web.
          </content>
       </entry>
    
@@ -7173,13 +7170,13 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>applite, un app store pour gérer les apps fournies par homebrew cask</title>
+         <title>Applite, un app store pour gérer les apps fournies par Homebrew Cask</title>
          <link href="/liens/2024/05/19/applite-un-app-store-pour-grer-les-apps-fournies-par-homebrew-cask/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/applite-un-app-store-pour-grer-les-apps-fournies-par-homebrew-cask/</id>
 
          <content type="html">
-            
+            Applite est une nouvelle app qui propose une interface graphique par dessus Homebrew Cask. Son apparence se rapproche d’un App Store comme Apple a contribué à les populariser, mais aussi des gestionnaires de paquets en interface graphique que l’on trouvait même avant dans certaines distributions GNU/Linux. Une affiliation pas surprenante, car cette app propose exactement la même fonction, à savoir d’installer et de mettre à jour des ressources en exploitant un gestionnaire de paquets qu’on utilise à la base avec le terminal, mais via une interface graphique.
          </content>
       </entry>
    
@@ -7195,13 +7192,13 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>apple est prêt à bloquer imessage et facetime au royaume-uni pour protéger le chiffrement</title>
+         <title>Apple est prêt à bloquer iMessage et FaceTime au Royaume-uni pour protéger le chiffrement</title>
          <link href="/liens/2024/05/19/apple-est-prt-bloquer-imessage-et-facetime-au-royaumeuni-pour-protger-le-chiffrement/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/apple-est-prt-bloquer-imessage-et-facetime-au-royaumeuni-pour-protger-le-chiffrement/</id>
 
          <content type="html">
-            
+            Apple est très critique contre la dernière initiative du Royaume-Uni, qui pourrait affaiblir la sécurité de certains services qu’il propose. L’entreprise prévoit de ne plus donner accès à iMessage et FaceTime aux Britanniques si les propositions législatives de Londres passent.
          </content>
       </entry>
    
@@ -7212,7 +7209,7 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
          <id>http://localhost:4000/liens/2024/05/19/apple-a-publi-le-code-source-dun-moteur-pour-lintelligence-artificielle/</id>
 
          <content type="html">
-            
+            Apple est un acteur majeur de l’intelligence artificielle, même si depuis le passage au premier plan d’OpenAI et de son ChatGPT, on pourrait croire que l’entreprise de Tim Cook est à la traine. Les processus d’apprentissage automatisé sont pourtant à l’œuvre dans ses systèmes d’exploitation depuis des années, pour identifier le contenu des photos, pour transcrire du texte à la volée et pour des dizaines d’autres usages. En coulisses, Apple travaille aussi sur d’autres sous-domaines du secteur, comme en témoigne ce dépôt ouvert courant juillet sur GitHub.
          </content>
       </entry>
    
@@ -7415,13 +7412,13 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>18 design principles to keep in mind when designing for apple’s vision pro</title>
+         <title>18 design principles to keep in mind when designing for Apple’s Vision Pro</title>
          <link href="/liens/2024/05/19/18-design-principles-to-keep-in-mind-when-designing-for-apples-vision-pro/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/18-design-principles-to-keep-in-mind-when-designing-for-apples-vision-pro/</id>
 
          <content type="html">
-            apple’s Vision Pro has ushered in a new age for designers, and it’s exciting. New set of principles to learn for colours, typography, sizes, accessibility, and so on. Let’s check out some of those guiding principles.
+            Apple’s Vision Pro has ushered in a new age for designers, and it’s exciting. New set of principles to learn for colours, typography, sizes, accessibility, and so on. Let’s check out some of those guiding principles.
          </content>
       </entry>
    
