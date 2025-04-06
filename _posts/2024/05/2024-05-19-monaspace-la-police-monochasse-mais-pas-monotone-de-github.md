@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Monaspace : la police monochasse mais pas monotone de github"
+title: "Monaspace : la police monochasse mais pas monotone de GitHub"
 link: "https://www.macg.co/logiciels/2023/11/monaspace-la-police-monochasse-mais-pas-monotone-de-github-140437"
 author: Anthony Nelzin-Santos
 published_date: "13/11/2023"
@@ -12,9 +12,7 @@ categories:
 tags:
 - "design"
 - "font"
-- "microsoft"
-- "github"
 
-og-tags: "design, font, microsoft, github"
+og-tags: "design, font"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -12,10 +12,7 @@ categories:
 tags:
 - "app"
 - "apple"
-- "ios"
-- "macos"
-- "watchos"
 
-og-tags: "app, apple, ios, macOS, watchOS"
+og-tags: "app, apple"
 permalink: /:categories/:year/:month/:day/:title/
 ---

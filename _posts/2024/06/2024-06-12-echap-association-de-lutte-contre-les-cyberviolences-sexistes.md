@@ -12,7 +12,6 @@ tags:
    - "vie-privée"
    - "surveillance"
    - "ressources"
-   - "sécurité"
-og-tags: "vie-privée, surveillance, ressources, sécurité"
+og-tags: "vie-privée, surveillance, ressources"
 permalink: /:categories/:year/:month/:day/:title/
 ---

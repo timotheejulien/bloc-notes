@@ -12,8 +12,8 @@ categories:
 tags:
 - "gafam"
 - "apple"
-- "netflix"
+- "streaming"
 
-og-tags: "gafam, apple, netflix"
+og-tags: "gafam, apple, streamingREX"
 permalink: /:categories/:year/:month/:day/:title/
 ---

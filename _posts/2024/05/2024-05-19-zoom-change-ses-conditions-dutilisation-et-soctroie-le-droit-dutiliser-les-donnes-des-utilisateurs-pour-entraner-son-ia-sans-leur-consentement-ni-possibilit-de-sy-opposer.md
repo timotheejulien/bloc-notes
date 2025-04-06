@@ -12,9 +12,8 @@ categories:
 tags:
 - "vie-privée"
 - "app"
-- "zoom"
 - "ia"
 
-og-tags: "vie-privée, app, zoom, ia"
+og-tags: "vie-privée, app, ia"
 permalink: /:categories/:year/:month/:day/:title/
 ---

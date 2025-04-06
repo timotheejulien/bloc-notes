@@ -8,7 +8,7 @@ description: "Apple’s macOS has changed a lot since its first version, but it 
 language: "en"
 categories: 
    - Liens
-tags: "apple macos"
-og-tags: "apple macos"
+tags: "apple"
+og-tags: "apple"
 permalink: /:categories/:year/:month/:day/:title/
 ---

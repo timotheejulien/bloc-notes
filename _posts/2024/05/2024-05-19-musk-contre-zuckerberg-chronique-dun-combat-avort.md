@@ -8,7 +8,7 @@ description: "Le match de « mixed martial arts » (MMA) entre les deux patrons 
 language: fr
 categories:
 - Liens
-tags: "elon-musk facebook web"
-og-tags: "elon-musk facebook web"
+tags: "facebook web"
+og-tags: "facebook web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -14,8 +14,7 @@ tags:
 - "réseau-social"
 - "meta"
 - "mastodon"
-- "threads"
 
-og-tags: "gafam, Réseau social, meta, mastodon, threads"
+og-tags: "gafam, Réseau social, meta, mastodon,"
 permalink: /:categories/:year/:month/:day/:title/
 ---

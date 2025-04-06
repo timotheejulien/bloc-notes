@@ -8,7 +8,7 @@ description: L'investisseur norvégien Storebrand a vendu sa participation dans 
 language: fr
 categories: 
    - Liens
-tags: "big-data surveillance société économie éthique"
-og-tags: "big-data surveillance société économie éthique"
+tags: "surveillance société économie éthique données-personnelles"
+og-tags: "surveillance société économie éthique données-personnelles"
 permalink: /:categories/:year/:month/:day/:title/
 ---

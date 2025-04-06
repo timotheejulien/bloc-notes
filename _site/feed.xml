@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-04-04T09:33:02+02:00</updated>
+   <updated>2025-04-06T15:10:18+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Le secteur du fromage français en 5 chiffres</title>
+         <link href="/liens/2025/04/05/le-secteur-du-fromage-francais-en-5-chiffres/"/>
+         <updated>2025-04-05T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/05/le-secteur-du-fromage-francais-en-5-chiffres/</id>
+
+         <content type="html">
+            C’est en France que l’on trouve les meilleurs fromages et on n&apos;a pas peur de le dire. En atteste l’engouement des Français et des épicuriens d&apos;ailleurs pour ce produit aussi convivial que culturel. Zoom sur cinq chiffres qui démontrent que le marché du fromage flaire bon la réussite.
+         </content>
+      </entry>
    
       <entry>
          <title>Comment les entreprises de la tech nous forcent à utiliser l'IA</title>
@@ -3496,7 +3507,7 @@ Mais que raconte t’il de notre société, de notre époque, de nos habitudes e
       </entry>
    
       <entry>
-         <title>Synchroniser un repo github avec Gitlab</title>
+         <title>Synchroniser un repo GitHub avec Gitlab</title>
          <link href="/liens/2024/06/04/synchroniser-github-et-gitlab/"/>
          <updated>2024-06-04T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/06/04/synchroniser-github-et-gitlab/</id>
@@ -3992,13 +4003,13 @@ Depuis quelques années, je suis amené à travailler sur des cycles de concepti
       </entry>
    
       <entry>
-         <title>Uber files : emmanuel macron aurait contribué à cette « grande opération de manipulation »</title>
+         <title>Uber files : Emmanuel Macron aurait contribué à cette « grande opération de manipulation »</title>
          <link href="/liens/2024/05/19/uber-files-emmanuel-macron-aurait-contribu-cette-grande-opration-de-manipulation/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/uber-files-emmanuel-macron-aurait-contribu-cette-grande-opration-de-manipulation/</id>
 
          <content type="html">
-            La commission d’enquête parlementaire sur Uber et ses opérations de lobbying auprès du gouvernement français a rendu ses conclusions. Le rapport indique que l’entreprise aurait « trouvé des alliés » au sein du gouvernement au moment de son arrivée en France, notamment Emmanuel Macron, alors ministre de l’Économie. 
+            La commission d’enquête parlementaire sur Uber et ses opérations de lobbying auprès du gouvernement français a rendu ses conclusions. Le rapport indique que l’entreprise aurait « trouvé des alliés » au sein du gouvernement au moment de son arrivée en France, notamment Emmanuel Macron, alors ministre de l’Économie. 
          </content>
       </entry>
    
@@ -4918,7 +4929,7 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>Monaspace : la police monochasse mais pas monotone de github</title>
+         <title>Monaspace : la police monochasse mais pas monotone de GitHub</title>
          <link href="/liens/2024/05/19/monaspace-la-police-monochasse-mais-pas-monotone-de-github/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/monaspace-la-police-monochasse-mais-pas-monotone-de-github/</id>
@@ -6524,7 +6535,7 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
       </entry>
    
       <entry>
-         <title>Droits voisins : Mediapart lance la bataille de la transparence contre google</title>
+         <title>Droits voisins : Mediapart lance la bataille de la transparence contre Google</title>
          <link href="/liens/2024/05/19/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google/</id>

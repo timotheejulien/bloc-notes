@@ -13,10 +13,8 @@ tags:
 - "vie-privée"
 - "surveillance"
 - "streaming"
-- "amazon"
-- "netflix"
 - "publicité"
 
-og-tags: "vie-privée, surveillance, streaming, amazon, netflix, publicité"
+og-tags: "vie-privée, surveillance, streaming, publicité"
 permalink: /:categories/:year/:month/:day/:title/
 ---

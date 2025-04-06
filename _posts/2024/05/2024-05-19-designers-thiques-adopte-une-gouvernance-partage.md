@@ -9,10 +9,8 @@ language: fr
 categories:
 - Liens
 
-tags:
-- "design"
-- "retour-expérience"
+tags: "design freelance travail"
 
-og-tags: "design, retour-expérience"
+og-tags: "design freelance travail"
 permalink: /:categories/:year/:month/:day/:title/
 ---

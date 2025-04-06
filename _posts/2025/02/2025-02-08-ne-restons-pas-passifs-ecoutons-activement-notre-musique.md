@@ -7,7 +7,7 @@ published_date: "07/02/2025"
 description: "Depuis environ deux ans, j’ai observé une énorme baisse des écoutes sur Spotify de plusieurs artistes autour de moi, que ce soit au Québec, aux États-Unis ou en Europe. Peu importe qu’ils soient des artistes indépendants générant des millions d’écoutes ou quelques milliers, toutes leurs récentes sorties faisaient beaucoup moins bien que les précédentes. Ce n’était donc plus une question de qualité ou de promotion qui pouvait expliquer cette baisse généralisée."
 language: "fr"
 categories: "Liens"
-tags: "musique spotify"
-og-tags: "musique spotify"
+tags: "musique"
+og-tags: "musique"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -11,7 +11,7 @@ categories:
 tags:
    - "écologie"
    - "société"
-   - "industrie"
-og-tags: "écologie, société, industrie"
+   - "consommation"
+og-tags: "écologie, société, consommation"
 permalink: /:categories/:year/:month/:day/:title/
 ---

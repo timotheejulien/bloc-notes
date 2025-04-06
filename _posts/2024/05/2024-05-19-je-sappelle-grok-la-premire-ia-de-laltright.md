@@ -13,8 +13,7 @@ tags:
 - "ia"
 - "réseau-social"
 - "x"
-- "elon-musk"
 
-og-tags: "ia, Réseau social, x, elon-musk"
+og-tags: "ia, Réseau social, x,"
 permalink: /:categories/:year/:month/:day/:title/
 ---

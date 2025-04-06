@@ -9,11 +9,7 @@ language: fr
 categories:
 - Liens
 
-tags:
-- "app"
-- "x"
-- "elon-musk"
-
-og-tags: "app, x, elon-musk"
+tags: "app x réseau-social"
+og-tags: "app, x, réseau-social"
 permalink: /:categories/:year/:month/:day/:title/
 ---

@@ -9,8 +9,8 @@ language: fr
 categories:
 - Vidéos
 
-tags: "vie-privée surveillance big-data"
-og-tags: "vie-privée, surveillance, big-data"
+tags: "vie-privée surveillance données-personnelles"
+og-tags: "vie-privée, surveillance, données-personnelles"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Synchroniser un repo github avec Gitlab"
+title: "Synchroniser un repo GitHub avec Gitlab"
 link: "https://www.teotimepacreau.fr/blog/synchroniser-github-et-gitlab/"
 author: Téotime Pacreau
 published_date: "04/06/2024"
@@ -9,8 +9,7 @@ language: fr
 categories:
    - Liens
 tags:
-   - "github"
    - "développement"
-og-tags: "github, développement"
+og-tags: "développement"
 permalink: /:categories/:year/:month/:day/:title/
 ---

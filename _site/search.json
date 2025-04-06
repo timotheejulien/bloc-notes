@@ -1,6 +1,13 @@
 [
       
             {
+                  "title"    : "Le secteur du fromage français en 5 chiffres",
+                  "url"      : "/liens/2025/04/05/le-secteur-du-fromage-francais-en-5-chiffres/",
+                  "tags"     : "fromage"
+            } 
+      ,
+  
+            {
                   "title"    : "Comment les entreprises de la tech nous forcent à utiliser l&#39;IA",
                   "url"      : "/liens/2025/04/04/ai-forcing/",
                   "tags"     : "ia, design"
@@ -395,7 +402,7 @@
             {
                   "title"    : "Ne restons pas passifs, écoutons activement notre musique",
                   "url"      : "/liens/2025/02/08/ne-restons-pas-passifs-ecoutons-activement-notre-musique/",
-                  "tags"     : "musique, spotify"
+                  "tags"     : "musique"
             } 
       ,
   
@@ -654,7 +661,7 @@
             {
                   "title"    : "10 ans de Netflix en France : qu&#39;est-ce que ça a changé ?",
                   "url"      : "/liens/2025/01/17/10-ans-de-netflix-en-france-quest-ce-que-ca-a-change/",
-                  "tags"     : "netflix"
+                  "tags"     : "streaming"
             } 
       ,
   
@@ -738,7 +745,7 @@
             {
                   "title"    : "The iconic macOS Dock has just turned 25",
                   "url"      : "/liens/2025/01/07/macos-dock-just-turned-25/",
-                  "tags"     : "apple, macos"
+                  "tags"     : "apple"
             } 
       ,
   
@@ -1060,7 +1067,7 @@
             {
                   "title"    : "La conjugaison de la fierté ignorante",
                   "url"      : "/liens/2024/12/02/conjuration-fierte-ignorante/",
-                  "tags"     : "ia, société, numérique, technologique"
+                  "tags"     : "ia, société, numérique, technologie"
             } 
       ,
   
@@ -1228,7 +1235,7 @@
             {
                   "title"    : "Musk n’est pas notre projet. En voici un autre",
                   "url"      : "/liens/2024/11/16/musk-nest-pas-notre-projet-en-voici-un-autre/",
-                  "tags"     : "réseau-social, numérique, x, elon-musk"
+                  "tags"     : "réseau-social, numérique, x"
             } 
       ,
   
@@ -1375,7 +1382,7 @@
             {
                   "title"    : "The open-source project DeFlock is mapping license plate surveillance cameras all over the world",
                   "url"      : "/liens/2024/11/11/the-open-source-project-deflock-is-mapping-license-plate-surveillance-cameras-all-over-the-world/",
-                  "tags"     : "carte, surveillance, open-source"
+                  "tags"     : "surveillance, open-source"
             } 
       ,
   
@@ -1718,7 +1725,7 @@
             {
                   "title"    : "Big data : La Norvège retire ses billes de Palantir pour dénoncer son implication dans la guerre au Moyen-Orient",
                   "url"      : "/liens/2024/10/10/big-data-la-norvege-retire-ses-billes-de-palantir-pour-denoncer-son-implication-dans-la-guerre-au-moyen-orient/",
-                  "tags"     : "big-data, surveillance, société, économie, éthique"
+                  "tags"     : "surveillance, société, économie, éthique, données-personnelles"
             } 
       ,
   
@@ -1739,7 +1746,7 @@
             {
                   "title"    : "Tota11y lost",
                   "url"      : "/liens/2024/09/28/tota11y-lost/",
-                  "tags"     : "accessibilité, gamification, jeux"
+                  "tags"     : "accessibilité, jeux"
             } 
       ,
   
@@ -2187,7 +2194,7 @@
             {
                   "title"    : "Echap, association de lutte contre les cyberviolences sexistes",
                   "url"      : "/liens/2024/06/12/echap-association-de-lutte-contre-les-cyberviolences-sexistes/",
-                  "tags"     : "vie-privée, surveillance, ressources, sécurité"
+                  "tags"     : "vie-privée, surveillance, ressources"
             } 
       ,
   
@@ -2208,14 +2215,14 @@
             {
                   "title"    : "Comprendre le réchauffement climatique : comment nous avons bouleversé la planète",
                   "url"      : "/liens/2024/06/05/comprendre-le-rechauffement-comment-nous-avons-bouleverse-le-climat/",
-                  "tags"     : "écologie, société, industrie"
+                  "tags"     : "écologie, société, consommation"
             } 
       ,
   
             {
-                  "title"    : "Synchroniser un repo github avec Gitlab",
+                  "title"    : "Synchroniser un repo GitHub avec Gitlab",
                   "url"      : "/liens/2024/06/04/synchroniser-github-et-gitlab/",
-                  "tags"     : "github, développement"
+                  "tags"     : "développement"
             } 
       ,
   
@@ -2334,7 +2341,7 @@
             {
                   "title"    : "Faire un site avec Kirby CMS",
                   "url"      : "/liens/2024/05/22/faire-un-site-avec-kirby-cms/",
-                  "tags"     : "développement, kirby, cms"
+                  "tags"     : "développement, cms"
             } 
       ,
   
@@ -2369,14 +2376,14 @@
             {
                   "title"    : "Zoom et les politiques de confidentialité",
                   "url"      : "/liens/2024/05/19/zoom-et-les-politiques-de-confidentialit/",
-                  "tags"     : "vie-privée, app, zoom"
+                  "tags"     : "vie-privée, app"
             } 
       ,
   
             {
                   "title"    : "Zoom change ses conditions d&#39;utilisation et s&#39;octroie le droit d&#39;utiliser les données des utilisateurs pour entraîner son ia sans leur consentement, ni possibilité de s&#39;y opposer",
                   "url"      : "/liens/2024/05/19/zoom-change-ses-conditions-dutilisation-et-soctroie-le-droit-dutiliser-les-donnes-des-utilisateurs-pour-entraner-son-ia-sans-leur-consentement-ni-possibilit-de-sy-opposer/",
-                  "tags"     : "vie-privée, app, zoom, ia"
+                  "tags"     : "vie-privée, app, ia"
             } 
       ,
   
@@ -2432,7 +2439,7 @@
             {
                   "title"    : "What to know about Threads",
                   "url"      : "/liens/2024/05/19/what-to-know-about-threads/",
-                  "tags"     : "gafam, réseau-social, meta, mastodon, threads"
+                  "tags"     : "gafam, réseau-social, meta, mastodon"
             } 
       ,
   
@@ -2446,7 +2453,7 @@
             {
                   "title"    : "Vos visages sont à nous : les dangers de la reconnaissance faciale",
                   "url"      : "/vid%C3%A9os/2024/05/19/vos-visages-sont-nous-les-dangers-de-la-reconnaissance-faciale/",
-                  "tags"     : "vie-privée, surveillance, big-data"
+                  "tags"     : "vie-privée, surveillance, données-personnelles"
             } 
       ,
   
@@ -2528,9 +2535,9 @@
       ,
   
             {
-                  "title"    : "Uber files : emmanuel macron aurait contribué à cette « grande opération de manipulation »",
+                  "title"    : "Uber files : Emmanuel Macron aurait contribué à cette « grande opération de manipulation »",
                   "url"      : "/liens/2024/05/19/uber-files-emmanuel-macron-aurait-contribu-cette-grande-opration-de-manipulation/",
-                  "tags"     : "société, politique, uber"
+                  "tags"     : "société, politique"
             } 
       ,
   
@@ -2719,7 +2726,7 @@
             {
                   "title"    : "SNCF de-connect",
                   "url"      : "/liens/2024/05/19/sncf-deconnect/",
-                  "tags"     : "app, design, ux, sncf, podcast"
+                  "tags"     : "app, design, ux, podcast, transport"
             } 
       ,
   
@@ -3104,7 +3111,7 @@
             {
                   "title"    : "Musk contre Zuckerberg : chronique d’un combat avorté",
                   "url"      : "/liens/2024/05/19/musk-contre-zuckerberg-chronique-dun-combat-avort/",
-                  "tags"     : "elon-musk, facebook, web"
+                  "tags"     : "facebook, web"
             } 
       ,
   
@@ -3116,9 +3123,9 @@
       ,
   
             {
-                  "title"    : "Monaspace : la police monochasse mais pas monotone de github",
+                  "title"    : "Monaspace : la police monochasse mais pas monotone de GitHub",
                   "url"      : "/liens/2024/05/19/monaspace-la-police-monochasse-mais-pas-monotone-de-github/",
-                  "tags"     : "design, font, microsoft, github"
+                  "tags"     : "design, font"
             } 
       ,
   
@@ -3230,7 +3237,7 @@
             {
                   "title"    : "Macstories selects 2023: recognizing the best apps of the year",
                   "url"      : "/liens/2024/05/19/macstories-selects-2023-recognizing-the-best-apps-of-the-year/",
-                  "tags"     : "app, apple, ios, macos, watchos"
+                  "tags"     : "app, apple"
             } 
       ,
   
@@ -3489,7 +3496,7 @@
             {
                   "title"    : "Le patron de Zoom admet que zoom ne permet pas « d’avoir confiance » en ses collègues",
                   "url"      : "/liens/2024/05/19/le-patron-de-zoom-admet-que-zoom-ne-permet-pas-davoir-confiance-en-ses-collgues/",
-                  "tags"     : "zoom, web"
+                  "tags"     : "app, web"
             } 
       ,
   
@@ -3594,7 +3601,7 @@
             {
                   "title"    : "L&#39;Apple Vision Pro pourrait être privé de Netflix",
                   "url"      : "/liens/2024/05/19/lapple-vision-pro-pourrait-tre-priv-de-netflix/",
-                  "tags"     : "gafam, apple, netflix"
+                  "tags"     : "gafam, apple, streaming"
             } 
       ,
   
@@ -3720,7 +3727,7 @@
             {
                   "title"    : "La fin du streaming sans publicité s&#39;approche-t&#39;elle ?",
                   "url"      : "/liens/2024/05/19/la-fin-du-streaming-sans-publicit-sapprochetelle/",
-                  "tags"     : "vie-privée, surveillance, streaming, amazon, netflix, publicité"
+                  "tags"     : "vie-privée, surveillance, streaming, publicité"
             } 
       ,
   
@@ -3762,7 +3769,7 @@
             {
                   "title"    : "Je s’appelle Grok. La première ia de l’altright ?",
                   "url"      : "/liens/2024/05/19/je-sappelle-grok-la-premire-ia-de-laltright/",
-                  "tags"     : "ia, réseau-social, x, elon-musk"
+                  "tags"     : "ia, réseau-social, x"
             } 
       ,
   
@@ -4091,7 +4098,7 @@
             {
                   "title"    : "Elon Musk annonce la fin de Twitter, remplacé par x.com",
                   "url"      : "/liens/2024/05/19/elon-musk-annonce-la-fin-de-twitter-remplac-par-xcom/",
-                  "tags"     : "app, x, elon-musk"
+                  "tags"     : "app, x, réseau-social"
             } 
       ,
   
@@ -4138,9 +4145,9 @@
       ,
   
             {
-                  "title"    : "Droits voisins : Mediapart lance la bataille de la transparence contre google",
+                  "title"    : "Droits voisins : Mediapart lance la bataille de la transparence contre Google",
                   "url"      : "/liens/2024/05/19/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google/",
-                  "tags"     : "ia, google, droit-auteur"
+                  "tags"     : "ia, google, presse"
             } 
       ,
   
@@ -4182,7 +4189,7 @@
             {
                   "title"    : "Designers éthiques adopte une gouvernance partagée - REX",
                   "url"      : "/liens/2024/05/19/designers-thiques-adopte-une-gouvernance-partage/",
-                  "tags"     : "design, retour-expérience"
+                  "tags"     : "design, freelance, travail"
             } 
       ,
   
@@ -4693,7 +4700,7 @@
             {
                   "title"    : "2023, année calme en nouveaux émojis",
                   "url"      : "/liens/2024/05/19/2023-anne-calme-en-nouveaux-mojis/",
-                  "tags"     : "design, emoji"
+                  "tags"     : "design, icônes"
             } 
       ,
   

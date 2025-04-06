@@ -12,8 +12,7 @@ categories:
 tags:
 - "vie-privée"
 - "app"
-- "zoom"
 
-og-tags: "vie-privée, app, zoom"
+og-tags: "vie-privée, app"
 permalink: /:categories/:year/:month/:day/:title/
 ---

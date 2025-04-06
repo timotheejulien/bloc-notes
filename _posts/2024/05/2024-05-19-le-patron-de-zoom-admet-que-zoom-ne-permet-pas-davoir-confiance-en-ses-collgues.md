@@ -10,9 +10,9 @@ categories:
 - Liens
 
 tags:
-- "zoom"
+- "app"
 - "web"
 
-og-tags: "zoom, web"
+og-tags: "app, web"
 permalink: /:categories/:year/:month/:day/:title/
 ---

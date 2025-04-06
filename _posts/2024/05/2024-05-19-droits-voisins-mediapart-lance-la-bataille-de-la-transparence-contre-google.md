@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Droits voisins : Mediapart lance la bataille de la transparence contre google"
+title: "Droits voisins : Mediapart lance la bataille de la transparence contre Google"
 link: "https://www.mediapart.fr/journal/culture-et-idees/280424/droits-voisins-mediapart-lance-la-bataille-de-la-transparence-contre-google"
 author: Carine Fouteau
 published_date: "28/04/2024"
@@ -12,8 +12,8 @@ categories:
 tags:
 - "ia"
 - "google"
-- "droit-auteur"
+- "presse"
 
-og-tags: "ia, google, Droit d’auteur"
+og-tags: "ia, google, presse"
 permalink: /:categories/:year/:month/:day/:title/
 ---
