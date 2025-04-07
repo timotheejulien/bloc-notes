@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-04-07T20:34:17+02:00</updated>
+   <updated>2025-04-07T20:35:41+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,13 +14,13 @@
 
    
       <entry>
-         <title></title>
-         <link href="/liens/citations/vid%C3%A9os/2025/04/07/suisse-record-raclette/"/>
+         <title>« Un succès phénoménal » : la Suisse pulvérise le record de la plus grande raclette du monde et détrône la France</title>
+         <link href="/liens/2025/04/07/suisse-record-raclette/"/>
          <updated>2025-04-07T00:00:00+02:00</updated>
-         <id>http://localhost:4000/liens/citations/vid%C3%A9os/2025/04/07/suisse-record-raclette/</id>
+         <id>http://localhost:4000/liens/2025/04/07/suisse-record-raclette/</id>
 
          <content type="html">
-            
+            Les 4 893 personnes réunies à Martigny (Suisse) samedi soir ont permis à la Suisse de s’octroyer un record du monde jusqu’ici détenu par la France.
          </content>
       </entry>
    
