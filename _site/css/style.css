@@ -95,7 +95,7 @@ h4, .h4 {
 }
 
 p {
-   line-height: 1.4;
+   line-height: 1.5;
    letter-spacing: 0px;
 }
 
@@ -514,7 +514,7 @@ body {
 p.article-description {
    margin: var(--space-small) var(--space-none) var(--space-regular) var(--space-none);
    display: -webkit-box;
-   font-size: 16px;
+   font-size: 18px;
    -webkit-line-clamp: 3;
    -webkit-box-orient: vertical;   /* Orientation vertical de la boite */
    overflow: hidden;
