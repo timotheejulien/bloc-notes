@@ -78,7 +78,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-   margin: 0;
+   margin: var(--space-medium) 0 var(--space-regular) 0;
    font-size: 28px;
    font-style: normal;
    font-weight: 400;
