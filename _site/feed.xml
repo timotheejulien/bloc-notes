@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-04-21T18:09:15+02:00</updated>
+   <updated>2025-04-22T08:22:09+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>Guide d’autodéfense numérique</title>
+         <link href="/liens/2025/04/22/guide-autodefense-numerique/"/>
+         <updated>2025-04-22T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/22/guide-autodefense-numerique/</id>
+
+         <content type="html">
+            Quelques bonnes pratiques à mettre en place pour protéger sa vie numérique, selon son modèle de menace.
+         </content>
+      </entry>
    
       <entry>
          <title>Sacrés Caractères : la typographie vue par France Culture</title>
