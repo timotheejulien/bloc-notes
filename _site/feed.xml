@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-04-22T08:22:09+02:00</updated>
+   <updated>2025-04-28T18:40:47+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>11 uses for variables beyond light and dark mode</title>
+         <link href="/liens/2025/04/28/uses-for-variables-beyond-light-and-dark-mode/"/>
+         <updated>2025-04-28T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/28/uses-for-variables-beyond-light-and-dark-mode/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>The blog questions challenge</title>
+         <link href="/liens/2025/04/25/the-blog-questions-challenge/"/>
+         <updated>2025-04-25T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/25/the-blog-questions-challenge/</id>
+
+         <content type="html">
+            This challenge has been recently making rounds on the Internet and as I’ve seen a lot of my friends and people I follow in the tech industry take part, I figured that I want to, as well. So this is me answering a set of questions about how and why I blog on this website.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Éco-conception et dithering</title>
+         <link href="/liens/2025/04/25/eco-conception-et-dithering/"/>
+         <updated>2025-04-25T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/25/eco-conception-et-dithering/</id>
+
+         <content type="html">
+            S’il y a bien un truc qui m’énerve, ce sont les sites soit disant « éco-conçus » qui appliquent un effet de « dithering » (diffusion d’erreur en français, aussi parfois désigné comme un effet de tramage) sur leurs images.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>IKEA’s web fonts</title>
+         <link href="/liens/2025/04/24/ikea-web-fonts/"/>
+         <updated>2025-04-24T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/24/ikea-web-fonts/</id>
+
+         <content type="html">
+            An article on how IKEA had to create their own font for certain characters, and how they made it available to the world with performance in mind.
+         </content>
+      </entry>
    
       <entry>
          <title>Guide d’autodéfense numérique</title>
