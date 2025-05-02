@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Radio France lance son algorithme de service public | radio france"
+title: "Radio France lance son algorithme de service public"
 link: "https://www.radiofrance.com/presse/radio-france-lance-son-algorithme-de-service-public"
 author: N/A
 published_date: "23/11/2022"

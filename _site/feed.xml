@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-04-28T18:40:47+02:00</updated>
+   <updated>2025-05-02T08:46:43+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,40 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
 
+   
+      <entry>
+         <title>« DéGooglisé » depuis 8 ans : d’Evernote à mon jardin numérique autohébergé (2/2)</title>
+         <link href="/liens/2025/05/02/quitter-evernote-autoheberger-jardin-numerique/"/>
+         <updated>2025-05-02T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/02/quitter-evernote-autoheberger-jardin-numerique/</id>
+
+         <content type="html">
+            Comment essayer de m’extirper de l’appli propriétaire Evernote m’a poussé à découvrir l’univers de l’autohébergement
+         </content>
+      </entry>
+   
+      <entry>
+         <title>« DéGooglisé » depuis 8 ans : comment j’ai quitté Evernote et ce que j’ai appris en chemin (partie 1/2)</title>
+         <link href="/liens/2025/05/02/quitter-evernote-alternatives-auto-hebergement-degooglisation/"/>
+         <updated>2025-05-02T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/02/quitter-evernote-alternatives-auto-hebergement-degooglisation/</id>
+
+         <content type="html">
+            L’évolution de mon 3e hémisphère de cerveau ces 10 dernières années : prise de notes, merdification d’Evernote, et cheminement vers des alternatives libres
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Adapter la &quot;Méthode de l&#039;écumoire&quot;</title>
+         <link href="/liens/2025/04/30/methode-ecumoire-degradee/"/>
+         <updated>2025-04-30T00:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/04/30/methode-ecumoire-degradee/</id>
+
+         <content type="html">
+            Peut-être avez-vous déjà entendu parler de la méthode de l’écumoire, un format d’atelier de conception imaginé par Damien Legendre de l’agence Lunaweb. Pour ma part, je l’ai découverte lors de l’édition 2024 de Paris Web (un rendez-vous à ne pas manquer si vous vous intéressez à un web plus humain !).
+Dans cet article, je vous partage comment je m’inspire de cette méthode lors d’ateliers de lancement de projets web à portée et moyens modestes.
+         </content>
+      </entry>
    
       <entry>
          <title>11 uses for variables beyond light and dark mode</title>
@@ -4550,7 +4584,7 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
       </entry>
    
       <entry>
-         <title>Radio France lance son algorithme de service public | radio france</title>
+         <title>Radio France lance son algorithme de service public</title>
          <link href="/liens/2024/05/19/radio-france-lance-son-algorithme-de-service-public-radio-france/"/>
          <updated>2024-05-19T00:00:00+02:00</updated>
          <id>http://localhost:4000/liens/2024/05/19/radio-france-lance-son-algorithme-de-service-public-radio-france/</id>
