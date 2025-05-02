@@ -13,12 +13,12 @@ layout: null
       <name>Timothée JULIEN</name>
    </author>
    <generator uri="https://jekyllrb.com/" version="v{{ jekyll.version }}">Jekyll v{{ jekyll.version }}</generator>
-   <rights>https://github.com/timotheejulien/bloc-notes?tab=MIT-1-ov-file#readme</rights>
+   <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
    {% for post in site.posts %}
       <entry>
          <title>{{ post.title }}</title>
-         <link href="{{ post.url }}"/>
+         <link href="{{ post.url | absolute_url }}"/>
          <updated>{{ post.date | date_to_xmlschema }}</updated>
          <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
 
