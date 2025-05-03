@@ -1,19 +1,18 @@
 ---
 layout: post
-title: "La nouvelle informatique"
-link: "https://ploum.net/2024-03-21-nouvelle-informatique.html"
+title: La nouvelle informatique
+link: https://ploum.net/2024-03-21-nouvelle-informatique.html
 author: Ploum
-published_date: "21/03/2024"
-description: "Je suis un geek addict. L’informatique est ma passion, ma drogue."
+published_date: 21/03/2024
+description: Je suis un geek addict. L’informatique est ma passion, ma drogue.
 language: fr
 categories:
 - Liens
-
 tags:
-- "app"
-- "web"
-- "technologie"
-
-og-tags: "app, web, technologie"
-permalink: /:categories/:year/:month/:day/:title/
+- app
+- web
+- technologie
+og-tags: app, web, technologie
+permalink: "/:categories/:year/:month/:day/:title/"
+date: '2024-11-05 20:55:44 +0100'
 ---

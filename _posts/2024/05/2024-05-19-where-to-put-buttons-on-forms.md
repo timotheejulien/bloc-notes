@@ -1,20 +1,19 @@
 ---
 layout: post
-title: "Where to put buttons on forms"
-link: "https://adamsilver.io/blog/where-to-put-buttons-on-forms"
+title: Where to put buttons on forms
+link: https://adamsilver.io/blog/where-to-put-buttons-on-forms
 author: Adam Silver
-published_date: "16/09/2019"
-description: "Recommandations UX sur l'emplacement des boutons"
+published_date: 16/09/2019
+description: Recommandations UX sur l'emplacement des boutons
 language: en
 categories:
 - Liens
-
 tags:
-- "design"
-- "design-system"
-- "ui"
-- "ux"
-
-og-tags: "design, design-system, ui, ux"
-permalink: /:categories/:year/:month/:day/:title/
+- design
+- design-system
+- ui
+- ux
+og-tags: design, design-system, ui, ux
+permalink: "/:categories/:year/:month/:day/:title/"
+date: '2024-11-05 20:55:44 +0100'
 ---

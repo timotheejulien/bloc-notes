@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Sacrés Caractères : la typographie vue par France Culture"
-link: "https://www.laboiteverte.fr/sacres-caracteres-la-typographie-vue-par-france-culture"
-author: "France Culture"
-published_date: "N/A"
-description: "France Culture vient d’inaugurer une série de 12 superbes mini-documentaires de 3 minutes créés par Thomas Sipp, Serge Elissalde et Mariannick Bellot sur la typographie qui expliquent chacun les origines, les particularités et les utilisations d’une police de caractère célèbre."
-language: "fr"
-categories: 
-   - Vidéos
-tags: "documentaire font"
-og-tags: "documentaire font"
-permalink: /:categories/:year/:month/:day/:title/
+title: 'Sacrés Caractères : la typographie vue par France Culture'
+link: https://www.laboiteverte.fr/sacres-caracteres-la-typographie-vue-par-france-culture
+author: France Culture
+published_date: N/A
+description: France Culture vient d’inaugurer une série de 12 superbes mini-documentaires
+  de 3 minutes créés par Thomas Sipp, Serge Elissalde et Mariannick Bellot sur la
+  typographie qui expliquent chacun les origines, les particularités et les utilisations
+  d’une police de caractère célèbre.
+language: fr
+categories:
+- Vidéos
+tags: documentaire font
+og-tags: documentaire font
+permalink: "/:categories/:year/:month/:day/:title/"
+date: '2025-04-21 17:47:34 +0200'
 ---
 
 ### Gotham

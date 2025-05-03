@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "The war on encryption is dangerous"
-link: "https://www.instagram.com/p/DHZCQmnx6_y/?img_index=1"
-author: "Meredith Whittaker, Signal President"
-published_date: "19/03/2025"
-description: "Ceci est une recopie du post Instagram de Signal."
-language: "en"
-categories: 
-   - Citations
-tags: "chiffrement signal"
-og-tags: "chiffrement signal"
-permalink: /:categories/:year/:month/:day/:title/
+title: The war on encryption is dangerous
+link: https://www.instagram.com/p/DHZCQmnx6_y/?img_index=1
+author: Meredith Whittaker, Signal President
+published_date: 19/03/2025
+description: Ceci est une recopie du post Instagram de Signal.
+language: en
+categories:
+- Citations
+tags: chiffrement signal
+og-tags: chiffrement signal
+permalink: "/:categories/:year/:month/:day/:title/"
+date: '2025-03-20 12:41:41 +0100'
 ---
 <hr>
 **Op-ed by Meredith Whittaker, Signal President**<br>

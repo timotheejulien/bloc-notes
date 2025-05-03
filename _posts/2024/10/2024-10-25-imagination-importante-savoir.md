@@ -6,9 +6,10 @@ author: Albert Einstein
 published_date: Date inconnue
 description:
 language: fr
-categories: 
-   - Citations
-tags: "réflexion philosophie"
-og-tags: "réflexion, philosophie"
-permalink: /:categories/:year/:month/:day/:title/
+categories:
+- Citations
+tags: réflexion philosophie
+og-tags: réflexion, philosophie
+permalink: "/:categories/:year/:month/:day/:title/"
+date: '2024-11-05 20:55:44 +0100'
 ---

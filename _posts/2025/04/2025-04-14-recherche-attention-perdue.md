@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "À la recherche de l’attention perdue"
+title: À la recherche de l’attention perdue
 link: https://ploum.net/2025-04-14-recherche-attention-perdue.html
-author: "Ploum"
-published_date: "14/04/2025"
-description: ""
-language: "fr"
-categories: "Liens"
-tags: "signal numérique"
-og-tags: "signal numérique"
-permalink: /:categories/:year/:month/:day/:title/
+author: Ploum
+published_date: 14/04/2025
+description: ''
+language: fr
+categories: Liens
+tags: signal numérique
+og-tags: signal numérique
+permalink: "/:categories/:year/:month/:day/:title/"
+date: '2025-04-16 08:23:47 +0200'
 ---
