@@ -9,5 +9,6 @@ language: fr
 categories: "Liens"
 tags: "internet ia réseau-social"
 og-tags: "internet ia réseau-social"
+date: "2025-05-05T08:43:26+02:00"
 permalink: /:categories/:year/:month/:day/:title/
 ---
