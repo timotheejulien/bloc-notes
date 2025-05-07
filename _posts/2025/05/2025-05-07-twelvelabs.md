@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New branding of TwelveLabs"
-link: "https://logonews.fr/2025/05/07/twelvelabs-donne-forme-a-lintelligence"
+link: "https://www.pentagram.com/work/twelvelabs"
 author: "Pentagram"
 published_date: "07/05/2025"
 description: "Visual identity and website for a pioneering company that helps machines understand video like people do."
