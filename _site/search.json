@@ -1,6 +1,34 @@
 [
       
             {
+                  "title"    : "New branding of TwelveLabs",
+                  "url"      : "/liens/2025/05/07/twelvelabs/",
+                  "tags"     : "branding"
+            } 
+      ,
+  
+            {
+                  "title"    : "How users read on the Web",
+                  "url"      : "/liens/2025/05/05/how-users-read-on-the-web/",
+                  "tags"     : "ux"
+            } 
+      ,
+  
+            {
+                  "title"    : "Vers un internet plein de vide ?",
+                  "url"      : "/liens/2025/05/05/vers-un-internet-plein-de-vide/",
+                  "tags"     : "internet, ia, réseau-social"
+            } 
+      ,
+  
+            {
+                  "title"    : "Docilités numériques",
+                  "url"      : "/liens/2025/05/03/docilites-numeriques/",
+                  "tags"     : "numérique, technologie"
+            } 
+      ,
+  
+            {
                   "title"    : "Prompt ingénieur, c’est terminé",
                   "url"      : "/liens/2025/05/02/prompt-ingenieur-cest-termine/",
                   "tags"     : "ia, auto-hébergement"

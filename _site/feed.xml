@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-05-03T18:27:29+02:00</updated>
+   <updated>2025-05-07T13:02:12+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>New branding of TwelveLabs</title>
+         <link href="http://localhost:4000/liens/2025/05/07/twelvelabs/"/>
+         <updated>2025-05-07T13:00:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/07/twelvelabs/</id>
+
+         <content type="html">
+            Visual identity and website for a pioneering company that helps machines understand video like people do.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>How users read on the Web</title>
+         <link href="http://localhost:4000/liens/2025/05/05/how-users-read-on-the-web/"/>
+         <updated>2025-05-05T19:16:06+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/05/how-users-read-on-the-web/</id>
+
+         <content type="html">
+            They don&apos;t. People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Vers un internet plein de vide ?</title>
+         <link href="http://localhost:4000/liens/2025/05/05/vers-un-internet-plein-de-vide/"/>
+         <updated>2025-05-05T08:43:26+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/05/vers-un-internet-plein-de-vide/</id>
+
+         <content type="html">
+            Des contenus générés par IA qui ânonnent des textes qui ne veulent rien dire. Des images stylisées qui nous déconnectent de la réalité. L’internet zombie colonise l’internet, par un remplissage par le vide qui n’a pas d’autre enjeu que de nous désorienter.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Docilités numériques</title>
+         <link href="http://localhost:4000/liens/2025/05/03/docilites-numeriques/"/>
+         <updated>2025-05-03T20:24:26+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/03/docilites-numeriques/</id>
+
+         <content type="html">
+            L’illusion du progrès numérique masque une réalité brutale : celle d’un monde où chaque geste alimente des systèmes de contrôle, de surveillance et d’exploitation. Ce n’est pas seulement l’intelligence artificielle, mais tout un modèle technologique, celui des plateformes, de la capture de l’attention, de l’extractivisme numérique, qu’il faut interroger. Ce texte n’invite ni à fuir ni à consentir : il appelle à politiser nos usages et à réarmer nos pratiques.
+         </content>
+      </entry>
    
       <entry>
          <title>Prompt ingénieur, c’est terminé</title>
