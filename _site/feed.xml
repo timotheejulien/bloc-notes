@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-05-09T11:24:17+02:00</updated>
+   <updated>2025-05-09T17:46:18+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Figma Sites : une mauvaise nouvelle pour la conception responsable ?</title>
+         <link href="http://localhost:4000/liens/2025/05/09/figma-sites-une-mauvaise-nouvelle-pour-la-conception-responsable/"/>
+         <updated>2025-05-09T17:42:04+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/09/figma-sites-une-mauvaise-nouvelle-pour-la-conception-responsable/</id>
+
+         <content type="html">
+            Le 7 mai 2025, Figma a annoncé le lancement d’un nouveau produit : Figma Sites. La promesse : publier un site directement depuis une maquette Figma. Les réactions de la communauté du design vont de “Wouah trop bien on va pouvoir se passer de développeuses frontend qualifiés” à “Oh la cata pour l’accessibilité”. Alors qu’en est-il du point de vue de la conception responsable ? Quelques éléments dans cet article à chaud, après quelques tests rapides.
+         </content>
+      </entry>
    
       <entry>
          <title>95% of homepages are inaccessible</title>
