@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-05-07T13:02:12+02:00</updated>
+   <updated>2025-05-09T11:24:17+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>95% of homepages are inaccessible</title>
+         <link href="http://localhost:4000/liens/2025/05/09/95-of-homepages-are-inaccessible/"/>
+         <updated>2025-05-09T11:22:18+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/09/95-of-homepages-are-inaccessible/</id>
+
+         <content type="html">
+            Though it seems web accessibility is a priority in product development, almost 95% of home pages include WCAG conformance failures, such as low-contrast text or missing alt text, according to WebAIM.
+         </content>
+      </entry>
    
       <entry>
          <title>New branding of TwelveLabs</title>
