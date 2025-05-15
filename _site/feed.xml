@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-05-09T17:46:18+02:00</updated>
+   <updated>2025-05-15T10:28:06+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Are we all just Figma operators now?</title>
+         <link href="http://localhost:4000/liens/2025/05/15/are-we-all-just-figma-operators-now/"/>
+         <updated>2025-05-15T10:09:23+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/15/are-we-all-just-figma-operators-now/</id>
+
+         <content type="html">
+            As thousands of designers settled into a cavernous event space on the outskirts of London—laptop bags slung over shoulders, Stanley cups of cold brew in hand, waiting to hear about the latest feature roadmap from Figma—it struck me how familiar this all felt. Not just the scale and spectacle, but the underlying dynamic.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Pour une poignée de bits…</title>
+         <link href="http://localhost:4000/liens/2025/05/12/pour-une-poignee-de-bits/"/>
+         <updated>2025-05-12T13:47:12+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/12/pour-une-poignee-de-bits/</id>
+
+         <content type="html">
+            Toute l’infrastructure gigantesque d’Internet, tous ces milliers de câbles sous-marins, ces milliards de serveurs clignotants ne servent aux humains qu’à échanger des séries de bits. Nos téléphones produisent des bits qui sont envoyés, dupliqués, stockés et, parfois, arrivent sur d’autres téléphones. Souvent, ces bits ne sont utiles que pour quelques secondes à peine. Parfois, ils ne le sont pas du tout. Nous produisons trop de bits pour être capables de les consommer ou pour tout simplement en avoir envie. Or, toute la promesse de l’IA, c’est d’automatiser cette génération de bits en faisant deux choses : enregistrer les séquences de bits existantes pour les analyser puis reproduire des séquences de bits nouvelles, mais « ressemblantes ». L’IA, les LLMs, ce ne sont que ça : des générateurs de bits. Comme me le souffle très justement Stéphane « Alias » Gallay : la course à l’IA, ce n’est finalement qu’un concours de bits.
+         </content>
+      </entry>
    
       <entry>
          <title>Figma Sites : une mauvaise nouvelle pour la conception responsable ?</title>
