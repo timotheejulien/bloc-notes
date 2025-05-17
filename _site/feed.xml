@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-05-15T10:28:06+02:00</updated>
+   <updated>2025-05-17T17:54:06+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Privacy comme Business Model, Benjamin Bayart</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/05/17/privacy-comme-business-model/"/>
+         <updated>2025-05-17T17:49:00+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/05/17/privacy-comme-business-model/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Les polémiques autour des conséquences écologiques de la production du Comté, le célèbre fromage</title>
+         <link href="http://localhost:4000/liens/2025/05/17/comte-ecologie/"/>
+         <updated>2025-05-17T12:14:32+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/17/comte-ecologie/</id>
+
+         <content type="html">
+            Aujourd&apos;hui dans la Lutte Enchantée, le militant Pierre Rigaux explique en quoi la production du Comté pose de nombreux problèmes liés à l&apos;exploitation animale.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Petit manifeste low-tech</title>
+         <link href="http://localhost:4000/liens/2025/05/16/manifeste-low-tech/"/>
+         <updated>2025-05-16T11:05:48+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/16/manifeste-low-tech/</id>
+
+         <content type="html">
+            Ce samedi 17 mai, je pédalerai vers Massy en compagnie de Tristan Nitot pour parler « low-tech » et dédicacer Bikepunk lors du festival Parlons Vélo.
+         </content>
+      </entry>
    
       <entry>
          <title>Are we all just Figma operators now?</title>
