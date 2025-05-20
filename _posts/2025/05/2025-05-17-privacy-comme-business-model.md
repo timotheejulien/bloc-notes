@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Privacy comme Business Model, Benjamin Bayart"
+title: "Privacy comme business model, Benjamin Bayart"
 link: "https://bee-tube.fr/w/bBVCB5kqFUzBXkBDq5dcWV"
 author: "Benjamin Bayart"
 published_date: "06/02/2025"

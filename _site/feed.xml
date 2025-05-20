@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-05-17T17:54:06+02:00</updated>
+   <updated>2025-05-20T18:13:31+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,7 +14,51 @@
 
    
       <entry>
-         <title>Privacy comme Business Model, Benjamin Bayart</title>
+         <title>AI systems start to create their own societies when they are left alone</title>
+         <link href="http://localhost:4000/liens/2025/05/19/ai-artificial-intelligence-systems-societies/"/>
+         <updated>2025-05-19T15:40:32+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/19/ai-artificial-intelligence-systems-societies/</id>
+
+         <content type="html">
+            Artificial intelligence systems start to create societies when they are left alone, experts have found.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La reconnaissance faciale, l’enjeu du siècle</title>
+         <link href="http://localhost:4000/liens/2025/05/19/reconnaissance-faciale-lenjeu-du-siecle/"/>
+         <updated>2025-05-19T13:41:40+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/19/reconnaissance-faciale-lenjeu-du-siecle/</id>
+
+         <content type="html">
+            « Le plus grand danger de la reconnaissance faciale vient du fait qu’elle fonctionne plutôt très bien ».
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Low tech et vélo</title>
+         <link href="http://localhost:4000/liens/2025/05/19/low-tech-et-velo/"/>
+         <updated>2025-05-19T13:35:18+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/19/low-tech-et-velo/</id>
+
+         <content type="html">
+            Avec l’ami Ploum, nous avons été invités à participer à l’événement Parlons Vélo Massy pour y parler de Low-Tech (et de vélo) dans le cadre de cet événement très sympathique.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La maison en A : une alternative solide, pas chère et à construire seul</title>
+         <link href="http://localhost:4000/liens/2025/05/19/maison-a/"/>
+         <updated>2025-05-19T13:29:35+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/19/maison-a/</id>
+
+         <content type="html">
+            À 65 ans, Elizabeth Faure a construit quasiment toute seule sa maison en forme de A, pour 40 000 euros. Une alternative féministe, écologiste et peu chère, qui essaime grâce à ses conseils.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Privacy comme business model, Benjamin Bayart</title>
          <link href="http://localhost:4000/vid%C3%A9os/2025/05/17/privacy-comme-business-model/"/>
          <updated>2025-05-17T17:49:00+02:00</updated>
          <id>http://localhost:4000/vid%C3%A9os/2025/05/17/privacy-comme-business-model/</id>
