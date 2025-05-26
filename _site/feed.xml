@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-05-20T18:13:31+02:00</updated>
+   <updated>2025-05-26T13:59:46+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Le fromage, toute une histoire ! </title>
+         <link href="http://localhost:4000/liens/2025/05/26/le-fromage-toute-une-histoire/"/>
+         <updated>2025-05-26T13:57:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/26/le-fromage-toute-une-histoire/</id>
+
+         <content type="html">
+            Le fromage, ce n’est pas que de la gastronomie, c’est aussi de l’histoire ! En compagnie d’Éric Birlouez, ingénieur agronome et sociologue, Virginie Girod suit la piste odorante au travers des âges de ce produit qui fait la fierté des tables françaises.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La Suisse prévoit une surveillance pire que celle des États-Unis</title>
+         <link href="http://localhost:4000/liens/2025/05/26/switzerland-surveillance-plan/"/>
+         <updated>2025-05-26T13:11:42+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/26/switzerland-surveillance-plan/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Reducing the digital clutter of chats</title>
+         <link href="http://localhost:4000/liens/2025/05/23/reducing-the-digital-clutter-of-chats/"/>
+         <updated>2025-05-23T16:07:52+02:00</updated>
+         <id>http://localhost:4000/liens/2025/05/23/reducing-the-digital-clutter-of-chats/</id>
+
+         <content type="html">
+            I hate modern chats. They presuppose we are always online, always available to chat. They force us to see and think about them each time we get our eyes on one of our devices. Unlike mailboxes, they are never empty. We can’t even easily search through old messages (unlike the chat providers themselves, which use the logs to learn more about us). Chats are the epitome of the business idiot: they make you always busy but prevent you from thinking and achieving anything.
+         </content>
+      </entry>
    
       <entry>
          <title>AI systems start to create their own societies when they are left alone</title>
