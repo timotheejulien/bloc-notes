@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De toutes les passions, la seule vraiment respectable me parait être la Gourmandise !"
-link: ""
+link: "https://www.dicocitations.com/citations/citation-85096.php"
 author: "Guy de Maupassant"
 published_date: "Date N/A"
 description: ""
