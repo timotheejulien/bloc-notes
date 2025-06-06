@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comment ChatGPT assoiffe cette population."
+title: "Comment ChatGPT assoiffe cette population"
 link: "https://www.youtube.com/watch?v=LNoklk0NRmQ"
 author: "Léo Duff"
 published_date: "01/06:2025"

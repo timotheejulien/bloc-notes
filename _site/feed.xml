@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-06-04T11:42:20+02:00</updated>
+   <updated>2025-06-06T18:06:58+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,7 +14,40 @@
 
    
       <entry>
-         <title>Comment ChatGPT assoiffe cette population.</title>
+         <title>What disabled people have to give up in the name of accessibility</title>
+         <link href="http://localhost:4000/liens/2025/06/05/what-disabled-people-have-to-give-up-in-the-name-of-accessibility/"/>
+         <updated>2025-06-05T18:28:02+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/05/what-disabled-people-have-to-give-up-in-the-name-of-accessibility/</id>
+
+         <content type="html">
+            The use of access technology often compromises privacy for disabled individuals. Detecting such technology can reveal personal health information, limit access to services, and result in data being sold to third parties. Text-only versions of websites and apps that require personal information for functionality are inadequate solutions. Advocacy is needed to protect the privacy rights of disabled people while ensuring equal access to technology and services.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>The internet of consent</title>
+         <link href="http://localhost:4000/liens/2025/06/05/internet-of-consent/"/>
+         <updated>2025-06-05T08:17:29+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/05/internet-of-consent/</id>
+
+         <content type="html">
+            Click « I agree » to continue. You didn’t click it, though. Or maybe you did? I don’t know, it doesn’t matter.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’IA est une technologie comme les autres</title>
+         <link href="http://localhost:4000/liens/2025/06/05/lia-est-une-technologie-comme-les-autres/"/>
+         <updated>2025-06-05T08:07:33+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/05/lia-est-une-technologie-comme-les-autres/</id>
+
+         <content type="html">
+            L’IA ne sera pas la révolution que l’on pense. Son déploiement concret va prendre du temps. Elle ne sera pas non plus la menace existentielle qu’on imagine, parce qu’elle ne se développera pas là où les risques de défaillances sont trop importants. L’IA va rester sous contrôle malgré sa diffusion, estiment les chercheurs Arvind Narayanan et Sayash Kapoor dans une mise en perspective stimulante de notre avenir.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Comment ChatGPT assoiffe cette population</title>
          <link href="http://localhost:4000/vid%C3%A9os/2025/06/04/comment-ia-assoiffe-cette-population/"/>
          <updated>2025-06-04T11:40:00+02:00</updated>
          <id>http://localhost:4000/vid%C3%A9os/2025/06/04/comment-ia-assoiffe-cette-population/</id>
