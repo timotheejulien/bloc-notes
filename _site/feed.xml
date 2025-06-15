@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-06-06T18:06:58+02:00</updated>
+   <updated>2025-06-15T10:06:38+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Le Reblochon à l'origine de la première évasion fiscale en France</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/06/14/reblochon-histoire-fisc/"/>
+         <updated>2025-06-14T23:39:56+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/06/14/reblochon-histoire-fisc/</id>
+
+         <content type="html">
+            Saviez-vous que le Reblochon aurait été inventé pour échapper au fisc ? On vous explique !
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Qui est l’utilisateur des LLM ?</title>
+         <link href="http://localhost:4000/liens/2025/06/12/qui-est-utilisateur-des-llm/"/>
+         <updated>2025-06-12T10:12:21+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/12/qui-est-utilisateur-des-llm/</id>
+
+         <content type="html">
+            Les chatbots ne font pas que calculer des réponses, ils calculent en permanence leur interlocuteur pour adapter au mieux leurs réponses. Les LLM hallucinent et nous font croire en leurs hallucinations. Mais plus encore, ils nous hallucinent nous-mêmes !
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Bill Atkinson : le génie oublié d’Apple, est mort</title>
+         <link href="http://localhost:4000/liens/2025/06/08/mort-bill-atkinson/"/>
+         <updated>2025-06-08T19:56:18+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/08/mort-bill-atkinson/</id>
+
+         <content type="html">
+            Bill Atkinson vient de s&apos;éteindre à l&apos;âge de 74 ans. Il était l&apos;un des ingénieurs les plus illustres d&apos;Apple, un des rares à avoir le titre d&apos;Apple Fellow. Revenons sur son rôle au sein de la société de Steve Jobs.
+         </content>
+      </entry>
    
       <entry>
          <title>What disabled people have to give up in the name of accessibility</title>
