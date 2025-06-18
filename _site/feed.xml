@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-06-15T10:06:38+02:00</updated>
+   <updated>2025-06-18T16:33:09+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Firefox is dead to me</title>
+         <link href="http://localhost:4000/liens/2025/06/18/firefox-is-dead-to-me/"/>
+         <updated>2025-06-18T08:44:47+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/18/firefox-is-dead-to-me/</id>
+
+         <content type="html">
+            know some people still love Firefox. But, folks, it&apos;s a bad relationship, and the problems have been going on for a while now.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Préambule : Histoire des affiches de théâtre en 6 actes</title>
+         <link href="http://localhost:4000/liens/2025/06/17/histoire-des-affiches-de-theatre-en-6-actes/"/>
+         <updated>2025-06-17T08:10:01+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/17/histoire-des-affiches-de-theatre-en-6-actes/</id>
+
+         <content type="html">
+            Cet article est le premier d’une série en VI actes de l’histoire de l’affiche de théâtre en France. Elle retrace l&apos;origine des affiches de théâtre et leurs spécificités, miroir de notre société évoluant du tout texte à l&apos;image, en passant par la création typographique et les supports numériques.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Une fuite révèle le vrai plan d’OpenAI : mettre ChatGPT au cœur de votre vie numérique</title>
+         <link href="http://localhost:4000/liens/2025/06/17/une-fuite-revele-le-vrai-plan-dopenai/"/>
+         <updated>2025-06-17T08:01:30+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/17/une-fuite-revele-le-vrai-plan-dopenai/</id>
+
+         <content type="html">
+            Une fuite interne révèle les véritables ambitions d’OpenAI pour ChatGPT. Bien au-delà d’un simple chatbot, l’objectif est clair : transformer ChatGPT en super-assistant universel, capable d&apos;accompagner l&apos;utilisateur à chaque instant de sa vie numérique. Ce plan, confidentiel jusqu’ici, détaille une vision stratégique radicale pour les années 2025-2026. Décryptage.
+         </content>
+      </entry>
    
       <entry>
          <title>Le Reblochon à l'origine de la première évasion fiscale en France</title>
@@ -362,6 +395,17 @@
 
          <content type="html">
             L’illusion du progrès numérique masque une réalité brutale : celle d’un monde où chaque geste alimente des systèmes de contrôle, de surveillance et d’exploitation. Ce n’est pas seulement l’intelligence artificielle, mais tout un modèle technologique, celui des plateformes, de la capture de l’attention, de l’extractivisme numérique, qu’il faut interroger. Ce texte n’invite ni à fuir ni à consentir : il appelle à politiser nos usages et à réarmer nos pratiques.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Designing Apple’s Liquid Glass in Figma Whether</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/05/03/designing-apple-liquid-glass-in-figma/"/>
+         <updated>2025-05-03T09:57:00+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/05/03/designing-apple-liquid-glass-in-figma/</id>
+
+         <content type="html">
+            Petit tutoriel Figma pour reproduire l&apos;effet Liquid Glass d&apos;Apple.
          </content>
       </entry>
    

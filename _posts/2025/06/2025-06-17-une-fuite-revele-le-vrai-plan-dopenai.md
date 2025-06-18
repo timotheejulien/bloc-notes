@@ -5,7 +5,7 @@ link: https://www.abondance.com/20250616-1233842-une-fuite-revele-le-vrai-plan-d
 author: "Johan Sellitto"
 published_date: "16/06/2025"
 description: "Une fuite interne révèle les véritables ambitions d’OpenAI pour ChatGPT. Bien au-delà d’un simple chatbot, l’objectif est clair : transformer ChatGPT en super-assistant universel, capable d'accompagner l'utilisateur à chaque instant de sa vie numérique. Ce plan, confidentiel jusqu’ici, détaille une vision stratégique radicale pour les années 2025-2026. Décryptage."
-language: "fr_FR"
+language: "fr"
 categories: "Liens"
 tags: "openai"
 og-tags: "openai"

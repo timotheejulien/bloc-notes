@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Qui est l’utilisateur des LLM ?"
-link: https://danslesalgorithmes.net/2025/06/10/qui-est-lutilisateur-des-llm/
+link: https://danslesalgorithmes.net/2025/06/10/qui-est-lutilisateur-des-llm
 author: "Hubert Guilaud"
 published_date: "10/06/2025"
 description: "Les chatbots ne font pas que calculer des réponses, ils calculent en permanence leur interlocuteur pour adapter au mieux leurs réponses. Les LLM hallucinent et nous font croire en leurs hallucinations. Mais plus encore, ils nous hallucinent nous-mêmes !"
