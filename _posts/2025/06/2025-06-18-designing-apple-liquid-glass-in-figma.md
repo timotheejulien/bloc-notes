@@ -10,7 +10,7 @@ categories:
    - Vidéos
 tags: "design ui figma apple"
 og-tags: "design ui figma apple"
-date: "2025-05-03 09:57:00 +0200"
+date: "2025-06-18 16:36:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

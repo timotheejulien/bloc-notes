@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-06-18T16:33:09+02:00</updated>
+   <updated>2025-06-18T16:38:46+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Designing Apple’s Liquid Glass in Figma Whether</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/06/18/designing-apple-liquid-glass-in-figma/"/>
+         <updated>2025-06-18T16:36:00+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/06/18/designing-apple-liquid-glass-in-figma/</id>
+
+         <content type="html">
+            Petit tutoriel Figma pour reproduire l&apos;effet Liquid Glass d&apos;Apple.
+         </content>
+      </entry>
    
       <entry>
          <title>Firefox is dead to me</title>
@@ -395,17 +406,6 @@
 
          <content type="html">
             L’illusion du progrès numérique masque une réalité brutale : celle d’un monde où chaque geste alimente des systèmes de contrôle, de surveillance et d’exploitation. Ce n’est pas seulement l’intelligence artificielle, mais tout un modèle technologique, celui des plateformes, de la capture de l’attention, de l’extractivisme numérique, qu’il faut interroger. Ce texte n’invite ni à fuir ni à consentir : il appelle à politiser nos usages et à réarmer nos pratiques.
-         </content>
-      </entry>
-   
-      <entry>
-         <title>Designing Apple’s Liquid Glass in Figma Whether</title>
-         <link href="http://localhost:4000/vid%C3%A9os/2025/05/03/designing-apple-liquid-glass-in-figma/"/>
-         <updated>2025-05-03T09:57:00+02:00</updated>
-         <id>http://localhost:4000/vid%C3%A9os/2025/05/03/designing-apple-liquid-glass-in-figma/</id>
-
-         <content type="html">
-            Petit tutoriel Figma pour reproduire l&apos;effet Liquid Glass d&apos;Apple.
          </content>
       </entry>
    
