@@ -5,7 +5,7 @@ link: https://basicappleguy.com/basicappleblog/macos-icon-history
 author: "BasicAppleGuy"
 published_date: "23/06/2025"
 description: "Documenting the evolution of macOS system icons over the past several decades."
-language: "en_US"
+language: "en"
 categories: "Liens"
 tags: "apple icon macos"
 og-tags: "apple icon macos"

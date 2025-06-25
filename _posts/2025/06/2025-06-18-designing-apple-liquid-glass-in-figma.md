@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing Apple’s Liquid Glass in Figma Whether"
+title: "Designing Apple’s Liquid Glass in Figma whether"
 link: "https://www.linkedin.com/posts/zanderwhitehurst_ux-ui-figma-activity-7341077915591225344-Z3Wt"
 author: "Zander Whitehurst"
 published_date: "18/06/2025"

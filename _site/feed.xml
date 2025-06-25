@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-06-18T16:38:46+02:00</updated>
+   <updated>2025-06-25T08:47:57+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,7 +14,95 @@
 
    
       <entry>
-         <title>Designing Apple’s Liquid Glass in Figma Whether</title>
+         <title>ChatGPT est-il en train de casser le cerveau humain ? 5 points sur le preprint du MIT sur les effets de l’IA</title>
+         <link href="http://localhost:4000/liens/2025/06/25/chatgpt-cerveau-etude-mit/"/>
+         <updated>2025-06-25T08:47:09+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/25/chatgpt-cerveau-etude-mit/</id>
+
+         <content type="html">
+            Dans un preprint de 206 pages publié par le MIT Media Lab, Nataliya Kosmyna et ses co-auteurs (disponible intégralement à ce lien) présentent pour la première fois de manière aussi précise les effets de l’utilisation des modèles de langage (LLM) comme ChatGPT sur le cerveau humain.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>ACTE II – Les Trente Glorieuses des affiches de théâtre 1950/60</title>
+         <link href="http://localhost:4000/liens/2025/06/25/histoire-des-affiches-de-theatre-1950-60/"/>
+         <updated>2025-06-25T08:35:10+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/25/histoire-des-affiches-de-theatre-1950-60/</id>
+
+         <content type="html">
+            Cet article est le troisième d’une série sur l’histoire de l’affiche de théâtre en France. Elle retrace l&apos;origine des affiches de théâtre et leurs spécificités, miroir de notre société évoluant du tout texte à l&apos;image, en passant par la création typographique et les supports numériques.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>ACTE I - L’âge d’or de l’affiche de théâtre au XIXe siècle</title>
+         <link href="http://localhost:4000/liens/2025/06/25/histoire-affiches-theatre-19e-siecle/"/>
+         <updated>2025-06-25T08:33:01+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/25/histoire-affiches-theatre-19e-siecle/</id>
+
+         <content type="html">
+            Cet article est le second d’une série en VI actes de l’histoire de l’affiche de théâtre en France. Elle retrace l&apos;origine des affiches de théâtre et leurs spécificités, miroir de notre société évoluant du tout texte à l&apos;image, en passant par la création typographique et les supports numériques.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>macOS icon history</title>
+         <link href="http://localhost:4000/liens/2025/06/23/macos-icon-history/"/>
+         <updated>2025-06-23T20:43:40+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/23/macos-icon-history/</id>
+
+         <content type="html">
+            Documenting the evolution of macOS system icons over the past several decades.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Écoconception web : la 5ème édition du référentiel est disponible !</title>
+         <link href="http://localhost:4000/liens/2025/06/23/le-collectif-green-it-publie-la-5eme-edition-du-referentiel-ecoconception-web/"/>
+         <updated>2025-06-23T16:22:43+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/23/le-collectif-green-it-publie-la-5eme-edition-du-referentiel-ecoconception-web/</id>
+
+         <content type="html">
+            Après plus de 13 ans d’utilisation sur le terrain et 4 éditions, le collectif Green IT publie la 5ème édition de son référentiel d’écoconception web (RWEB).
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Bonnes pratiques pour générer un flux RSS</title>
+         <link href="http://localhost:4000/liens/2025/06/22/bonne-pratique-rss/"/>
+         <updated>2025-06-22T16:19:01+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/22/bonne-pratique-rss/</id>
+
+         <content type="html">
+            Analyse des éléments à prendre en compte pour générer un flux et le partager au plus grand nombre
+         </content>
+      </entry>
+   
+      <entry>
+         <title>The gentle singularity</title>
+         <link href="http://localhost:4000/liens/2025/06/18/the-gentle-singularity/"/>
+         <updated>2025-06-18T22:05:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/18/the-gentle-singularity/</id>
+
+         <content type="html">
+            We are past the event horizon; the takeoff has started. Humanity is close to building digital superintelligence, and at least so far it’s much less weird than it seems like it should be.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’IA ne va pas vous piquer votre job : elle va vous empêcher d’être embauché !</title>
+         <link href="http://localhost:4000/liens/2025/06/18/lia-ne-va-pas-vous-piquer-votre-job-elle-va-vous-empecher-detre-embauche/"/>
+         <updated>2025-06-18T19:45:30+02:00</updated>
+         <id>http://localhost:4000/liens/2025/06/18/lia-ne-va-pas-vous-piquer-votre-job-elle-va-vous-empecher-detre-embauche/</id>
+
+         <content type="html">
+            Dans le monde du recrutement, les CV ne sont plus vraiment lus par des humains. Le problème, c’est que les scores produits sur ceux-ci pour les trier sont profondément problématiques. Les logiciels de tris de candidatures cherchent à produire des correspondances entre les compétences des candidats et ceux des employés et à prédire les personnalités… sans grand succès. Bien souvent, ils produisent surtout des approximations généralisées masquées sous des scores qui semblent neutres et objectifs. Problèmes : ces systèmes peinent à favoriser la diversité plutôt que la similarité. Ils répliquent, amplifient et obfusquent les discriminations plutôt que de réduire les biais de décisions des recruteurs.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Designing Apple’s Liquid Glass in Figma whether</title>
          <link href="http://localhost:4000/vid%C3%A9os/2025/06/18/designing-apple-liquid-glass-in-figma/"/>
          <updated>2025-06-18T16:36:00+02:00</updated>
          <id>http://localhost:4000/vid%C3%A9os/2025/06/18/designing-apple-liquid-glass-in-figma/</id>
