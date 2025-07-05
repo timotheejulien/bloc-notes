@@ -4,7 +4,7 @@ title: "Ma eVie depuis que j’ai quitté Facebook, Instagram, X, LinkedIn… po
 link: https://tcrouzet.com/2025/07/04/ma-evie-3-0/
 author: "Thierry Crouzet"
 published_date: "04/07/2025"
-description: ""
+description: "J’ai quitté les réseaux sociaux centralisés depuis plus de trois mois, c’est le moment de faire le point et de partager quelques pensées."
 language: "fr"
 categories: "Liens"
 tags: "réseau-social"
