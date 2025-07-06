@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-06-25T08:47:57+02:00</updated>
+   <updated>2025-07-06T18:45:38+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Apple a rendu l'iPhone illisible (et c'est voulu)</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/07/06/apple-a-rendu-iphone-illisible/"/>
+         <updated>2025-07-06T18:44:00+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/07/06/apple-a-rendu-iphone-illisible/</id>
+
+         <content type="html">
+            Avec iOS 26, l&apos;iPhone est devenu illisible. Et il y a une stratégie derrière ça.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Ma eVie depuis que j’ai quitté Facebook, Instagram, X, LinkedIn… pour Substack et Mastodon</title>
+         <link href="http://localhost:4000/liens/2025/07/05/thierry-crouzet-evie-3-0/"/>
+         <updated>2025-07-05T22:45:39+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/05/thierry-crouzet-evie-3-0/</id>
+
+         <content type="html">
+            J’ai quitté les réseaux sociaux centralisés depuis plus de trois mois, c’est le moment de faire le point et de partager quelques pensées.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>From flat to feel</title>
+         <link href="http://localhost:4000/liens/2025/07/02/from-flat-to-feel/"/>
+         <updated>2025-07-02T19:34:38+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/02/from-flat-to-feel/</id>
+
+         <content type="html">
+            Long-held beliefs about simplicity, realism, and the role of emotion in digital design have evolved. Here’s a look at what’s new—and why it matters.
+         </content>
+      </entry>
    
       <entry>
          <title>ChatGPT est-il en train de casser le cerveau humain ? 5 points sur le preprint du MIT sur les effets de l’IA</title>
