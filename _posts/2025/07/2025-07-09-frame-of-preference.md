@@ -10,6 +10,6 @@ categories:
    - Liens
 tags: "apple ui"
 og-tags: "apple ui"
-date: "2025-07-07 09:57:00 +0200"
+date: "2025-07-09 08:15:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
