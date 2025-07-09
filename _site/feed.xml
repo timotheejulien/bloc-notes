@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-07-06T18:45:38+02:00</updated>
+   <updated>2025-07-09T08:17:48+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Frame of preference. A history of Mac settings, 1984–2004</title>
+         <link href="http://localhost:4000/liens/2025/07/07/frame-of-preference/"/>
+         <updated>2025-07-07T09:57:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/07/frame-of-preference/</id>
+
+         <content type="html">
+            As a designer, I’m meant to dislike settings. As a user, I love them. Every year I celebrate Settings Day: a day when I take a look at the options and toggles in all the apps I use. I do this out of curiosity – what was added since the last time I looked? – but also because I love this way of getting to know software: peeking under the hood, walking the back alleys, learning what has been tricky or important enough to be equipped with a checkbox. During the last Settings Day, I had a realization that the totemic 1984 Mac control panel, designed by Susan Kare, is still to this day perhaps the only settings screen ever brought up in casual conversation. I kept wondering about that screen, and about what happened since then. Turns out, the Mac settings have lived a far more fascinating life than I imagined, have been redesigned many times, and can tell us a lot about the early history and the troubled upbringing of this interesting machine. Join me on a journey through the first twenty years of Mac’s control panels.
+         </content>
+      </entry>
    
       <entry>
          <title>Apple a rendu l'iPhone illisible (et c'est voulu)</title>
