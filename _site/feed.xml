@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-07-09T08:17:48+02:00</updated>
+   <updated>2025-07-23T11:40:02+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,10 +14,54 @@
 
    
       <entry>
+         <title>Why development leaders are investing in design</title>
+         <link href="http://localhost:4000/liens/2025/07/22/why-development-leaders-are-investing-in-design/"/>
+         <updated>2025-07-22T13:32:41+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/22/why-development-leaders-are-investing-in-design/</id>
+
+         <content type="html">
+            An IDC study shows just how central design has become to development leaders.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>How do you design when your company isn’t sure what the roadmap looks like?</title>
+         <link href="http://localhost:4000/liens/2025/07/22/how-do-you-design-when-your-company-isnt-sure-what-the-roadmap-looks-like/"/>
+         <updated>2025-07-22T13:25:12+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/22/how-do-you-design-when-your-company-isnt-sure-what-the-roadmap-looks-like/</id>
+
+         <content type="html">
+            Many companies (and design teams) are shrinking back into becoming startups. Here’s how to survive.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Airbnb : comment repérer d’éventuelles caméras cachées ?</title>
+         <link href="http://localhost:4000/liens/2025/07/22/airbnb-comment-reperer-deventuelles-cameras-cachees/"/>
+         <updated>2025-07-22T11:39:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/22/airbnb-comment-reperer-deventuelles-cameras-cachees/</id>
+
+         <content type="html">
+            Bien que la plateforme Airbnb interdise désormais toute caméra à l’intérieur des logements, certains hôtes continuent de jouer avec les règles. Voici comment repérer les éventuelles caméras planquées dans votre prochaine location.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Réflexions autour du testament numérique</title>
+         <link href="http://localhost:4000/liens/2025/07/09/reflexions-autour-du-testament-numerique/"/>
+         <updated>2025-07-09T08:26:01+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/09/reflexions-autour-du-testament-numerique/</id>
+
+         <content type="html">
+            Nul n’est immortel et cela fait plus d’une dizaines d’années que j’ai pour projet de rédiger un testament numérique, au cas où. L’idée à commencer à germer avec la gestion de mon identité numérique et de son évolution (sujets plusieurs fois abordés sur ce blog au cours des années). Je n’ai jamais entrepris ce projet. Si vous lisez le présent texte, c’est que c’est chose faite. Du moins la théorie. Objectif de cet article est donc de réfléchir et de définir un toute la théorie, d’avoir un plan de testament numérique avec les réflexions qui vont bien pour pouvoir en faire un vrai, applicable et fonctionnel. Les réflexions et éléments se base sur ma situation familiale personnelle (geek etc., marié avec des enfants) ; certains éléments resteront évasifs/flous pour ne pas trop en dire sur ma vie personnelle. Si besoin j’irai plus loin que les éléments me concernant (pour élargir la réflexion). Dans ce contexte familial, je précise que ma femme a des connaissances avancées en informatique (on se connaît depuis plus de 20 ans, elle utilise des ordinateurs depuis la fin des années 90, bidouille etc. Elle n’est pas administratrice système mais en connaît quand même beaucoup. Ca aide pour mon propre testament numérique). Ce ne sera pas un tutoriel complet, ce n’est que le volet numérique du testament. Il faut aussi penser au reste (les biens matériels etc.). Et surtout passer à la pratique en reprenant tout ou partie de la présente réflexion en créant un vrai testament numérique avec les vraies informations.
+         </content>
+      </entry>
+   
+      <entry>
          <title>Frame of preference. A history of Mac settings, 1984–2004</title>
-         <link href="http://localhost:4000/liens/2025/07/07/frame-of-preference/"/>
-         <updated>2025-07-07T09:57:00+02:00</updated>
-         <id>http://localhost:4000/liens/2025/07/07/frame-of-preference/</id>
+         <link href="http://localhost:4000/liens/2025/07/09/frame-of-preference/"/>
+         <updated>2025-07-09T08:15:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/09/frame-of-preference/</id>
 
          <content type="html">
             As a designer, I’m meant to dislike settings. As a user, I love them. Every year I celebrate Settings Day: a day when I take a look at the options and toggles in all the apps I use. I do this out of curiosity – what was added since the last time I looked? – but also because I love this way of getting to know software: peeking under the hood, walking the back alleys, learning what has been tricky or important enough to be equipped with a checkbox. During the last Settings Day, I had a realization that the totemic 1984 Mac control panel, designed by Susan Kare, is still to this day perhaps the only settings screen ever brought up in casual conversation. I kept wondering about that screen, and about what happened since then. Turns out, the Mac settings have lived a far more fascinating life than I imagined, have been redesigned many times, and can tell us a lot about the early history and the troubled upbringing of this interesting machine. Join me on a journey through the first twenty years of Mac’s control panels.
