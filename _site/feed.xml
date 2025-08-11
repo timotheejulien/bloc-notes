@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-07-23T11:40:02+02:00</updated>
+   <updated>2025-08-11T14:32:36+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,83 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Comment les jeunes s’informent sur l'actualité ? Enquêtes sur leurs pratiques informationnelles</title>
+         <link href="http://localhost:4000/liens/2025/08/11/comment-les-jeunes-sinforment-sur-lactualite/"/>
+         <updated>2025-08-11T14:31:00+02:00</updated>
+         <id>http://localhost:4000/liens/2025/08/11/comment-les-jeunes-sinforment-sur-lactualite/</id>
+
+         <content type="html">
+            À rebours des idées reçues, les enquêtes quantitatives comme les travaux de sciences sociales confirment l’intérêt des jeunes pour l’actualité. Trois enquêtes parues récemment dressent un tableau des pratiques informationnelles des jeunes à l’ère des plateformes et des réseaux sociaux numériques. En outre, Laurence Courroy et Anne Cordier, toutes deux chercheuses en Sciences de l’information et de la communication, s&apos;attachent depuis plusieurs années à comprendre les pratiques informationnelles des jeunes. Elles interrogent les préjugés récurrents sur des jeunes déconnecté.es de l’actualité, qui délaisseraient la presse et les médias traditionnels pour ne se focaliser que sur les seuls contenus diffusés par les réseaux sociaux.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>AI won’t kill UX, we will</title>
+         <link href="http://localhost:4000/liens/2025/08/04/ai-wont-kill-ux-we-will/"/>
+         <updated>2025-08-04T09:08:11+02:00</updated>
+         <id>http://localhost:4000/liens/2025/08/04/ai-wont-kill-ux-we-will/</id>
+
+         <content type="html">
+            It’s time we stopped blaming the tools and started asking better questions about how we work, what we value, and how we make space for innovation again.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Enquêter sur le paysage de la surveillance numérique</title>
+         <link href="http://localhost:4000/liens/2025/08/03/enqueter-sur-le-paysage-de-la-surveillance-numerique/"/>
+         <updated>2025-08-03T14:56:51+02:00</updated>
+         <id>http://localhost:4000/liens/2025/08/03/enqueter-sur-le-paysage-de-la-surveillance-numerique/</id>
+
+         <content type="html">
+            La surveillance numérique est aujourd’hui omniprésente : dès que vous ouvrez votre portable le matin, votre activité génère des données par le biais des applications que vous utilisez, des antennes auxquelles votre téléphone se connecte et des appels que vous passez. La plupart de ces données sont enregistrées, stockées et traitées soit par des entreprises pour générer des profits, soit par des entités étatiques pour enquêter sur la criminalité et d’autres activités illégales. Dans ce chapitre, je me concentre sur les formes les plus courantes de surveillance numérique auxquelles vous pouvez être confronté en tant que journaliste, et j’explique rapidement comment enquêter sur ces formes de surveillance et comment les contrer.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>J'ai grandi sur Internet et je ne sais plus quoi en faire</title>
+         <link href="http://localhost:4000/liens/2025/07/31/jai-grandi-sur-internet/"/>
+         <updated>2025-07-31T16:43:25+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/31/jai-grandi-sur-internet/</id>
+
+         <content type="html">
+            Quinze ans de vie numérique intensive laissent des traces, et aujourd&apos;hui, je commence à faire les comptes. Et je ne crois pas être le seul...
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Comment Netflix vous a piégé en 3 étapes.</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/07/28/comment-netflix-vous-a-piege/"/>
+         <updated>2025-07-28T10:10:25+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/07/28/comment-netflix-vous-a-piege/</id>
+
+         <content type="html">
+            Pendant 15 ans, des investisseurs ont financé vos soirées Netflix. Maintenant c&apos;est à vous de payer, et l&apos;addition est salée.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>The making of a product icon</title>
+         <link href="http://localhost:4000/liens/2025/07/25/the-making-of-a-product-icon/"/>
+         <updated>2025-07-25T18:55:45+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/25/the-making-of-a-product-icon/</id>
+
+         <content type="html">
+            Creating product icons at Figma involves dozens—sometimes hundreds—of iterations. Product Designer Tim Van Damme shares his thoughtful approach to icon design and the creative exploration that shapes each final result.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Introducing Lumo, the AI where every conversation is confidential</title>
+         <link href="http://localhost:4000/liens/2025/07/23/lumo-proton-ai/"/>
+         <updated>2025-07-23T14:23:39+02:00</updated>
+         <id>http://localhost:4000/liens/2025/07/23/lumo-proton-ai/</id>
+
+         <content type="html">
+            Proton, the company behind the encrypted email service Proton Mail, has launched an AI assistant aimed at preserving user privacy. The new chatbot, called Lumo, can summarize documents, generate code, write emails, and more, while storing data locally on users’ devices. Proton says it will protect this information using “zero-access” encryption, which grants users an encryption key that only they can use to view their content, preventing third parties, including Proton, from accessing the information. This helps ensure that Proton can’t share user data with advertisers or governments, or use it for training large language models, Proton says.
+         </content>
+      </entry>
    
       <entry>
          <title>Why development leaders are investing in design</title>
