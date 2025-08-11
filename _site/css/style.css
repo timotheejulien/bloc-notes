@@ -33,6 +33,7 @@ body {
    padding-left: env(safe-area-inset-left);
    padding-right: env(safe-area-inset-right);
    text-rendering: optimizeLegibility;
+   font-feature-settings: 'dlig' on, 'salt' on, 'rvrn' on, 'ss01' on, 'ss02' on, 'ss03' on, 'ss06' on, 'ss07' on, 'ss08' on;
 }
 
 /* COLOR */
