@@ -5,7 +5,7 @@
 
    <h1 id="page-categories-title" class="h2">Catégories</h1>
    <div class="page-categories-mobile">
-      <ul class="card sort-by-alphabetical">
+      <ul class="sort-by-alphabetical">
          <li>
             <a class="list-link-item" href="/">
                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -19,7 +19,7 @@
                      </clipPath>
                   </defs>
                </svg>
-               <span>Tous</span><span class="color-text-secondary">({{ site.posts.size }})</span>
+               <span class="nav-item-label">Tous</span><span class="nav-item-value">({{ site.posts.size }})</span><svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3092_4218)"><path d="M0.292893 0.293015C0.683418 -0.097509 1.31643 -0.097509 1.70696 0.293015L7.70696 6.29302C8.09748 6.68354 8.09748 7.31655 7.70696 7.70708L1.70696 13.7071C1.31643 14.0976 0.683418 14.0976 0.292893 13.7071C-0.0976311 13.3166 -0.0976311 12.6835 0.292893 12.293L5.58586 7.00005L0.292893 1.70708C-0.0976311 1.31655 -0.0976311 0.68354 0.292893 0.293015Z"/></g></svg>
             </a>
          </li>
 
@@ -28,7 +28,7 @@
          <li>
             <a class="list-link-item" href="{{ site.baseurl }}/{{ category[0] }}">
                <div class="list-link-item-icon article-icon-{{ category[0] }}"></div>
-               <span>{{ category[0] }}</span><span class="color-text-secondary">({{ category[1].size }})</span>
+               <span class="nav-item-label">{{ category[0] }}</span><span class="nav-item-value">{{ category[1].size }}</span><svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3092_4218)"><path d="M0.292893 0.293015C0.683418 -0.097509 1.31643 -0.097509 1.70696 0.293015L7.70696 6.29302C8.09748 6.68354 8.09748 7.31655 7.70696 7.70708L1.70696 13.7071C1.31643 14.0976 0.683418 14.0976 0.292893 13.7071C-0.0976311 13.3166 -0.0976311 12.6835 0.292893 12.293L5.58586 7.00005L0.292893 1.70708C-0.0976311 1.31655 -0.0976311 0.68354 0.292893 0.293015Z"/></g></svg>
             </a>
          </li>
          {%- endfor -%}

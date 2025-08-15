@@ -8,6 +8,7 @@
    --color-button-background-secondary: #DEDEDE;
    --color-button-text-secondary: #202020;
    --color-divider: #DEDEDE;
+   --color-divider-elevated: #BABABA;
    --color-text-primary: #202020;
    --color-text-secondary: #707070;
    --color-text-third: #BABABA;
@@ -258,11 +259,28 @@ body {
    text-decoration: none;
 }
 
+.nav-item svg {
+   min-width: 24px;
+}
+
 .nav-item-icon {
    width: 24px;
+   min-width: 24px;
    height: 24px;
    background-position: center;
    background-repeat: no-repeat;
+}
+
+.nav-item-label {
+   width: 100%;
+}
+
+.nav-item-value {
+   padding: var(--space-x-small)  var(--space-small) var(--space-x-small)  var(--space-small);
+   font-size: 14px;
+   color: var(--color-text-secondary);
+   border: 1px solid var(--color-divider);
+   border-radius: 100px;
 }
 
 #search-button:hover {
@@ -373,19 +391,20 @@ body {
 
 .page-categories-mobile {
    width: 100%;
+   margin-top: var(--space-large);
    padding-bottom: calc(60px + var(--space-regular) );
 }
 
 .page-categories-mobile > ul {
    margin: var(--space-none);
-   padding: var(--space-regular);
+   padding: var(--space-none);
    display: flex;
    flex-direction: column;
    flex-wrap: wrap;
    justify-content: flex-start;
    align-items: stretch;
    align-content: stretch;
-   gap: var(--space-regular);
+   gap: var(--space-small);
 }
 
 .page-categories-mobile > ul > li {
@@ -393,8 +412,6 @@ body {
    margin: var(--space-none);
    padding-bottom: var(--space-regular);
    list-style: none;
-   border-bottom: 1px solid;
-   border-color: var(--color-divider);
 }
 
 .page-categories-mobile > ul > li:last-child {
@@ -418,6 +435,10 @@ body {
    line-height: 1.4;
    letter-spacing: 0px; 
    text-decoration: none;
+}
+
+.list-link-item svg{
+   min-width: 24px;
 }
 
 .list-link-item-icon {
@@ -728,6 +749,28 @@ ul.footer-nav li {
       letter-spacing: 0px; 
       text-decoration: none;
       text-rendering: optimizeLegibility;
+      z-index: 10;
+   }
+   .nav-item::before {
+      content: '';
+      width: calc(100% + 16px);
+      height: 40px;
+      position: absolute;
+      top: -6px;
+      left: -8px;
+      border-radius: 8px;
+      background: var(--color-background-elevated);
+      display: none;
+      z-index: -1;
+   }
+
+   .nav-item:hover::before {
+      display: block;
+   }
+
+   .nav-item:hover .nav-item-value {
+      color: var(--color-text-primary);
+      border: 1px solid var(--color-divider-elevated);
    }
 
    .nav-item-icon {
@@ -854,6 +897,7 @@ ul.footer-nav li {
       --color-button-background-secondary: #DEDEDE;
       --color-button-text-secondary: #202020;
       --color-divider: #414141;
+      --color-divider-elevated: #707070;
       --color-text-primary: #FBFBFB;
       --color-text-secondary: #BABABA;
       --color-text-third: #DEDEDE;
