@@ -437,12 +437,13 @@ body {
    text-decoration: none;
 }
 
-.list-link-item svg{
+.list-link-item svg {
    min-width: 24px;
 }
 
 .list-link-item-icon {
    width: 24px;
+   min-width: 24px;
    height: 24px;
    background-position: center;
    background-repeat: no-repeat;
