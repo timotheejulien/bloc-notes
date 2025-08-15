@@ -14,7 +14,7 @@ date: "2025-08-16 00:24:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
-### Passages forts de l'article
+### Passages intéressants
 > Le résultat est catastrophique. La notoriété spontanée chute de 23% entre 2020 et 2023. L'engagement sur les réseaux sociaux baisse de 45% malgré trois fois plus de publications. Le Net Promoter Score dégringole de 72 à 41.
 
 > "On nous demandait le ROI de chaque idée créative. Comment mesurer le ROI d'une émotion ? D'un frisson ? On a fini par faire des pubs pour algorithmes. Des bannières optimisées pour le clic, pas pour l'âme."
