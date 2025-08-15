@@ -17,10 +17,10 @@ permalink: /:categories/:year/:month/:day/:title/
 ### Passages forts de l'article
 > Le résultat est catastrophique. La notoriété spontanée chute de 23% entre 2020 et 2023. L'engagement sur les réseaux sociaux baisse de 45% malgré trois fois plus de publications. Le Net Promoter Score dégringole de 72 à 41.
 
-_"On nous demandait le ROI de chaque idée créative. Comment mesurer le ROI d'une émotion ? D'un frisson ? On a fini par faire des pubs pour algorithmes. Des bannières optimisées pour le clic, pas pour l'âme."_
+> "On nous demandait le ROI de chaque idée créative. Comment mesurer le ROI d'une émotion ? D'un frisson ? On a fini par faire des pubs pour algorithmes. Des bannières optimisées pour le clic, pas pour l'âme."
 
-_Le paradoxe du ROIsme : plus on mesure, moins on inspire. Plus on optimise, moins on innove. Plus on cible, moins on touche._
+> Le paradoxe du ROIsme : plus on mesure, moins on inspire. Plus on optimise, moins on innove. Plus on cible, moins on touche.
 
-_L'équation est implacable. Quand votre coût d'acquisition client augmente plus vite que la valeur de ce client, vous n'avez pas un business model mais un problème mathématique. Si vous payez 1,50 dollar pour gagner 1 dollar, ce n'est pas de la croissance, c'est un scheme de Ponzi digital._
+> L'équation est implacable. Quand votre coût d'acquisition client augmente plus vite que la valeur de ce client, vous n'avez pas un business model mais un problème mathématique. Si vous payez 1,50 dollar pour gagner 1 dollar, ce n'est pas de la croissance, c'est un scheme de Ponzi digital.
 
-_Phil Knight, le fondateur de Nike, avait prévenu : "Le business, c'est simple. C'est d'abord le produit. Ensuite l'histoire qu'on raconte. Le reste, c'est de la comptabilité."_
+> Phil Knight, le fondateur de Nike, avait prévenu : "Le business, c'est simple. C'est d'abord le produit. Ensuite l'histoire qu'on raconte. Le reste, c'est de la comptabilité."
