@@ -14,6 +14,7 @@
    --color-text-third: #BABABA;
    --color-focus: #202020;
    --color-primary: #019074;
+   --color-highlight: #FFEB9D;
 
    /* SPACE TOKEN */
    --space-none: 0;
@@ -131,6 +132,13 @@ blockquote:before {
    bottom: 0;
    border: 1px solid var(--color-button-background-primary);
    width: 10px;
+}
+
+mark {
+  padding: 0 2px;
+  color: var(--color-text-primary);
+  background: var(--color-highlight);
+  border-radius: 3px;
 }
 
 .flex-width-1 {
@@ -319,6 +327,7 @@ body {
 #search-container {
    width: 100%;
    height: calc(100vh - var(--space-regular));
+   max-height: calc(100vh - 64px);
    padding: var(--space-medium);
    position: absolute;
    left: 50%;
@@ -364,12 +373,28 @@ body {
 }
 
 #results-container {
-   padding: var(--space-none) var(--space-none) var(--space-none) var(--space-regular);
+   padding: var(--space-none) var(--space-regular) var(--space-none) var(--space-regular);
 }
 
 #results-container li {
    margin-bottom: var(--space-regular);
    list-style: none;
+}
+
+.search-item a {
+   position: relative;
+   text-decoration: none;
+}
+
+.search-item-title {
+   margin: var(--space-none) var(--space-small) var(--space-none) var(--space-none);
+   font-size: 20px;
+}
+
+.search-description {
+   margin: var(--space-none);
+   font-size: 16px;
+   color: var(--color-text-secondary);
 }
 
 .container {
@@ -849,6 +874,7 @@ ul.footer-nav li {
    #search-container {
       width: 100%;
       height: auto;
+      max-height: calc(100vh - 192px);
       padding: var(--space-medium);
       position: absolute;
       left: 50%;
@@ -861,6 +887,28 @@ ul.footer-nav li {
       box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
       -webkit-box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
       -moz-box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
+   }
+
+   .search-item a {
+      position: relative;
+      display: block;
+   }
+
+   .search-item a::before {
+      content: '';
+      width: calc(100% + 16px);
+      height: calc(100% + 16px);
+      position: absolute;
+      top: -6px;
+      left: -8px;
+      border-radius: 8px;
+      background: var(--color-background-elevated);
+      display: none;
+      z-index: -1;
+   }
+
+   .search-item a:hover::before {
+      display: block;
    }
 
    .hero p {
@@ -967,6 +1015,7 @@ ul.footer-nav li {
       --color-text-third: #DEDEDE;
       --color-focus: #FBFBFB;
       --color-primary: #FFD363;
+      --color-highlight: #655000;
    }
 
    svg {
@@ -1004,6 +1053,10 @@ ul.footer-nav li {
    }
 
    #search-input {
+      background: var(--color-background);
+   }
+
+   .search-item a::before {
       background: var(--color-background);
    }
 }

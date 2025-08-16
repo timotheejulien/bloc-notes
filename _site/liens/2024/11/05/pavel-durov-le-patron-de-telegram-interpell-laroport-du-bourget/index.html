@@ -7,6 +7,7 @@
       <title>Pavel Durov, le patron de Telegram, interpellé à l’aéroport du Bourget | Bloc-notes</title>
       <meta name="description" content="">
       <link rel="stylesheet" href="/css/style.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
       <meta property="og:locale"  content="fr_FR" />
       <meta property="og:site_name" content="Pavel Durov, le patron de Telegram, interpellé à l’aéroport du Bourget | Bloc-notes">
       <meta property="og:image" content="/cover.jpg"/>
@@ -14,7 +15,9 @@
       <meta property="og:url" content="/liens/2024/11/05/pavel-durov-le-patron-de-telegram-interpell-laroport-du-bourget/">
       <meta name="fediverse:creator" content="@timothee@mastodon.design" />
       <link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml">
-      <script src="/assets/script.js"></script>
+      <script src="/assets/js/script.js"></script>
+      <script src="/assets/js/simple-jekyll-search.min.js"></script>
+      <script src="/assets/js/search.js"></script>
       <!-- Matomo -->
 <script>
    var _paq = window._paq = window._paq || [];
@@ -34,25 +37,24 @@
     </head>
 </html>
 <body>
-
 <div id="search_modal">
-      <div id="search-container">
-            <div class="search-modal-header">
-                  <a href="#" onclick='search_modal()'>Fermer</a>
-            </div>
-            <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
-            <ul id="results-container"></ul>
+   <div id="search-container">
+      <div class="search-modal-header">
+            <a href="#" onclick='search_modal()'>Fermer</a>
       </div>
-      <!-- Script pointing to search-script.js -->
-      <script src="/assets/search.js" type="text/javascript"></script>
-      <!-- Configuration -->
-      <script>
-            SimpleJekyllSearch({
-            searchInput: document.getElementById('search-input'),
-            resultsContainer: document.getElementById('results-container'),
-            json: '/search.json'
-            })
-      </script>
+      <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
+      <ul id="results-container"></ul>
+   </div>
+   <!-- Script pointing to search-script.js -->
+   <script src="/assets/js/search.js" type="text/javascript"></script>
+   <!-- Configuration -->
+   <script>
+      SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+      })
+   </script>
 </div>
 <main class="main container">
    <nav class="nav-mobile">

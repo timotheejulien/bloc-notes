@@ -7,6 +7,7 @@
       <title>{{ page.title }} | Bloc-notes</title>
       <meta name="description" content="{{ page.tags-preview }}">
       <link rel="stylesheet" href="/css/style.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
       <meta property="og:locale"  content="fr_FR" />
       <meta property="og:site_name" content="{{ page.title }} | Bloc-notes">
       <meta property="og:image" content="/cover.jpg"/>
@@ -14,7 +15,9 @@
       <meta property="og:url" content="{{ page.url }}">
       <meta name="fediverse:creator" content="@timothee@mastodon.design" />
       <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
-      <script src="/assets/script.js"></script>
+      <script src="/assets/js/script.js"></script>
+      <script src="/assets/js/simple-jekyll-search.min.js"></script>
+      <script src="/assets/js/search.js"></script>
       {% include analytics.html %}
     </head>
 </html>
