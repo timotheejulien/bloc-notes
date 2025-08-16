@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-08-16T10:52:52+02:00</updated>
+   <updated>2025-08-16T13:03:44+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>The solo designer: one seat, all the hats</title>
+         <link href="http://localhost:4000/liens/2025/08/16/the-solo-designer-one-seat-all-the-hats/"/>
+         <updated>2025-08-16T10:25:52+02:00</updated>
+         <id>http://localhost:4000/liens/2025/08/16/the-solo-designer-one-seat-all-the-hats/</id>
+
+         <content type="html">
+            Un article qui expliqe les avantages et incovénients d’être le seul designer dans une entreprise.
+         </content>
+      </entry>
    
       <entry>
          <title>Le business, c’est simple. C’est d’abord le produit. Ensuite l’histoire qu’on raconte. Le reste, c’est de la comptabilité.</title>
