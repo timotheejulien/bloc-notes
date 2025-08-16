@@ -40,9 +40,9 @@
 <div id="search_modal">
    <div id="search-container">
       <div class="search-modal-header">
-            <a href="#" onclick='search_modal()'>Fermer</a>
+         <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
+         <a href="#" id="search-modal-close" onclick='search_modal()' title="Fermer"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3104_3817)"><path d="M17.2929 5.29289C17.6834 4.90237 18.3164 4.90237 18.707 5.29289C19.0975 5.68342 19.0975 6.31643 18.707 6.70696L6.70696 18.707C6.31643 19.0975 5.68342 19.0975 5.29289 18.707C4.90237 18.3164 4.90237 17.6834 5.29289 17.2929L17.2929 5.29289Z"/><path d="M5.29289 5.29289C5.68342 4.90237 6.31643 4.90237 6.70696 5.29289L18.707 17.2929C19.0975 17.6834 19.0975 18.3164 18.707 18.707C18.3164 19.0975 17.6834 19.0975 17.2929 18.707L5.29289 6.70696C4.90237 6.31643 4.90237 5.68342 5.29289 5.29289Z"/></g></svg></a>
       </div>
-      <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
       <ul id="results-container"></ul>
    </div>
    <!-- Script pointing to search-script.js -->
@@ -139,7 +139,7 @@
                   </clipPath>
                </defs>
             </svg>
-            <span class="nav-item-label">Accueil</span><span class="nav-item-value">767</span>
+            <span class="nav-item-label">Accueil</span><span class="nav-item-value">768</span>
          </a>
       </li><li>
          <a class="nav-item" href="/Citations">
@@ -149,7 +149,7 @@
       </li><li>
          <a class="nav-item" href="/Liens">
             <div class="nav-item-icon article-icon-Liens"></div>
-            <span class="nav-item-label">Liens</span><span class="nav-item-value">725</span>
+            <span class="nav-item-label">Liens</span><span class="nav-item-value">726</span>
          </a>
       </li><li>
          <a class="nav-item" href="/Vidéos">
@@ -258,7 +258,7 @@
       </li><li>
          <a class="nav-item" href="/tag/design">
             <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
-            <span class="nav-item-label">design</span><span class="nav-item-value">160</span>
+            <span class="nav-item-label">design</span><span class="nav-item-value">161</span>
          </a>
       </li><li>
          <a class="nav-item" href="/tag/design-system">
@@ -498,7 +498,7 @@
       </li><li>
          <a class="nav-item" href="/tag/méthodologie">
             <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
-            <span class="nav-item-label">méthodologie</span><span class="nav-item-value">25</span>
+            <span class="nav-item-label">méthodologie</span><span class="nav-item-value">26</span>
          </a>
       </li><li>
          <a class="nav-item" href="/tag/navigateur">
@@ -804,6 +804,33 @@
          <h1 class="h2 page-title-tag">Accueil</h1>
       </header>
       <section class="list-article">
+         
+         <article class="article">
+            <header>
+               <div class="article-icon">
+                  <img src="https://favicon.im/https://proton.me/blog/docs-proton-drive" alt="Favicon du lien : https://proton.me/blog/docs-proton-drive" />
+               </div>
+               <div class="article-meta">
+                  <p>Anant Vijay • 03/07/2024</p>
+                  <a href="https://proton.me/blog/docs-proton-drive" target="_blank">https://proton.me/blog/docs-proton-drive</a>
+               </div>
+            </header>
+            <a href="/liens/2024/11/05/introducing-docs-in-proton-drive-collaborative-document-editing-thats-actually-private/">
+               <h2 class="article-title">Introducing Docs in proton Drive – Collaborative document editing that’s actually private</h2>
+               
+               <p class="article-description">Billions of people use online document editors like google Docs or microsoft 365 to write reports, collaborate on projects, and keep track of meeting notes. But there is a growing concern about Big Tech platforms having access to your content, tracking you across the web, and collecting data to train privacy-invading AI models.Today we’re announcing a new end-to-end encrypted, collaborative document editor that puts your privacy first. Docs in proton Drive are built on the same privacy and security principles as all our services, starting with end-to-end encryption. Docs let you collaborate in real time, leave comments, add photos, and store your files securely. Best of all, it’s all private — even keystrokes and cursor movements are encrypted.</p>
+               
+               <footer class="article-footer">
+                  <ul>
+                     
+                     <li class="tag">app</li>
+                     
+                     <li class="tag">proton</li>
+                     
+                  </ul>
+            </footer>
+            </a>
+         </article>
          
          <article class="article">
             <header>
@@ -1612,33 +1639,6 @@
                      <li class="tag">technologie</li>
                      
                      <li class="tag">vpn</li>
-                     
-                  </ul>
-            </footer>
-            </a>
-         </article>
-         
-         <article class="article">
-            <header>
-               <div class="article-icon">
-                  <img src="https://favicon.im/https://uxdesign.cc/to-be-a-designer-is-to-be-a-facilitator-1a1ccde9a675" alt="Favicon du lien : https://uxdesign.cc/to-be-a-designer-is-to-be-a-facilitator-1a1ccde9a675" />
-               </div>
-               <div class="article-meta">
-                  <p>Marielle Sam-Wall • 27/05/2024</p>
-                  <a href="https://uxdesign.cc/to-be-a-designer-is-to-be-a-facilitator-1a1ccde9a675" target="_blank">https://uxdesign.cc/to-be-a-designer-is-to-be-a-facilitator-1a1ccde9a675</a>
-               </div>
-            </header>
-            <a href="/liens/2024/11/05/to-be-a-designer-is-to-be-a-facilitator/">
-               <h2 class="article-title">To be a designer is to be a facilitator</h2>
-               
-               <p class="article-description">Building a shared understanding of complex issues is key to doing work in the social impact space.</p>
-               
-               <footer class="article-footer">
-                  <ul>
-                     
-                     <li class="tag">design</li>
-                     
-                     <li class="tag">méthodologie</li>
                      
                   </ul>
             </footer>

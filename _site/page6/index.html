@@ -40,9 +40,9 @@
 <div id="search_modal">
    <div id="search-container">
       <div class="search-modal-header">
-            <a href="#" onclick='search_modal()'>Fermer</a>
+         <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
+         <a href="#" id="search-modal-close" onclick='search_modal()' title="Fermer"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3104_3817)"><path d="M17.2929 5.29289C17.6834 4.90237 18.3164 4.90237 18.707 5.29289C19.0975 5.68342 19.0975 6.31643 18.707 6.70696L6.70696 18.707C6.31643 19.0975 5.68342 19.0975 5.29289 18.707C4.90237 18.3164 4.90237 17.6834 5.29289 17.2929L17.2929 5.29289Z"/><path d="M5.29289 5.29289C5.68342 4.90237 6.31643 4.90237 6.70696 5.29289L18.707 17.2929C19.0975 17.6834 19.0975 18.3164 18.707 18.707C18.3164 19.0975 17.6834 19.0975 17.2929 18.707L5.29289 6.70696C4.90237 6.31643 4.90237 5.68342 5.29289 5.29289Z"/></g></svg></a>
       </div>
-      <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
       <ul id="results-container"></ul>
    </div>
    <!-- Script pointing to search-script.js -->
@@ -139,7 +139,7 @@
                   </clipPath>
                </defs>
             </svg>
-            <span class="nav-item-label">Accueil</span><span class="nav-item-value">767</span>
+            <span class="nav-item-label">Accueil</span><span class="nav-item-value">768</span>
          </a>
       </li><li>
          <a class="nav-item" href="/Citations">
@@ -149,7 +149,7 @@
       </li><li>
          <a class="nav-item" href="/Liens">
             <div class="nav-item-icon article-icon-Liens"></div>
-            <span class="nav-item-label">Liens</span><span class="nav-item-value">725</span>
+            <span class="nav-item-label">Liens</span><span class="nav-item-value">726</span>
          </a>
       </li><li>
          <a class="nav-item" href="/Vidéos">
@@ -258,7 +258,7 @@
       </li><li>
          <a class="nav-item" href="/tag/design">
             <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
-            <span class="nav-item-label">design</span><span class="nav-item-value">160</span>
+            <span class="nav-item-label">design</span><span class="nav-item-value">161</span>
          </a>
       </li><li>
          <a class="nav-item" href="/tag/design-system">
@@ -498,7 +498,7 @@
       </li><li>
          <a class="nav-item" href="/tag/méthodologie">
             <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
-            <span class="nav-item-label">méthodologie</span><span class="nav-item-value">25</span>
+            <span class="nav-item-label">méthodologie</span><span class="nav-item-value">26</span>
          </a>
       </li><li>
          <a class="nav-item" href="/tag/navigateur">
@@ -804,6 +804,37 @@
          <h1 class="h2 page-title-tag">Accueil</h1>
       </header>
       <section class="list-article">
+         
+         <article class="article">
+            <header>
+               <div class="article-icon">
+                  <img src="https://favicon.im/https://fr.vivaldi.net/vivaldi-et-open-source" alt="Favicon du lien : https://fr.vivaldi.net/vivaldi-et-open-source" />
+               </div>
+               <div class="article-meta">
+                  <p>celix • 30/07/2020</p>
+                  <a href="https://fr.vivaldi.net/vivaldi-et-open-source" target="_blank">https://fr.vivaldi.net/vivaldi-et-open-source</a>
+               </div>
+            </header>
+            <a href="/liens/2025/02/03/vivaldi-et-open-source/">
+               <h2 class="article-title">Vivaldi et l’Open Source</h2>
+               
+               <p class="article-description">Les personnes impliquées dans la communauté Open Source nous demandent souvent pourquoi le navigateur Vivaldi n’est pas disponible sous une licence Open Source unifiée. Nous allons vous expliquer pourquoi dans cet article.</p>
+               
+               <footer class="article-footer">
+                  <ul>
+                     
+                     <li class="tag">web</li>
+                     
+                     <li class="tag">app</li>
+                     
+                     <li class="tag">navigateur</li>
+                     
+                     <li class="tag">open-source</li>
+                     
+                  </ul>
+            </footer>
+            </a>
+         </article>
          
          <article class="article">
             <header>
@@ -1630,31 +1661,6 @@ Musk récolte ce qu’il a semé. Soit.</p>
                   <ul>
                      
                      <li class="tag">musique</li>
-                     
-                  </ul>
-            </footer>
-            </a>
-         </article>
-         
-         <article class="article">
-            <header>
-               <div class="article-icon">
-                  <img src="https://favicon.im/https://laboucle.media/sites-applications/10-ans-de-netflix-en-france-quest-ce-que-ca-a-change" alt="Favicon du lien : https://laboucle.media/sites-applications/10-ans-de-netflix-en-france-quest-ce-que-ca-a-change" />
-               </div>
-               <div class="article-meta">
-                  <p>Charlène Leblanc • 17/01/2025</p>
-                  <a href="https://laboucle.media/sites-applications/10-ans-de-netflix-en-france-quest-ce-que-ca-a-change" target="_blank">https://laboucle.media/sites-applications/10-ans-de-netflix-en-france-quest-ce-que-ca-a-change</a>
-               </div>
-            </header>
-            <a href="/liens/2025/01/17/10-ans-de-netflix-en-france-quest-ce-que-ca-a-change/">
-               <h2 class="article-title">10 ans de Netflix en France : qu'est-ce que ça a changé ?</h2>
-               
-               <p class="article-description">Tuduum. C’est la douce mélodie qui rythme les soirées de plus de 200 millions de personnes à travers le monde. La bande-son des soirées canapé et des « allez, on regarde juste un épisode et on va se coucher ». Le jingle réconfortant des plans annulés au dernier moment. Deux notes que tout le monde (re)connaît désormais. Arrivée en France le 15 septembre 2014, Netflix s’est rapidement imposée comme LA plateforme de streaming incontournable. Pourtant, ce n’est pas la concurrence qui manque. Le service a même révolutionné les habitudes de consommation en matière de films et de séries, au point de faire pression sur l’industrie du cinéma et de l’audiovisuel. 2024 marque ses 10 ans d’existence en France. Une décennie empreinte de nombreuses productions françaises : Lupin, Tour de France : au cœur du peloton, Marseille, Nouvelle école… Toutes participent au rayonnement de la « French culture » à l’international. C’est là qu’on se rend compte du pouvoir d’influence de la plateforme. Dire que tout a commencé grâce à une cassette vidéo d’Apollo 13 (oui, c’est si vieux que ça). On profite de l’anniversaire de Netflix France pour revenir sur l’histoire de la plateforme qui a tout changé.</p>
-               
-               <footer class="article-footer">
-                  <ul>
-                     
-                     <li class="tag">streaming</li>
                      
                   </ul>
             </footer>

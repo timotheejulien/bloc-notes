@@ -40,9 +40,9 @@
 <div id="search_modal">
    <div id="search-container">
       <div class="search-modal-header">
-            <a href="#" onclick='search_modal()'>Fermer</a>
+         <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
+         <a href="#" id="search-modal-close" onclick='search_modal()' title="Fermer"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3104_3817)"><path d="M17.2929 5.29289C17.6834 4.90237 18.3164 4.90237 18.707 5.29289C19.0975 5.68342 19.0975 6.31643 18.707 6.70696L6.70696 18.707C6.31643 19.0975 5.68342 19.0975 5.29289 18.707C4.90237 18.3164 4.90237 17.6834 5.29289 17.2929L17.2929 5.29289Z"/><path d="M5.29289 5.29289C5.68342 4.90237 6.31643 4.90237 6.70696 5.29289L18.707 17.2929C19.0975 17.6834 19.0975 18.3164 18.707 18.707C18.3164 19.0975 17.6834 19.0975 17.2929 18.707L5.29289 6.70696C4.90237 6.31643 4.90237 5.68342 5.29289 5.29289Z"/></g></svg></a>
       </div>
-      <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
       <ul id="results-container"></ul>
    </div>
    <!-- Script pointing to search-script.js -->
@@ -139,7 +139,7 @@
                   </clipPath>
                </defs>
             </svg>
-            <span class="nav-item-label">Accueil</span><span class="nav-item-value">767</span>
+            <span class="nav-item-label">Accueil</span><span class="nav-item-value">768</span>
          </a>
       </li><li>
          <a class="nav-item" href="/Citations">
@@ -149,7 +149,7 @@
       </li><li>
          <a class="nav-item" href="/Liens">
             <div class="nav-item-icon article-icon-Liens"></div>
-            <span class="nav-item-label">Liens</span><span class="nav-item-value">725</span>
+            <span class="nav-item-label">Liens</span><span class="nav-item-value">726</span>
          </a>
       </li><li>
          <a class="nav-item" href="/Vidéos">
@@ -258,7 +258,7 @@
       </li><li>
          <a class="nav-item" href="/tag/design">
             <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
-            <span class="nav-item-label">design</span><span class="nav-item-value">160</span>
+            <span class="nav-item-label">design</span><span class="nav-item-value">161</span>
          </a>
       </li><li>
          <a class="nav-item" href="/tag/design-system">
@@ -498,7 +498,7 @@
       </li><li>
          <a class="nav-item" href="/tag/méthodologie">
             <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
-            <span class="nav-item-label">méthodologie</span><span class="nav-item-value">25</span>
+            <span class="nav-item-label">méthodologie</span><span class="nav-item-value">26</span>
          </a>
       </li><li>
          <a class="nav-item" href="/tag/navigateur">
@@ -804,6 +804,31 @@
          <h1 class="h2 page-title-tag">Accueil</h1>
       </header>
       <section class="list-article">
+         
+         <article class="article">
+            <header>
+               <div class="article-icon">
+                  <img src="https://favicon.im/https://www.24joursdeweb.fr/2023/its-all-about-us-20-ans-de-communautes-web" alt="Favicon du lien : https://www.24joursdeweb.fr/2023/its-all-about-us-20-ans-de-communautes-web" />
+               </div>
+               <div class="article-meta">
+                  <p>Magali Milbergue • 04/12/2023</p>
+                  <a href="https://www.24joursdeweb.fr/2023/its-all-about-us-20-ans-de-communautes-web" target="_blank">https://www.24joursdeweb.fr/2023/its-all-about-us-20-ans-de-communautes-web</a>
+               </div>
+            </header>
+            <a href="/liens/2024/11/05/its-all-about-us-20-ans-de-communauts-web/">
+               <h2 class="article-title">It’s all about us - 20 ans de communautés web</h2>
+               
+               <p class="article-description">Je pourrais dire que la déliquescence de Twitter depuis l’arrivée d’Elon Musk est ce qui m’a poussée à remettre en question mon utilisation des réseaux sociaux mais, en réalité, j’avais déjà entamé cette réflexion avant que l’égo d’un multi-milliardaire vienne bousiller notre écosystème. J’ai passé beaucoup de temps dans les communautés web, quelles que soient leurs formes, ces deux dernières décades et j’ai souvent remis en question ma façon d’interagir avec les gens sur le net. Dernièrement, j’ai atteint le point de bascule où l’équilibre entre « ce que les réseaux sociaux me rapportent » et « ce que les réseaux sociaux me détruisent de santé mentale » n’est plus au point et donc il faut que je fasse quelque chose. C’est une réflexion encore en mouvement que je vais partager avec vous aujourd’hui, et peut-être que dans un an, si je fais le bilan, je me rendrai compte que les solutions que j’avais trouvées ne fonctionnaient pas du tout… (à dans un an pour la suite peut-être ?)</p>
+               
+               <footer class="article-footer">
+                  <ul>
+                     
+                     <li class="tag">web</li>
+                     
+                  </ul>
+            </footer>
+            </a>
+         </article>
          
          <article class="article">
             <header>
@@ -1628,35 +1653,6 @@
                      <li class="tag">ui</li>
                      
                      <li class="tag">ressources</li>
-                     
-                  </ul>
-            </footer>
-            </a>
-         </article>
-         
-         <article class="article">
-            <header>
-               <div class="article-icon">
-                  <img src="https://favicon.im/https://www.lemonde.fr/pixels/article/2023/07/31/fini-le-ticket-de-caisse-sept-questions-que-pose-la-disparition-de-l-impression-automatique_6184024_4408996.html" alt="Favicon du lien : https://www.lemonde.fr/pixels/article/2023/07/31/fini-le-ticket-de-caisse-sept-questions-que-pose-la-disparition-de-l-impression-automatique_6184024_4408996.html" />
-               </div>
-               <div class="article-meta">
-                  <p>Nicolas Six • 31/07/2023</p>
-                  <a href="https://www.lemonde.fr/pixels/article/2023/07/31/fini-le-ticket-de-caisse-sept-questions-que-pose-la-disparition-de-l-impression-automatique_6184024_4408996.html" target="_blank">https://www.lemonde.fr/pixels/article/2023/07/31/fini-le-ticket-de-caisse-sept-questions-que-pose-la-disparition-de-l-impression-automatique_6184024_4408996.html</a>
-               </div>
-            </header>
-            <a href="/liens/2024/11/05/fini-le-ticket-de-caisse-sept-questions-que-pose-la-disparition-de-limpression-automatique/">
-               <h2 class="article-title">Fini le ticket de caisse ? sept questions que pose la disparition de l’impression automatique</h2>
-               
-               <p class="article-description">Certains commerçants offriront de remplacer ce ticket en papier par un équivalent numérique. Ce qui interroge, tant sur le plan du respect de la vie privée que sur celui de l’impact écologique.</p>
-               
-               <footer class="article-footer">
-                  <ul>
-                     
-                     <li class="tag">vie-privée</li>
-                     
-                     <li class="tag">écologie</li>
-                     
-                     <li class="tag">société</li>
                      
                   </ul>
             </footer>

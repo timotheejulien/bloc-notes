@@ -1,9 +1,9 @@
 <div id="search_modal">
    <div id="search-container">
       <div class="search-modal-header">
-            <a href="#" onclick='search_modal()'>Fermer</a>
+         <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
+         <a href="#" id="search-modal-close" onclick='search_modal()' title="Fermer"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3104_3817)"><path d="M17.2929 5.29289C17.6834 4.90237 18.3164 4.90237 18.707 5.29289C19.0975 5.68342 19.0975 6.31643 18.707 6.70696L6.70696 18.707C6.31643 19.0975 5.68342 19.0975 5.29289 18.707C4.90237 18.3164 4.90237 17.6834 5.29289 17.2929L17.2929 5.29289Z"/><path d="M5.29289 5.29289C5.68342 4.90237 6.31643 4.90237 6.70696 5.29289L18.707 17.2929C19.0975 17.6834 19.0975 18.3164 18.707 18.707C18.3164 19.0975 17.6834 19.0975 17.2929 18.707L5.29289 6.70696C4.90237 6.31643 4.90237 5.68342 5.29289 5.29289Z"/></g></svg></a>
       </div>
-      <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
       <ul id="results-container"></ul>
    </div>
    <!-- Script pointing to search-script.js -->
