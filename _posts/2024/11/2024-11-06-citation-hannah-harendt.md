@@ -8,7 +8,7 @@ title: Quand tout le monde vous ment en permanence, le résultat n’est pas que
 link: https://louisderrac.com/mediter-hannah-harendt/
 author: Hannah Harendt
 published_date: Date N/A
-description: ''
+description: 
 language: fr
 categories:
 - Citations

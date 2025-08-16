@@ -4,7 +4,7 @@ title: If you get tired, learn to rest, not to quit.
 link: https://hackers.town/@earthshine/113437283064268569
 author: Bansky
 published_date: Date N/A
-description: ''
+description: 
 language: en
 categories:
 - Citations

@@ -551,7 +551,7 @@ body {
 }
 
 p.article-description {
-   margin: var(--space-small) var(--space-none) var(--space-regular) var(--space-none);
+   margin: var(--space-x-small) var(--space-none) var(--space-none) var(--space-none);
    display: -webkit-box;
    font-size: 18px;
    -webkit-line-clamp: 3;
@@ -561,7 +561,7 @@ p.article-description {
 }
 
 .article-footer ul {
-   margin: var(--space-none);
+   margin: var(--space-regular) var(--space-none) var(--space-none) var(--space-none);
    padding: var(--space-none);
    display: flex;
    gap: var(--space-small);

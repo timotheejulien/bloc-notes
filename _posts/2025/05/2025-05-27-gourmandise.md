@@ -4,7 +4,7 @@ title: "De toutes les passions, la seule vraiment respectable me parait être la
 link: "https://citations.ouest-france.fr/citation-guy-de-maupassant/passions-seule-vraiment-respectable-parait-14730.html"
 author: "Guy de Maupassant"
 published_date: "Date N/A"
-description: ""
+description: 
 language: "fr"
 categories: 
    - Citations

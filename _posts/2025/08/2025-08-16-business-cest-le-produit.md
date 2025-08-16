@@ -4,7 +4,7 @@ title: "Le business, c’est simple. C’est d’abord le produit. Ensuite l’h
 link: "https://www.linkedin.com/pulse/nike-victime-du-roisme-lhistoire-dun-suicide-digital-théo-lion-rqpue"
 author: "Phil Knight (le fondateur de Nike)"
 published_date: "N/A"
-description: ""
+description: 
 language: "fr"
 categories: 
    - Citations

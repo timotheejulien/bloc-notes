@@ -5,7 +5,7 @@ title: La vie privée a cessé d'être un droit individuel pour devenir une nég
 link: https://mstdn.fr/@whilelm/113678788363432749
 author: Antonio Casilli
 published_date: N/A
-description: ''
+description: 
 language: fr
 categories:
 - Citations
