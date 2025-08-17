@@ -24,14 +24,14 @@
                {% if post.description %}
                <p class="article-description">{{ post.description }}</p>
                {% endif %}
-               <footer class="article-footer">
-                  <ul>
-                     {% for tag in post.tags %}
-                     <li class="tag">{{tag}}</li>
-                     {% endfor %}
-                  </ul>
-            </footer>
             </a>
+            <footer class="article-footer">
+               <ul>
+                  {% for tag in post.tags %}
+                  <li class="tag">{{tag}}</li>
+                  {% endfor %}
+               </ul>
+            </footer>
          </article>
          {% endfor %}
       </section>
