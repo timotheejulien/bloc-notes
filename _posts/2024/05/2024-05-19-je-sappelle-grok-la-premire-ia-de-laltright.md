@@ -9,7 +9,7 @@ description: Elon Musk vient d’annoncer le lancement de « sa » version de Ch
   payants de X version premium (16 euros par mois).
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - réseau-social

@@ -15,7 +15,7 @@ description: Les familles trouvent toujours une solu­tion mais récu­pé­rer 
   clefs au crochet avant de partir.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - données-personnelles
 - famille

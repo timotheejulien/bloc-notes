@@ -10,7 +10,7 @@ description: "« Si Microsoft et OpenAI veulent utiliser notre travail pour un u
   porte-parole du journal américain."
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - législation

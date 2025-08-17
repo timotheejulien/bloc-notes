@@ -12,7 +12,7 @@ description: Today, Meta is launching its new microblogging platform called Thre
   based on what was launched today.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - gafam
 - réseau-social

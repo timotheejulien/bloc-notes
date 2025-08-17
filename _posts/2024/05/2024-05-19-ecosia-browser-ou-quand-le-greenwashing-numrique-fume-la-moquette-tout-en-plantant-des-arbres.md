@@ -13,7 +13,7 @@ description: 'C’est insignifiant par rapport à ce qui se passe partout dans l
   Vous le trouverez à cette adresse.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - écologie

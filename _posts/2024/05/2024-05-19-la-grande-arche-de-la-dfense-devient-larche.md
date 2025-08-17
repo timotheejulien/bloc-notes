@@ -11,7 +11,7 @@ description: La Grande Arche de La Défense est un immeuble de bureaux situé da
   et un lieu de rencontres interculturelles, porteur de valeurs humanistes.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - branding

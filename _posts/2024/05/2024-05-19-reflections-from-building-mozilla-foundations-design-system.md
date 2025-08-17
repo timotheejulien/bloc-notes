@@ -16,7 +16,7 @@ description: As our small *but mighty* design team grows and matures, the need f
   a solid foundation and here are our reflections at the end of it all.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - mozilla
 - design

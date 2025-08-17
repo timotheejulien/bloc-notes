@@ -8,7 +8,7 @@ description: Ce guide présente les principales bonnes pratiques de design. Afin
   réaliser des services numériques plus respectueux du libre arbitre de l’utilisateur.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

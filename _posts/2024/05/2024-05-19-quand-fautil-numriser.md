@@ -12,7 +12,7 @@ description: 'Lorsque nous parlons d''écoconception, nous avons parfois la rema
   voici une liste de questions à se poser et d''éléments à prendre en compte.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - éco-conception

@@ -12,7 +12,7 @@ description: 'L’Arcom a récemment mis à jour son Observatoire de l’équipe
   détriment du téléviseur ».'
 language: fr
 categories:
-- Liens
+- articles
 tags: société numérique
 og-tags: société numérique
 permalink: "/:categories/:year/:month/:day/:title/"

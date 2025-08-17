@@ -10,7 +10,7 @@ description: Censée faciliter la vie des usagers, comment expliquer que l'appli
   ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - design

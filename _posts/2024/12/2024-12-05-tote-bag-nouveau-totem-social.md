@@ -14,7 +14,7 @@ description: C’est un simple sac qui prend aujourd’hui beaucoup de place. C�
   t’il de notre société, de notre époque, de nos habitudes et de nos comportements ?
   Le tote-bag est devenu un pur produit de consommation, un totem sociétal.
 language: fr
-categories: Liens
+categories: articles
 tags: consommation société
 og-tags: consommation société
 permalink: "/:categories/:year/:month/:day/:title/"

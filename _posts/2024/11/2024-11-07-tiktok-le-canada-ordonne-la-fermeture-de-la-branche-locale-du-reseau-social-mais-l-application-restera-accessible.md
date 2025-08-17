@@ -11,7 +11,7 @@ description: Le Canada a ordonné, mercredi 6 novembre, la liquidation de la bra
   autant. L’annonce du gouvernement signifie que TikTok devra fermer les bureaux qu’il
   possède à Toronto et Vancouver.
 language: fr
-categories: Liens
+categories: articles
 tags: tiktok réseau-social vie-privée surveillance
 og-tags: tiktok réseau-social vie-privée surveillance
 permalink: "/:categories/:year/:month/:day/:title/"

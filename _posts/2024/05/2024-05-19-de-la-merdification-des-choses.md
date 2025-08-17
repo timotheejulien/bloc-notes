@@ -10,7 +10,7 @@ description: Les vieux ressassent souvent que « c’était mieux avant » e
   merdiques ? Et si le capitalo-consumérime était entré dans sa phase de « merdification » ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - web

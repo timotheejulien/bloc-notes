@@ -10,7 +10,7 @@ description: Si elle venait à être appliquée, la sanction serait historique e
   a demandé, mercredi 20 novembre, à la justice d’ordonner au géant technologique
   de se séparer de son navigateur Internet Chrome, le plus utilisé au monde.
 language: fr
-categories: Liens
+categories: articles
 tags: google app navigateur
 og-tags: google app navigateur
 permalink: "/:categories/:year/:month/:day/:title/"

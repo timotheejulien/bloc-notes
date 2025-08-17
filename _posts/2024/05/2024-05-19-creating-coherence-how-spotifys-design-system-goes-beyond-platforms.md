@@ -8,7 +8,7 @@ description: Design Manager Juli Sombat sheds light on how a need for more cohes
   led Spotify’s design systems team to take a cross-platform approach to components.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

@@ -10,7 +10,7 @@ description: Les lunettes et les verres traités pour filtrer la lumière bleue 
   sujet.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - santé
 og-tags: santé

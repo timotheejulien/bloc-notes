@@ -8,7 +8,7 @@ published_date: 15/12/2024
 description: Nourrie massivement de données générées par elle-même, l'IA s'autodétruit
   progressivement. Les modèles perdent en précision, en nuance et en fiabilité.
 language: fr
-categories: Liens
+categories: articles
 tags: ia données-personnelles développement
 og-tags: ia données-personnelles développement
 permalink: "/:categories/:year/:month/:day/:title/"

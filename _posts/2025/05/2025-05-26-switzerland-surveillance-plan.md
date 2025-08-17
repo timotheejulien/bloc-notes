@@ -8,7 +8,7 @@ description: "La révision de la loi suisse sur la surveillance (VÜPF) viserait
 directement les VPN et les fournisseurs de services de messagerie et de 
 chat cryptés."
 language: "fr"
-categories: "Liens"
+categories: "articles"
 tags: "surveillance législation vie-privée"
 og-tags: "surveillance législation vie-privée"
 date: "2025-05-26T13:11:42+02:00"

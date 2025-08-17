@@ -8,7 +8,7 @@ published_date: 20/02/2025
 description: Les services de cybersécurité de Google ont alerté sur de nouvelles méthodes
   d’espionnage de Signal par les renseignements russes, reposant sur des QR codes.
 language: fr
-categories: Liens
+categories: articles
 tags: hacking signal
 og-tags: hacking signal
 permalink: "/:categories/:year/:month/:day/:title/"

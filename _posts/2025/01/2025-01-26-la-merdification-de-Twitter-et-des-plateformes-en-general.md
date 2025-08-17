@@ -9,7 +9,7 @@ description: |-
   Pas étonnant que les gens partent en nombre. Pour ma part, j’ai dit adieu à mes 96 000 followers il y a presque 18 mois avec soulagement. Depuis, Twitter/X n’a fait que dévisser dans l’estime des gens.
   Musk récolte ce qu’il a semé. Soit.
 language: fr
-categories: Liens
+categories: articles
 tags: app x merdification réseau-social
 og-tags: app x merdification réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

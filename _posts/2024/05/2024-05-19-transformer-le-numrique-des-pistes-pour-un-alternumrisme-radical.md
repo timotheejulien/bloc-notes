@@ -10,7 +10,7 @@ description: Cet article est largement basé sur la troisième et dernière conf
   ses bénévoles.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 og-tags: web

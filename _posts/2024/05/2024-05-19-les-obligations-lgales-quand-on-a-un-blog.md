@@ -12,7 +12,7 @@ description: Un blog, c’est le meilleur moyen de s’exprimer librement, en to
   sans lequel l’activité en ligne serait quasi-impossible.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 - blog

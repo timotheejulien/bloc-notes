@@ -11,7 +11,7 @@ description: 'Cet été, la Norvège a enjoint la maison mère de facebook et In
   devrait à présent être étendue à l’ensemble de l’Espace économique européen. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - réseau-social

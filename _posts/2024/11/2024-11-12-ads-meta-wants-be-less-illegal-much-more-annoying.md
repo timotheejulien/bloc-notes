@@ -8,7 +8,7 @@ description: 'Première déclaration : Agacer les gens pour qu''ils consentent ?
   nouvelle fonctionnalité ne sera mise en place que dans les prochaines semaines et
   les détails ne sont pas encore disponibles publiquement.'
 language: fr
-categories: Liens
+categories: articles
 tags: publicité meta surveillance
 og-tags: publicité meta surveillance
 permalink: "/:categories/:year/:month/:day/:title/"

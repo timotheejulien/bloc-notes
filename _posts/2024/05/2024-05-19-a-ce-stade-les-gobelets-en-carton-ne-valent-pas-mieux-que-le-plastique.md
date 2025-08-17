@@ -7,7 +7,7 @@ published_date: 02/09/2023
 description: Déplastifier, c'est bien, mais ça ne fait pas tout.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

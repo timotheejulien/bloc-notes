@@ -7,7 +7,7 @@ published_date: 19/02/2025
 description: Arc has been dethroned by the Zen Browser.
 language: en
 categories:
-- Liens
+- articles
 tags: app navigateur
 og-tags: app navigateur
 permalink: "/:categories/:year/:month/:day/:title/"

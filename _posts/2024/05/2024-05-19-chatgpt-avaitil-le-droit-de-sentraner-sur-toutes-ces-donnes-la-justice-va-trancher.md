@@ -11,7 +11,7 @@ description: OpenAI, l’entreprise derrière ChatGPT, est assignée en justice.
   des articles Wikipedia ou des commentaires sur les réseaux sociaux.
 language: fr
 categories:
-- Liens
+- articles
 tags: ia openai
 og-tags: ia openai
 permalink: "/:categories/:year/:month/:day/:title/"

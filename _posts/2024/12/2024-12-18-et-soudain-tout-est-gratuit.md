@@ -16,7 +16,7 @@ description: 'Nous payons nos courses, nos trajets, nos loisirs et notre énergi
   proposées par internet sont un nouvel or noir qui leur permet de s’enrichir jusqu’à
   des sommets encore jamais atteints.'
 language: fr
-categories: Liens
+categories: articles
 tags: internet publicité économie numérique
 og-tags: internet publicité économie numérique
 permalink: "/:categories/:year/:month/:day/:title/"

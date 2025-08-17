@@ -11,7 +11,7 @@ description: Coûteux financièrement et écologiquement parlant, l’entraînem
   » ? Quelques éléments de réponse.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - ia

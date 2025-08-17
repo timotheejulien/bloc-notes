@@ -10,7 +10,7 @@ description: De 2011 à 2021, facebook pouvait suggérer à ses utilisateurs d�
   leurs visages, activé le plus souvent sans leur consentement.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

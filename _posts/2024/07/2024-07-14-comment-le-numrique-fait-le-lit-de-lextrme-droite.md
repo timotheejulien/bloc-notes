@@ -9,7 +9,7 @@ description: Le monde numérique est le nouveau moteur des pensées d’extrême
   contribuer à les mettre, très concrètement, au pouvoir.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - politique

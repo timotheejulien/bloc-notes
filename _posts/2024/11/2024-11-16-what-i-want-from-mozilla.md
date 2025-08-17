@@ -9,7 +9,7 @@ description: 'Like many of you, I received a survey today with the title: “Wha
   and critical to the future of the internet that I wanted to address my thoughts
   in greater depth here.'
 language: en
-categories: Liens
+categories: articles
 tags: internet firefox mozilla
 og-tags: internet firefox mozilla
 permalink: "/:categories/:year/:month/:day/:title/"

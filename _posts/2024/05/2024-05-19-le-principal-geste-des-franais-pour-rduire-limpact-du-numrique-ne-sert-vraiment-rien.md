@@ -10,7 +10,7 @@ description: En matière d’impact du numérique, les Français croient massive
   l’empreinte environnementale du numérique. Il y a mieux à faire.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

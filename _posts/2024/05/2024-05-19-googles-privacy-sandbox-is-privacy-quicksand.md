@@ -8,7 +8,7 @@ description: Google has already taken privacy washing to the extreme by trying t
   brand itself as “privacy focused”, even though its business model is based on surveillance.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - google

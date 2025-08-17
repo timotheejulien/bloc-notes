@@ -15,7 +15,7 @@ description: Les modèles d'intelligence artificielle d'OpenAI représentent une
   faut traiter les résultats de n'importe quel LLM avec beaucoup de scepticisme et
   avec la volonté de passer le texte généré au peigne fin.
 language: fr
-categories: Liens
+categories: articles
 tags: openai ia éthique
 og-tags: openai ia éthique
 permalink: "/:categories/:year/:month/:day/:title/"

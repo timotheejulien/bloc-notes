@@ -10,7 +10,7 @@ description: As the Internet Archive appeals a court decision blocking alternati
   bidder.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

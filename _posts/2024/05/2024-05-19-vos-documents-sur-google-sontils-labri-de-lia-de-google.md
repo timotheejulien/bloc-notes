@@ -9,7 +9,7 @@ description: 'Technologie : Alors que l''IA poursuit sa lente montée en puissan
   de leur contenu personnel pour former les outils d''IA générative de Google.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - ia

@@ -13,7 +13,7 @@ description: Mastodon was founded on the principles that people should be able t
   ideals.
 language: en
 categories:
-- Liens
+- articles
 tags: réseau-social mastodon
 og-tags: réseau-social mastodon
 permalink: "/:categories/:year/:month/:day/:title/"

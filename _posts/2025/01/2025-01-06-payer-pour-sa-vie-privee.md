@@ -9,7 +9,7 @@ description: 'Olivier Ertzscheid, dans son article Pay for Privacy. Si c’est f
   faudrait débourser en France pour utiliser sans publicités et sans traçage des services
   comme YouTube, Instagram, TikTok ou Twitter  !'
 language: fr
-categories: Liens
+categories: articles
 tags: surveillance vie-privée
 og-tags: surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

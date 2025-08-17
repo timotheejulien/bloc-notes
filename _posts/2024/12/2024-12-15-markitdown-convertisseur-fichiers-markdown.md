@@ -11,7 +11,7 @@ description: 'Cette nouvelle bibliothèque open source fait exactement ce que so
   structuré, prêt à être exploité.'
 language: fr
 categories:
-- Liens
+- articles
 tags: technologie développement open-source
 og-tags: technologie développement open-source
 permalink: "/:categories/:year/:month/:day/:title/"

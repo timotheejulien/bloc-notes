@@ -7,7 +7,7 @@ published_date: 29/03/2021
 description: 'Doit-on s''inquiéter de la surveillance sur Internet ? '
 language: fr
 categories:
-- Liens
+- articles
 tags: vie-privée podcast surveillance
 og-tags: vie-privée, podcast, surveillance
 permalink: "/:categories/:year/:month/:day/:title/"

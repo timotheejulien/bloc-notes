@@ -15,7 +15,7 @@ description: Il y a un an à Nanterre, un adolescent de 17 ans était tué par l
   battez-vous !”.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - graphisme
 - politique

@@ -11,7 +11,7 @@ description: Le GAS, ou Gear Acquisition Syndrome (en français SAM ou Syndrome 
   que c’est ça qui va nous faire profiter un peu plus.
 language: fr
 categories:
-- Liens
+- articles
 tags: économie société
 og-tags: économie société
 permalink: "/:categories/:year/:month/:day/:title/"

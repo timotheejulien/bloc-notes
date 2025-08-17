@@ -20,7 +20,7 @@ description: 'Tuduum. C’est la douce mélodie qui rythme les soirées de plus 
   c’est si vieux que ça). On profite de l’anniversaire de Netflix France pour revenir
   sur l’histoire de la plateforme qui a tout changé.'
 language: fr
-categories: Liens
+categories: articles
 tags: streaming
 og-tags: streaming
 permalink: "/:categories/:year/:month/:day/:title/"

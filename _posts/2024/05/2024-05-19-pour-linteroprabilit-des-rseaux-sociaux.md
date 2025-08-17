@@ -13,7 +13,7 @@ description: L’interopérabilité, c’est-à-dire la capacité pour différen
   un écosystème.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - réseau-social

@@ -7,7 +7,7 @@ published_date: 06/02/2025
 description: Retour d'expérience sur la création de Mistral AI
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: ia open-source
 og-tags: ia open-source
 permalink: "/:categories/:year/:month/:day/:title/"

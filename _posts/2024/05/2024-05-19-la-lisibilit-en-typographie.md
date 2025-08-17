@@ -15,7 +15,7 @@ description: 'Votre typographie parle à votre place jour et nuit, peu importe q
   Votre typographie mérite mieux, rendez-la lisible et agréable !'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - design
 - font

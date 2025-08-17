@@ -13,7 +13,7 @@ description: Depuis son arrivée à la tête de Twitter rebaptisé X, Elon Musk 
   à ce que les grandes plateformes font de nos espaces d’expression et de nos démocraties.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - open-source

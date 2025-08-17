@@ -8,7 +8,7 @@ description: Internal documents obtained by 404 Media show that Tumblr staff com
   users' data as part of a deal with Midjourney and OpenAI.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - ia

@@ -9,7 +9,7 @@ description: Des passages au son trouble peuvent se faufiler dans la chaîne de 
   de nos fictions, poussant certains spectateurs à activer les sous-titres.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - streaming
 og-tags: streaming

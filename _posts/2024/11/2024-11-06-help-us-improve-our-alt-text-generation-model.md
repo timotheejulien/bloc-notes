@@ -9,7 +9,7 @@ description: Firefox 130 introduces automatic alt text for PDF images and an imp
   that operates locally on their device, these improvements help ensure more images
   receive alt text resulting in more accessible PDFs.
 language: en
-categories: Liens
+categories: articles
 tags: firefox ia accessibilité open-source mozilla
 og-tags: firefox ia accessibilité open-source mozilla
 permalink: "/:categories/:year/:month/:day/:title/"

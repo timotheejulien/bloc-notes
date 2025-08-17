@@ -11,7 +11,7 @@ description: OpenAI, Google ou Meta cette semaine… Toutes les grandes entrepri
   selon le chercheur Pierre-Carl Langlais.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - openai

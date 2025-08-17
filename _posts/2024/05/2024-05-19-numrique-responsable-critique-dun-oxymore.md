@@ -11,7 +11,7 @@ description: Dans cet article, je m’aventure avec prudence et humilité dans u
   collectives.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - web

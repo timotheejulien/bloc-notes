@@ -11,7 +11,7 @@ description: Ce comparatif vous aidera à choisir l’antivol le plus solide pou
   Voici nos choix.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vélo
 og-tags: vélo

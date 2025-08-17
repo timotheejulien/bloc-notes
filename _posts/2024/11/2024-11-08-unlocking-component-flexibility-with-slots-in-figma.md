@@ -13,7 +13,7 @@ description: Material Design is excited to introduce Slot Components, a powerful
   change them to suit your needs.
 language: en
 categories:
-- Liens
+- articles
 tags: figma design design-system ui
 og-tags: figma design design-system ui
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -9,7 +9,7 @@ description: La Californie vient de signer une nouvelle loi permettant aux inter
   spécialisées dans l’exploitation commerciale des informations personnelles.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

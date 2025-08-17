@@ -11,7 +11,7 @@ description: Sept entreprises, dont Google d'Alphabet, Amazon, Apple et Facebook
   européen au Marché intérieur.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - gafam
 og-tags: gafam

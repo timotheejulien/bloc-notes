@@ -12,7 +12,7 @@ description: Notre ère numérique, marquée par l’omniprésence des technolog
   Et c’est bien cette problématique qui me questionne depuis un moment.
 language: fr
 categories:
-- Liens
+- articles
 tags: surveillance vie-privée technologie numérique éthique
 og-tags: surveillance vie-privée technologie numérique éthique
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -7,7 +7,7 @@ published_date: 24/04/2023
 description: Confronting the conflict between what’s possible and what’s practical
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

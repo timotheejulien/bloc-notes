@@ -14,7 +14,7 @@ description: 'Le député français de Vendée demande, en tant que citoyen de l
   L’inconvénient : c’est une première – le recours pourrait être jugé irrecevable.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

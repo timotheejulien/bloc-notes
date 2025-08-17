@@ -7,7 +7,7 @@ published_date: 14/10/2024
 description: The largest collection of free stuff on the internet!
 language: en
 categories:
-- Liens
+- articles
 tags:
 - open-source
 og-tags: open-source

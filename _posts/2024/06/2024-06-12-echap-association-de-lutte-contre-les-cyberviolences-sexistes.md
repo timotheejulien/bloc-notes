@@ -11,7 +11,7 @@ description: Nous sommes un collectif hacker-féministe qui lutte contre l’uti
   de genre.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

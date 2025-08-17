@@ -10,7 +10,7 @@ description: What if all iOS and Android apps were not complying with GDPR becau
   are messy. Let’s dig into it!
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

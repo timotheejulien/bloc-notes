@@ -7,7 +7,7 @@ published_date: 20/10/2023
 description: Tev explique le fonctionnement de WeChat et de ses dérives.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - vie-privée
 - app

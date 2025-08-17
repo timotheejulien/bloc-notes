@@ -8,7 +8,7 @@ description: Lentement, sûrement, inexorablement nous sortons de l’ère non p
   d’un « web » gratuit mais essentiellement de médias et réseaux sociaux gratuits.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

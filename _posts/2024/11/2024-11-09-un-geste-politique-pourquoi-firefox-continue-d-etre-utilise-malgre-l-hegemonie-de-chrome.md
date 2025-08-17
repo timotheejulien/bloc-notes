@@ -11,7 +11,7 @@ description: Auparavant considéré comme un produit phare, le navigateur de Moz
   à la toute-puissance des GAFAM.
 language: fr
 categories:
-- Liens
+- articles
 tags: mozilla firefox web app open-source
 og-tags: mozilla firefox web app open-source
 permalink: "/:categories/:year/:month/:day/:title/"

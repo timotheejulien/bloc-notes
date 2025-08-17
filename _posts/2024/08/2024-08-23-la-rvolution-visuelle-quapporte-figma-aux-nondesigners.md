@@ -8,7 +8,7 @@ description: Pourquoi Figma, en tant qu'outil de travail, facilite la collaborat
   et l'échange de feedback pour les Knowledge Worker
 language: fr
 categories:
-- Liens
+- articles
 tags: méthodologie figma app
 og-tags: méthodologie, figma
 permalink: "/:categories/:year/:month/:day/:title/"

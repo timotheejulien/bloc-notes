@@ -13,7 +13,7 @@ description: '2025 sera l’année du Design stratégique. Conséquence directe 
   orchestrer, influencer et placer le design au cœur des décisions stratégiques pour
   façonner l’avenir des entreprises.'
 language: fr
-categories: Liens
+categories: articles
 tags: ia freelance travail design stratégie-business
 og-tags: ia freelance travail design stratégie-business
 permalink: "/:categories/:year/:month/:day/:title/"

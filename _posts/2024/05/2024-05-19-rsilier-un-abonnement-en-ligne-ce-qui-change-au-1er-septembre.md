@@ -9,7 +9,7 @@ description: Après trois mois laissés aux professionnels pour se mettre en con
   en vigueur.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - web

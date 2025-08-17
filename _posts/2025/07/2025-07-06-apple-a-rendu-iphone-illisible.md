@@ -7,7 +7,7 @@ published_date: "06/07/2025"
 description: "Avec iOS 26, l'iPhone est devenu illisible. Et il y a une stratégie derrière ça."
 language: "fr"
 categories: 
-   - Vidéos
+   - vidéos
 tags: "apple ui"
 og-tags: "apple ui"
 date: "2025-07-06 18:44:00 +0200"

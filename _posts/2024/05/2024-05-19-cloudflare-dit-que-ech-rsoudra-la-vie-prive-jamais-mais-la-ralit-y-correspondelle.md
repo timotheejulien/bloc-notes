@@ -11,7 +11,7 @@ description: Une technologie de pointe qui « comble la lacune en matière de p
   de la protection de la vie privée » semble prometteuse, n'est-ce pas ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

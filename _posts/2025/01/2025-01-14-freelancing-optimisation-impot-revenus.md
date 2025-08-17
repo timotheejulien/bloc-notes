@@ -19,7 +19,7 @@ description: 'Parmi les autre formes de libertés j''aimerai faire un focus sur 
   cheveux dans les cas où elles ne sont pas en lien avec un véritable projet entrepreneurial.'
 language: fr
 categories:
-- Liens
+- articles
 tags: freelance
 og-tags: freelance
 permalink: "/:categories/:year/:month/:day/:title/"

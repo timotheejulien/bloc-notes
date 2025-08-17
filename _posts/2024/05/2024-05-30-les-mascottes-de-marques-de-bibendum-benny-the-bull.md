@@ -7,7 +7,7 @@ published_date: 30/05/2024
 description: Les mascottes de marques, de Bibendum à Benny the Bull
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - graphisme

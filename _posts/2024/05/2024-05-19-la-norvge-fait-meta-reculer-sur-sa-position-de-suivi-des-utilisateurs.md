@@ -10,7 +10,7 @@ description: Meta, le propriétaire de Facebook et d'Instagram, s'est retrouvé 
   utilisateurs dans le pays en fonction de leur comportement en ligne.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

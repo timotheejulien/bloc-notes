@@ -8,7 +8,7 @@ description: Après vous avoir parlé de la genèse du projet Design Accessible,
   plus de détails sur la partie technique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - développement
 - cms

@@ -11,7 +11,7 @@ description: Le dernier ouvrage de Dominique Boullier traite de la question des 
   l’analyse des réseaux socio-numériques.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 - algorithme

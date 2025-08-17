@@ -9,7 +9,7 @@ description: I just released a little tool called Lipstick on a Pig that helps k
   light/dark mode setting (colour scheme) of your system in GNOME.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 og-tags: design

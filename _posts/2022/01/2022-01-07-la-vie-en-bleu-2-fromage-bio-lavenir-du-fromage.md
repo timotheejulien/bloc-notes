@@ -10,7 +10,7 @@ description: Cela fait un moment que je me pose la question du fromage Bio (bien
   (Ferme la Marmotte en Bauges), super producteur de fromage des Bauges, en Bio justement.
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

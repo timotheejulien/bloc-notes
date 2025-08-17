@@ -13,7 +13,7 @@ description: L'enquête journalistique se définit par un travail de terrain et 
   la mise en œuvre de ces nouvelles pratiques d'enquête.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: journalisme presse documentaire design
 og-tags: journalisme presse documentaire design
 permalink: "/:categories/:year/:month/:day/:title/"

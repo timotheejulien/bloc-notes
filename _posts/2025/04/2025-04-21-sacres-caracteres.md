@@ -10,7 +10,7 @@ description: France Culture vient d’inaugurer une série de 12 superbes mini-d
   d’une police de caractère célèbre.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: documentaire font
 og-tags: documentaire font
 permalink: "/:categories/:year/:month/:day/:title/"

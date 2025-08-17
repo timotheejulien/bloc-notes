@@ -9,7 +9,7 @@ description: Ce téléphone assez volumineux embarque un très honnête équipem
   de son prédécesseur, mais qui se fait au prix d’une facture plus salée.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - device

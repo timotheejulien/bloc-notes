@@ -12,7 +12,7 @@ description: "Un petit article pour pérenniser sur le web une astuce qui a eu d
   qu’on vise. En cumulant les trois, le lien ciblera la première occurence de la phrase.
   Magie \U0001F9D9✨"
 language: fr
-categories: Liens
+categories: articles
 tags: web navigateur
 og-tags: web navigateur
 permalink: "/:categories/:year/:month/:day/:title/"

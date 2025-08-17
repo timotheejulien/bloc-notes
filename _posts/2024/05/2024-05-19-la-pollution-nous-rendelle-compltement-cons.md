@@ -9,7 +9,7 @@ description: On a passé en revue les articles scientifiques consacrés aux effe
   les résultats sont préoccupants.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

@@ -8,7 +8,7 @@ description: Analysis paralysis is the inability to make a decision due to overt
   or an abundance of choice. If you’re suffering from indecision, here are a few tips
   on how you can combat analysis paralysis when it happens.
 language: en
-categories: Liens
+categories: articles
 tags: design ux méthodologie
 og-tags: design ux méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

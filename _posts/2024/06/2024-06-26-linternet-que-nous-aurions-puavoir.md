@@ -13,7 +13,7 @@ description: 'Dans ce texte initialement paru en 2022, l’anthropologue du num�
   à faire advenir l’internet que nous avons ?'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - web

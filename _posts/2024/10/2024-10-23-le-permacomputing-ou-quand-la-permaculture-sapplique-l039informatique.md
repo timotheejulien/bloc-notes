@@ -10,7 +10,7 @@ description: Et si, au lieu d’alimenter la course sans fin aux pixels et à la
   la notion émergente de « permacomputing » – soit la permaculture appliquée à l’informatique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - écologie

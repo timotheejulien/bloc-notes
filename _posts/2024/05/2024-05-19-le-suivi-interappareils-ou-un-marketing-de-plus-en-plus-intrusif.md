@@ -10,7 +10,7 @@ description: 'Le suivi inter-appareils, en anglais cross device tracking, désig
   ou encore télévision connectée.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

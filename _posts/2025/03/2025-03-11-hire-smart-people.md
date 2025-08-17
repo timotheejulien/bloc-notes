@@ -7,7 +7,7 @@ author: Steve Jobs
 published_date: N/A
 description:
 language: en
-categories: Citations
+categories: citations
 tags: travail
 og-tags: travail
 permalink: "/:categories/:year/:month/:day/:title/"

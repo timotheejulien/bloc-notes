@@ -11,7 +11,7 @@ description: Je me questionne depuis plusieurs années sur la place des réseaux
   art ? Je le crois de moins en moins.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 og-tags: Réseau social

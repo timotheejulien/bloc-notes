@@ -11,7 +11,7 @@ description: Dans une comparaison sociologique des conditions de travail des pro
   et en France, ils montrent que ce domaine maintient « les dépendances économiques
   historiques et génère des inégalités qui s'ajoutent à celles héritées du passé ».
 language: fr
-categories: Liens
+categories: articles
 tags: ia économie numérique
 og-tags: ia économie numérique
 permalink: "/:categories/:year/:month/:day/:title/"

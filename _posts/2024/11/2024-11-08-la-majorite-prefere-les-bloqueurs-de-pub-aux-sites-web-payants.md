@@ -13,7 +13,7 @@ description: Dans un monde où tout semble truffé d'annonces, les utilisateurs 
   seulement les publicités dans un navigateur, mais sur tous les sites web où les
   règles de filtrage du bloqueur de publicités s'appliquent.
 language: fr
-categories: Liens
+categories: articles
 tags: web publicité surveillance vie-privée
 og-tags: web publicité surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

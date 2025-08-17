@@ -7,7 +7,7 @@ published_date: 17/12/2024
 description: Les autorités espèrent que ce nouveau guichet unique rende plus lisible
   l’aide apportée aux victimes, tout en renforçant la connaissance de la menace cybercriminelle.
 language: fr
-categories: Liens
+categories: articles
 tags: hacking
 og-tags: hacking
 permalink: "/:categories/:year/:month/:day/:title/"

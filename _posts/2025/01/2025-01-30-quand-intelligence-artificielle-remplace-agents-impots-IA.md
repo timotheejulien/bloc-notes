@@ -10,7 +10,7 @@ description: 'La direction des Finances publiques utilise des outils d’intelli
   négatifs.'
 language: fr
 categories:
-- Liens
+- articles
 tags: ia société législation
 og-tags: ia société législation
 permalink: "/:categories/:year/:month/:day/:title/"

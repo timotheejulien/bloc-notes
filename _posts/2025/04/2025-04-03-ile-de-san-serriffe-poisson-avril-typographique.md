@@ -9,7 +9,7 @@ description: 'En 1977, le journal britannique The Guardian a offert à ses lecte
   Publiée le 1er avril, ce canular est devenue légendaire pour avoir habilement mélangé
   humour subtil, satire géopolitique et jeux typographiques raffinés.'
 language: fr
-categories: Liens
+categories: articles
 tags: font
 og-tags: font
 permalink: "/:categories/:year/:month/:day/:title/"

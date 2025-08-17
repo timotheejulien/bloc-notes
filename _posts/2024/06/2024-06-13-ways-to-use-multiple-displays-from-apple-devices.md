@@ -9,7 +9,7 @@ description: I really have some trouble remembering which features apple provide
   So here's a list, for me at least, but it might be useful for others.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - apple
 og-tags: apple

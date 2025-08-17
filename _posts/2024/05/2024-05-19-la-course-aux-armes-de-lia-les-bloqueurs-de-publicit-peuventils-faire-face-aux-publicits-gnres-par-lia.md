@@ -12,7 +12,7 @@ description: L'IA générative bouleverse de nombreux secteurs, depuis l'art num
   Le secteur de la publicité en ligne en est le meilleur exemple.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - ia

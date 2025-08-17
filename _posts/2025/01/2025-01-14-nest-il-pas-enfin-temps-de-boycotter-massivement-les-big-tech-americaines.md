@@ -11,7 +11,7 @@ description: Quel début d’année. Quel cauchemar. Entre deux délires de Dona
   aussi de rejoindre la danse.
 language: fr
 categories:
-- Liens
+- articles
 tags: surveillance éthique gafam vie-privée réseau-social
 og-tags: surveillance éthique gafam vie-privée réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

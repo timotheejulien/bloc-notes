@@ -8,7 +8,7 @@ description: How to leverage AI effectively without losing focus on designers’
   and responsibilities.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - ia
 - design

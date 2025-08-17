@@ -8,7 +8,7 @@ description: Meta, accusé d’abuser de sa position dominante pour imposer la F
   Marketplace, écope d’une amende de 797,72 millions d’euros pour ses pratiques anticoncurrentielles.
 language: fr
 categories:
-- Liens
+- articles
 tags: meta législation facebook
 og-tags: meta législation facebook
 permalink: "/:categories/:year/:month/:day/:title/"

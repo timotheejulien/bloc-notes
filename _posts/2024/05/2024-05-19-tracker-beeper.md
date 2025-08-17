@@ -12,7 +12,7 @@ description: 'A week ago, I finally got round to implementing an idea I’d been
   you think “well yeah that is a lot”.'
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

@@ -8,7 +8,7 @@ description: PayPal will use your purchase information and shopping patterns to 
   targeted ads.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

@@ -10,7 +10,7 @@ description: Dans cette vidéo je vous explique pourquoi certaines marques déci
   à mon nouveau site web.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: font design
 og-tags: font design
 permalink: "/:categories/:year/:month/:day/:title/"

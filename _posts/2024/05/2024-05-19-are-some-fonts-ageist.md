@@ -8,7 +8,7 @@ description: In “Just My Type,” Simon Garfield counts down his least favorit
   we’ve updated the list.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - font

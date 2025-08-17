@@ -12,7 +12,7 @@ description: 'Et si les géants de la technologie numérique étaient concurrenc
   : les petites technologies) par opposition aux Big Tech, autrement dit les GAFAM
   et leurs successeurs déjà en embuscade pour leur disputer les positions hégémoniques.'
 language: fr
-categories: Liens
+categories: articles
 tags: indie internet
 og-tags: indie internet
 permalink: "/:categories/:year/:month/:day/:title/"

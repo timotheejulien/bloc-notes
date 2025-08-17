@@ -11,7 +11,7 @@ description: L’écologie a beaucoup à apprendre de l’échec du mouvement po
   mercantile et la philosophie capitaliste.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

@@ -9,7 +9,7 @@ description: Co-founder and CEO Brian Chesky talks about design’s catalytic po
   for business and the central role it played in Airbnb’s post-IPO growth story.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - stratégie-business

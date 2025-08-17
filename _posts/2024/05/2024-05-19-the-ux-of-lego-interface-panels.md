@@ -13,7 +13,7 @@ description: Piloting an ocean exploration ship or Martian research shuttle is s
   Welcome to the world of LEGO ux design.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - ui
 - ux

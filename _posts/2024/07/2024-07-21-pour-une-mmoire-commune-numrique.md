@@ -12,7 +12,7 @@ description: internet est un lieu d’échange, mais sa mémoire est volatile. N
   manière pour moi de le pérenniser.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 - technologie

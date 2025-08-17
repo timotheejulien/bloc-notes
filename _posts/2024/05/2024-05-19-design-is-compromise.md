@@ -9,7 +9,7 @@ description: Compromise is neither good nor bad, it’s something we do every da
   It’s finding the right balance between two competing desires.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - stratégie-business

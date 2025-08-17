@@ -16,7 +16,7 @@ description: Nous voici de retour dans cette série d’articles liés à la web
   à vos utilisateurices ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 - font

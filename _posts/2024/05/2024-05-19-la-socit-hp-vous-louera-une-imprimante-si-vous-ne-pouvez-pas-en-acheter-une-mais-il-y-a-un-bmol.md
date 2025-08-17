@@ -22,7 +22,7 @@ description: 'La société HP, figure-clé de l''industrie de l''impression en t
   peu. Un service d''impression par abonnement ? Depuis quand cela existe-t-il ?'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - surveillance

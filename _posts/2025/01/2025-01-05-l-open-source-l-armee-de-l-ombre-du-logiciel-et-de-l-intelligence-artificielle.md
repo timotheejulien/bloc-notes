@@ -9,7 +9,7 @@ description: Alors que le raz de marée de l’IA repose largement sur eux, les 
   des initiés. Malgré l’attrait qu’ils suscitent chez les géants du Web, leur avenir
   dépend en grande partie d’une communauté engagée, mais fragilisée.
 language: fr
-categories: Liens
+categories: articles
 tags: open-source ia web
 og-tags: open-source ia web
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: Ce film raconte l'histoire de Aaron Swartz, programmeur de génie e
   partout sur Internet.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - web
 - documentaire

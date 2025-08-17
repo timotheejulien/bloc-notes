@@ -7,7 +7,7 @@ published_date: 13/07/2023
 description: Introducing Aptos, our modern successor to Calibri
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

@@ -8,7 +8,7 @@ description: No shady privacy policies or back doors for advertisers proclaims t
   firefox homepage, but that's no longer true in firefox 128.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

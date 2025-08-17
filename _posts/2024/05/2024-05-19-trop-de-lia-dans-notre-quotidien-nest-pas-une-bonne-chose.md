@@ -15,7 +15,7 @@ description: Qu'il s'agisse de rédiger des dissertations ou de remplacer les ag
   dans son ensemble.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - design

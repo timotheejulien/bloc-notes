@@ -11,7 +11,7 @@ description: ONG, Agences nationales, think-tank, entreprises… Toutes sortes d
   du web, attendant d’être exhumé par un passant, une journaliste, un chercheur.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - open-source

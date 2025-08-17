@@ -8,7 +8,7 @@ description: Pour sortir des solutions propriétaires, héberger soi-même est l
   Mais comment faire quand on a peu de connaissances en réseau, Linux et Docker ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - auto-hébergement
 - indie

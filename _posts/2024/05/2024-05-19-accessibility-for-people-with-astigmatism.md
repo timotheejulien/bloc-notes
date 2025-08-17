@@ -11,7 +11,7 @@ description: Did you know? Astigmatism is a visual condition where there is a re
   43% of visual impairments occurring globally.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - accessibilité

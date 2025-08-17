@@ -8,7 +8,7 @@ description: A redesigned Google Fonts website helps you find the right fonts an
   icons for your project
 language: en
 categories:
-- Liens
+- articles
 tags:
 - google
 - design

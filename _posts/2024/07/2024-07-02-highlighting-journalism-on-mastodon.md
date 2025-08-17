@@ -15,7 +15,7 @@ description: To reinforce and encourage mastodon as the go-to place for journali
   can take with you across the fediverse.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 - mastodon

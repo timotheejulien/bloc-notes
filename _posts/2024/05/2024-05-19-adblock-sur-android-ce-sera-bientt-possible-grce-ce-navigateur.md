@@ -10,7 +10,7 @@ description: Firefox pourrait bientôt intégrer Adblock à ses extensions sur m
   Google a du souci à se faire…
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - firefox

@@ -12,7 +12,7 @@ description: Caroline Zorn et Pierre Beyssac, respectivement tête de liste et n
   des questions numériques »
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

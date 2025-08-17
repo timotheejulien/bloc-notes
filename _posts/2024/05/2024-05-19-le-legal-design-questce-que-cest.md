@@ -8,7 +8,7 @@ description: Découverte des enjeux de simplification et d'accessibilité des no
   juridiques.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - législation

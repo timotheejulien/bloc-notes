@@ -11,7 +11,7 @@ description: What would it mean for your business if you could target potential 
   to use it to your business advantage.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

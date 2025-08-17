@@ -15,7 +15,7 @@ description: Le capitaine Paul Watson, emblématique fondateur de l’ONG de dé
   une camionnette.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

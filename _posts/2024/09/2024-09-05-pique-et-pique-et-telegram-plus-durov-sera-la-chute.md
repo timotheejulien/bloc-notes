@@ -12,7 +12,7 @@ description: Le monde (numérique) se divise en 2 catégories. Ceux qui ont un p
   actuel de nos usages et environnements numériques.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - surveillance

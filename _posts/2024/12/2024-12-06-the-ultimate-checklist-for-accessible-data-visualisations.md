@@ -7,7 +7,7 @@ published_date: 14/11/2024
 description: Are your data visualizations leaving some users behind? Learn essential
   design principles to create accessible charts for all.
 language: en
-categories: Liens
+categories: articles
 tags: design accessibilité ux ui graphisme
 og-tags: design accessibilité ux ui graphisme
 permalink: "/:categories/:year/:month/:day/:title/"

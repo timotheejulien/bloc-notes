@@ -20,7 +20,7 @@ description: 'Et si l''Apocalypse avait déjà eu lieu... sur internet ? La preu
   du monde, tandis que Lou Fauroux nous emmène en cure de désintoxication après l’effondrement
   du web. internet, 1983 - ? RIP.'
 language: fr
-categories: Vidéos
+categories: vidéos
 tags: internet ia
 og-tags: internet ia
 permalink: "/:categories/:year/:month/:day/:title/"

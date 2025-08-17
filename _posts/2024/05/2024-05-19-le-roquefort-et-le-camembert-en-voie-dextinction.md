@@ -10,7 +10,7 @@ description: Les fromages hébergent une multitude de micro-organismes capables 
   ou le camembert pourraient disparaître.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - fromage
 og-tags: fromage

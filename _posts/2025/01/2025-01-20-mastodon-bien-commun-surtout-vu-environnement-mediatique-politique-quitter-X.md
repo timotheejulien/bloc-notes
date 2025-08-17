@@ -10,7 +10,7 @@ description: Avec le soutien de Musk à Trump et aux extrêmes droites européen
   et respectueux des données, est la première alternative. Rencontre avec son responsable
   technique.
 language: fr
-categories: Liens
+categories: articles
 tags: mastodon réseau-social
 og-tags: mastodon réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

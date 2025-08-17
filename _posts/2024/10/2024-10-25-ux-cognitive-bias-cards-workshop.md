@@ -8,7 +8,7 @@ description: A fun way to raise awareness around biases when designing products 
   services
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

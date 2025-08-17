@@ -9,7 +9,7 @@ description: L'arrestation de Pavel Durov, patron de telegram est-elle un coup p
   simple que cela.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - réseau-social

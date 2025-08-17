@@ -7,7 +7,7 @@ published_date: 21/07/2024
 description: ''
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

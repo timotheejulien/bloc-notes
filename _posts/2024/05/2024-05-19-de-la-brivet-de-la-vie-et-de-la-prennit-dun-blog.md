@@ -12,7 +12,7 @@ description: Cette année 2024 m’est particulièrement symbolique. En octobre,
   accolé à mon patronyme dans les médias ou sur Wikipédia.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - auto-hébergement
 - blog

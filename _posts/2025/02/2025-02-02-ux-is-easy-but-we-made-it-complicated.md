@@ -9,7 +9,7 @@ description: The entire discipline is premised on close contact and empathy with
   achieve prominence in companies. Why does this phenomenon occur?
 language: en
 categories:
-- Liens
+- articles
 tags: design ux méthodologie
 og-tags: design ux méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

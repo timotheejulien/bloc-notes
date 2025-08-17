@@ -14,7 +14,7 @@ description: ls et elles s’appellent Squeezie, Mcfly et Carlito, Léna Situati
   dont ils se font le relais.
 language: fr
 categories:
-- Liens
+- articles
 tags: réseau-social
 og-tags: réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

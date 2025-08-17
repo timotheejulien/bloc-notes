@@ -9,7 +9,7 @@ description: Depuis début avril, Mastodon, nouveau réseau social libre et déc
   une alternative grand public ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - mastodon

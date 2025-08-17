@@ -9,7 +9,7 @@ description: The UK government has admitted that the technology needed to secure
   controversial Online Safety Bill.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 og-tags: vie-privée

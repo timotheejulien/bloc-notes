@@ -9,7 +9,7 @@ description: Les 4 893 personnes réunies à Martigny (Suisse) samedi soir ont p
   à la Suisse de s’octroyer un record du monde jusqu’ici détenu par la France.
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

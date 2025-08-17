@@ -12,7 +12,7 @@ description: 'Ceci est la mise à l’écrit d’une inter­ven­tion aux confé
   ça aussi bien fina­le­ment : c’est une histoire à lire, pas une recette à suivre.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - open-source
 - salariat

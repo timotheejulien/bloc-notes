@@ -12,7 +12,7 @@ description: At Proton, we’re always working on new and innovative ways to pro
   CAPTCHA.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - web

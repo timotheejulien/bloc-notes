@@ -7,7 +7,7 @@ published_date: 04/02/2025
 description: OpenAI opère un rebranding mineur. Nouveau logo, nouvelle font…
 language: en
 categories:
-- Vidéos
+- vidéos
 tags: openai design branding font motion sound-design
 og-tags: openai design branding font motion sound-design
 permalink: "/:categories/:year/:month/:day/:title/"

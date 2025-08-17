@@ -12,7 +12,7 @@ description: 'Dans un entretien au « Monde », la journaliste américaine Liz P
   la part des revenus à reverser aux artistes. '
 language: fr
 categories:
-- Liens
+- articles
 tags: musique économie app
 og-tags: musique économie app
 permalink: "/:categories/:year/:month/:day/:title/"

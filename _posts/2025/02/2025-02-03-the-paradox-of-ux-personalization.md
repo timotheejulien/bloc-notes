@@ -7,7 +7,7 @@ published_date: 02/02/2025
 description: AI-driven UX curates familiarity, but in doing so, it narrows the path
   to new experiences.
 language: en
-categories: Liens
+categories: articles
 tags: design ia ux
 og-tags: design ia ux
 permalink: "/:categories/:year/:month/:day/:title/"

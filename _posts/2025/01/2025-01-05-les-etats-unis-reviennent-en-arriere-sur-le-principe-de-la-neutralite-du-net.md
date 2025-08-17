@@ -18,7 +18,7 @@ description: 'Nouveau rebondissement dans un interminable dossier : une cour dâ€
   services.'
 language: fr
 categories:
-- Liens
+- articles
 tags: internet
 og-tags: internet
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -13,7 +13,7 @@ description: Applite est une nouvelle app qui propose une interface graphique pa
   utilise à la base avec le terminal, mais via une interface graphique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 og-tags: app

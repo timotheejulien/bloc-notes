@@ -10,7 +10,7 @@ description: Une page au très long court, nourrit par mes questionnements et v�
   de la péremption de ce qu'on met en ligne.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 - auto-hébergement

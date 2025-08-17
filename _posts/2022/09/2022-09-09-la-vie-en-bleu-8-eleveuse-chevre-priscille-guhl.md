@@ -12,7 +12,7 @@ description: En vacances dans le plus bel endroit du monde – aka le lac d’Ai
   ferme d’une main de fer !
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

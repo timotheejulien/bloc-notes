@@ -8,7 +8,7 @@ description: Comment construire un menu hamburger de navigation accessible à to
   en respectant l'amélioration progressive ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - développement
 - css

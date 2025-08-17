@@ -8,7 +8,7 @@ description: Une typographie élégante utilise des guillemets et des apostrophe
   pas des guillemets et des apostrophes droits
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - typographie
 og-tags: typographie

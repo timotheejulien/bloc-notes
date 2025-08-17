@@ -11,7 +11,7 @@ description: Depuis 2024, les propriétaires d’iPhone et de smartphone Android
   sur notre appareil. Voici comment faire.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - transport
 og-tags: transport

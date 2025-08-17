@@ -9,7 +9,7 @@ description: For most protesters, activists, and journalists, your smartphone is
   information, and helping others. It also represents a great risk, as a tool that
   is easily appropriated by authorities for targeted and mass surveillance.
 language: en
-categories: Liens
+categories: articles
 tags: app surveillance vie-privée
 og-tags: app surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -7,7 +7,7 @@ published_date: 21/02/2023
 description: ''
 language: fr
 categories:
-- Liens
+- articles
 tags: design font
 og-tags: design font
 permalink: "/:categories/:year/:month/:day/:title/"

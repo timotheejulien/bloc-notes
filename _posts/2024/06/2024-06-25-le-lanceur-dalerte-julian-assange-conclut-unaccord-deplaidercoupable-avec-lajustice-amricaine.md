@@ -11,7 +11,7 @@ description: Le fondateur de WikiLeaks a accepté de reconnaître sa participati
   L’accord doit encore être validé par un juge mercredi.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - lanceur-alerte

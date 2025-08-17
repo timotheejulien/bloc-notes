@@ -12,7 +12,7 @@ description: L'écosystème d'Apple a toujours été considéré comme un jardin
   paiements par l'intermédiaire du mécanisme de paiement d'Apple.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - apple
 - législation

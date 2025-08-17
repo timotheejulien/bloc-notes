@@ -9,7 +9,7 @@ description: Actuellement à l’étude au Parlement européen, le Media Freedom
   sources. Une mesure fortement encouragée par la France.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

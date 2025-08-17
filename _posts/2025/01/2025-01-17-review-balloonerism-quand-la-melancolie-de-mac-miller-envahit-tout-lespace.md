@@ -13,7 +13,7 @@ description: Ce matin, 4 ans jour pour jour après la sortie de «Circles» son 
   dans les caves du temps, et chaque note en éclate comme un millésime oublié qu’on
   redécouvre la gorge serrée.
 language: fr
-categories: Liens
+categories: articles
 tags: musique
 og-tags: musique
 permalink: "/:categories/:year/:month/:day/:title/"

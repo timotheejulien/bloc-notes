@@ -8,7 +8,7 @@ description: Le bon sens populaire veut que les jeunes sont naturellement à l�
   avec les nouvelles technologies, comme l’informatique. Or, ce n’est plus vraiment
   le cas depuis des années, mais pourquoi ?
 language: fr
-categories: Liens
+categories: articles
 tags: société numérique
 og-tags: société numérique
 permalink: "/:categories/:year/:month/:day/:title/"

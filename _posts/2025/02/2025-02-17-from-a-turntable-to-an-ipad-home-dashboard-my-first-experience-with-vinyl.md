@@ -14,7 +14,7 @@ description: Dans son article, Niléane raconte comment l'installation d'un tour
   ce qui l'a obligée à créer un compte Apple dédié pour partager l'iPad en toute sécurité.
 language: en
 categories:
-- Liens
+- articles
 tags: musique apple
 og-tags: musique apple
 permalink: "/:categories/:year/:month/:day/:title/"

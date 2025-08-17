@@ -10,7 +10,7 @@ description: L’arrestation à Paris de Pavel Durov, PDG de la célèbre plate-
   et le terrorisme.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - législation

@@ -14,7 +14,7 @@ description: Alors que les États-Unis semblent faire marche arrière sur les qu
   la liberté de chacun s'efface.
 language: fr
 categories:
-- Liens
+- articles
 tags: vie-privée surveillance
 og-tags: vie-privée surveillance
 permalink: "/:categories/:year/:month/:day/:title/"

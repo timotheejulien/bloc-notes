@@ -8,7 +8,7 @@ description: Ce reportage réalisé en 2010 est l’un des rares documentaires s
   carrière et la vie de Steve Jobs, l’ex-patron d’Apple, décédé le 5 octobre 2011.
 language: en
 categories:
-- Vidéos
+- vidéos
 tags: documentaire apple
 og-tags: documentaire apple
 permalink: "/:categories/:year/:month/:day/:title/"

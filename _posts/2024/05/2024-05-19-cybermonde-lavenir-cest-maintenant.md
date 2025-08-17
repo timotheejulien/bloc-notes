@@ -19,7 +19,7 @@ description: 'La promesse d''Internet, l''or noir des data, l''intelligence arti
   revue des récents bouleversements de notre nouveau « cybermonde ».'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - ia
 - surveillance

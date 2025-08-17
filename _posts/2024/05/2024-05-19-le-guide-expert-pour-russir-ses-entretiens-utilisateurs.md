@@ -8,7 +8,7 @@ description: Techniques pour rédiger des questions et des guides d’entretiens
   et efficaces
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

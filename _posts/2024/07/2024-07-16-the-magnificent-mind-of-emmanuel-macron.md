@@ -8,7 +8,7 @@ description: The president is a lonely, tragic figure whose strange personality 
   inflicted chaos and carnage on French politics.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - société
 - politique

@@ -9,7 +9,7 @@ description: Tradition oblige, l’affiche de Roland-Garros a été confiée à 
   et auteur de bandes dessinées qui est à l’origine d’une création originale réalisée
   dans le but de transposer l’âme de Roland-Garros.
 language: fr
-categories: Liens
+categories: articles
 tags: design graphisme
 og-tags: design graphisme
 permalink: "/:categories/:year/:month/:day/:title/"

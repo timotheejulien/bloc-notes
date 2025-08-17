@@ -6,7 +6,7 @@ author: Anil Dash
 published_date: 27/05/2025
 description: "Click « I agree » to continue. You didn’t click it, though. Or maybe you did? I don’t know, it doesn’t matter."
 language: en
-categories: "Liens"
+categories: "articles"
 tags: "internet surveillance vie-privée"
 og-tags: "internet surveillance vie-privée"
 date: "2025-06-05T08:17:29+02:00"

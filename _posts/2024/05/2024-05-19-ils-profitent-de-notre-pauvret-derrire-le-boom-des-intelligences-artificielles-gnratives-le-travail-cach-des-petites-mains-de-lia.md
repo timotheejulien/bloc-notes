@@ -10,7 +10,7 @@ description: La création d'algorithmes tels que ChatGPT ou Midjourney nécessit
   indispensables mais souvent précaires, faiblement rémunérés et maintenus dans l'ombre.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - société

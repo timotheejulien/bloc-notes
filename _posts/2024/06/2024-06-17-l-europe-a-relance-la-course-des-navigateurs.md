@@ -9,7 +9,7 @@ description: On penserait presque que le marché des navigateurs est plié. goog
   Et pourtant, chez nous, quelques mouvements rebelles apparaissent ici et là.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - web

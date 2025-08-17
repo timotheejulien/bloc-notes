@@ -11,7 +11,7 @@ description: 'Voici le classement TOPAFF 2023, qui célèbre les 100 plus belles
   la communication (stratégie).'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - graphisme

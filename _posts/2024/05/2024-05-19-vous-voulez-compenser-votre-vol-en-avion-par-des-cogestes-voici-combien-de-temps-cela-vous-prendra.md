@@ -10,7 +10,7 @@ description: Malgré les effets du réchauffement climatique, peu de personnes s
   individuellement les émissions d’un aller-retour.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

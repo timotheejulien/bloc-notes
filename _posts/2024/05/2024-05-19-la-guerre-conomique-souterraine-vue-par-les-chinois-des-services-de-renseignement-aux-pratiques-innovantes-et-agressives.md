@@ -13,7 +13,7 @@ description: Dans une note rédigée conjointement par la Direction générale d
   privé.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

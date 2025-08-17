@@ -9,7 +9,7 @@ description: Aujourd’hui c’est un numéro spécial de La Vie en Bleu. Pas de
   étude « Fromage et Santé ».
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -11,7 +11,7 @@ description: Lorsque j’ai exprimé pour la première fois mon souhait de trava
   par une éthique de l’amour. — bell hooks, dans À propos d’amour (2000)
 language: fr
 categories:
-- Liens
+- articles
 tags: travail freelance web méthodologie
 og-tags: travail freelance web méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

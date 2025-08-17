@@ -9,7 +9,7 @@ description: Meta’s policy changes allow calling gay and trans people « ment
   while removing a ban on referring to women as ‘household objects.
 language: en
 categories:
-- Liens
+- articles
 tags: facebook instagram meta éthique
 og-tags: facebook instagram meta éthique
 permalink: "/:categories/:year/:month/:day/:title/"

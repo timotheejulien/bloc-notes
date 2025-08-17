@@ -8,7 +8,7 @@ description: Every year, we look for promising technologies poised to have a rea
   impact on the world. Here are the advances that we think matter most right now.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - technologie
 og-tags: technologie

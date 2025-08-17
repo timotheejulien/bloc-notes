@@ -10,7 +10,7 @@ description: Réchauffement climatique, guerre en Ukraine… De plus en plus de 
   accessible. Nous avons interrogé trois d’entre eux pour mieux comprendre leur décision.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

@@ -9,7 +9,7 @@ description: Anyone with an iPhone can now enjoy proton Drive’s secure and pri
   and will be available to everyone by the end of this week.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - chiffrement

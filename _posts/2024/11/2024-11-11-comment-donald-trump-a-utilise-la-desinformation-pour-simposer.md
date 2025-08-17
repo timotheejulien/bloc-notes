@@ -10,7 +10,7 @@ description: Quel est le rôle exact joué par la désinformation dans la victoi
   en 2016 et 2020. Ce modèle éclaire la stratégie de Trump consistant à propager des
   « fake news » pour s’imposer sur les réseaux sociaux et dans les médias traditionnels.
 language: fr
-categories: Liens
+categories: articles
 tags: politique désinformation numérique
 og-tags: politique désinformation numérique
 permalink: "/:categories/:year/:month/:day/:title/"

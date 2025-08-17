@@ -10,7 +10,7 @@ description: La CIA a mis au point un chatbot qui permet à ses employés de dia
   le but de « prédire leurs comportements ». Un nouvel outil qui en dit long sur l’intérêt
   de l’agence de renseignement américaine pour l’intelligence artificielle…
 language: fr
-categories: Liens
+categories: articles
 tags: surveillance ia
 og-tags: surveillance ia
 permalink: "/:categories/:year/:month/:day/:title/"

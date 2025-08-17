@@ -12,7 +12,7 @@ description: 'Deux thèmes sont bien à la mode en ce moment : reconversion pro 
   de l’exemple de Xavier, mode d’emploi !'
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

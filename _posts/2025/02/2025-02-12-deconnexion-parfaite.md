@@ -10,7 +10,7 @@ description: Dans son article « À la recherche de la déconnexion parfaite �
   distinction entre information utile et « bruit », et souligne l'importance de solutions
   techniques, comme l'adoption de Linux.
 language: fr
-categories: Liens
+categories: articles
 tags: santé numérique
 og-tags: santé numérique
 permalink: "/:categories/:year/:month/:day/:title/"

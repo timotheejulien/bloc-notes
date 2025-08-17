@@ -10,7 +10,7 @@ description: Ça y est, c'est décidé, je quitte Spotify ! Cette décision ne s
   accélérées il y a quelques semaines.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - musique
 - auto-hébergement

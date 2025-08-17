@@ -9,7 +9,7 @@ description: De quoi avons-nous le plus besoin ? D’eau ou de données ? D’ea
   également.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - technologie

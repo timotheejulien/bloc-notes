@@ -15,7 +15,7 @@ description: L'investisseur norvégien Storebrand a vendu sa participation dans 
   dans les territoires palestiniens occupés ».
 language: fr
 categories:
-- Liens
+- articles
 tags: surveillance société économie éthique données-personnelles
 og-tags: surveillance société économie éthique données-personnelles
 permalink: "/:categories/:year/:month/:day/:title/"

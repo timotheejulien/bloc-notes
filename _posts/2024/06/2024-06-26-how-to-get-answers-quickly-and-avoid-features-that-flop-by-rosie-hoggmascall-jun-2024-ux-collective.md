@@ -9,7 +9,7 @@ description: How to get answers quickly and avoid features that flop | by Rosie 
   | Jun, 2024 | ux Collective
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

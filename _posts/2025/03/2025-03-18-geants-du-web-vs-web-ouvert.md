@@ -6,7 +6,7 @@ author: Fabien Basmaison
 published_date: 16/03/2025
 description: Les géants du Web ont conçu leurs plateformes pour vous emprisonner.
 language: fr
-categories: Liens
+categories: articles
 tags: web indie gafam
 og-tags: web indie gafam
 permalink: "/:categories/:year/:month/:day/:title/"

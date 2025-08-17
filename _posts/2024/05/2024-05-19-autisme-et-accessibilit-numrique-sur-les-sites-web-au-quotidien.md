@@ -9,7 +9,7 @@ description: Dans cet article, nous allons voir comment les personnes autistes v
   web.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - web

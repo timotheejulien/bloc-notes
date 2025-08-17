@@ -14,7 +14,7 @@ description: L’Union européenne, l’Allemagne et les Pays-Bas ont ouvert leu
   exemples sont intéressants.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - mastodon
 og-tags: mastodon

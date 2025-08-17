@@ -9,7 +9,7 @@ description: The privacy-focused messaging app arose from a fringe culture that 
   it escape its roots?
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

@@ -11,7 +11,7 @@ description: Walmart, leader mondial de la grande distribution, a récemment dé
   Walmart en 1962, une combinaison du nom de son fondateur, Sam Walton, et de “Mart”
   pour “market”.
 language: fr
-categories: Liens
+categories: articles
 tags: design branding
 og-tags: design branding
 permalink: "/:categories/:year/:month/:day/:title/"

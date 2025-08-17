@@ -9,7 +9,7 @@ description: Entretien avec la sociologue Dahlia Namian, autrice d’un essai su
   ordre social où l’exhibitionnisme de la richesse érige en vertu la démesure ».
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

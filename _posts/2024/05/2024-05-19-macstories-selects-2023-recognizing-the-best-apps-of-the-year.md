@@ -7,7 +7,7 @@ published_date: 11/12/2023
 description: Une sélection d'applications utilisées par Macstories
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - apple

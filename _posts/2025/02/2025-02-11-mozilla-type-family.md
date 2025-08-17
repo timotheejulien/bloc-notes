@@ -8,7 +8,7 @@ description: 'A custom typeface family for Mozilla by Studio DRAMA. The Mozilla 
   family has two styles: Mozilla Headline and Mozilla Text.'
 language: en
 categories:
-- Liens
+- articles
 tags: design font branding
 og-tags: design font branding
 permalink: "/:categories/:year/:month/:day/:title/"

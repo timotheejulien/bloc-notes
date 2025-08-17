@@ -10,7 +10,7 @@ description: Le réseau social X (anciennement Twitter) vit un nouvel épisode d
   nouveau, puisque de tels épisodes se déroulent régulièrement depuis l’achat de X
   par Elon Musk.
 language: fr
-categories: Liens
+categories: articles
 tags: mastodon fediverse réseau-social
 og-tags: mastodon fediverse réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

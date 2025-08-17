@@ -9,7 +9,7 @@ description: À l’occasion de la journée de l’écoconception numérique, j�
   sur nos métiers du numérique. Je vous propose donc une version enrichie de ce que
   j’ai pu raconter lors de cette présentation.
 language: fr
-categories: Liens
+categories: articles
 tags: design freelance ia travail
 og-tags: design freelance ia travail
 permalink: "/:categories/:year/:month/:day/:title/"

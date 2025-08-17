@@ -16,7 +16,7 @@ description: Le fédivers (de l’anglais fediverse, mot-valise de « fédérati
   pas.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

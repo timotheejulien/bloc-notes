@@ -14,7 +14,7 @@ description: HTML isn’t only for people working in the tech field. It’s for 
   approachable and friendly way.Ready? Let’s do it!
 language: en
 categories:
-- Liens
+- articles
 tags: html développement
 og-tags: html développement
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: L’objectif de cette étude et d’apporter un éclairage scientif
   des impacts du numérique et prendre nos responsabilités pour réduire ces impacts.
 language: fr
 categories:
-- Liens
+- articles
 tags: écologie numérique
 og-tags: écologie numérique
 permalink: "/:categories/:year/:month/:day/:title/"

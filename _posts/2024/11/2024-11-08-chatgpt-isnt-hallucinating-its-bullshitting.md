@@ -7,7 +7,7 @@ published_date: 17/07/2024
 description: It’s important that we use accurate terminology when discussing how AI
   chatbots make up information
 language: en
-categories: Liens
+categories: articles
 tags: ia openai
 og-tags: ia openai
 permalink: "/:categories/:year/:month/:day/:title/"

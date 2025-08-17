@@ -8,7 +8,7 @@ description: Les personnes impliquées dans la communauté Open Source nous dema
   souvent pourquoi le navigateur Vivaldi n’est pas disponible sous une licence Open
   Source unifiée. Nous allons vous expliquer pourquoi dans cet article.
 language: fr
-categories: Liens
+categories: articles
 tags: web app navigateur open-source
 og-tags: web app navigateur open-source
 permalink: "/:categories/:year/:month/:day/:title/"

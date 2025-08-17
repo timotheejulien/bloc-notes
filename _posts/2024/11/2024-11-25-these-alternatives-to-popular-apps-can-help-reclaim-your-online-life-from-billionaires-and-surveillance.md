@@ -15,7 +15,7 @@ description: There is immense power in being in control of your own data. As own
   services? Invasive ad tracking? Government surveillance? Your needs and risks are
   unique to you, but hopefully a few of these recommendations help to hit the spot.
 language: en
-categories: Liens
+categories: articles
 tags: app vie-privée
 og-tags: app vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

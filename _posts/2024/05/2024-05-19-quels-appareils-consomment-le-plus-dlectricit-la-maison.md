@@ -9,7 +9,7 @@ description: 'Chauffage, frigo, télé... Visualisez les grands postes de dépen
   augmente de près de 10 % en février. '
 language: fr
 categories:
-- Liens
+- articles
 tags: écologie société consommation
 og-tags: écologie, société, consommation
 permalink: "/:categories/:year/:month/:day/:title/"

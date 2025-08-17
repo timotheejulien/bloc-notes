@@ -13,7 +13,7 @@ description: Vendredi 6 Mai, lever 4h du mat’, arrivée à 6h30 à la Ferme du
   la vie de fermier – entrepreneur, belle découverte.
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

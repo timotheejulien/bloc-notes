@@ -8,7 +8,7 @@ description: But can it avoid upsetting its most loyal users along the way? Last
   mozilla made a quiet change in firefox that caused some diehard users to revolt.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - mozilla

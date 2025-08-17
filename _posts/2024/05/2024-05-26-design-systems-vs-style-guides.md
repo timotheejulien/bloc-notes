@@ -9,7 +9,7 @@ description: design systems are a set of standards (like google’s Material des
   content or visual style guides) are just one piece in a design system.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

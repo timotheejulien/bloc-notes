@@ -7,7 +7,7 @@ published_date: 16/03/2025
 description: ''
 language: en
 categories:
-- Liens
+- articles
 tags: design-system figma
 og-tags: design-system figma
 permalink: "/:categories/:year/:month/:day/:title/"

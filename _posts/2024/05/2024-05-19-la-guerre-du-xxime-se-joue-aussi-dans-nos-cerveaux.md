@@ -9,7 +9,7 @@ description: C'est la guerre qu'on n'a pas vu venir et qui menace désormais nos
   d'urgence informationnel. Interview de David Colon.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - design

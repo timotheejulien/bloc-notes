@@ -8,7 +8,7 @@ description: Beeper believes the world should be different, better, more open. A
   thinks Beeper is a security risk. It’s all true, and it makes my head spin.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - apple

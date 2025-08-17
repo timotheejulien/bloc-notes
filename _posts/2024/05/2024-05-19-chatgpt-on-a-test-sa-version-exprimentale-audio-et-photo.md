@@ -9,7 +9,7 @@ description: Cette édition bêta de l’intelligence artificielle d’OpenAI pe
   à l’oral de façon bien plus convaincante.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - openai

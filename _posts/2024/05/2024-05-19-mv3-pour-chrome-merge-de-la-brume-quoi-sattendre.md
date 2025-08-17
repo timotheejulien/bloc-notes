@@ -9,7 +9,7 @@ description: Il y a plus de quatre ans, au début de l'année 2019, l'équipe de
   du navigateur, connus sous le nom de « Manifest V3 ».
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

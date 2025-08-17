@@ -13,7 +13,7 @@ description: Apple est un acteur majeur de l’intelligence artificielle, même 
   comme en témoigne ce dépôt ouvert courant juillet sur GitHub.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - apple

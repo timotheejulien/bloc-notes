@@ -10,7 +10,7 @@ description: Dans son essai Les prophètes de l’IA, paru le 25 octobre aux éd
   un portrait démystificateur des grands noms de l’intelligence artificielle qui nous
   vendent la fin des temps. Entretien.
 language: fr
-categories: Liens
+categories: articles
 tags: web ia numérique
 og-tags: web ia numériquz
 permalink: "/:categories/:year/:month/:day/:title/"

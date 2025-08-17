@@ -9,7 +9,7 @@ description: Apple’s Vision Pro has ushered in a new age for designers, and it
   so on. Let’s check out some of those guiding principles.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - apple
 - design

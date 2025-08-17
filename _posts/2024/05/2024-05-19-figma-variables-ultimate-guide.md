@@ -7,7 +7,7 @@ published_date: 29/05/2023
 description: Learn the capabilities of the new feature
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

@@ -18,7 +18,7 @@ description: 'Une pâte de sable rose est malaxée, aplatie puis coupée de faç
   nous regardons ces vidéos.'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - réseau-social
 - société

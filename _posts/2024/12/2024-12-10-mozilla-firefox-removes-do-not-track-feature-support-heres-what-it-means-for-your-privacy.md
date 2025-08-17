@@ -10,7 +10,7 @@ description: Mozilla is removing the Do Not Track (DNT) setting from the Firefox
   no longer be available. The change is already live and can be seen in the Nightly
   version.
 language: en
-categories: Liens
+categories: articles
 tags: firefox navigateur surveillance mozilla vie-privée
 og-tags: firefox navigateur surveillance mozilla vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

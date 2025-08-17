@@ -16,7 +16,7 @@ description: La télécommande, le téléphone, le sous-titrage… Ces innovatio
   quand on a les mains prises ou si on est paralysé.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - société

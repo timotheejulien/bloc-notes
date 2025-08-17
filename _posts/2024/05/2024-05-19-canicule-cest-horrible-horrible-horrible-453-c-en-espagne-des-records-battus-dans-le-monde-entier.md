@@ -10,7 +10,7 @@ description: L’Europe, l’Asie et l’Amérique du Nord souffrent encore d’
   provoqué de violents feux de forêt ces derniers jours
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

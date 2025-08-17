@@ -19,7 +19,7 @@ description: Aujourd'hui, noyb a déposé une plainte contre mozilla pour avoir 
   sont basés sur Chromium de google.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

@@ -12,7 +12,7 @@ description: Alors que les attaques contre la démocratie libérale se multiplie
   du dictateur du futur ».
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

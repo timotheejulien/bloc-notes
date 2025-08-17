@@ -8,7 +8,7 @@ description: Une base de données personnelles contenant les informations d’ut
   de Duolingo, l’appli d’apprentissage de langue, a fuité sur un forum de hackers.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - hacking

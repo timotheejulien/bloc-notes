@@ -11,7 +11,7 @@ description: 'Le point de départ de cet article est une question qui me préocc
   bons fromages.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - fromage
 - gastronomie

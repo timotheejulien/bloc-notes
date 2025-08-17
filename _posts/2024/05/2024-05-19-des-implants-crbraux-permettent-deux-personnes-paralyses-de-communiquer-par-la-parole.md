@@ -16,7 +16,7 @@ description: Deux femmes atteintes de paralysie, respectivement âgées de 68 et
   en Californie.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - technologie
 - santé

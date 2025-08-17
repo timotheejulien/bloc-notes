@@ -8,7 +8,7 @@ description: A compilation of resources about the history of data protection law
   focusing mainly on European developments.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - législation

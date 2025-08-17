@@ -10,7 +10,7 @@ description: 'Pour archivage et partage, je republie ici une version (légèreme
   rêve d’un web sémantique à la réalité d’un web synthétique. »'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - web

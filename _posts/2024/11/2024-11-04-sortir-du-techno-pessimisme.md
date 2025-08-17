@@ -16,7 +16,7 @@ description: Les critiques des technologies seraient-elles excessivement occiden
   leurs existences et de leurs besoins, mais aussi de l’élan d’optimisme dont ils
   peuvent témoigner dans leur relation à la technologie.
 language: fr
-categories: Liens
+categories: articles
 tags: numérique web
 og-tags: numérique web
 permalink: "/:categories/:year/:month/:day/:title/"

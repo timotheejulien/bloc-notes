@@ -10,7 +10,7 @@ description: Proton Mail, la messagerie suisse connue pour son service crypté, 
   belle preuve de son engagement envers la sécurité et de sa transparence.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

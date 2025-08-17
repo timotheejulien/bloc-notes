@@ -13,7 +13,7 @@ description: 'Deux milliards de matchs chaque jour sur le site de rencontre Tind
   espoirs et désarrois amoureux, enquête sur l''amour au temps des algorithmes.'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: vie-privée app
 og-tags: vie-privée, app
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -12,7 +12,7 @@ description: Comic Sans is the font that refuses to die. It’s been dragged, mo
   and the court of public opinion. In a world obsessed with perfection, Comic Sans
   seems untouchable. Why? Because it’s fun. Because it’s flawed. Because it’s human.
 language: en
-categories: Liens
+categories: articles
 tags: font
 og-tags: font
 permalink: "/:categories/:year/:month/:day/:title/"

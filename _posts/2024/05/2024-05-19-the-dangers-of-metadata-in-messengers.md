@@ -14,7 +14,7 @@ description: In many countries around the world, phone numbers are attached to b
   and yes, it’s possible.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

@@ -12,7 +12,7 @@ description: Alors que la surveillance numérique au travail ne cesse de s’ét
   Quels leviers sont disponibles pour tenter de faire bouger les lignes avant notre
   submersion ?
 language: fr
-categories: Liens
+categories: articles
 tags: surveillance vie-privée travail
 og-tags: surveillance vie-privée travail
 permalink: "/:categories/:year/:month/:day/:title/"

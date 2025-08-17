@@ -7,7 +7,7 @@ published_date: '08/01/2024'
 description: We need more than Wordpress
 language: en
 categories:
-- Liens
+- articles
 tags:
 - web
 - technologie

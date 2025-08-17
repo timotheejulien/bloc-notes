@@ -15,7 +15,7 @@ description: 'Même si on parle de fromage, il s’agit de ne pas vous raconter 
   adoré de Saint Marcellin et Saint Félicien.'
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

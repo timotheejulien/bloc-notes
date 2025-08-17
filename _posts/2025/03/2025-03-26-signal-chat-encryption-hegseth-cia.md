@@ -8,7 +8,7 @@ published_date: 25/03/2025
 description: Despite years of official criticism of encrypted messaging, CIA Director
   John Ratcliffe revealed that Signal comes installed on agency computers.
 language: en
-categories: Liens
+categories: articles
 tags: signal
 og-tags: signal
 permalink: "/:categories/:year/:month/:day/:title/"

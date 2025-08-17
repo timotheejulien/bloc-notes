@@ -12,7 +12,7 @@ description: Aujourd’hui, vous savez que préserver sa vie privée en ligne es
   mieux protéger une part de vos données
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - web

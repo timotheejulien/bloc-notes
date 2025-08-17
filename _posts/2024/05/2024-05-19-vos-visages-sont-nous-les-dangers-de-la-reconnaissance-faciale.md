@@ -15,7 +15,7 @@ description: 'La société américaine Clearview AI est l’une des entreprises 
   ciblage des minorités, impacts de la reconnaissance faciale dans les sociétés démocratiques.'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: vie-privée surveillance données-personnelles
 og-tags: vie-privée, surveillance, données-personnelles
 permalink: "/:categories/:year/:month/:day/:title/"

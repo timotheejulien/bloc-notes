@@ -11,7 +11,7 @@ description: En octobre 2023, les 14 membres de l’association se sont réunis 
   d’expérience sur deux ans de réflexions et de ré-écriture des statuts de l’association.
 language: fr
 categories:
-- Liens
+- articles
 tags: design freelance travail
 og-tags: design freelance travail
 permalink: "/:categories/:year/:month/:day/:title/"

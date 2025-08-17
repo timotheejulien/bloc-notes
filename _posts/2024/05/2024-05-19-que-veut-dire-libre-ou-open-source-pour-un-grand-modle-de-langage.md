@@ -12,7 +12,7 @@ description: Le flou entretenu entre open source et libre, déjà ancien et pers
   colonnes.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - open-source

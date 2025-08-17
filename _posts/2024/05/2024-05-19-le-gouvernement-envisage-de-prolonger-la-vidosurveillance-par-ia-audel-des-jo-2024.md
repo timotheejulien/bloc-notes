@@ -11,7 +11,7 @@ description: La vidéosurveillance algorithmique, qui mobilise de l’IA pour an
   laisse entendre le gouvernement.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

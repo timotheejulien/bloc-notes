@@ -10,7 +10,7 @@ description: WhatsApp users who lose access to their phones may request a deacti
   sure that they don't deactivate the accounts of third-parties.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - whatsapp
 - gafam

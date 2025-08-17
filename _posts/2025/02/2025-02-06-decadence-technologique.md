@@ -8,7 +8,7 @@ description: Thierry s’essaie à publier son blog sur le réseau Gemini, mais 
   avec le format minimaliste. Qui est justement pour moi la meilleure partie du protocole
   Gemini.
 language: fr
-categories: Liens
+categories: articles
 tags: web technologie posse
 og-tags: web technologie posse
 permalink: "/:categories/:year/:month/:day/:title/"

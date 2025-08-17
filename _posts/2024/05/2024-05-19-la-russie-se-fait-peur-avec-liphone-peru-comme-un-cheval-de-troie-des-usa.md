@@ -8,7 +8,7 @@ description: Le FSB réprime l’utilisation des appareils Apple par les fonctio
   de l’État après avoir déclaré la découverte d’une opération d’espionnage.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - apple

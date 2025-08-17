@@ -11,7 +11,7 @@ description: Le sentiment que notre société est dysfonctionnelle est dû à un
   Petit, directeur du centre Matrice, dans une tribune au « Monde ».
 language: fr
 categories:
-- Liens
+- articles
 tags:
 og-tags: ''
 permalink: "/:categories/:year/:month/:day/:title/"

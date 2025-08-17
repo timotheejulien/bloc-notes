@@ -11,7 +11,7 @@ description: 'Mark Surman est un vieux routier des nouvelles technologies, milit
   comme un danger si ce travail de réglementation n''est pas fait. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - société

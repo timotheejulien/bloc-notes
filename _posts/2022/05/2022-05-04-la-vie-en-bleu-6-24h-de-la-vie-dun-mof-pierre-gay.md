@@ -19,7 +19,7 @@ description: 'Plusieurs personnes me posent la question : c’est quoi le métie
   « 24h de la vie d’un MOF »'
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

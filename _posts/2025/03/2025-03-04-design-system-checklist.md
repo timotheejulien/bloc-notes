@@ -8,7 +8,7 @@ description: An open-source checklist to help you plan, build and grow your desi
   system.
 language: en
 categories:
-- Liens
+- articles
 tags: design design-system
 og-tags: design design-system
 permalink: "/:categories/:year/:month/:day/:title/"

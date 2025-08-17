@@ -9,7 +9,7 @@ description: L’accessibilité numérique devient un impératif pour nombre d�
   Stéphanie Walter, experte en design inclusif, insiste sur le choix du bon partenaire.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - accessibilité

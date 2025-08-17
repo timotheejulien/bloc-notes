@@ -10,7 +10,7 @@ description: Dans le cadre des États généraux de l’information (EGI), une e
   accordée à celle-ci.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - presse

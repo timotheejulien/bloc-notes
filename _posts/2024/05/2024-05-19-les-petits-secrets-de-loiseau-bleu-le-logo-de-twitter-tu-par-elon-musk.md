@@ -8,7 +8,7 @@ description: L’oiseau bleu, célèbre logo de Twitter, s’en va. La mascotte 
   du réseau social avait quelques secrets, méconnus de nombre d’internautes.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - x

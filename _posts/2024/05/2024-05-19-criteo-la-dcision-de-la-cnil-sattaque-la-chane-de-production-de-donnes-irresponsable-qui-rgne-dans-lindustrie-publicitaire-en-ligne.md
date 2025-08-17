@@ -12,7 +12,7 @@ description: Pendant des années, l’industrie de la publicité et du pistage e
   et Eliot Bendinelli de Privacy International, dans une tribune au « Monde ».
 language: fr
 categories:
-- Liens
+- articles
 tags:
 og-tags: ''
 permalink: "/:categories/:year/:month/:day/:title/"

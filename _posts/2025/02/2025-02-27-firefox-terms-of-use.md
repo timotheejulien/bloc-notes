@@ -10,7 +10,7 @@ description: We’re introducing a Terms of Use for Firefox for the first time, 
   a much different technology landscape today. We want to make these commitments abundantly
   clear and accessible.
 language: en
-categories: Liens
+categories: articles
 tags: firefox navigateur mozilla vie-privée
 og-tags: firefox navigateur mozilla vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -11,7 +11,7 @@ description: La publication de photos et de vidéos de mineurs sur les réseaux 
   à adopter ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - société

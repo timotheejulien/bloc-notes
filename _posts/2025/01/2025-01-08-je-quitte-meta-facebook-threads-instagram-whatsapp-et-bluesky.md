@@ -15,7 +15,7 @@ description: Il y a déjà un moment que j’ai laissé Twitter. Conscient des p
   de qualité, une communication sincère animée par la curiosité et non l’intrusion
   toxique. Je préfère promouvoir la coopération ou le partage.
 language: fr
-categories: Liens
+categories: articles
 tags: meta réseau-social
 og-tags: meta réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

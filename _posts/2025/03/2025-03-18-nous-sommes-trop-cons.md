@@ -11,7 +11,7 @@ description: Le déclin cognitif de notre société pourrait être la plus grand
   depuis. Ça expliquerait enfin pourquoi je trouve que la plupart des gens passent
   leurs journées à faire et à dire des trucs stupides. Incroyable !
 language: fr
-categories: Liens
+categories: articles
 tags: consommation société numérique
 og-tags: consommation société numérique
 permalink: "/:categories/:year/:month/:day/:title/"

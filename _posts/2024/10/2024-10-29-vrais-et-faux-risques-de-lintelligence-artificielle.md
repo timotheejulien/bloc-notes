@@ -22,7 +22,7 @@ description: 'Ceux qui suivent depuis un moment les développements de l’intel
   attendues. Nous souhaitons avec ce texte, réarmer le débat sur l’ia en portant l’attention
   – un peu arbitrairement peut-être –  sur cinq angles morts qui le polluent actuellement.'
 language: fr
-categories: Liens
+categories: articles
 tags: ia éthique
 og-tags: 07/10/2024
 permalink: "/:categories/:year/:month/:day/:title/"

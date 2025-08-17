@@ -10,7 +10,7 @@ description: I didn’t make that number up. I was probably too generous, it’s
   writing and polishing your case studies, you get dismissed in mere seconds.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

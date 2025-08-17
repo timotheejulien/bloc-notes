@@ -9,7 +9,7 @@ description: En 2023, la sociologue Karen Levy a produit une enquête passionnan
   qui permet de comprendre bien au-delà de ce seul secteur, ce que la surveillance
   impose, déplace, transforme.
 language: fr
-categories: Liens
+categories: articles
 tags: surveillance travail
 og-tags: surveillance travail
 permalink: "/:categories/:year/:month/:day/:title/"

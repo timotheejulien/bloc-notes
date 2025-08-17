@@ -10,7 +10,7 @@ description: 'Créée en 2007 par Philippe Thévenet, un passionné de musique, 
   fêtards et familles. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - musique
 og-tags: musique

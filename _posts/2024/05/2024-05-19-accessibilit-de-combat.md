@@ -9,7 +9,7 @@ description: Il fut un temps où l’on donnait sa vie pour une idéologie polit
   mais quand l’occasion se présente, pour une cause qui nous tient à cœur.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - accessibilité

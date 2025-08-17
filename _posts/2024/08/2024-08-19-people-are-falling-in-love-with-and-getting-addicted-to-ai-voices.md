@@ -8,7 +8,7 @@ description: Even OpenAI warns that chatting with an AI voice can breed “emoti
   reliance.”
 language: en
 categories:
-- Liens
+- articles
 tags:
 - ia
 - société

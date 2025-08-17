@@ -11,7 +11,7 @@ description: Y a comme une folie à propos du Mont d’Or. Plus les années pass
   de ce satané fromage… ? Voilà 3-4 raisons et une analyse scientifique poussée.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - fromage
 - gastronomie

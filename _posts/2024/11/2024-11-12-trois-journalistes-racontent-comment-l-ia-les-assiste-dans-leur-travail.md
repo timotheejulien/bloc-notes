@@ -10,7 +10,7 @@ description: Et si, plutôt que de tenter de les remplacer, l’IA devenait une 
   de l’information dévoilent les coulisses de leur travail assisté par des algorithmes.
 language: fr
 categories:
-- Liens
+- articles
 tags: ia presse journalisme openai
 og-tags: ia presse journalisme openai
 permalink: "/:categories/:year/:month/:day/:title/"

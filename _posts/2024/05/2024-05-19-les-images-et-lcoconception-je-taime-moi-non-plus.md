@@ -14,7 +14,7 @@ description: Lorsque l’on souhaite créer un site éco-conçu, ou refondre l�
   à faire des approximations. Bonne lecture !
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - écologie

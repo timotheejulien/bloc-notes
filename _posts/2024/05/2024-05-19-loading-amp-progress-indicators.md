@@ -7,7 +7,7 @@ published_date: 19/05/2024
 description: Engage users and enhance waiting experiences with these simple recommendations.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

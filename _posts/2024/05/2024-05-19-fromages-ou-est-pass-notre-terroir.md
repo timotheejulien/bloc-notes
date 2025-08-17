@@ -16,7 +16,7 @@ description: Dans un pays fier d'être celui des « 365 fromages », Hugo Clém
   races plus productives.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - fromage
 - documentaire

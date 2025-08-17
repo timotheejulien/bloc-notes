@@ -13,7 +13,7 @@ description: Dans son arrêt du 30 avril 2024, la Cour de justice de l’Union e
   Internet.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - surveillance
 - société

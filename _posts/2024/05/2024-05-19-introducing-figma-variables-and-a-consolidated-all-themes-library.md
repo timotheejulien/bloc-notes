@@ -11,7 +11,7 @@ description: The Carbon Design team, in partnership with the IBM Figma guild, ha
   way than ever before.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

@@ -11,7 +11,7 @@ description: To help us raise more funds for our development efforts, we are lau
   responsibly sourced materials to the highest degree of quality.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - mastodon
 og-tags: mastodon

@@ -11,7 +11,7 @@ description: 'Une récente loi au Canada oblige les géants du numérique à con
   bloqué quelques minutes après sa publication. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - gafam
 - meta

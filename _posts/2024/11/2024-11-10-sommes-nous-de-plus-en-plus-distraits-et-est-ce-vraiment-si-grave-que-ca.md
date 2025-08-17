@@ -11,7 +11,7 @@ description: Dix-sept ans après la commercialisation du premier iPhone, l’hum
   qui survalorise la concentration, être distrait est-il vraiment si dramatique que
   cela ? On s’est posé la question dans le numéro d’hiver 2024 de notre magazine.
 language: fr
-categories: Liens
+categories: articles
 tags: science société numérique
 og-tags: science société numérique
 permalink: "/:categories/:year/:month/:day/:title/"

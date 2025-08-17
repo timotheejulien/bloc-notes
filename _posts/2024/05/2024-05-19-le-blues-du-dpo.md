@@ -16,7 +16,7 @@ description: La vie d’une déléguée à la protection des données (DPO) est 
   qui, bien que généraux, peuvent être utiles à garder en mémoire.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - cnil

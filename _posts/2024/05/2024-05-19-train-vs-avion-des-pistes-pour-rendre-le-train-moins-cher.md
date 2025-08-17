@@ -9,7 +9,7 @@ description: Un récent rapport de Greenpeace souligne le déséquilibre des pri
   80 fois plus.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

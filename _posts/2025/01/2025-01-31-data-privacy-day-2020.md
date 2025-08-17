@@ -9,7 +9,7 @@ description: Today is the Data Privacy Day. The purpose of this initiative, laun
   data protection best practices.
 language: en
 categories:
-- Liens
+- articles
 tags: vie-privée éthique
 og-tags: vie-privée éthique
 permalink: "/:categories/:year/:month/:day/:title/"

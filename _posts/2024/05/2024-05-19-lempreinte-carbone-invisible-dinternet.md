@@ -9,7 +9,7 @@ description: Saviez-vous que l’envoi d’un e-mail peut libérer plus de 17 gr
   en mode audio uniquement peut réduire jusqu’à 96 % des émissions de carbone ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - web

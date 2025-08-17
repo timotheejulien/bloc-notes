@@ -7,9 +7,9 @@ published_date: ""
 description: 
 language: ""
 categories: 
-   - Liens
-   - Citations
-   - Vidéos
+   - articles
+   - citations
+   - vidéos
 tags: ""
 og-tags: ""
 date: "2025-08-07 09:57:00 +0200"

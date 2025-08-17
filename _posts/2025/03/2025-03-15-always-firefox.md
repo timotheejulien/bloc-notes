@@ -11,7 +11,7 @@ description: L'affaire des « Terms of Service » de Firefox (Mozilla). Cela com
   sera plus dans quelques jours car tel est le cycle de nos émotions et de nos obfuscations
   médiatiques.
 language: fr
-categories: Liens
+categories: articles
 tags: firefox
 og-tags: firefox
 permalink: "/:categories/:year/:month/:day/:title/"

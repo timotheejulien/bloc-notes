@@ -11,7 +11,7 @@ description: In privacy, we talk a lot about how to protect our own data, but wh
   just our own. Privacy cannot solely be a personal responsibility, data privacy is
   team work.
 language: en
-categories: Liens
+categories: articles
 tags: surveillance vie-privée
 og-tags: surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

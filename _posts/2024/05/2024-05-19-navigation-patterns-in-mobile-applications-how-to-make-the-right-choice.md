@@ -12,7 +12,7 @@ description: Navigation is the heart of any mobile application. The success of a
   end of 2023.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

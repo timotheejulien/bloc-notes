@@ -11,7 +11,7 @@ description: One of the toughest parts of creating a design system might not be 
   documentation.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

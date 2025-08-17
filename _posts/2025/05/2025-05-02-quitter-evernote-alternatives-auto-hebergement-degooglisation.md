@@ -10,7 +10,7 @@ description: 'L’évolution de mon 3e hémisphère de cerveau ces 10 dernières
   libres'
 language: fr
 categories:
-- Liens
+- articles
 tags: auto-hébergement merdification
 og-tags: auto-hébergement merdification
 permalink: "/:categories/:year/:month/:day/:title/"

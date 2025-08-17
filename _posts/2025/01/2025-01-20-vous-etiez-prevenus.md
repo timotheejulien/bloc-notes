@@ -20,7 +20,7 @@ description: Depuis des décennies, je fais partie de ces gens qui tentent d’a
   et de la technologie. Et j’ai peur. Je suis terrifié.
 language: fr
 categories:
-- Liens
+- articles
 tags: surveillance technologie société vie-privée
 og-tags: surveillance technologie société vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

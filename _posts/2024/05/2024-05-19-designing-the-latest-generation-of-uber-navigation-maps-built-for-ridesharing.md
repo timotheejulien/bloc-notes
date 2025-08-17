@@ -11,7 +11,7 @@ description: The Uber platform currently powers more than 7 billion trips every 
   products and features, Uber Navigation was ripe for an overhaul.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

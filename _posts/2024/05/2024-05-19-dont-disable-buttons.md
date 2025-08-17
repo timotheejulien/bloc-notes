@@ -10,7 +10,7 @@ description: One of the most common accessibility issues I find (and fix) on cli
   Let’s dig in!
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

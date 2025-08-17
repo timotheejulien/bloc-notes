@@ -10,7 +10,7 @@ description: Cinq ans après l’entrée en application du rgpd, nous pouvons to
   les pendules à l’heure.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - rgpd

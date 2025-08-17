@@ -10,7 +10,7 @@ description: 'La différence fondamentale, c’est qui a du pouvoir sur votre co
   le web ouvert !'
 language: fr
 categories:
-- Liens
+- articles
 tags: auto-hébergement posse web
 og-tags: auto-hébergement posse web
 permalink: "/:categories/:year/:month/:day/:title/"

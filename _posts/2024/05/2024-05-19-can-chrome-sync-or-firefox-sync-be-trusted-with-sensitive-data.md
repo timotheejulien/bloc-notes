@@ -13,7 +13,7 @@ description: A few days ago I wrote about insufficient protection of locally sav
   are almost as sensitive. Is it a good idea to use that service?
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - google

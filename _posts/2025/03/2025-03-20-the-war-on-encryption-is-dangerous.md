@@ -7,7 +7,7 @@ published_date: 19/03/2025
 description: Ceci est une recopie du post Instagram de Signal.
 language: en
 categories:
-- Citations
+- citations
 tags: chiffrement signal
 og-tags: chiffrement signal
 permalink: "/:categories/:year/:month/:day/:title/"

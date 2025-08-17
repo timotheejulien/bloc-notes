@@ -12,7 +12,7 @@ description: Après un marathon de trois jours ponctué de négociations intense
   à l’échelle mondiale.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - société

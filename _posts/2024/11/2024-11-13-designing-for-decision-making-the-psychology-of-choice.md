@@ -7,7 +7,7 @@ published_date: 01/11/2024
 description: Applying Psychological Principles in UX Design
 language: en
 categories:
-- Liens
+- articles
 tags: design ux ui
 og-tags: design ux ui
 permalink: "/:categories/:year/:month/:day/:title/"

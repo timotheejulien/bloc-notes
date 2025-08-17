@@ -12,7 +12,7 @@ description: 'Comme certains d''entre vous le savent probablement, nous avons r�
   le mécanisme technique d''un tunnel VPN en termes simples ! »'
 language: fr
 categories:
-- Liens
+- articles
 tags: vpn technologie numérique
 og-tags: vpn technologie numérique
 permalink: "/:categories/:year/:month/:day/:title/"

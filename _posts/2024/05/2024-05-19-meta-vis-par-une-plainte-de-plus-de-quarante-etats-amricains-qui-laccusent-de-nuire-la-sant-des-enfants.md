@@ -10,7 +10,7 @@ description: Ils affirment que le groupe, qui comprend Facebook et Instagram, a 
   incité les plus jeunes à les utiliser de manière addictive et compulsive.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - meta

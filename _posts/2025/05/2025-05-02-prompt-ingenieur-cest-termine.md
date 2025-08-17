@@ -11,7 +11,7 @@ description: Depuis le lancement public de ChatGPT, on nous rabâche les oreille
   soumettre des données structurées.
 language: fr
 categories:
-- Liens
+- articles
 tags: ia auto-hébergement
 og-tags: ia auto-hébergement
 permalink: "/:categories/:year/:month/:day/:title/"

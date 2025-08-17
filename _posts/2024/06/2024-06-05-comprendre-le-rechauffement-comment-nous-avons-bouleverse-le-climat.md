@@ -11,7 +11,7 @@ description: Deux siècles ont suffi à l’humanité pour dérégler le climat 
   bouleversement.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

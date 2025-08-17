@@ -17,7 +17,7 @@ description: C’est une nouvelle fois, c’est une nouvelle occasion. Se débat
   comptes donc mais pas encore autant de nouveaux utilisateurs.
 language: fr
 categories:
-- Liens
+- articles
 tags: app x mastodon réseau-social
 og-tags: app x mastodon réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

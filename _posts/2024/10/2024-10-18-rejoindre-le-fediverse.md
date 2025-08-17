@@ -7,7 +7,7 @@ published_date: 18/10/2024
 description: Site qui explique ce qu'est le fediverse
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ressources
 - fediverse

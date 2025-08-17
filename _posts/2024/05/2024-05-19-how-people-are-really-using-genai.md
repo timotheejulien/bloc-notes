@@ -15,7 +15,7 @@ description: 'There are many use cases for generative AI, spanning a vast number
   Decision Making (10%).'
 language: en
 categories:
-- Liens
+- articles
 tags:
 - ia
 og-tags: ia

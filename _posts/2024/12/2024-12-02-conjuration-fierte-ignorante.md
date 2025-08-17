@@ -9,7 +9,7 @@ description: Les scientifiques, les vulgarisateurs, les professeurs consacrent l
   Ce qui est dangereux c’est lorsqu’elle se camoufle. Lorsqu’elle se transforme en
   confiance.
 language: fr
-categories: Liens
+categories: articles
 tags: ia société numérique technologie
 og-tags: ia société numérique technologie
 permalink: "/:categories/:year/:month/:day/:title/"

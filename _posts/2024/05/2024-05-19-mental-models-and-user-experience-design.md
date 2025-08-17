@@ -9,7 +9,7 @@ description: What users believe they know about a user interface impacts how the
   new.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

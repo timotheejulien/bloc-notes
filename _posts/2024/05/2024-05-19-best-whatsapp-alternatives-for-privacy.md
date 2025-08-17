@@ -8,7 +8,7 @@ description: Learn about the best end-to-end encrypted messaging apps to replace
   with that ensure your online chat remains private.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - whatsapp

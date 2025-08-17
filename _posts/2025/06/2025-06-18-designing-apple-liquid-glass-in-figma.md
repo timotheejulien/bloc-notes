@@ -7,7 +7,7 @@ published_date: "18/06/2025"
 description: "Petit tutoriel Figma pour reproduire l'effet Liquid Glass d'Apple."
 language: "en"
 categories: 
-   - Vidéos
+   - vidéos
 tags: "design ui figma apple"
 og-tags: "design ui figma apple"
 date: "2025-06-18 16:36:00 +0200"

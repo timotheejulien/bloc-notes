@@ -11,7 +11,7 @@ description: 'Google, c’était mieux avant. C’est en tout cas la conclusion 
   par des intelligences artificielles. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - google

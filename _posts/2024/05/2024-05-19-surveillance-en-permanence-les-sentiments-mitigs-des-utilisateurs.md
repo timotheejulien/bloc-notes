@@ -15,7 +15,7 @@ description: 'Alors que nous passons une part de plus en plus importante de notr
   afin de contourner les garanties légales.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

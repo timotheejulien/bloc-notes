@@ -7,7 +7,7 @@ published_date: 19/05/2024
 description: Oui c'est un GRAND guide.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - livre
 og-tags: livre

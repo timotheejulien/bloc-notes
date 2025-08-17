@@ -9,7 +9,7 @@ description: Comment essayer de m’extirper de l’appli propriétaire Evernote
   à découvrir l’univers de l’autohébergement
 language: fr
 categories:
-- Liens
+- articles
 tags: auto-hébergement merdification
 og-tags: auto-hébergement merdification
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -9,7 +9,7 @@ description: L'automne prochain verra arriver la traditionnelle nouvelle fourné
   un sens supplémentaire de représentation.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - icônes

@@ -9,7 +9,7 @@ description: Depuis un an au moins, diverses voix s'élèvent pour qualifier la 
   que la banque Goldman Sachs elle-même donne crédit à ce type d'analyse.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 og-tags: ia

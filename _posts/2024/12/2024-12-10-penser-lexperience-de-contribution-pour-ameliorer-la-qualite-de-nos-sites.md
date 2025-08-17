@@ -13,7 +13,7 @@ description: Beaucoup de sites web reposent sur des systèmes de gestion de cont
   dégradée, même sans évolutions apportées de notre côté. Mais pourquoi la qualité
   de nos sites baisse après leur mise en ligne ?
 language: fr
-categories: Liens
+categories: articles
 tags: design ux développement méthodologie
 og-tags: design ux développement méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

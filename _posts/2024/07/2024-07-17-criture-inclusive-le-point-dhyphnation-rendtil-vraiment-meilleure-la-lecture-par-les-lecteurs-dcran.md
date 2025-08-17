@@ -18,7 +18,7 @@ description: 'Ces derniers mois, je me suis retrouvée dans plusieurs discussion
   Qu’en est-il concrètement ?'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - accessibilité

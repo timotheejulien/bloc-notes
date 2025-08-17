@@ -8,7 +8,7 @@ description: Nouveau livre :-) Les ia à l&#8217;assaut du cyberespace. Vers un 
   synthétique. &#8211; affordance.info
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - openai

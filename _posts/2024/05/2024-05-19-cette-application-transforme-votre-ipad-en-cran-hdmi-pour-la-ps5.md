@@ -8,7 +8,7 @@ description: 'Il existe une application qui permet de transformer son iPad en é
   d’appoint. Seule condition : qu’il soit pourvu d’un port USB-C.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 og-tags: app

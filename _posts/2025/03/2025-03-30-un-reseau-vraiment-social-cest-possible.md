@@ -10,7 +10,7 @@ description: Si je reste très critique avec certains usages, à l’heure où l
   enrichissante par les contenus comme nombre de personnes qui l’animent. C’est à
   préserver, à promouvoir en se plaçant du côté des valeurs.
 language: fr
-categories: Liens
+categories: articles
 tags: réseau-social
 og-tags: réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

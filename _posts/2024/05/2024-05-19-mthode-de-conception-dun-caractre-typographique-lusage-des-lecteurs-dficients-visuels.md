@@ -12,7 +12,7 @@ description: Le projet Luciole a débuté il y a un peu plus de six ans, pour r�
   les lecteurs malvoyants.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - font
 - accessibilité

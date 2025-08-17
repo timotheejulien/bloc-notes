@@ -10,7 +10,7 @@ description: On entend souvent que Mastodon serait le réseau social de la vie p
   définir ce qu'est pour moi le Fediverse et ce qu'il n'est pas.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - mastodon

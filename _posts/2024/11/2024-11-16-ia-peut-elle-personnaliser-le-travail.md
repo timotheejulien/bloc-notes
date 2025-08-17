@@ -9,7 +9,7 @@ description: Travail et travailleurs entretiennent depuis des années une relati
   cas ce que confirme la dernière édition du Work Relationship Index réalisé par HP.
   Et si l’IA, et sa capacité à personnaliser l’expérience de travail, était le pansement ?
 language: fr
-categories: Liens
+categories: articles
 tags: ia travail salariat freelance
 og-tags: ia travail salariat freelance
 permalink: "/:categories/:year/:month/:day/:title/"

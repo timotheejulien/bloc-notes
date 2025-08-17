@@ -11,7 +11,7 @@ description: On entend souvent les défenseurs et défenseuses de l’accessibil
   l’égard des personnes handicapées. C’est politique. Fondamentalement politique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - accessibilité

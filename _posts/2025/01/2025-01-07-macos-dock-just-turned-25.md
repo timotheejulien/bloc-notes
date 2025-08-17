@@ -11,7 +11,7 @@ description: Apple’s macOS has changed a lot since its first version, but it s
   25, and there’s a cool story behind it.
 language: en
 categories:
-- Liens
+- articles
 tags: apple
 og-tags: apple
 permalink: "/:categories/:year/:month/:day/:title/"

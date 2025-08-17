@@ -12,7 +12,7 @@ description: Les premiers terminaux n’étaient guère plus que des machines à
   avec sa police Monaspace, dont certains caractères sont plus égaux que d’autres.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - font

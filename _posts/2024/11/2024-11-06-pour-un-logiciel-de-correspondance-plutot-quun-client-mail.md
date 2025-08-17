@@ -11,7 +11,7 @@ description: Plaidoyer en faveur d’un logiciel de relations épistolaires éle
   à l’abri des regards (si l’on choisit bien son fournisseur). Je l’ai déjà dit et
   le redis.
 language: fr
-categories: Liens
+categories: articles
 tags: app messagerie
 og-tags: app messagerie
 permalink: "/:categories/:year/:month/:day/:title/"

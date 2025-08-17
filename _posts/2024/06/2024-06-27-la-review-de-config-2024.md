@@ -8,7 +8,7 @@ description: Nous lançons figma AI, ui3 et figma Slides, ainsi que d'importante
   à jour de Dev Mode et des améliorations de vos fonctionnalités préférées.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - figma
 og-tags: figma

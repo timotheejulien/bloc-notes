@@ -10,7 +10,7 @@ description: De réseaux sociaux en émissions de radio, de plus en plus de voix
   dans notre quotidien. Mais est-ce seulement possible ? Et si oui, dans quelle mesure
   ? J'ai (virtuellement) tenté l'exercice, et il n'a rien d'une sinécure.
 language: fr
-categories: Liens
+categories: articles
 tags: consommation gafam numérique
 og-tags: consommation gafam numérique
 permalink: "/:categories/:year/:month/:day/:title/"

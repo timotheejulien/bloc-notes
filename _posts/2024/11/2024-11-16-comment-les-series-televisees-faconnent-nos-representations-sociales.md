@@ -8,7 +8,7 @@ description: Les séries télévisées ont parfaitement intégré notre quotidie
   titre que les films, les jeux vidéos ou les livres. Mais nous ne mesurons pas toujours
   leur influence potentielle sur la création de stéréotypes.
 language: fr
-categories: Liens
+categories: articles
 tags: société
 og-tags: société
 permalink: "/:categories/:year/:month/:day/:title/"

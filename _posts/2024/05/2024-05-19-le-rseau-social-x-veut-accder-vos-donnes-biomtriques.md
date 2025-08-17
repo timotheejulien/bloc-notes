@@ -8,7 +8,7 @@ description: X, nouveau nom de Twitter, vient de changer sa charte sur les donn√
   personnelles.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-priv√©e
 - x

@@ -7,7 +7,7 @@ published_date: '08/12/2024'
 description: Comment héberger soi-même RSS-Proxy, l'outil de génération de flux RSS
   pour les sites qui n'en proposent pas ?
 language: fr
-categories: Liens
+categories: articles
 tags: web blog rss numérique
 og-tags: web blog rss numérique
 permalink: "/:categories/:year/:month/:day/:title/"

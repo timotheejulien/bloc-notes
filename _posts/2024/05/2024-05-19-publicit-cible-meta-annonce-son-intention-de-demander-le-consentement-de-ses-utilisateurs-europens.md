@@ -11,7 +11,7 @@ description: " La pression de l’Union européenne a privé Meta du fondement j
   accord. "
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

@@ -16,7 +16,7 @@ description: 'Vous êtes experts dans votre domaine et vous voulez lancer à vot
   dans cette nouvelle relation au travail.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - travail

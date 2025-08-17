@@ -9,7 +9,7 @@ description: Quote Posts are a popular feature of many social media platforms. T
   a comment. We want to share our thinking process in implementing Quote Posts in
   Mastodon, and explain why it has taken us some time to do so.
 language: en
-categories: Liens
+categories: articles
 tags: mastodon réseau-social
 og-tags: mastodon réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

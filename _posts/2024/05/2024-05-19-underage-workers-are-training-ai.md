@@ -9,7 +9,7 @@ description: Companies that provide Big Tech with AI data-labeling services are 
   content.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - ia
 og-tags: ia

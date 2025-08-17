@@ -13,7 +13,7 @@ description: On ne compte plus les articles ou ouvrages sur l’automatisation d
   d’abondance et sans travail est enfin à la portée de la main.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - travail

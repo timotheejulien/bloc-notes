@@ -12,7 +12,7 @@ description: On behalf of the Thunderbird team, Thunderbird Council, our global 
   – while retaining the familiarity and flexibility you expect from Thunderbird.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - design

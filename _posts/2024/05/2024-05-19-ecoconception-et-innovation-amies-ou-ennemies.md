@@ -13,7 +13,7 @@ description: Si l’éco-conception permet de réduire l’impact environnementa
   est parfois fait entre éco-conception et dénaturalisation.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - web

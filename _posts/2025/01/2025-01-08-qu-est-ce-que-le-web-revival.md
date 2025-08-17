@@ -9,7 +9,7 @@ description: J’ai souvent parlé un peu de web indépendant, de “small web�
   j’aimerais le faire un peu dans cet article.
 language: fr
 categories:
-- Liens
+- articles
 tags: web technologie indie posse
 og-tags: web technologie indie posse
 permalink: "/:categories/:year/:month/:day/:title/"

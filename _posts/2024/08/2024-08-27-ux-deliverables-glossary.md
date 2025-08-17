@@ -8,7 +8,7 @@ description: 'Use this glossary to quickly clarify key terms and concepts relate
   to ux deliverables. '
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

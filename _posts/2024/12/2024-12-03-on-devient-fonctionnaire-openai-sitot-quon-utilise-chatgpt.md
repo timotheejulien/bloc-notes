@@ -11,7 +11,7 @@ description: Méconnu en France, le philosophe des techniques Vilém Flusser (19
   sa vision du futur en compagnie du théoricien de la littérature et des médias Yves
   Citton, qui en signe la préface.
 language: fr
-categories: Liens
+categories: articles
 tags: ia openai technologie numérique écologie
 og-tags: ia openai technologie numérique écologie
 permalink: "/:categories/:year/:month/:day/:title/"

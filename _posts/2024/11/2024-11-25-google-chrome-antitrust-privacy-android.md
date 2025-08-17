@@ -7,7 +7,7 @@ published_date: 22/11/2024
 description: The government’s effort to break up Google will take years. Why not ditch
   Chrome now?
 language: en_US
-categories: Liens
+categories: articles
 tags: google app navigateur
 og-tags: google app navigateur
 permalink: "/:categories/:year/:month/:day/:title/"

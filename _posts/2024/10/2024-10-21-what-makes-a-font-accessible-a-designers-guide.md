@@ -8,7 +8,7 @@ description: Discover the key characteristics of accessible fonts and learn best
   for selecting and combining typefaces that ensure readability for all users.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

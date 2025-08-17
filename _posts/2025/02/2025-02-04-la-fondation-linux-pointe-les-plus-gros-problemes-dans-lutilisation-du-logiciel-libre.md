@@ -9,7 +9,7 @@ description: La Linux Foundation a publié un rapport conséquent sur l’état 
   du logiciel libre dans les applications en production. Une prévalence importante,
   des développeurs loyaux, mais des pratiques de sécurité qui pourraient être améliorées.
 language: fr
-categories: Liens
+categories: articles
 tags: open-source
 og-tags: open-source
 permalink: "/:categories/:year/:month/:day/:title/"

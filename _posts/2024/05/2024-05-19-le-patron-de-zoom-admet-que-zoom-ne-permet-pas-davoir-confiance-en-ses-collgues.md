@@ -11,7 +11,7 @@ description: Le CEO de Zoom n’a pas fait que demander à ses employés de cess
   positive d’entreprise, et ne permettrait pas d’avoir des conversations sincères.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - web

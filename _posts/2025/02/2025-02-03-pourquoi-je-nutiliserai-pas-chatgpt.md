@@ -17,7 +17,7 @@ description: 'En tant qu’enseignante-chercheuse en informatique, j’ai lu l�
   le développement — des IAs génératives en tout genre, que ce soit dans l’enseignement
   supérieur ou ailleurs, précisons un peu le sujet.'
 language: fr
-categories: Liens
+categories: articles
 tags: ia openai
 og-tags: ia openai
 permalink: "/:categories/:year/:month/:day/:title/"

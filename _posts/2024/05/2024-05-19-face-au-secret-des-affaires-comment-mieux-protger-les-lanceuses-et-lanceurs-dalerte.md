@@ -11,7 +11,7 @@ description: Depuis l’adoption en 2018 de la « loi secret des affaires » vou
   de la première loi visant à les protéger.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - législation

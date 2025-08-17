@@ -20,7 +20,7 @@ description: 'Le web, qui se voulait, à ses débuts, être un outil libérateur
   construire un web qui sert réellement tous ses utilisateurs. La manière d''aborder
   ces sujets sera forcément via un prisme qui m''est propre.'
 language: fr
-categories: Liens
+categories: articles
 tags: design ui ux accessibilité
 og-tags: design ui ux accessibilité
 permalink: "/:categories/:year/:month/:day/:title/"

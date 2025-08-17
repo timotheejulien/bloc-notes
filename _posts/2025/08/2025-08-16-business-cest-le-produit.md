@@ -7,7 +7,7 @@ published_date: "N/A"
 description: 
 language: "fr"
 categories: 
-   - Citations
+   - citations
 tags: "méthodologie"
 og-tags: "méthodologie"
 date: "2025-08-16 09:30:00 +0200"

@@ -9,7 +9,7 @@ description: Les Jeux olympiques de 2024 consacreront des centaines de millions 
   qui risquent de perdurer longtemps après la compétition.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - société

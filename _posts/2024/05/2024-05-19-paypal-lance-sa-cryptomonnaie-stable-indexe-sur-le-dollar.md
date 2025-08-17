@@ -9,7 +9,7 @@ description: Les « stablecoins » sont principalement utilisés pour faciliter 
   banque.
 language: fr
 categories:
-- Liens
+- articles
 tags: économie numérique
 og-tags: économie numérique
 permalink: "/:categories/:year/:month/:day/:title/"

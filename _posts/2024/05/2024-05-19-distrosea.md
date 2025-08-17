@@ -7,7 +7,7 @@ published_date: N/A
 description: Permet de tester les distributions Linux en ligne !
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 og-tags: app

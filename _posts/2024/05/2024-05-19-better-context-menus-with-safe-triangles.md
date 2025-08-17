@@ -13,7 +13,7 @@ description: Imagine the situation when you’ve hovered over a menu item that r
   from inadvertently closing on a user.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

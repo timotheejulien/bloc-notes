@@ -9,7 +9,7 @@ description: Mieux vaut ne pas utiliser WhatsApp, iMessage ou Signal dans le cad
   du travail… voici pourquoi.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - whatsapp
 - signal

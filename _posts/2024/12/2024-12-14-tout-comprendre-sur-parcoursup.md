@@ -11,7 +11,7 @@ description: Pour comprendre la nature de “Parcoursup”, il faut partir de l�
   se présente comme une boîte noire nimbée de brouillard, comme une obscure Machine.
 language: fr
 categories:
-- Liens
+- articles
 tags: design ux société éducation
 og-tags: design ux société éducation
 permalink: "/:categories/:year/:month/:day/:title/"

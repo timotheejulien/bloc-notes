@@ -8,7 +8,7 @@ description: Building a shared understanding of complex issues is key to doing w
   in the social impact space.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - méthodologie

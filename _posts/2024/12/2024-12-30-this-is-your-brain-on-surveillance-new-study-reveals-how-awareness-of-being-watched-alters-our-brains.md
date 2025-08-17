@@ -9,7 +9,7 @@ description: Awareness of being under surveillance triggers heightened alertness
   being watched, according to new research from Australian Neuroscientists.
 language: en
 categories:
-- Liens
+- articles
 tags: surveillance vie-privée
 og-tags: surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

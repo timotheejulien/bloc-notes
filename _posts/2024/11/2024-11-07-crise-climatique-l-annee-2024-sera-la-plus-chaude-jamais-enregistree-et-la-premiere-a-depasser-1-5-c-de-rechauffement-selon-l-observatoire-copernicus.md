@@ -10,7 +10,7 @@ description: Avec un tel dépassement des températures, les événements mété
   et contributeur du Giec. La COP29, la prochaine conférence sur le climat, s'ouvre
   lundi en Azerbaïdjan.
 language: fr
-categories: Liens
+categories: articles
 tags: écologie société
 og-tags: écologie société
 permalink: "/:categories/:year/:month/:day/:title/"

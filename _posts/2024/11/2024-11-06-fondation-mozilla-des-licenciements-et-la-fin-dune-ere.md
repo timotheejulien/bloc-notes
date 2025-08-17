@@ -10,7 +10,7 @@ description: La fondation Mozilla qui chapote les activités de Mozilla (et donc
   rassurants, affirmant qu’il s’agit d’une réorganisation, pas de la fin des combats.
 language: fr
 categories:
-- Liens
+- articles
 tags: mozilla firefox économie
 og-tags: mozilla firefox économie
 permalink: "/:categories/:year/:month/:day/:title/"

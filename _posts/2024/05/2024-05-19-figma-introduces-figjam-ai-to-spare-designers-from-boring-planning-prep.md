@@ -8,7 +8,7 @@ description: FigJam AI is available now in open beta and is ‘currently free’
   customer tiers.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - ia
 - design

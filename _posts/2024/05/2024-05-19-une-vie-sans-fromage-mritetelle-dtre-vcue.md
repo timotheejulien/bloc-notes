@@ -8,7 +8,7 @@ description: Une étude recommande de réduire notre consommation de fromage tan
   que le camembert, le brie et le roquefort sont en voie d’extinction
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - fromage

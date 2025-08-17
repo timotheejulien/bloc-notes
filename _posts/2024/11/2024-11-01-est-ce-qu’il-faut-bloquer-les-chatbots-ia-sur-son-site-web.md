@@ -11,7 +11,7 @@ description: Il semble qu'il y ait un débat sur l'opportunité d'empêcher ou n
   contenu, d'autres s'inquiètent des risques potentiels tels que le vol de propriété
   intellectuelle et la concurrence accrue du contenu généré par l'IA.
 language: fr
-categories: Liens
+categories: articles
 tags: ia blog google
 og-tags: ia blog google
 permalink: "/:categories/:year/:month/:day/:title/"

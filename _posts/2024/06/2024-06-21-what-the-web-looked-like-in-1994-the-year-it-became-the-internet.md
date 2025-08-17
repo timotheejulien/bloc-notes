@@ -8,7 +8,7 @@ description: Thirty years ago, the baby web was just starting to go mainstream, 
   you could already see a pixelated vision of the world to come.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - web
 - internet

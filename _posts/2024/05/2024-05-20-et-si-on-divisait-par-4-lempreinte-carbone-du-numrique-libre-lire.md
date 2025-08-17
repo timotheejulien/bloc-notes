@@ -8,7 +8,7 @@ description: Et si on divisait par 4 l'empreinte carbone du numérique ? - Libre
   lire !
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - web

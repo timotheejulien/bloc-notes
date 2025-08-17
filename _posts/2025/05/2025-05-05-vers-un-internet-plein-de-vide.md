@@ -6,7 +6,7 @@ author: Hubert Guillaud
 published_date: 13/01/2025
 description: "Des contenus générés par IA qui ânonnent des textes qui ne veulent rien dire. Des images stylisées qui nous déconnectent de la réalité. L’internet zombie colonise l’internet, par un remplissage par le vide qui n’a pas d’autre enjeu que de nous désorienter."
 language: fr
-categories: "Liens"
+categories: "articles"
 tags: "internet ia réseau-social"
 og-tags: "internet ia réseau-social"
 date: "2025-05-05T08:43:26+02:00"

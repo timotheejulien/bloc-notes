@@ -9,7 +9,7 @@ published_date: 17/11/2024
 description: ''
 language: fr
 categories:
-- Citations
+- citations
 tags: réseau-social
 og-tags: réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

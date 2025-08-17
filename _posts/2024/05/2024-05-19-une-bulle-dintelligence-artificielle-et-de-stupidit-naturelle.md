@@ -11,7 +11,7 @@ description: La technologie derrière ChatGPT, Dall-E et autres n’est pas rév
   toujours par imploser.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - technologie

@@ -12,7 +12,7 @@ description: Pourquoi cette offre d’emploi n’est-elle jamais arrivée jusqu�
   Il est temps de reprendre le contrôle, affirme cette journaliste dans “New Scientist”.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - société

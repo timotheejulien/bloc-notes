@@ -9,7 +9,7 @@ description: 'Ce texte est une traduction d’un article intitulé « Marking th
   le site de la Web Foundation.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 og-tags: web

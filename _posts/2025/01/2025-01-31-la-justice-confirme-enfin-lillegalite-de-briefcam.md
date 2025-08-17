@@ -10,7 +10,7 @@ description: Victoire totale aujourd’hui au tribunal administratif de Grenoble
   Briefcam. La justice ordonne à la commune de cesser immédiatement l’utilisation
   de ce logiciel.
 language: fr
-categories: Liens
+categories: articles
 tags: politique surveillance ia vie-privée
 og-tags: politique surveillance ia vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

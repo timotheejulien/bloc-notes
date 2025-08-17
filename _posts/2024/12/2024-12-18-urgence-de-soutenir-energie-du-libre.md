@@ -9,7 +9,7 @@ description: Montée de l’extrémisme, catastrophes climatiques, crises politi
   l’énergie au logiciel libre, aux communs numériques et culturels? Ne devrait-on
   pas revoir nos priorités ? Le raccourci est dangereux.
 language: fr
-categories: Liens
+categories: articles
 tags: open-source
 og-tags: open-source
 permalink: "/:categories/:year/:month/:day/:title/"

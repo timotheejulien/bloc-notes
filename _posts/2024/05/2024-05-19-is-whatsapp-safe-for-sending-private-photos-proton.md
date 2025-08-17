@@ -10,7 +10,7 @@ description: WhatsApp is the world’s leading messaging app, trusted by billion
   Let’s find out.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - whatsapp

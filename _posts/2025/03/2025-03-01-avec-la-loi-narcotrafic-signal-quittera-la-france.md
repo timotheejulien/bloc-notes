@@ -9,7 +9,7 @@ description: La présidente de la fondation Signal a affirmé publiquement qu'el
   visant à interdire ou amoindrir le chiffrement.
 language: fr
 categories:
-- Liens
+- articles
 tags: signal surveillance vie-privée
 og-tags: signal surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

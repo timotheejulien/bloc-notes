@@ -12,7 +12,7 @@ description: Si le fait que l’avion a un impact important sur le réchauffemen
   cas. Pour démêler le vrai du faux, voici dix chiffres sur l’avion et le climat.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

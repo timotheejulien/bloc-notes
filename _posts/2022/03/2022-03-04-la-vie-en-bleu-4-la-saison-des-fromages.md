@@ -15,7 +15,7 @@ description: Y’a plus de saison ma bonne dame… Mais si ! Vous commencez à 
   lisez jusqu’au bout !) avec Bernard Usannaz.
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

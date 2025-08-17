@@ -11,7 +11,7 @@ description: 'Elon Musk a laissé entendre que les descriptions et les titres de
   notamment le respect des droits voisins, sont sans doute en cause. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - x

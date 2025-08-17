@@ -9,7 +9,7 @@ description: Plusieurs mois après avoir promis qu’il créerait un jour « X, 
   Le réseau social à l’oiseau bleu commence à perdre son oiseau, et son bleu.
 language: fr
 categories:
-- Liens
+- articles
 tags: app x réseau-social
 og-tags: app, x, réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

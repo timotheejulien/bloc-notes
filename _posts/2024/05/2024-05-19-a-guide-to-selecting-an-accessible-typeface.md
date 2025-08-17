@@ -10,7 +10,7 @@ description: Selecting a typeface that suits your brand, is versatile enough for
   an accessible typeface that is functional and visually appealing.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - font

@@ -10,7 +10,7 @@ description: Le Club des Bons Ancêtres s’est rassemblé autour d’un premier
   le travail.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 og-tags: ia

@@ -10,7 +10,7 @@ description: Les « dark patterns » comment le design d'interface nous manipule
   introuvable qui empêcherait de faire la mise à jour du système d'exploitation...
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

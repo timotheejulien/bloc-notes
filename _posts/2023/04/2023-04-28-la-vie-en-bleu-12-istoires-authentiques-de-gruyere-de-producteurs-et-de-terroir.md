@@ -11,7 +11,7 @@ description: Pierre et Camille, Camille et Pierre, ou l’histoire authentique d
   parti !
 language: fr
 categories:
-- Liens
+- articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

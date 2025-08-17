@@ -10,7 +10,7 @@ description: Depuis plus de dix ans, pour que les personnes ne pouvant pas se d√
   en direct ne sera pas disponible cette ann√©e.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - web

@@ -10,7 +10,7 @@ description: "« I found it very weird that there essentially is no way to brow
   said."
 language: en
 categories:
-- Liens
+- articles
 tags:
 - web
 - technologie

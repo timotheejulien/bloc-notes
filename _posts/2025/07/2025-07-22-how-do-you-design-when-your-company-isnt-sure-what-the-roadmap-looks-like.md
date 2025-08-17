@@ -6,7 +6,7 @@ author: Kai Wong
 published_date: 01/07/2025
 description: "Many companies (and design teams) are shrinking back into becoming startups. Here’s how to survive."
 language: en
-categories: "Liens"
+categories: "articles"
 tags: "design travail méthodologie"
 og-tags: "design travail méthodologie"
 date: "2025-07-22T13:25:12+02:00"

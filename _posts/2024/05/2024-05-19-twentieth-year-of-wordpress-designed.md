@@ -8,7 +8,7 @@ description: Read about how the Automattic Design team celebrated the WordPress 
   anniversary.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - technologie
 - wordpress

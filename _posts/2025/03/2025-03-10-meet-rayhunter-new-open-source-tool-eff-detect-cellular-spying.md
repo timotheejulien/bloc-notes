@@ -12,7 +12,7 @@ description: At EFF we spend a lot of time thinking about Street Level Surveilla
   hotspot that we hope empowers everyone, regardless of technical skill, to help search
   out CSS around the world.
 language: en
-categories: Liens
+categories: articles
 tags: surveillance device
 og-tags: surveillance device
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -14,7 +14,7 @@ description: La planète compte 8,2 milliards d’habitants en 2024 et devrait e
   de la population des Nations Unies (World Population Prospects. The 2024 Revision).
 language: fr
 categories:
-- Liens
+- articles
 tags: société
 og-tags: société
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -17,7 +17,7 @@ description: Billions of people use online document editors like google Docs or 
   encrypted.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - proton

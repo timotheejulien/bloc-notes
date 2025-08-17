@@ -10,7 +10,7 @@ description: Imagine you’re designing a house. Your first step might be to dra
   collaborator.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

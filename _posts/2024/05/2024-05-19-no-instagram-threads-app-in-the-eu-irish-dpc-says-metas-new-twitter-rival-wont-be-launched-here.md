@@ -11,7 +11,7 @@ description: Meta’s new Twitter rival wants to suck Instagram users’ data, i
   UK, where it has launched
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

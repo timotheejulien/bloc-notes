@@ -7,7 +7,7 @@ published_date: "11/07/2025"
 description: "25 milliards de dollars. Partis en fumée. En une seule journée. Le 28 juin 2024, Nike a vécu la pire séance boursière de son histoire. Mais ce krach n'est pas tombé du ciel. C'est l'aboutissement d'une stratégie qui a transformé l'une des marques les plus inspirantes du monde en vulgaire e-commerçant obsédé par ses tableaux Excel. Cette histoire, c'est celle d'un suicide digital. Comment Nike a sacrifié son âme sur l'autel du ROI. Comment la data a tué la magie. Et pourquoi ce qui est arrivé à Nike devrait terrifier toutes les marques qui confondent performance et croissance."
 language: "fr"
 categories: 
-   - Liens
+   - articles
 tags: "marketing méthodologie"
 og-tags: "marketing méthodologie"
 date: "2025-08-16 00:24:00 +0200"

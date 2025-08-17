@@ -8,7 +8,7 @@ description: Un Web Component très léger qui permet d'utiliser Mastodon comme 
   de commentaire. Parfait pour un blog statique par exemple.
 language: en
 categories:
-- Liens
+- articles
 tags: mastodon open-source messagerie développement
 og-tags: mastodon open-source messagerie développement
 permalink: "/:categories/:year/:month/:day/:title/"

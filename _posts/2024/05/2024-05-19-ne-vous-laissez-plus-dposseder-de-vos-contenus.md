@@ -15,7 +15,7 @@ description: 'Nous sommes de plus en plus soucieux des dérives des gafam et aut
   indieweb, avec le principe POSSE : Publish (on your) Own Site, Syndicate Elsewhere.'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - réseau-social
 - conférence

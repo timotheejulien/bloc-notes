@@ -10,7 +10,7 @@ description: Souvent bénévoles, les développeuses et développeurs de logicie
   d’un secteur en recomposition, sous pression des géants du numériques.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - technologie

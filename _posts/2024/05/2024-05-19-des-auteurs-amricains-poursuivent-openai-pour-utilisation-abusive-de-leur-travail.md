@@ -8,7 +8,7 @@ published_date: N/A
 description: ''
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - openai

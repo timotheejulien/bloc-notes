@@ -10,7 +10,7 @@ description: 'La série de Kyan Khojandi cartonne en ce moment : se flattant d''
   fait un phénomène de société. Comme toujours, de tels succès sont des symptômes,
   dont il est tentant d''explorer les ressorts...'
 language: fr
-categories: Liens
+categories: articles
 tags: série
 og-tags: série
 permalink: "/:categories/:year/:month/:day/:title/"

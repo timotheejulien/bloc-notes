@@ -10,7 +10,7 @@ description: J’écris mon journal personnel à la machine à écrire. De simpl
   un jour accessible voire, soyons fou, lu par mes enfants, mes petits enfants et,
   qui sait, plus loin encore.
 language: fr
-categories: Liens
+categories: articles
 tags: famille société numérique
 og-tags: famille société numérique
 permalink: "/:categories/:year/:month/:day/:title/"

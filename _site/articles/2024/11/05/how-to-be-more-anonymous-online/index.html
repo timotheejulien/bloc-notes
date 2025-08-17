@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"> 
+      <title>How to be more anonymous online | Bloc-notes</title>
+      <meta name="description" content="">
+      <link rel="stylesheet" href="/css/style.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+      <meta property="og:locale"  content="fr_FR" />
+      <meta property="og:site_name" content="How to be more anonymous online | Bloc-notes">
+      <meta property="og:image" content="/cover.jpg"/>
+      <meta property="og:description" content="" />
+      <meta property="og:url" content="/articles/2024/11/05/how-to-be-more-anonymous-online/">
+      <meta name="fediverse:creator" content="@timothee@mastodon.design" />
+      <link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml">
+      <script src="/assets/js/script.js"></script>
+      <script src="/assets/js/simple-jekyll-search.min.js"></script>
+      <script src="/assets/js/search.js"></script>
+      <!-- Matomo -->
+<script>
+   var _paq = window._paq = window._paq || [];
+   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+   _paq.push(['trackPageView']);
+   _paq.push(['enableLinkTracking']);
+   (function() {
+     var u="//stats.timotheejulien.fr/";
+     _paq.push(['setTrackerUrl', u+'matomo.php']);
+     _paq.push(['setSiteId', '4']);
+     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+     g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+   })();
+ </script>
+ <!-- End Matomo Code -->
+ 
+    </head>
+</html>
+<body>
+<div id="search_modal">
+   <div id="search-container">
+      <div class="search-modal-header">
+         <input type="text" id="search-input" placeholder="Rechercher une note" title="Rechercher une note. Des résultats apparaitront ci-dessous après 1 caractère saisi.">
+         <a href="#" id="search-modal-close" onclick='search_modal()' title="Fermer"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3104_3817)"><path d="M17.2929 5.29289C17.6834 4.90237 18.3164 4.90237 18.707 5.29289C19.0975 5.68342 19.0975 6.31643 18.707 6.70696L6.70696 18.707C6.31643 19.0975 5.68342 19.0975 5.29289 18.707C4.90237 18.3164 4.90237 17.6834 5.29289 17.2929L17.2929 5.29289Z"/><path d="M5.29289 5.29289C5.68342 4.90237 6.31643 4.90237 6.70696 5.29289L18.707 17.2929C19.0975 17.6834 19.0975 18.3164 18.707 18.707C18.3164 19.0975 17.6834 19.0975 17.2929 18.707L5.29289 6.70696C4.90237 6.31643 4.90237 5.68342 5.29289 5.29289Z"/></g></svg></a>
+      </div>
+      <ul id="results-container"></ul>
+   </div>
+   <!-- Script pointing to search-script.js -->
+   <script src="/assets/js/search.js" type="text/javascript"></script>
+   <!-- Configuration -->
+   <script>
+      SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+      })
+   </script>
+</div>
+<main class="main container">
+   <nav class="nav-mobile">
+   <ul>
+      <li>
+         <a class="nav-item" href="/">
+            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_3082_1287)">
+                  <path d="M21 14C21.5523 14 22 14.4477 22 15V22C22 22.3601 21.8064 22.6926 21.4932 22.8701C21.1797 23.0476 20.7943 23.0428 20.4854 22.8574L18.5 21.666L16.5146 22.8574C16.2057 23.0428 15.8203 23.0476 15.5068 22.8701C15.1936 22.6926 15 22.3601 15 22V15C15 14.4477 15.4477 14 16 14H21ZM17 20.2334L17.9854 19.6426L18.1074 19.5801C18.3997 19.4553 18.7375 19.4763 19.0146 19.6426L20 20.2334V16H17V20.2334Z"/>
+                  <path d="M3.99997 18.9998V12.9998H2.99997C2.59556 12.9998 2.23095 12.7562 2.07614 12.3826C1.92136 12.0089 2.00694 11.5787 2.29294 11.2927L11.2929 2.29273L11.3691 2.22437C11.7619 1.90402 12.3409 1.92662 12.707 2.29273L20.707 10.2927C21.0975 10.6833 21.0975 11.3163 20.707 11.7068C20.3165 12.0973 19.6835 12.0973 19.2929 11.7068L12 4.41383L5.34958 11.0632C5.72934 11.2051 5.99997 11.5705 5.99997 11.9998V18.9998L6.00485 19.0984C6.02754 19.3274 6.1288 19.5427 6.29294 19.7068C6.48048 19.8943 6.73476 19.9998 6.99997 19.9998H12C12.5523 19.9998 13 20.4475 13 20.9998C13 21.5521 12.5523 21.9998 12 21.9998H6.99997C6.20432 21.9998 5.44149 21.6835 4.87888 21.1209C4.31627 20.5583 3.99997 19.7954 3.99997 18.9998Z"
+                  />
+                  <path d="M8 21V15C8 14.2043 8.3163 13.4415 8.87891 12.8789C9.44151 12.3163 10.2043 12 11 12H12.5C13.0523 12 13.5 12.4477 13.5 13C13.5 13.5523 13.0523 14 12.5 14H11C10.7348 14 10.4805 14.1054 10.293 14.293C10.1054 14.4805 10 14.7348 10 15V21C10 21.5523 9.55228 22 9 22C8.44772 22 8 21.5523 8 21Z"/>
+               </g>
+               <defs>
+                  <clipPath id="clip0_3082_1287">
+                     <rect width="24" height="24"/>
+                  </clipPath>
+               </defs>
+            </svg>
+            <span>Accueil</span>
+         </a>
+      </li>
+      <li>
+         <a class="nav-item" href="/page-categories">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_3083_1300)">
+                  <path d="M2 12.1719V8C2 7.20435 2.3163 6.44152 2.87891 5.87891C3.44152 5.3163 4.20435 5 5 5H9.17188L9.46875 5.01465C10.1554 5.08297 10.8008 5.3867 11.293 5.87891L17.0029 11.5889C17.6423 12.2284 18.002 13.0957 18.002 14C18.002 14.9043 17.6423 15.7716 17.0029 16.4111L13.4111 20.0029C12.7716 20.6423 11.9043 21.002 11 21.002C10.0957 21.002 9.22835 20.6423 8.58887 20.0029L2.87891 14.293C2.3867 13.8008 2.08297 13.1554 2.01465 12.4688L2 12.1719ZM4 12.1719L4.00488 12.2705C4.02764 12.4994 4.12884 12.7148 4.29297 12.8789L10.0029 18.5889L10.1064 18.6826C10.3573 18.8881 10.6728 19.002 11 19.002C11.3739 19.002 11.7326 18.8532 11.9971 18.5889L15.5889 14.9971L15.6826 14.8936C15.8881 14.6427 16.002 14.3272 16.002 14C16.002 13.6728 15.8881 13.3573 15.6826 13.1064L15.5889 13.0029L9.87891 7.29297C9.71482 7.12884 9.49945 7.02764 9.27051 7.00488L9.17188 7H5C4.73478 7 4.48051 7.10543 4.29297 7.29297C4.10543 7.48051 4 7.73478 4 8V12.1719Z"/>
+                  <path d="M20.0038 13.9999C20.0038 12.9869 19.601 12.0151 18.8847 11.2988L14.2929 6.70696C13.9024 6.31643 13.9024 5.68342 14.2929 5.29289C14.6834 4.90237 15.3164 4.90237 15.707 5.29289L20.2988 9.88469C21.39 10.9761 22.0038 12.4565 22.0038 13.9999L21.996 14.288C21.9248 15.7265 21.3219 17.0918 20.2988 18.1152L18.707 19.707C18.3164 20.0975 17.6834 20.0975 17.2929 19.707C16.9024 19.3164 16.9024 18.6834 17.2929 18.2929L18.8847 16.7011C19.601 15.9847 20.0038 15.013 20.0038 13.9999Z"/>
+                  <path d="M7 9C7.55228 9 8 9.44772 8 10C8 10.5523 7.55228 11 7 11H6.99023C6.43795 11 5.99023 10.5523 5.99023 10C5.99023 9.44772 6.43795 9 6.99023 9H7Z"/>
+               </g>
+               <defs>
+                  <clipPath id="clip0_3083_1300">
+                     <rect width="24" height="24"/>
+                  </clipPath>
+               </defs>
+            </svg>
+            <span>Catégories</span>
+         </a>
+      </li>
+      <li>
+         <a class="nav-item" href="/page-tags">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span>Tags</span>
+         </a>
+      </li>
+      <li>
+         <div class="nav-item" onclick='search_modal()'>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <path d="M15.9932 9.70508C15.9593 9.01791 15.8068 8.34108 15.543 7.7041C15.2414 6.97615 14.7993 6.31496 14.2422 5.75781C13.685 5.20066 13.0239 4.75856 12.2959 4.45703C11.6589 4.19319 10.9821 4.04065 10.2949 4.00684L10 4C9.21209 4 8.43204 4.15552 7.7041 4.45703C6.97615 4.75856 6.31496 5.20066 5.75781 5.75781C5.20066 6.31496 4.75856 6.97615 4.45703 7.7041C4.15552 8.43204 4 9.21209 4 10L4.00684 10.2949C4.04065 10.9821 4.19319 11.6589 4.45703 12.2959C4.75856 13.0239 5.20066 13.685 5.75781 14.2422C6.31496 14.7993 6.97615 15.2414 7.7041 15.543C8.43204 15.8445 9.21209 16 10 16C10.7879 16 11.568 15.8445 12.2959 15.543C13.0239 15.2414 13.685 14.7993 14.2422 14.2422C14.7993 13.685 15.2414 13.0239 15.543 12.2959C15.8445 11.568 16 10.7879 16 10L15.9932 9.70508ZM17.9902 10.3936C17.9451 11.3097 17.7424 12.2123 17.3906 13.0615C16.9886 14.0321 16.4 14.9144 15.6572 15.6572C14.9144 16.4 14.0321 16.9886 13.0615 17.3906C12.0909 17.7927 11.0506 18 10 18C8.94943 18 7.90908 17.7927 6.93848 17.3906C5.96795 16.9886 5.08559 16.4 4.34277 15.6572C3.59995 14.9144 3.01141 14.0321 2.60938 13.0615C2.25762 12.2123 2.05489 11.3097 2.00977 10.3936L2 10C2 8.94942 2.20734 7.90908 2.60938 6.93848C3.01141 5.96795 3.59995 5.08559 4.34277 4.34277C5.08559 3.59995 5.96795 3.01141 6.93848 2.60938C7.90908 2.20734 8.94943 2 10 2L10.3936 2.00977C11.3097 2.05489 12.2123 2.25762 13.0615 2.60938C14.0321 3.01141 14.9144 3.59995 15.6572 4.34277C16.4 5.08559 16.9886 5.96795 17.3906 6.93848C17.7927 7.90908 18 8.94943 18 10L17.9902 10.3936Z"/>
+               <path d="M14.2929 14.2929C14.6834 13.9024 15.3164 13.9024 15.707 14.2929L21.707 20.2929C22.0975 20.6834 22.0975 21.3164 21.707 21.707C21.3164 22.0975 20.6834 22.0975 20.2929 21.707L14.2929 15.707C13.9024 15.3164 13.9024 14.6834 14.2929 14.2929Z"/>
+            </svg>
+            <span>Recherche</span>
+         </div>
+      </li>
+   </ul>
+</nav>
+
+<nav class="nav-desktop">
+   <div id="search-button" class="nav-item" onclick='search_modal()'>
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+         <path d="M15.9932 9.70508C15.9593 9.01791 15.8068 8.34108 15.543 7.7041C15.2414 6.97615 14.7993 6.31496 14.2422 5.75781C13.685 5.20066 13.0239 4.75856 12.2959 4.45703C11.6589 4.19319 10.9821 4.04065 10.2949 4.00684L10 4C9.21209 4 8.43204 4.15552 7.7041 4.45703C6.97615 4.75856 6.31496 5.20066 5.75781 5.75781C5.20066 6.31496 4.75856 6.97615 4.45703 7.7041C4.15552 8.43204 4 9.21209 4 10L4.00684 10.2949C4.04065 10.9821 4.19319 11.6589 4.45703 12.2959C4.75856 13.0239 5.20066 13.685 5.75781 14.2422C6.31496 14.7993 6.97615 15.2414 7.7041 15.543C8.43204 15.8445 9.21209 16 10 16C10.7879 16 11.568 15.8445 12.2959 15.543C13.0239 15.2414 13.685 14.7993 14.2422 14.2422C14.7993 13.685 15.2414 13.0239 15.543 12.2959C15.8445 11.568 16 10.7879 16 10L15.9932 9.70508ZM17.9902 10.3936C17.9451 11.3097 17.7424 12.2123 17.3906 13.0615C16.9886 14.0321 16.4 14.9144 15.6572 15.6572C14.9144 16.4 14.0321 16.9886 13.0615 17.3906C12.0909 17.7927 11.0506 18 10 18C8.94943 18 7.90908 17.7927 6.93848 17.3906C5.96795 16.9886 5.08559 16.4 4.34277 15.6572C3.59995 14.9144 3.01141 14.0321 2.60938 13.0615C2.25762 12.2123 2.05489 11.3097 2.00977 10.3936L2 10C2 8.94942 2.20734 7.90908 2.60938 6.93848C3.01141 5.96795 3.59995 5.08559 4.34277 4.34277C5.08559 3.59995 5.96795 3.01141 6.93848 2.60938C7.90908 2.20734 8.94943 2 10 2L10.3936 2.00977C11.3097 2.05489 12.2123 2.25762 13.0615 2.60938C14.0321 3.01141 14.9144 3.59995 15.6572 4.34277C16.4 5.08559 16.9886 5.96795 17.3906 6.93848C17.7927 7.90908 18 8.94943 18 10L17.9902 10.3936Z"/>
+         <path d="M14.2929 14.2929C14.6834 13.9024 15.3164 13.9024 15.707 14.2929L21.707 20.2929C22.0975 20.6834 22.0975 21.3164 21.707 21.707C21.3164 22.0975 20.6834 22.0975 20.2929 21.707L14.2929 15.707C13.9024 15.3164 13.9024 14.6834 14.2929 14.2929Z"/>
+      </svg>
+      <span class="nav-item-label">recherche</span>
+   </div>
+
+   <div class="divider"></div>
+
+   <ul>
+      <li>
+         <a class="nav-item" href="/">
+            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_3082_1287)">
+                  <path d="M21 14C21.5523 14 22 14.4477 22 15V22C22 22.3601 21.8064 22.6926 21.4932 22.8701C21.1797 23.0476 20.7943 23.0428 20.4854 22.8574L18.5 21.666L16.5146 22.8574C16.2057 23.0428 15.8203 23.0476 15.5068 22.8701C15.1936 22.6926 15 22.3601 15 22V15C15 14.4477 15.4477 14 16 14H21ZM17 20.2334L17.9854 19.6426L18.1074 19.5801C18.3997 19.4553 18.7375 19.4763 19.0146 19.6426L20 20.2334V16H17V20.2334Z"/>
+                  <path d="M3.99997 18.9998V12.9998H2.99997C2.59556 12.9998 2.23095 12.7562 2.07614 12.3826C1.92136 12.0089 2.00694 11.5787 2.29294 11.2927L11.2929 2.29273L11.3691 2.22437C11.7619 1.90402 12.3409 1.92662 12.707 2.29273L20.707 10.2927C21.0975 10.6833 21.0975 11.3163 20.707 11.7068C20.3165 12.0973 19.6835 12.0973 19.2929 11.7068L12 4.41383L5.34958 11.0632C5.72934 11.2051 5.99997 11.5705 5.99997 11.9998V18.9998L6.00485 19.0984C6.02754 19.3274 6.1288 19.5427 6.29294 19.7068C6.48048 19.8943 6.73476 19.9998 6.99997 19.9998H12C12.5523 19.9998 13 20.4475 13 20.9998C13 21.5521 12.5523 21.9998 12 21.9998H6.99997C6.20432 21.9998 5.44149 21.6835 4.87888 21.1209C4.31627 20.5583 3.99997 19.7954 3.99997 18.9998Z"
+                  />
+                  <path d="M8 21V15C8 14.2043 8.3163 13.4415 8.87891 12.8789C9.44151 12.3163 10.2043 12 11 12H12.5C13.0523 12 13.5 12.4477 13.5 13C13.5 13.5523 13.0523 14 12.5 14H11C10.7348 14 10.4805 14.1054 10.293 14.293C10.1054 14.4805 10 14.7348 10 15V21C10 21.5523 9.55228 22 9 22C8.44772 22 8 21.5523 8 21Z"/>
+               </g>
+               <defs>
+                  <clipPath id="clip0_3082_1287">
+                     <rect width="24" height="24"/>
+                  </clipPath>
+               </defs>
+            </svg>
+            <span class="nav-item-label">accueil</span><span class="nav-item-value">769</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/articles">
+            <div class="nav-item-icon article-icon-articles"></div>
+            <span class="nav-item-label">articles</span><span class="nav-item-value">727</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/citations">
+            <div class="nav-item-icon article-icon-citations"></div>
+            <span class="nav-item-label">citations</span><span class="nav-item-value">9</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/vidéos">
+            <div class="nav-item-icon article-icon-vidéos"></div>
+            <span class="nav-item-label">vidéos</span><span class="nav-item-value">33</span>
+         </a>
+      </li></ul>
+
+   <div class="divider"></div>
+
+   <ul class="sort-by-alphabetical"><!-- Trie les tags alphabétiquement --><li>
+         <a class="nav-item" href="/tag/accessibilité">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">accessibilité</span><span class="nav-item-value">27</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/adobe">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">adobe</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/algorithme">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">algorithme</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/amazon">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">amazon</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/android">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">android</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/app">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">app</span><span class="nav-item-value">85</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/apple">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">apple</span><span class="nav-item-value">33</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/art">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">art</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/auto-hébergement">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">auto-hébergement</span><span class="nav-item-value">14</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/blog">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">blog</span><span class="nav-item-value">8</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/branding">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">branding</span><span class="nav-item-value">8</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/chiffrement">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">chiffrement</span><span class="nav-item-value">14</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/cms">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">cms</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/cnil">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">cnil</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/conférence">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">conférence</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/consommation">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">consommation</span><span class="nav-item-value">10</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/css">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">css</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/culture">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">culture</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/dark-pattern">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">dark-pattern</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/design">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">design</span><span class="nav-item-value">162</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/design-system">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">design-system</span><span class="nav-item-value">23</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/device">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">device</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/documentaire">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">documentaire</span><span class="nav-item-value">7</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/données-personnelles">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">données-personnelles</span><span class="nav-item-value">9</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/désinformation">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">désinformation</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/développement">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">développement</span><span class="nav-item-value">19</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/facebook">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">facebook</span><span class="nav-item-value">7</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/famille">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">famille</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/fediverse">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">fediverse</span><span class="nav-item-value">7</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/figma">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">figma</span><span class="nav-item-value">18</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/firefox">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">firefox</span><span class="nav-item-value">20</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/font">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">font</span><span class="nav-item-value">26</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/freelance">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">freelance</span><span class="nav-item-value">8</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/fromage">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">fromage</span><span class="nav-item-value">25</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/gafam">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">gafam</span><span class="nav-item-value">27</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/gastronomie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">gastronomie</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/google">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">google</span><span class="nav-item-value">19</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/gouvernement">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">gouvernement</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/graphisme">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">graphisme</span><span class="nav-item-value">14</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/hacking">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">hacking</span><span class="nav-item-value">12</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/html">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">html</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/ia">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">ia</span><span class="nav-item-value">107</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/icon">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">icon</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/icônes">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">icônes</span><span class="nav-item-value">6</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/illustration">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">illustration</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/indie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">indie</span><span class="nav-item-value">7</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/instagram">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">instagram</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/internet">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">internet</span><span class="nav-item-value">18</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/jeux">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">jeux</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/jeux-olympiques">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">jeux-olympiques</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/journalisme">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">journalisme</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/lanceur-alerte">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">lanceur-alerte</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/livre">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">livre</span><span class="nav-item-value">4</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/low-tech">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">low-tech</span><span class="nav-item-value">6</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/législation">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">législation</span><span class="nav-item-value">29</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/macos">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">macos</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/marketing">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">marketing</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/mastodon">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">mastodon</span><span class="nav-item-value">22</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/merdification">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">merdification</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/message">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">message</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/messagerie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">messagerie</span><span class="nav-item-value">7</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/meta">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">meta</span><span class="nav-item-value">19</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/microsoft">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">microsoft</span><span class="nav-item-value">6</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/modération">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">modération</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/motion">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">motion</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/mozilla">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">mozilla</span><span class="nav-item-value">15</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/musique">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">musique</span><span class="nav-item-value">8</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/méthodologie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">méthodologie</span><span class="nav-item-value">26</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/navigateur">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">navigateur</span><span class="nav-item-value">15</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/notification">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">notification</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/numérique">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">numérique</span><span class="nav-item-value">45</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/obsidian">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">obsidian</span><span class="nav-item-value">4</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/open-source">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">open-source</span><span class="nav-item-value">30</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/openai">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">openai</span><span class="nav-item-value">22</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/operating-system">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">operating-system</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/peertube">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">peertube</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/philosophie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">philosophie</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/photos">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">photos</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/pixelfed">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">pixelfed</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/podcast">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">podcast</span><span class="nav-item-value">4</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/politique">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">politique</span><span class="nav-item-value">12</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/portfolio">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">portfolio</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/posse">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">posse</span><span class="nav-item-value">6</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/presse">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">presse</span><span class="nav-item-value">10</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/print">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">print</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/proton">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">proton</span><span class="nav-item-value">6</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/psychologie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">psychologie</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/publicité">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">publicité</span><span class="nav-item-value">13</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/ressources">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">ressources</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/rgpd">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">rgpd</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/rss">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">rss</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/réflexion">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">réflexion</span><span class="nav-item-value">4</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/réseau-social">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">réseau-social</span><span class="nav-item-value">58</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/salariat">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">salariat</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/santé">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">santé</span><span class="nav-item-value">12</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/science">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">science</span><span class="nav-item-value">4</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/signal">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">signal</span><span class="nav-item-value">16</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/société">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">société</span><span class="nav-item-value">96</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/sound-design">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">sound-design</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/sport">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">sport</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/stratégie-business">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">stratégie-business</span><span class="nav-item-value">3</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/streaming">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">streaming</span><span class="nav-item-value">6</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/surveillance">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">surveillance</span><span class="nav-item-value">93</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/série">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">série</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/technologie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">technologie</span><span class="nav-item-value">59</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/telegram">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">telegram</span><span class="nav-item-value">6</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/tiktok">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">tiktok</span><span class="nav-item-value">4</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/transport">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">transport</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/travail">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">travail</span><span class="nav-item-value">22</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/typographie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">typographie</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/ui">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">ui</span><span class="nav-item-value">44</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/utilitaires">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">utilitaires</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/ux">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">ux</span><span class="nav-item-value">53</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/vie-privée">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">vie-privée</span><span class="nav-item-value">152</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/voyage">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">voyage</span><span class="nav-item-value">1</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/vpn">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">vpn</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/vélo">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">vélo</span><span class="nav-item-value">5</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/web">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">web</span><span class="nav-item-value">99</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/whatsapp">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">whatsapp</span><span class="nav-item-value">9</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/wordpress">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">wordpress</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/x">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">x</span><span class="nav-item-value">14</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/youtube">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">youtube</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/éco-conception">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">éco-conception</span><span class="nav-item-value">18</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/écologie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">écologie</span><span class="nav-item-value">41</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/économie">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">économie</span><span class="nav-item-value">9</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/éducation">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">éducation</span><span class="nav-item-value">2</span>
+         </a>
+      </li><li>
+         <a class="nav-item" href="/tag/éthique">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hash"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 9l14 0" /><path d="M5 15l14 0" /><path d="M11 4l-4 16" /><path d="M17 4l-4 16" /></svg>
+            <span class="nav-item-label">éthique</span><span class="nav-item-value">12</span>
+         </a>
+      </li></ul>
+</ul>
+</nav>
+
+   <section class="section list-article">
+      <article class="article">
+         <header>
+            <div class="article-icon">
+               <img src="https://favicon.im/https://www.wired.com/story/how-to-be-more-anonymous-online" alt="Favicon" />
+            </div>
+            <div class="article-meta">
+               <p>Matt Burgess • 05/01/2024</p>
+               <a href="https://www.wired.com/story/how-to-be-more-anonymous-online" target="_blank">https://www.wired.com/story/how-to-be-more-anonymous-online</a>
+            </div>
+         </header>
+         <h1 class="h2">How to be more anonymous online</h1>
+         <div class="post-details-description">
+            
+            <p>Being fully anonymous is next to impossible—but you can significantly limit what the internet knows about you by sticking to a few basic rules.</p>
+            
+         </div>
+
+         <div class="post-content">
+            
+
+         </div>
+
+         <footer class="article-footer">
+            <ul>
+               
+               <li class="tag">vie-privée</li>
+               
+               <li class="tag">app</li>
+               
+               <li class="tag">surveillance</li>
+               
+               <li class="tag">web</li>
+               
+            </ul>
+         </footer>
+      </article>
+      <hr>
+      <div>
+         <h2 class="h3">Notes associées aux mêmes tags :</h2>
+   
+         
+         
+         
+        
+         <ul class="related-posts">
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+                <li><a href="/articles/2025/08/03/enqueter-sur-le-paysage-de-la-surveillance-numerique/">Enquêter sur le paysage de la surveillance numérique</a></li>
+                
+                
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+                <li><a href="/articles/2025/07/22/airbnb-comment-reperer-deventuelles-cameras-cachees/">Airbnb : comment repérer d’éventuelles caméras cachées ?</a></li>
+                
+                
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+                <li><a href="/articles/2025/06/05/what-disabled-people-have-to-give-up-in-the-name-of-accessibility/">What disabled people have to give up in the name of accessibility</a></li>
+                
+                
+            
+         
+            
+            
+            
+                <li><a href="/articles/2025/06/05/internet-of-consent/">The internet of consent</a></li>
+                
+                
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+         
+            
+            
+            
+                <li><a href="/articles/2025/05/26/switzerland-surveillance-plan/">La Suisse prévoit une surveillance pire que celle des États-Unis</a></li>
+                
+                
+                    
+         </ul>
+      </div>
+   </section>
+</main>
+
+    <footer id="footer" class="container">
+        <div class="divider"></div>
+        <section>
+            <span class="h2">Une remarque ?<br>Un simple bonjour ?</span>
+            <h2 class="color-text-secondary">Contact</h2>
+
+            <button id="footer-btn" class="btn btn-primary" onclick="mailTo()">Envoyer un message</button>
+        </section>
+        
+        <section class="footer-about">
+            <section class="flex">
+                  <div class="flex-width-1">
+                    <h4>Timothée Julien</h4>
+                    <p>Product designer (UX/UI) indépendant, évoluant à Paris.</p>
+                    <ul class="footer-nav">
+                        <li><a href="https://timotheejulien.fr" target="_blank">Portfolio</a>
+                        <li><a href="https://fromages.timotheejulien.fr" target="_blank">Notes fromagères</a></li>
+                     </ul>
+                  </div>
+                  <div class="flex-width-1">
+                        <h4>À propos de ce projet</h4>
+                        <p>Il s'agit d'un projet open-source. Si vous souhaitez me faire part d'une erreur ou suggérer une amélioration, ce projet est disponible sur <a href="https://github.com/timotheejulien/bloc-notes/" target="_blank">GitHub</a>.</p>
+                        <p><a href="/feed.xml" target="_blank">Flux RSS</a></p>
+                  </div>
+                  <div class="flex-width-1">
+                     <h4>Mes réseaux</h4>
+                     <ul class="footer-nav">
+                           <li><a href="https://signal.me/#eu/YdauWLl23RV8Aqjkp6jgr7u-hcWB2dPTHfaZNITV6FCIa2ioQYxAdIjgxgEHd5d0" target="_blank">Signal</a>
+                           <li><a href="https://www.linkedin.com/in/timotheejulien/" target="_blank">Linkedin</a></li>
+                           <li><a href="https://mastodon.design/@timothee" target="_blank" rel="me">Mastodon</a></li>
+                           <li><a href="https://pixelfed.social/timothee" target="_blank">Pixelfed</a></li>
+                     </ul>
+                </div>
+            </section>
+        
+            <section class="footer-legals">
+                <p>© 2024 Timothée ・ <a href="https://timotheejulien.fr/credits">Crédits</a> ・ <a href="https://timotheejulien.fr/politique-de-confidentialite">Politique de confidentialité</a> ・ <a href="https://timotheejulien.fr/mentions-legales">Mentions légales</a></p>
+            </section>
+        </section>
+
+    </footer>
+</body>
+</html>

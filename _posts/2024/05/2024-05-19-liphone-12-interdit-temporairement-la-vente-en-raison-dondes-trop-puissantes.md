@@ -10,7 +10,7 @@ description: 'L’Agence nationale des fréquences (ANFR) demande à Apple de re
   les conclusions de l’agence. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - apple
 - santé

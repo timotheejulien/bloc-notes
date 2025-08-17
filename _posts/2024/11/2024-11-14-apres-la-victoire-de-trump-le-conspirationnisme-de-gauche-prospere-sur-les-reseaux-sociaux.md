@@ -10,7 +10,7 @@ description: Dans un article paru dans Wired au lendemain des élections présid
   remettant en cause la défaite de Kamala Harris.
 language: fr
 categories:
-- Liens
+- articles
 tags: politique numérique réseau-social
 og-tags: politique numérique réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

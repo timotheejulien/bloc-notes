@@ -7,7 +7,7 @@ published_date: 22/05/2024
 description: A guide to iOS and Android keyboards.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

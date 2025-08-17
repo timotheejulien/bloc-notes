@@ -12,7 +12,7 @@ description: Questions like “Which browser should I use?” regularly come up 
   giving it a bit more thought, I came up with the following reasons.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - mozilla
 - firefox

@@ -9,7 +9,7 @@ description: Pour une raison que j’ignore, mon compteur d’abonnés sur Masto
   pour moi, car je ne pense pas l’avoir jamais franchi sur Twitter.
 language: fr
 categories:
-- Liens
+- articles
 tags: réseau-social x mastodon
 og-tags: réseau-social x mastodon
 permalink: "/:categories/:year/:month/:day/:title/"

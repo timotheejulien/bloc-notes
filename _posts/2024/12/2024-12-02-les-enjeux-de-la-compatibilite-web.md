@@ -14,7 +14,7 @@ description: Dimanche matin. Impatient, une amie, perdue de vue depuis plus de 1
   tentatives plus tard, l'angoisse et la déception d'avoir raté un moment important
   envahissent la pièce.
 language: fr
-categories: Liens
+categories: articles
 tags: web numérique
 og-tags: web numérique
 permalink: "/:categories/:year/:month/:day/:title/"

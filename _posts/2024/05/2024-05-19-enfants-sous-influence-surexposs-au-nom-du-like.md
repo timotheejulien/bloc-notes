@@ -16,7 +16,7 @@ description: 'Les réseaux sociaux hébergent des milliers de comptes familiaux 
   sociaux.'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - vie-privée
 - réseau-social

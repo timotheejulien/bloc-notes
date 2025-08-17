@@ -10,7 +10,7 @@ description: Tout au long de l'été, franceinfo vous présente une application 
   musicale qui, en un peu plus de 20 ans, a conquis le monde.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - web

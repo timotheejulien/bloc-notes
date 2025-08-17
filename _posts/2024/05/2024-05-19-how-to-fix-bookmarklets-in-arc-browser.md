@@ -8,7 +8,7 @@ description: Instead of dragging a bookmarklet into the browser, we will use a f
   tool to generate an extension that will execute the JavaScript for us.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - navigateur

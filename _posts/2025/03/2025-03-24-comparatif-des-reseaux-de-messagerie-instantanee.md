@@ -17,7 +17,7 @@ description: Il y a deux ou trois ans, j’ai commencé à me poser beaucoup de 
   mes critères et les infos que je trouve les plus pertinentes, de la manière la plus
   claire et simple possible.
 language: fr
-categories: Liens
+categories: articles
 tags: app message
 og-tags: app message
 permalink: "/:categories/:year/:month/:day/:title/"

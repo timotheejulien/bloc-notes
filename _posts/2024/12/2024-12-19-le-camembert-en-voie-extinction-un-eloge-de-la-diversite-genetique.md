@@ -10,7 +10,7 @@ description: Roquefort, brie et camembert seraient en voie de disparition. Ce n�
   des micro-organismes et des plantes cultivées, réduite à peau de chagrin par la
   standardisation agro-industrielle et la quête de rentabilité.
 language: fr
-categories: Liens
+categories: articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

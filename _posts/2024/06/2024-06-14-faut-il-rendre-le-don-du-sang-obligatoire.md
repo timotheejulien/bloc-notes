@@ -11,7 +11,7 @@ description: 'En France, seulement 3,8 % de la population française donne son s
   se posait la question dans son numéro d’automne 2023.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - santé

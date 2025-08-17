@@ -15,7 +15,7 @@ description: Le gouvernement britannique a beau insister, Apple ne réduira pas 
   passe, iMessage serait donc hors des clous et pourrait être débranché dans le pays.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

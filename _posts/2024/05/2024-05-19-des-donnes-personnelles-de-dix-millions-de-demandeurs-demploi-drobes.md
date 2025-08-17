@@ -8,7 +8,7 @@ description: 'Un important prestataire de Pôle emploi a été victime d’un «
   cyber-malveillance », a annoncé l’établissement public. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - hacking

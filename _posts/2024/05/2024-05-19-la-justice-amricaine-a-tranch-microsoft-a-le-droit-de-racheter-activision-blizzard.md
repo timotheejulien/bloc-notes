@@ -10,7 +10,7 @@ description: 'Un an et six mois après avoir annoncé son intention de racheter 
   La justice américaine vient de donner son feu vert à cette opération très critiquée. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - gafam
 - microsoft

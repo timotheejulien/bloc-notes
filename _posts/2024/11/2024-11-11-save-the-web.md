@@ -10,7 +10,7 @@ description: Today, we’re introducing Obsidian Web Clipper a new extension tha
   long term.
 language: en
 categories:
-- Liens
+- articles
 tags: obsidian app web
 og-tags: obsidian app web
 permalink: "/:categories/:year/:month/:day/:title/"

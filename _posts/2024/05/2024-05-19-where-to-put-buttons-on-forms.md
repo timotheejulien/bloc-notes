@@ -7,7 +7,7 @@ published_date: 16/09/2019
 description: Recommandations UX sur l'emplacement des boutons
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

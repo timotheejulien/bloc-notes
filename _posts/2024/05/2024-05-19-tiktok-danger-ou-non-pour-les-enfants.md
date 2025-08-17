@@ -9,7 +9,7 @@ description: Les réseaux sociaux, et en particulier Tiktok, sont-ils réellemen
   Retour sur le rapport du Sénat.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - réseau-social

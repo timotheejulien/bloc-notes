@@ -9,7 +9,7 @@ description: Should you use a vertical or horizontal card for your content? Many
   the two card types beyond layout and orientation.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

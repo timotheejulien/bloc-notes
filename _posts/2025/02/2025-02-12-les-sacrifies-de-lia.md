@@ -14,7 +14,7 @@ description: 'Magiques, autonomes, toutes puissantes : les intelligences artifi
   du « long-termisme » qui couve dans la Silicon Valley depuis quelques années ?'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: ia gafam éthique
 og-tags: ia gafam éthique
 permalink: "/:categories/:year/:month/:day/:title/"

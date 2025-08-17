@@ -11,7 +11,7 @@ description: Ceux d'entre nous qui sont là depuis un certain temps se souvienne
   saine à la télévision classique, sans choix et chargée de publicité.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

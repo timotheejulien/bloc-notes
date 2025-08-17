@@ -12,7 +12,7 @@ description: TRIBUNE // Sommes-nous tous frappés d’amnésie collective vis-à
   de prendre la mesure de la catastrophe écologique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

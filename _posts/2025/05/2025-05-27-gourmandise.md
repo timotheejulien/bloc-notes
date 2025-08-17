@@ -7,7 +7,7 @@ published_date: "Date N/A"
 description: 
 language: "fr"
 categories: 
-   - Citations
+   - citations
 tags: "gastronomie"
 og-tags: "gastronomie"
 date: "2025-05-27 14:21:00 +0200"

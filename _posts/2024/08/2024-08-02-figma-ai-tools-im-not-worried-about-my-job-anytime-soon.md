@@ -8,7 +8,7 @@ description: The features are awesome but we’re far off from replacing designe
   That’s coming from someone immersed in AI every day of the week.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - ia

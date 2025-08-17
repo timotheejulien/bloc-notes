@@ -8,7 +8,7 @@ description: Avec Les Champs Libres nous avons pu réaliser notre premier audit 
   version ARCEP de bout en bout. On vous raconte.
 language: fr
 categories:
-- Liens
+- articles
 tags: design éco-conception méthodologie
 og-tags: design éco-conception méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: Une fois par mois, Le Devoir d’éducation veut proposer des contr
   d’éducation.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - openai

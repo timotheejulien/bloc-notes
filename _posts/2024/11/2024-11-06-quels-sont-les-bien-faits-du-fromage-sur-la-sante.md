@@ -8,7 +8,7 @@ description: Les Français consomment moins de fromage. Pourtant, contrairement 
   idées reçues, le fromage pourrait être bénéfique pour la santé. Les explications
   du docteur Jimmy Mohamed.
 language: fr
-categories: Liens
+categories: articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

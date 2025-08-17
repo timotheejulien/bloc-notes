@@ -7,7 +7,7 @@ published_date: 23/12/2024
 description: Vous connaissez Julius ? Mais si, Julius ! Vous voyez certainement de
   qui je veux parler !
 language: fr
-categories: Liens
+categories: articles
 tags: travail
 og-tags: travail
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -12,7 +12,7 @@ description: Le PDG de Meta, Mark Zuckerberg, a personnellement et à plusieurs 
   le cadre d'un procès en cours contre l'entreprise.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 - meta

@@ -11,7 +11,7 @@ description: Avec l’introduction des outils d’ia générative auprès du gra
   tirées du HP Work Relationship Index.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - société

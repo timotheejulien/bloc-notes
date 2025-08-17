@@ -6,7 +6,7 @@ author: Andrew Hogan
 published_date: 15/07/2025
 description: "An IDC study shows just how central design has become to development leaders."
 language: en
-categories: "Liens"
+categories: "articles"
 tags: "design"
 og-tags: "design"
 date: "2025-07-22T13:32:41+02:00"

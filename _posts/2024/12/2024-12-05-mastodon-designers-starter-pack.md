@@ -7,7 +7,7 @@ published_date: 05/12/2024
 description: 'Gather the main interface design accounts on the Fediverse '
 language: en
 categories:
-- Liens
+- articles
 tags: mastodon design réseau-social
 og-tags: mastodon design réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

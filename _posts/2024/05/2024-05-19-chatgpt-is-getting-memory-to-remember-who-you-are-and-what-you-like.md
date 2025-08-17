@@ -8,7 +8,7 @@ description: As its chatbot gets more powerful, OpenAI is also letting it get mo
   personal. But it says users are still in control.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - ia

@@ -12,7 +12,7 @@ description: mozilla, une société qui s'est toujours targuée d'accorder la pr
   (PPA), est activée par défaut dans la dernière version du navigateur.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - firefox

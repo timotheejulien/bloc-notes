@@ -10,7 +10,7 @@ description: Anthropologue, historien des cultures numériques, enseignant à la
   de l’EPFL Frédéric Kaplan salue un défricheur de territoires et d’idées
 language: fr
 categories:
-- Liens
+- articles
 tags: design
 og-tags: design
 permalink: "/:categories/:year/:month/:day/:title/"

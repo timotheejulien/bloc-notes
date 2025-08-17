@@ -10,7 +10,7 @@ description: La multiplication des processus automatisés de prise de décision 
   par tous, les actions confiées à des algorithmes. La Cour de Justice de l'UE vient
   d'affirmer ce droit.
 language: fr
-categories: Liens
+categories: articles
 tags: ia
 og-tags: ia
 permalink: "/:categories/:year/:month/:day/:title/"

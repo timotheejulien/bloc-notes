@@ -9,7 +9,7 @@ description: What was browsing the web like in 2004? People said things like “
   the norm. The search bar and multiple tabs did not exist, and there seemed to be
   only one browser in sight. That is, until Firefox 1.0 arrived and gave it real competition.
 language: en
-categories: Liens
+categories: articles
 tags: firefox app mozilla
 og-tags: firefox app mozilla
 permalink: "/:categories/:year/:month/:day/:title/"

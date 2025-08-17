@@ -7,7 +7,7 @@ published_date: 05/11/2024
 description: Micode parle de la backdoor sur xz.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags: hacking web open-source
 og-tags: hacking web open-source
 permalink: "/:categories/:year/:month/:day/:title/"

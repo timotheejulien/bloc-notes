@@ -8,7 +8,7 @@ description: Ephemeral usernames instead of phone numbers safeguard privacy — 
   makes Signal even harder to subpoena.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

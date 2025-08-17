@@ -11,7 +11,7 @@ description: Le fondateur et dirigeant de telegram, Pavel Durov, est détenu en 
   y compris sur le thème de la liberté d’expression.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - telegram

@@ -7,7 +7,7 @@ published_date: 10/02/2025
 description: Researchers find that the more people use AI at their job, the less critical
   thinking they use.
 language: en
-categories: Liens
+categories: articles
 tags: ia
 og-tags: ia
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -11,7 +11,7 @@ description: En 2024, Graphéine a accompagné l’Université Paris 1 Panthéon
   héritage singulier entre histoire classique, conservatrice et esprit innovant, révolutionnaire.
   Deux caractères qui font l’histoire de l’université.
 language: fr
-categories: Liens
+categories: articles
 tags: design graphisme branding
 og-tags: design graphisme branding
 permalink: "/:categories/:year/:month/:day/:title/"

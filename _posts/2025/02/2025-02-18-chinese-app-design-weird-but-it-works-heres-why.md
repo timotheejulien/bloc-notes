@@ -13,7 +13,7 @@ description: Chinese app design looks weird. But, they work just as well as othe
   desktop altogether, and how all of this impacts us.
 language: en
 categories:
-- Vidéos
+- vidéos
 tags: design ux ui
 og-tags: design ux ui
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: Chat Control est le projet de règlement de l’Union Européenne p
   loi est une affaire assez grave pour plusieurs raisons2.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

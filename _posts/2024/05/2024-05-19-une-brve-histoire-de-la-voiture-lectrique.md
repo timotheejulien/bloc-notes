@@ -10,7 +10,7 @@ description: Dans le domaine foisonnant des transports, la récente volte-face d
   une petite révolution.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - technologie

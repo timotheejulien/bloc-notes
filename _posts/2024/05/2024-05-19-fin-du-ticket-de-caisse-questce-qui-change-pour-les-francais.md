@@ -9,7 +9,7 @@ description: À partir du 1er août 2023, le ticket de caisse ne sera plus impri
   Une alternative qui a des implications au niveau des données personnelles.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

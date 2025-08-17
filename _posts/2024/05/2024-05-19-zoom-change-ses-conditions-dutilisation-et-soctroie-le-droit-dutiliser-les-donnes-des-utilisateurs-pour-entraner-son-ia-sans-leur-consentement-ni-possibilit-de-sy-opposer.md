@@ -14,7 +14,7 @@ description: Zoom, la plateforme de visioconférence populaire, a récemment mis
   aux droits et au consentement des utilisateurs.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

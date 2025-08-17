@@ -10,7 +10,7 @@ description: Ces derniers jours ont été occupés par un enchaînement de décl
   les atours du tragique.
 language: fr
 categories:
-- Liens
+- articles
 tags: technologie éthique
 og-tags: technologie éthique
 permalink: "/:categories/:year/:month/:day/:title/"

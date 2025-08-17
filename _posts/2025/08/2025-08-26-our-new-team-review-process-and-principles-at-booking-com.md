@@ -6,7 +6,7 @@ author: Filip Mishevski
 published_date: 27/07/2025
 description: "A case study on how to bring a UX community together to critique, ideate, learn and have fun."
 language: en
-categories: "Liens"
+categories: "articles"
 tags: "design méthodologie"
 og-tags: "design méthodologie"
 date: "2025-08-16T15:37:24+02:00"

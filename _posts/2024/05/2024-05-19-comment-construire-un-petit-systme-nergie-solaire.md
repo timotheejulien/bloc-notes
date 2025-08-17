@@ -8,7 +8,7 @@ description: 'Ce guide explique tout ce qu’il faut savoir pour construire des 
   photovoltaïques autonomes capables d’alimenter presque tout ce que vous voulez. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - technologie

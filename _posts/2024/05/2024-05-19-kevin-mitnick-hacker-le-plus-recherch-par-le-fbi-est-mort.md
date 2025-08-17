@@ -8,7 +8,7 @@ description: Kevin Mitnick, l’un des plus célèbres pirates informatiques au 
   est mort à l’âge de 59 ans.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - hacking
 - web

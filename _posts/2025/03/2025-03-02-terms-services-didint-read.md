@@ -10,7 +10,7 @@ description: "« Terms of Service; Didn't Read » (abrégé : ToS;DR) est un 
   temps."
 language: fr
 categories:
-- Liens
+- articles
 tags: app vie-privée
 og-tags: app vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

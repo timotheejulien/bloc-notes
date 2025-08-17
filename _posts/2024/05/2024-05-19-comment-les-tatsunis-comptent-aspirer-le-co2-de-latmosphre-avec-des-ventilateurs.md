@@ -12,7 +12,7 @@ description: 'Les États-Unis se sont lancé un nouveau défi : éliminer de l�
   changement climatique. Un choix controversé. Explications.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

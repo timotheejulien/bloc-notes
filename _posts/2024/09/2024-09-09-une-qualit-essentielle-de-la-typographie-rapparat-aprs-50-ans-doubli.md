@@ -11,7 +11,7 @@ description: À l’époque de la typographie au plomb, il allait de soi que le 
   mise à jour d’Indesign.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

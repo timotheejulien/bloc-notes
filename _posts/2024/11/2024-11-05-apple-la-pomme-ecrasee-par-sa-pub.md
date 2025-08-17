@@ -17,7 +17,7 @@ description: 'Dans ce spot publicitaire, une presse hydraulique écrase trompett
   se sont inversés. Désormais, l’intelligence artificielle nous plonge dans un monde
   angoissant. '
 language: fr
-categories: Vidéos
+categories: vidéos
 tags: apple publicité
 og-tags: apple publicité
 permalink: "/:categories/:year/:month/:day/:title/"

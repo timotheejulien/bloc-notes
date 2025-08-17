@@ -14,7 +14,7 @@ description: 'Le jeudi 2 février 2023, j’ai participé à un panel sur le th�
   moins de nature).'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - publicité

@@ -8,7 +8,7 @@ description: Chaque année, le 13 décembre marque la célébration de la Journ�
   de la raclette. Ce rendez-vous gastronomique met en lumière un plat emblématique
   des régions alpines, qui réchauffe les cœurs pendant l’hiver.
 language: fr
-categories: Liens
+categories: articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

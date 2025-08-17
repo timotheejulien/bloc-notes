@@ -9,7 +9,7 @@ description: The fundamental purpose of information architecture is to enable ef
   and intuitive labels. And we bring them together with sensible navigation design.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

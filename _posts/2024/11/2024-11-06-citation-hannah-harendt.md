@@ -11,7 +11,7 @@ published_date: Date N/A
 description: 
 language: fr
 categories:
-- Citations
+- citations
 tags: réflexion philosophie
 og-tags: réflexion philosophie
 permalink: "/:categories/:year/:month/:day/:title/"

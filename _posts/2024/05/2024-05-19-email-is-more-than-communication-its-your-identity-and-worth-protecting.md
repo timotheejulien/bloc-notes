@@ -9,7 +9,7 @@ description: With over 4 billion active users(new window) and around 350 million
   it has probably been 15 or 20 years since email has primarily been about communications.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - web

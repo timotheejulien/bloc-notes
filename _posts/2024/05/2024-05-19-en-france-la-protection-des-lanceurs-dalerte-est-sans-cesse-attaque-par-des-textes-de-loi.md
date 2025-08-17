@@ -11,7 +11,7 @@ description: Depuis 2022, la directive européenne dite de protection des lanceu
   en gomme les effets.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - législation

@@ -9,7 +9,7 @@ description: Après de longs mois de travail, votre service web conçu dans une 
   qui atteste ce que vous avez accompli. Nous avons rassemblé quelques conseils pour
   vous aider.
 language: fr
-categories: Liens
+categories: articles
 tags: design éco-conception
 og-tags: design éco-conception
 permalink: "/:categories/:year/:month/:day/:title/"

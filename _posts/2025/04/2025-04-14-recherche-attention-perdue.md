@@ -6,7 +6,7 @@ author: Ploum
 published_date: 14/04/2025
 description: ''
 language: fr
-categories: Liens
+categories: articles
 tags: signal numérique
 og-tags: signal numérique
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -7,7 +7,7 @@ published_date: 21/11/2024
 description: Et si nous promouvions une autre innovation ? Une innovation du quotidien
   qui privilégie la régénération plutôt que l’extraction ?
 language: fr
-categories: Liens
+categories: articles
 tags: numérique technologie
 og-tags: numérique technologie
 permalink: "/:categories/:year/:month/:day/:title/"

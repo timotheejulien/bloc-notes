@@ -14,7 +14,7 @@ description: 'Cette année, plusieurs journaux britanniques ont commencé à met
   pas ciblées sur vous.'
 language: fr
 categories:
-- Liens
+- articles
 tags: web publicité surveillance vie-privée
 og-tags: web publicité surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

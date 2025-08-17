@@ -15,7 +15,7 @@ description: Le Comité européen de la protection des données (CEPD) se pronon
   eux, la protection de la vie privée est déjà très coûteuse.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

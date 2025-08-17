@@ -12,7 +12,7 @@ description: Apple annonce que ses clients britanniques ne pourront plus activer
   en cause toute la sécurité de sa plateforme, Apple a manifestement trouvé un compromis
   en désactivant la protection avancée des données iCloud.
 language: fr
-categories: Liens
+categories: articles
 tags: apple chiffrement surveillance vie-privée
 og-tags: apple chiffrement surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

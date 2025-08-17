@@ -13,7 +13,7 @@ description: Une favicon personnalisée est un excellent moyen de peaufiner un p
   .ico bien compatibles et passer à un .svg si disponible.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 - icônes

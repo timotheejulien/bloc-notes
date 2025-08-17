@@ -11,7 +11,7 @@ description: 'La nouvelle peut sembler surréaliste, et elle l''est : le gouvern
   concitoyens.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - web

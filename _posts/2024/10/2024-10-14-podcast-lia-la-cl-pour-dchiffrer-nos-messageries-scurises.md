@@ -9,7 +9,7 @@ description: Ce nouvel épisode aborde les risques posés par l’essor des tech
   chiffrement
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - chiffrement

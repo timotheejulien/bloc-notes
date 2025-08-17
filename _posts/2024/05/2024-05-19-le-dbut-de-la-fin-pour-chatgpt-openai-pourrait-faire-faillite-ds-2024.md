@@ -9,7 +9,7 @@ description: ChatGPT demande énormément d'argent à OpenAI pour fonctionner, a
   Les pertes sont abyssales, et l'avenir d'OpenAI est même remis en cause.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - openai

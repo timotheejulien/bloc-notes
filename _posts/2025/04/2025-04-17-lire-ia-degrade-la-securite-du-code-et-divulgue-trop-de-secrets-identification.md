@@ -9,7 +9,7 @@ description: Les dépôts de code, issus d'un développement assisté par l'IA, 
   il ne s'agit là qu'un des nombreux problèmes auxquels sont confrontés les RSSI avec
   le code généré par l'IA.
 language: fr
-categories: Liens
+categories: articles
 tags: ia développement
 og-tags: ia développement
 permalink: "/:categories/:year/:month/:day/:title/"

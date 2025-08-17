@@ -7,7 +7,7 @@ published_date: 27/01/2025
 description: Ce que le passage d’une information largement textuelle à la vidéo change
   à la société.
 language: fr
-categories: Liens
+categories: articles
 tags: web tiktok
 og-tags: web tiktok
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -13,7 +13,7 @@ description: Imaginons que dans un futur plus ou moins proche, il nous sera impo
   de lire quelque chose et de vous rendre compte que c’est écrit par ChatGPT ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - design

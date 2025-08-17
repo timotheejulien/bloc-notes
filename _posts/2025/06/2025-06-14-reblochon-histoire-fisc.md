@@ -6,7 +6,7 @@ author: neo
 published_date: 23/02/2025
 description: "Saviez-vous que le Reblochon aurait été inventé pour échapper au fisc ? On vous explique !"
 language: fr
-categories: "Vidéos"
+categories: "vidéos"
 tags: "fromage"
 og-tags: "fromage"
 date: "2025-06-14T23:39:56+02:00"

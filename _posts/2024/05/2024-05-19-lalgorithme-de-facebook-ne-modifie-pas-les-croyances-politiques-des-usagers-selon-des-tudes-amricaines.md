@@ -9,7 +9,7 @@ description: 'Ces études, publiées dans les revues « Science » et « Natur
   été réalisées pendant l''élection présidentielle de 2020 aux Etats-Unis. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - gafam
 - réseau-social

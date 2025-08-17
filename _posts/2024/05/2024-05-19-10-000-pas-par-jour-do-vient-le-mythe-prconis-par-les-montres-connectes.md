@@ -10,7 +10,7 @@ description: On entend souvent que l’OMS préconiserait de faire 10 000 pas pa
   scientifique ? On fait le point.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - santé

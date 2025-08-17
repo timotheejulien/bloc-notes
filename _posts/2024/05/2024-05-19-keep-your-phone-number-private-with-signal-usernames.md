@@ -11,7 +11,7 @@ description: Signal’s mission and sole focus is private communication. For yea
   Signal more private.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

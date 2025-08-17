@@ -11,7 +11,7 @@ description: En 2015, les forces de l’ordre ont acquis, en secret, un logiciel
   de la reconnaissance faciale.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

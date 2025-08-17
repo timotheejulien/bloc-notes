@@ -7,7 +7,7 @@ published_date: 21/03/2024
 description: Je suis un geek addict. L’informatique est ma passion, ma drogue.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - web

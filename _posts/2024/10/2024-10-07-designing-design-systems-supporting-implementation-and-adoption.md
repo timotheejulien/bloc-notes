@@ -9,7 +9,7 @@ description: A design system can’t reach its full potential if no one’s usin
   guidance and ongoing support as the system evolves.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

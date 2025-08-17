@@ -16,7 +16,7 @@ description: " At the turn of the millennium, the widespread adoption of Microso
   we delve into the remarkable journey of Windows design."
 language: en
 categories:
-- Liens
+- articles
 tags: design ui ux microsoft
 og-tags: design ui ux microsoft
 permalink: "/:categories/:year/:month/:day/:title/"

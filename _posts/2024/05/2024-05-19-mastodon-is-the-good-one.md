@@ -9,7 +9,7 @@ description: Mastodon is interoperable, decentralized, operated by a nonprofit, 
   main Twitter alternative?
 language: en
 categories:
-- Liens
+- articles
 tags:
 - mastodon
 og-tags: mastodon

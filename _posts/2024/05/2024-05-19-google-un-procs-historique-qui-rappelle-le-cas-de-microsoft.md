@@ -9,7 +9,7 @@ description: Dans un mois, le géant du numérique passera sous les fourches cau
   de Microsoft, il y a bientôt vingt-cinq ans.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - google
 - gafam

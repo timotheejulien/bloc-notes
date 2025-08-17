@@ -16,7 +16,7 @@ description: 'Après trois années de questionnements, trois mois de suivi et 30
   pratiques légitimes. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - accessibilité

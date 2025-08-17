@@ -11,7 +11,7 @@ description: Quand j’ai écrit que Le web progressiste aurait intérêt à mig
   c’est TwitterX (dans le cas présent, je suis certain que demain ou après-demain,
   ce sera Bluesky), ou si ce n’est pas plutôt un certain type de réseaux sociaux numériques.
 language: fr
-categories: Liens
+categories: articles
 tags: mastodon x numérique réseau-social
 og-tags: mastodon x numérique réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

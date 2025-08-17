@@ -12,7 +12,7 @@ description: Le web a été totalement travesti ces dernières années, voire d�
   une supercherie, une fumisterie grotesque. Ce billet de blog a un gros côté « Team
   Vieux Cons », je préviens.
 language: fr
-categories: Liens
+categories: articles
 tags: web internet navigateur vie-privée merdification
 og-tags: web internet navigateur vie-privée merdification
 permalink: "/:categories/:year/:month/:day/:title/"

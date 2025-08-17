@@ -9,7 +9,7 @@ description: Promise « citoyenne et démocratique » ou « éthique et responsa
   de données et de bataille pour la visibilité. Spéculations de Quentin Pignon, fidèle
   lecteur d’Usbek & Rica.
 language: fr
-categories: Liens
+categories: articles
 tags: ia surveillance vie-privée consommation
 og-tags: ia surveillance vie-privée consommation
 permalink: "/:categories/:year/:month/:day/:title/"

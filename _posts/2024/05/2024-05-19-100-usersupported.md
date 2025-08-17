@@ -8,7 +8,7 @@ description: Why obsidian is 100% user-supported and not backed by venture capit
   investors.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - obsidian

@@ -7,7 +7,7 @@ published_date: "01/06:2025"
 description: "L’IA prétend sauver l’humanité, mais en réalité, elle l'assèche. Voici comment ChatGPT assoiffe cette population."
 language: "fr"
 categories: 
-   - Vidéos
+   - vidéos
 tags: "ia écologie"
 og-tags: "ia écologie"
 date: "2025-06-04 11:40:00 +0200"

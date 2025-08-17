@@ -19,7 +19,7 @@ description: "[Article initialement rédigé en Décembre 2023. Il a ensuite fai
   forcément dans le bon sens.]"
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - web

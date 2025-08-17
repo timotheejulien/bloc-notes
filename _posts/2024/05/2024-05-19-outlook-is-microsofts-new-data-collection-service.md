@@ -13,7 +13,7 @@ description: With Microsoft’s rollout of the new Outlook for Windows(new windo
   itself. Here’s how and why.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

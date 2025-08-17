@@ -10,7 +10,7 @@ description: Le code on le fait en anglais. Je ai eu ce débat quasi­ment dans 
   soit assez tran­ché — je peux au moins parta­ger les expé­riences.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - développement

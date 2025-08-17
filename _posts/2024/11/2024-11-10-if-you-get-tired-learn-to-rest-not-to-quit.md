@@ -7,7 +7,7 @@ published_date: Date N/A
 description: 
 language: en
 categories:
-- Citations
+- citations
 tags: réflexion
 og-tags: réflexion
 permalink: "/:categories/:year/:month/:day/:title/"

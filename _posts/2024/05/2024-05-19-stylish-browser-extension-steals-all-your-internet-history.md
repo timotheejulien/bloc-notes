@@ -15,7 +15,7 @@ description: Before it became a covert surveillance tool disguised as an outstan
   and unexplained ennui - up and down respectively.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - web

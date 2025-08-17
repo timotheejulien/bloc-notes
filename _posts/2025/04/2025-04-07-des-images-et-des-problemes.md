@@ -10,7 +10,7 @@ description: Tenir un blogue ou un site c’est se confronter très vite à la p
   et les outils souvent à côté de la plaque.
 language: fr
 categories:
-- Liens
+- articles
 tags: blog
 og-tags: blog
 permalink: "/:categories/:year/:month/:day/:title/"

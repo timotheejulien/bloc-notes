@@ -9,7 +9,7 @@ description: L'un des arguments de Mastodon, c'est que le service permet de dém
   quelques minutes, cette manipulation en quelques étapes (simples) n'aura plus de
   secrets pour vous.
 language: fr
-categories: Liens
+categories: articles
 tags: mastodon réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'

@@ -10,7 +10,7 @@ description: Dans un rapport parlementaire dévoilé mercredi, des députés for
   il y a un an la création d’un service dédié à l’IA.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - ia

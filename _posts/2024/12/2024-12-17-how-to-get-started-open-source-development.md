@@ -11,7 +11,7 @@ description: Stylized illustration of colorful code lines in red, orange, and wh
   of access and allows solutions to be tailored to varying nuanced contexts rather
   than applying a copy-paste approach
 language: en
-categories: Liens
+categories: articles
 tags: open-source méthodologie
 og-tags: open-source méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

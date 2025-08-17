@@ -8,7 +8,7 @@ published_date: 11/11/2024
 description: DeFlock has mapped the locations of more than a thousand ALPRs around
   the United States and thousands more around the world.
 language: en
-categories: Liens
+categories: articles
 tags: surveillance open-source
 og-tags: surveillance open-source
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: Le géant américain a lancé Llama 2, un nouveau modèle de langag
   le modèle en open source a selon lui plus d'avenir que le modèle fermé d'OpenAI.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - gafam

@@ -11,7 +11,7 @@ description: How to Move Your Instagram Feed to Pixelfed, the Photo App That Doe
   empire entirely. And making the leap is surprisingly easy.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

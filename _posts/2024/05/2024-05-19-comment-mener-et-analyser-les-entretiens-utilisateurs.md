@@ -9,7 +9,7 @@ description: Que vous soyez ou non familier avec les méthodologies de recherche
   de la préparation.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

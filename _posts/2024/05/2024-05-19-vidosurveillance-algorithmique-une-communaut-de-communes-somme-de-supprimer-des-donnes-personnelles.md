@@ -10,7 +10,7 @@ description: La communauté de communes normande de Cœur Côte Fleurie, qui com
   grâce au logiciel de vidéosurveillance algorithmique BriefCam.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - surveillance

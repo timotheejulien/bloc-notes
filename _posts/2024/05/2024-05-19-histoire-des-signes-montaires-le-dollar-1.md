@@ -9,7 +9,7 @@ description: Les signes monétaires sont universels, ils nous accompagnent dans 
   nous échappe parfois. Voyons pour commencer cette série l’histoire du dollar.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - font

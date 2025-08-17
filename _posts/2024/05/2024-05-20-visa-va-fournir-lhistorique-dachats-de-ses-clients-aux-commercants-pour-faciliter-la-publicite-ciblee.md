@@ -9,7 +9,7 @@ description: Visa va fournir l’historique d’achats de ses clients aux commer
   pour faciliter la publicité ciblée
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

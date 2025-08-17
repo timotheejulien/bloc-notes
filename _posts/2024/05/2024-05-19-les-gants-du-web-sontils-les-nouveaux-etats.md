@@ -11,7 +11,7 @@ description: Des entreprises comme Amazon, Google, Facebook, ont acquis un tel p
   les citoyens les utilisateurs.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

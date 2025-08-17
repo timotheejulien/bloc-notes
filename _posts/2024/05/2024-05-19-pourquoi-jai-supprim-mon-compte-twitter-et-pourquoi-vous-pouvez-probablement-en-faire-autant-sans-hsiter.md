@@ -12,7 +12,7 @@ description: Je suis complètement addict aux réseaux sociaux. Je suis complèt
   comme « @ploum » dans le premier slide de mes conférences.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 - x

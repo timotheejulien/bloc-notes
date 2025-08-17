@@ -9,7 +9,7 @@ description: Analyse. Vivre et travailler au pays des vacances, le slogan de La 
   territoire qui ne va pas sans tensions.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

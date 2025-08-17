@@ -7,7 +7,7 @@ published_date: 19/05/2024
 description: The BBC has introduced a new typeface. Learn how and why.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - font

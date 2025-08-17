@@ -7,7 +7,7 @@ published_date: 22/02/2025
 description: An exclusive ODESZA set designed for eight hours of focus—perfect for
   your innie’s workday.
 language: en
-categories: Vidéos
+categories: vidéos
 tags: musique
 og-tags: musique
 permalink: "/:categories/:year/:month/:day/:title/"

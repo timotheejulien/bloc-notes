@@ -11,7 +11,7 @@ description: Après avoir transformé internet avec le rgpd, l’Union européen
   tout jamais.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

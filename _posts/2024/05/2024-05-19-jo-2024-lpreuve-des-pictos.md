@@ -16,7 +16,7 @@ description: Ces pictogrammes représentent les disciplines des Jeux olympiques 
   depuis les Jeux olympiques de 1964.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - design
 - graphisme

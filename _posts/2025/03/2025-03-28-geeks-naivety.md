@@ -10,7 +10,7 @@ description: Ploum dénonce la naïveté des technophiles face aux pratiques de 
   source pour protéger la vie privée.
 language: en
 categories:
-- Liens
+- articles
 tags: amazon apple surveillance vie-privée
 og-tags: amazon apple surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

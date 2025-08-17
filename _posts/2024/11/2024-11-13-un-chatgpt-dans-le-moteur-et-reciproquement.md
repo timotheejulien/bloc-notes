@@ -10,7 +10,7 @@ description: 'Dans quel cycle historique inscrire ChatGPT ? Deux interprétation
   prolonge l’invention de Google, puis de Wikipédia. Mais ChatGPT se différencie aussi
   de ces deux acteurs car son processus de réécriture permanente n’est pas traçable.'
 language: fr
-categories: Liens
+categories: articles
 tags: ia numérique openai
 og-tags: ia numérique openai
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -11,7 +11,7 @@ description: Today, apple has launched apple Maps on the web in a surprise annou
   Maps on the web using MapKit JS.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - apple
 - web

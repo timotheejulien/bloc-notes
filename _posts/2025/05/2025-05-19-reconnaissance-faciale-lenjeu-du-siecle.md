@@ -6,7 +6,7 @@ author: Hubert Guillaud
 published_date: 10/02/2025
 description: "« Le plus grand danger de la reconnaissance faciale vient du fait qu’elle fonctionne plutôt très bien »."
 language: fr
-categories: "Liens"
+categories: "articles"
 tags: "surveillance vie-privée"
 og-tags: "surveillance vie-privée"
 date: "2025-05-19T13:41:40+02:00"

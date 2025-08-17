@@ -8,7 +8,7 @@ description: Comment l'IA et Windows 10 annulent les efforts de microsoft pour l
   climat - Standblog
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - microsoft

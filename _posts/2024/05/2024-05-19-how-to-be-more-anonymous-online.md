@@ -8,7 +8,7 @@ description: Being fully anonymous is next to impossible—but you can significa
   limit what the internet knows about you by sticking to a few basic rules.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

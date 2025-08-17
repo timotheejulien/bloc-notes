@@ -8,7 +8,7 @@ description: No, it’s not “nice to have”. A case study of the financial im
   smart design decisions in payment systems.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - méthodologie

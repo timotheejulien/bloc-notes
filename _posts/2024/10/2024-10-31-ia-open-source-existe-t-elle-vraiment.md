@@ -10,7 +10,7 @@ description: À l’heure où tous les mastodontes du numérique, gafam comme in
   de modèles déposés le mois dernier), la question du caractère « open-source » de
   l’IA se pose de plus en plus.
 language: fr
-categories: Liens
+categories: articles
 tags: ia open-source
 og-tags: ia open-source
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: À l’heure où le monde politico-médiatique fait l’objet d’u
   de Numerama, pointe « un risque fort de surveillance massive et de fichage de données
   sensibles ».
 language: fr
-categories: Liens
+categories: articles
 tags: web politique surveillance législation vie-privée internet
 og-tags: web politique surveillance législation vie-privée internet
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -11,7 +11,7 @@ description: Cet avis rendu mercredi par le Comité européen de la protection d
   accès à leurs données personnelles pour des publicités ciblées.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

@@ -10,7 +10,7 @@ description: Les Français pourraient prochainement voir leurs activités numér
   recherches effectuées sur les principales plateformes numériques, incluant google,
   tiktok et Instagram.
 language: fr
-categories: Liens
+categories: articles
 tags: législation politique vie-privée surveillance réseau-social
 og-tags: législation politique vie-privée surveillance réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

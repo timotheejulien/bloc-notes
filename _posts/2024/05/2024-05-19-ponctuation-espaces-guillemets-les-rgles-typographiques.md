@@ -9,7 +9,7 @@ description: Pour des documents bureautiques comme sur le Web, il est important 
   le meilleur moyen de présenter des écrits agréables à lire.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - typographie

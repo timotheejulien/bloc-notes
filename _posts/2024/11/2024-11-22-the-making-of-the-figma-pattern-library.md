@@ -9,7 +9,7 @@ description: UI3 prompted us to rebuild our own design system from the ground up
   building consistent, accessible products.
 language: en
 categories:
-- Liens
+- articles
 tags: figma design design-system ui
 og-tags: figma design design-system ui
 permalink: "/:categories/:year/:month/:day/:title/"

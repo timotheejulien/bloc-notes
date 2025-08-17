@@ -11,7 +11,7 @@ description: Le chant des baleines est-il un langage avec une véritable grammai
   aucun point de référence.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

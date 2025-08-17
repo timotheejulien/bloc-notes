@@ -19,7 +19,7 @@ description: Signal is the world’s most widely used truly private messaging ap
   and open to scrutiny—so you don’t have to take our word for it.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

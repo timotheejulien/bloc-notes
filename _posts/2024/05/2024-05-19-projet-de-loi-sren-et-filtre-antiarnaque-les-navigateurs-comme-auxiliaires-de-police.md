@@ -14,7 +14,7 @@ description: 'Le projet de loi visant à sécuriser et réguler l’espace numé
   que les fournisseurs de navigateurs Internet participent activement à cette censure.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

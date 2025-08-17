@@ -8,7 +8,7 @@ description: L'abonnement payant à facebook et Instagram est illégal, juge l'U
   européenne
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - surveillance
 - meta

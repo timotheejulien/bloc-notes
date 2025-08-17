@@ -9,7 +9,7 @@ description: Le milliardaire franco-russe de 39 ans faisait l’objet d’un man
   cryptée. Il devrait être présenté à la justice dimanche.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - réseau-social

@@ -6,7 +6,7 @@ author: Andrew Griffin
 published_date: 14/05/2025
 description: "Artificial intelligence systems start to create societies when they are left alone, experts have found."
 language: en
-categories: "Liens"
+categories: "articles"
 tags: "ia"
 og-tags: "ia"
 date: "2025-05-19T15:40:32+02:00"

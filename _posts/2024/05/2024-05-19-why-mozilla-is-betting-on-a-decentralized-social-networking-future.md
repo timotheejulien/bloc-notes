@@ -12,7 +12,7 @@ description: Consumers are hungry for a new way of social networking, where trus
   like Mastodon, that communicate with one another over the ActivityPub protocol.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - mozilla
 - réseau-social

@@ -11,7 +11,7 @@ description: Thierry Murat, 55 ans, a fait le choix de se tourner vers un logici
   de son éditeur.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - art

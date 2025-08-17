@@ -8,7 +8,7 @@ description: YouTube has confirmed that it has ‘launched a global effort’ to
   down on ad blockers.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - google

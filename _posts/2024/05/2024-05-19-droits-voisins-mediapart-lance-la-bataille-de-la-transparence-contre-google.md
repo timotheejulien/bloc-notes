@@ -10,7 +10,7 @@ description: En raison des clauses de confidentialité imposées par google, Med
   uni du secteur est plus que jamais nécessaire.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - google

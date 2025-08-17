@@ -9,7 +9,7 @@ description: Ça y est, tout le monde a généré sa petite image Ghibli et s’
   problèmes, ou bien ?
 language: fr
 categories:
-- Liens
+- articles
 tags: ia
 og-tags: ia
 permalink: "/:categories/:year/:month/:day/:title/"

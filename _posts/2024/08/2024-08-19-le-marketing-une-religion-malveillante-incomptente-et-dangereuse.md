@@ -9,7 +9,7 @@ description: Le marketing est devenu une religion. Un ensemble d’actions que l
   c’est profondément stupide.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - numérique
 - marketing

@@ -11,7 +11,7 @@ description: 'Cet accord pluriannuel, le premier entre un média français et un
   de revenus supplémentaires. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - données-personnelles

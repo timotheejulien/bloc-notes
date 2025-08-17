@@ -16,7 +16,7 @@ description: '2005, une année qui aurait dû bouleverser la France, rendre le n
   choisir entre le numérique responsable et l’intelligence artificielle qui pourrait
   enfin rendre accessible ce que les humains n’ont pas réussi à faire jusqu’à présent ?'
 language: fr
-categories: Liens
+categories: articles
 tags: design ia accessibilité web développement
 og-tags: design ia accessibilité web développement
 permalink: "/:categories/:year/:month/:day/:title/"

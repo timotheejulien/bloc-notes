@@ -8,7 +8,7 @@ description: Product designer Anna Shapovaliuk explains how her team used metaph
   to reimagine the look and feel of Zalando’s designer experience.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

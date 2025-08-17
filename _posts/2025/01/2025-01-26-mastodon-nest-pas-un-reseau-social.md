@@ -10,7 +10,7 @@ description: Si on pense Mastodon comme un réseau social, on n’y com­prend r
   hors-ligne.
 language: fr
 categories:
-- Liens
+- articles
 tags: réseau-social mastodon
 og-tags: réseau-social mastodon
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: Sélectionner des embryons pour obtenir des enfants plus intelligen
   les embryons selon leur génome, en se basant notamment sur des critères de QI. Un
   procédé qui n'est pas sans soulever des questions.
 language: fr
-categories: Liens
+categories: articles
 tags: science santé
 og-tags: science santé
 permalink: "/:categories/:year/:month/:day/:title/"

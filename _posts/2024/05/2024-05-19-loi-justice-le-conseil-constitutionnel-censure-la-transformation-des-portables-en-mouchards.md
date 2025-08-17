@@ -10,7 +10,7 @@ description: Le Conseil constitutionnel estime ce jeudi 16 novembre que l’acti
   personnes à leur insu porte «atteinte» au «respect de la vie privée».
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

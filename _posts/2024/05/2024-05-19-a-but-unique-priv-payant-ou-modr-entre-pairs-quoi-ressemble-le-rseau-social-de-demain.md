@@ -12,7 +12,7 @@ description: 'La plateforme sociale globale est morte, vive le réseau social pl
   et d’algorithmes manipulateurs. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 og-tags: Réseau social

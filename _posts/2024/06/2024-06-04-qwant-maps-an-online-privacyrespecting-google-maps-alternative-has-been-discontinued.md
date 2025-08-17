@@ -15,7 +15,7 @@ description: Earlier this month, Qwant Maps, a free and privacy-respecting onlin
   may not be well-received by all users.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 og-tags: app

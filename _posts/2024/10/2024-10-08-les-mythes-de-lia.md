@@ -9,7 +9,7 @@ description: Les discours autour de l’IA produisent des mythes qui influencent
   pour mieux influer les transformations légales à venir.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - technologie
 - algorithme

@@ -11,7 +11,7 @@ description: 'Une main pour déplacer un élément, une poubelle pour jeter des 
   des fonctions complexes en visuels compréhensifs pour tous. Voici Susan Kare, l’une
   des pionnières du Pixel Art et précurseuse des émojis.'
 language: fr
-categories: Liens
+categories: articles
 tags: design graphisme
 og-tags: design graphisme
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -11,7 +11,7 @@ description: Espérer que les rapports marchands puissent être responsables est
   du capitalisme responsable (Payot, 2022), et à Sébastien Kopp, cofondateur de la
   marque de baskets éthiques Veja, de croiser leurs regards sur la question.
 language: fr_FR
-categories: Liens
+categories: articles
 tags: société économie
 og-tags: société économie
 permalink: "/:categories/:year/:month/:day/:title/"

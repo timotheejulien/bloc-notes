@@ -7,7 +7,7 @@ published_date: 15/12/2024
 description: Quelques alternatives pour un ami qui a fait du HTML et du CSS, qui peut
   improviser un peu de JS et connaît le principe des templates.
 language: fr
-categories: Liens
+categories: articles
 tags: auto-hébergement posse développement
 og-tags: auto-hébergement posse développement
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -8,7 +8,7 @@ description: Building an advanced design system for true white-label products wi
   full control over colours, typography and visual styles
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

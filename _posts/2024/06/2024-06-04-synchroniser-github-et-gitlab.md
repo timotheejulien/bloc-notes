@@ -11,7 +11,7 @@ description: Pour des raisons techniques, j’ai eu besoin de cloner un repo exi
   que la synchronisation en GET est réservée aux comptes Gitlab PREMIUM (payant).
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - développement
 og-tags: développement

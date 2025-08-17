@@ -6,7 +6,7 @@ author: Luc
 published_date: 01/01/2021
 description: Non, ça ne va pas parler de technique aujourd’hui.
 language: fr
-categories: Liens
+categories: articles
 tags: santé
 og-tags: santé
 permalink: "/:categories/:year/:month/:day/:title/"

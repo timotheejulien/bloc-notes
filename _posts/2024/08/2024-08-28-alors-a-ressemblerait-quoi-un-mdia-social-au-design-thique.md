@@ -10,7 +10,7 @@ description: Comment voir émerger des médias sociaux vertueux ? Actuellement, 
   des alternatives s’adaptant aux problématiques sociales et démocratiques.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - réseau-social

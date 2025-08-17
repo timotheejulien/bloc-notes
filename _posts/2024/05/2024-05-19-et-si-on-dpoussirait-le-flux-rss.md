@@ -13,7 +13,7 @@ description: Et si on dépoussiérait le flux RSS, une technologie qui existe de
   cet article. "
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 - technologie

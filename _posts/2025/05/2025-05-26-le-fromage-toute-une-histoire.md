@@ -7,7 +7,7 @@ published_date: "01/03/2024"
 description: "Le fromage, ce n’est pas que de la gastronomie, c’est aussi de l’histoire ! En compagnie d’Éric Birlouez, ingénieur agronome et sociologue, Virginie Girod suit la piste odorante au travers des âges de ce produit qui fait la fierté des tables françaises."
 language: "fr"
 categories: 
-   - Liens
+   - articles
 tags: "fromage"
 og-tags: "fromage"
 date: "2025-05-26 13:57:00 +0200"

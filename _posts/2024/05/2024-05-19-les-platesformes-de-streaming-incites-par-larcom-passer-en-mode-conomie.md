@@ -9,7 +9,7 @@ description: Les diffuseurs sont invités à mieux informer leurs utilisateurs s
   (télévision, box Internet, box TV) lorsqu’ils sont inutilisés.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - web

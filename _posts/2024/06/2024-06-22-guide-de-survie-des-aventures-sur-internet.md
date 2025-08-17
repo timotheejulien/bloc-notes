@@ -7,7 +7,7 @@ published_date: 29/12/2024
 description: Comment protéger ses libertés en milieu numérique « hostile »
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

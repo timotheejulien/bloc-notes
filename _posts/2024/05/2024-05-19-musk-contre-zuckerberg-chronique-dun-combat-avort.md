@@ -9,7 +9,7 @@ description: Le match de « mixed martial arts » (MMA) entre les deux patrons a
   et le PDG de Meta, à sa manière, remporte une victoire en forme de K.-O. technique.
 language: fr
 categories:
-- Liens
+- articles
 tags: facebook web
 og-tags: facebook web
 permalink: "/:categories/:year/:month/:day/:title/"

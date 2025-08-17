@@ -14,7 +14,7 @@ description: For years, I viewed accessible design as a set of boring and restri
   that accessible design isn't just about adhering to technical guidelines - it's
   about creating products that work for anyone, in any situation.
 language: en
-categories: Liens
+categories: articles
 tags: design ux ui accessibilité
 og-tags: design ux ui accessibilité
 permalink: "/:categories/:year/:month/:day/:title/"

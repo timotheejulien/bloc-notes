@@ -17,7 +17,7 @@ description: 'In the ever-changing world of product management, two key roles st
   to illustrate this contribution.'
 language: en
 categories:
-- Liens
+- articles
 tags: travail design méthodologie
 og-tags: travail design méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

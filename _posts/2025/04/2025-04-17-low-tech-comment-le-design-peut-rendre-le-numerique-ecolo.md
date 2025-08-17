@@ -8,7 +8,7 @@ description: Moins d’images sur le web, éviter l’obsolescence des appareils
   le recours aux serveurs... Le numérique peut être plus écologique. De nombreux leviers
   low-tech existent.
 language: fr
-categories: Liens
+categories: articles
 tags: design ux éco-conception low-tech
 og-tags: design ux éco-conception low-tech
 permalink: "/:categories/:year/:month/:day/:title/"

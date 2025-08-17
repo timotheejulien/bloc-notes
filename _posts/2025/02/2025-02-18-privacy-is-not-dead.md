@@ -13,7 +13,7 @@ description: In my work as a privacy advocate, I regularly encounter two types o
   it die.
 language: en
 categories:
-- Liens
+- articles
 tags: vie-privée
 og-tags: vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -13,7 +13,7 @@ description: Every article in our “Choosing type” section aims to be a usefu
   original, or anything in between, this checklist can act as a universal guide.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - font

@@ -8,7 +8,7 @@ description: New technology is not just making shopping more challenging for wor
   and consumers—it’s poised to rip off the most vulnerable.
 language: en
 categories:
-- Liens
+- articles
 tags: surveillance consommation vie-privée économie
 og-tags: surveillance consommation vie-privée économie
 permalink: "/:categories/:year/:month/:day/:title/"

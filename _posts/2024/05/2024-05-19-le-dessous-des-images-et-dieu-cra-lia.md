@@ -19,7 +19,7 @@ description: 'Deux êtres qui se saluent du bout de l''index, un fond bleuté, d
   proches de la réalité !'
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - ia
 - graphisme

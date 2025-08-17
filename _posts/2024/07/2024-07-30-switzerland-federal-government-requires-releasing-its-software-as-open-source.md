@@ -8,7 +8,7 @@ description: " The United States remains reluctant to work with open source, but
   countries are bolder."
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - open-source

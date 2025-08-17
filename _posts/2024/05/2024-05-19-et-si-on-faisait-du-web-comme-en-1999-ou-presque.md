@@ -13,7 +13,7 @@ description: 'Il est 22h. Dans la nuit guadeloupéenne bruyante des chants des i
   et c’est parti, à la vitesse supersonique de 33,6 kilobits par seconde !'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 - technologie

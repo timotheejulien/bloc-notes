@@ -10,7 +10,7 @@ description: Une note publiée le 28 juillet dernier par le service statistique 
   leçons à retenir de cette synthèse.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - consommation

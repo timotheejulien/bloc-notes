@@ -10,7 +10,7 @@ description: Malgré l’opposition des pêcheurs riverains, les autorités ente
   pays voisins.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

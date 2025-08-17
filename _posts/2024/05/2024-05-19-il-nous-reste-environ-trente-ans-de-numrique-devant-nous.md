@@ -11,7 +11,7 @@ description: Et si bonheur rimait avec sobriété ? Pour la militante écosoci
   et notre bien-être. Entretien.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - technologie

@@ -17,7 +17,7 @@ description: Depuis le 25 octobre dernier, le Conseil ne poste plus sur X. Nous 
   réseau social a bondi, marquant un sursaut similaire au moment où Elon Musk avait
   acquis Twitter.
 language: fr
-categories: Liens
+categories: articles
 tags: réseau-social numérique x
 og-tags: réseau-social numérique x
 permalink: "/:categories/:year/:month/:day/:title/"

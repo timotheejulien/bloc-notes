@@ -10,7 +10,7 @@ description: 'Des chercheurs de l’université de Zurich ont analysé pendant t
   plutôt qu’à l’anonymat sur Internet ne diminue pas l’agressivité.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - réseau-social

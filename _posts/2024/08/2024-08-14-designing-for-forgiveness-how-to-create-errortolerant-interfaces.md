@@ -8,7 +8,7 @@ description: Exploring how to design interfaces that feel intuitive and forgivin
   even when users make mistakes.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

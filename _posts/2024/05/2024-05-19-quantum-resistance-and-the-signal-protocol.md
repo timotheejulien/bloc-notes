@@ -11,7 +11,7 @@ description: The Signal Protocol is a set of cryptographic specifications that p
   Protocol can be found in the specifications section of our docs site.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - hacking

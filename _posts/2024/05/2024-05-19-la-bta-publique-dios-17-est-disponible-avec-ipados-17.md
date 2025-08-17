@@ -10,7 +10,7 @@ description: Apple vient de lancer la première bêta publique d'iOS 17, qui off
   que dans cette actualité dédiée à la bêta 3.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - apple
 og-tags: apple

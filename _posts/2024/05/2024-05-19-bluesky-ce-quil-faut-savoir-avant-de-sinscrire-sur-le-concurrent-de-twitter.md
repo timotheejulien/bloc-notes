@@ -9,7 +9,7 @@ description: Encore inconnue il y a quelques mois, la plate-forme, actuellement 
   de X (anciennement Twitter).
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 - mastodon

@@ -12,7 +12,7 @@ description: 'There’s an increasing chasm dividing the modern web. On one side
   titles.'
 language: en
 categories:
-- Liens
+- articles
 tags:
 - web
 - technologie

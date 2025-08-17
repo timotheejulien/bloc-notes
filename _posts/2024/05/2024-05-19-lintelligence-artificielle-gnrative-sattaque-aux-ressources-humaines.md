@@ -10,7 +10,7 @@ description: Popularisée par le robot conversationnel ChatGPT, l’IA générat
   l’avenir des métiers.
 language: fr
 categories:
-- Liens
+- articles
 tags: openai ia
 og-tags: openai ia
 permalink: "/:categories/:year/:month/:day/:title/"

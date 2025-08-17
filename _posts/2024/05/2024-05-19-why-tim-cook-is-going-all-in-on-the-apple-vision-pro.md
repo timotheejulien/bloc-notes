@@ -10,7 +10,7 @@ description: Inside Apple Park, the tech giant’s CEO talks about the genesis o
   your average iPhone user drop $3,500 on a headset?
 language: en
 categories:
-- Liens
+- articles
 tags:
 - apple
 - device

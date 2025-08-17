@@ -9,7 +9,7 @@ description: Pour être informé·e des mises à jour de contenu sur internet, R
   suivre vos chaînes favorites ? Il est facile d’y remédier.
 language: fr
 categories:
-- Liens
+- articles
 tags: youtube rss
 og-tags: youtube rss
 permalink: "/:categories/:year/:month/:day/:title/"

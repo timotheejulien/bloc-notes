@@ -9,7 +9,7 @@ description: Welcome to Drams, where Framer components meet Dieter Rams' timeles
   for a chance to be featured. Join us in shaping the future of less, but better.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

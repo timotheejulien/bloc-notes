@@ -18,7 +18,7 @@ description: 'Cela fait des années que la journaliste indépendante Liz Pelly o
   compositeurs (Cisac) annonce la chute de la rémunération des artistes et le déferlement
   à venir de la musique générée par IA'
 language: fr
-categories: Liens
+categories: articles
 tags: app musique vie-privée
 og-tags: app musique vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

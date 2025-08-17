@@ -10,7 +10,7 @@ description: WhatsApp a mis à jour sa politique de confidentialité lundi (17 j
   des données.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - whatsapp

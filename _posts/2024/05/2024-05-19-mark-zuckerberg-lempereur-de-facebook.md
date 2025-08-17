@@ -26,7 +26,7 @@ description: 'C''est l''histoire d''un enfant prodige passionné par la toute-pu
   ces vingt dernières années.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - meta

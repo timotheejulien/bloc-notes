@@ -11,7 +11,7 @@ description: Lorsque nous débattons, nous avons tendance à considérer que les
   sur Internet sait qu’il n’en est rien. Tout le monde campe sur ses positions. Mais
   pourquoi donc ?
 language: fr
-categories: Liens
+categories: articles
 tags: société psychologie
 og-tags: société psychologie
 permalink: "/:categories/:year/:month/:day/:title/"

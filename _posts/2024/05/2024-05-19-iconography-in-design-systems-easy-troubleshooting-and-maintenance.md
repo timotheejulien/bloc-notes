@@ -12,7 +12,7 @@ description: No matter how sick you might be dealing with unending visual incons
   and maintenance into an enjoyable process.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

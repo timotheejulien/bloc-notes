@@ -14,7 +14,7 @@ description: Dans l'univers du design et de la conception, les animations jouent
   la qualité de leurs conceptions.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - figma

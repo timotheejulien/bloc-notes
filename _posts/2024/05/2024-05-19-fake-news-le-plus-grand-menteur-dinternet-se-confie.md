@@ -9,7 +9,7 @@ description: Depuis plus de vingt ans, Tommaso Debenedetti piège les médias av
   Il s'en explique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - hacking
 - société

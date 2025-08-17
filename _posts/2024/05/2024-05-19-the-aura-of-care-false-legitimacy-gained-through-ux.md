@@ -11,7 +11,7 @@ description: In November 2022, Brian Chesky, CEO of Airbnb, began a tweet thread
   about a change that could be made urgently in a day, or carefully over a few.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

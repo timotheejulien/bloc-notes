@@ -13,7 +13,7 @@ description: Le déploiement à marche forcée des services d'IA générative po
   de +25 % de construction de nouveaux centres de données.
 language: fr
 categories:
-- Liens
+- articles
 tags: ia design
 og-tags: ia design
 permalink: "/:categories/:year/:month/:day/:title/"

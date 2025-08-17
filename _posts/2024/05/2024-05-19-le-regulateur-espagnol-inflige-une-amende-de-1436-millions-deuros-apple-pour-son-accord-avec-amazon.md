@@ -13,7 +13,7 @@ description: Apple risque de mettre la main au porte-monnaie dans le cadre de so
   pour les très petites entreprises.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - gafam
 - apple

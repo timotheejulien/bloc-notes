@@ -8,7 +8,7 @@ description: Before you settle on basing design decisions on a handful of strict
   make sure you consider the vast fragmentation of screen sizes and browser viewports.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

@@ -7,7 +7,7 @@ published_date: 21/08/2024
 description: The Dying web | Matthias Endler
 language: en
 categories:
-- Liens
+- articles
 tags:
 - firefox
 - web

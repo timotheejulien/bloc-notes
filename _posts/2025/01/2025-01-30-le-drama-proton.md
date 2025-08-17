@@ -12,7 +12,7 @@ description: 'Il faut se calmer avec le #drama #Proton. Andy Yen le propriétair
   les républicains qui jouent aujourd’hui ce rôle, le tout en citant un message de
   Trump.'
 language: fr
-categories: Liens
+categories: articles
 tags: app proton
 og-tags: app proton
 permalink: "/:categories/:year/:month/:day/:title/"

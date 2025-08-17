@@ -13,7 +13,7 @@ description: A new report says that personal information sold by data brokers is
   roles…
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

@@ -7,7 +7,7 @@ published_date: '08/11/2023'
 description: Comment le jugement antitrust de Google pourrait nuire à Mozilla et ce
   que nous devons tous faire pour l'aider !
 language: fr
-categories: Liens
+categories: articles
 tags: google firefox app mozilla
 og-tags: google firefox app mozilla
 permalink: "/:categories/:year/:month/:day/:title/"

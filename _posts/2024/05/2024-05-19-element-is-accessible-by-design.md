@@ -11,7 +11,7 @@ description: "At Element, our mission is to provide secure communications to all
   or products are not accessible, it limits certain users’ ability to fully participate."
 language: en
 categories:
-- Liens
+- articles
 tags:
 - app
 - design

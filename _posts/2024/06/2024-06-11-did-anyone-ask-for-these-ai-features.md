@@ -8,7 +8,7 @@ description: I wasn't going to say anything about WWDC. I wasn't going to say an
   about WWDC. But, did anyone actually ask for these AI features?
 language: en
 categories:
-- Liens
+- articles
 tags:
 - ia
 - design

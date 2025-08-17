@@ -10,7 +10,7 @@ description: 'Ces derniers mois, j’ai accompagné beaucoup d’équipes qui se
   j’ai les idées plus claires, et je suis capable de répondre bien plus précisément…'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - accessibilité

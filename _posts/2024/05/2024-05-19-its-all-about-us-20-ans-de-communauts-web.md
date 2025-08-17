@@ -18,7 +18,7 @@ description: Je pourrais dire que la déliquescence de Twitter depuis l’arriv�
   ne fonctionnaient pas du tout… (à dans un an pour la suite peut-être ?)
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 og-tags: web

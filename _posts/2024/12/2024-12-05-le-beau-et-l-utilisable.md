@@ -11,7 +11,7 @@ description: Le beau et l’utilisable sont souvent deux notions qui sont mises 
   ce qu’en pense le graphiste ou le directeur artistiques qui l’ont conçue. C’est
   bien du point de vue de l’utilisateur final dont je vais vous parler.
 language: fr
-categories: Liens
+categories: articles
 tags: design ui ux
 og-tags: design ui ux
 permalink: "/:categories/:year/:month/:day/:title/"

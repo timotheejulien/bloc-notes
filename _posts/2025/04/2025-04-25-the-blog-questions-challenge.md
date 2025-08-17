@@ -9,7 +9,7 @@ description: This challenge has been recently making rounds on the Internet and 
   I figured that I want to, as well. So this is me answering a set of questions about
   how and why I blog on this website.
 language: en
-categories: Liens
+categories: articles
 tags: blog
 og-tags: blog
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: Savez-vous que l’information factuelle n’est guère efficace po
   individus ? La recherche actuelle en psychologie s’attaque à ces problèmes cruciaux.
   Petit tour d’horizon de solutions présentées dans une conférence récente.
 language: fr
-categories: Liens
+categories: articles
 tags: science psychologie société
 og-tags: science psychologie société
 permalink: "/:categories/:year/:month/:day/:title/"

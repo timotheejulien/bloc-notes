@@ -10,7 +10,7 @@ description: 'C’est #givingtuesday (« jour des dons »), donc nous vous offro
   une alternative à Youtube et Twitch.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - web

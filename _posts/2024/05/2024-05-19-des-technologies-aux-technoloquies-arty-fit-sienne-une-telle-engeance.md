@@ -10,7 +10,7 @@ description: Je suis en train de préparer ma prochaine conférence sur le thèm
   la semaine prochaine.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 og-tags: ia

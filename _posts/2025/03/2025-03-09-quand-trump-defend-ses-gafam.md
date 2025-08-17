@@ -11,7 +11,7 @@ description: 'Le 21 février 2025, le président des États-Unis a signé une no
   pour leur expansion économique, au détriment du « bien-être de la Nation », de la
   souveraineté et des emplois américains.'
 language: fr
-categories: Liens
+categories: articles
 tags: gafam
 og-tags: gafam
 permalink: "/:categories/:year/:month/:day/:title/"

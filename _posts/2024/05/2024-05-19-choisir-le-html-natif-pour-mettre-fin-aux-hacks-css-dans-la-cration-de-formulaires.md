@@ -10,7 +10,7 @@ description: Le besoin de prendre le contrôle de l’apparence d’éléments n
   identique aux maquettes.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

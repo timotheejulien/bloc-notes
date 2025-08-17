@@ -8,7 +8,7 @@ description: Possibilité d'avoir accès à pleins de médias via un abonnement 
   à la BNF
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - presse
 - culture

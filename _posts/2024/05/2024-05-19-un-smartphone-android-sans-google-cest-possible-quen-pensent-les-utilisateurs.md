@@ -11,7 +11,7 @@ description: 'Graphene, Lineage, Calyx, /e/ou Iodé : les systèmes d’exploita
   ? '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - google
 - android

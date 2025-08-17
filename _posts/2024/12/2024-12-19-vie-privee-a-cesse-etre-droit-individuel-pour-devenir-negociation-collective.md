@@ -8,7 +8,7 @@ published_date: N/A
 description: 
 language: fr
 categories:
-- Citations
+- citations
 tags: vie-privée surveillance
 og-tags: vie-privée surveillance
 permalink: "/:categories/:year/:month/:day/:title/"

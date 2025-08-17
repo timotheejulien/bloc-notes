@@ -11,7 +11,7 @@ description: Chaque mercredi, les abonnés Numerama+ découvrent la newsletter T
   c’est l’exode de X qui est questionné.
 language: fr
 categories:
-- Liens
+- articles
 tags: x réseau-social
 og-tags: x réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

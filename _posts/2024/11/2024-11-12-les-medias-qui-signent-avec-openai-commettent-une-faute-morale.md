@@ -11,7 +11,7 @@ description: Associated Press, Le Monde, The Atlantic… Les médias ont-ils rai
   et l’universitaire Marius Bertolucci pour en discuter.
 language: fr
 categories:
-- Liens
+- articles
 tags: ia presse journalisme openai
 og-tags: ia presse journalisme openai
 permalink: "/:categories/:year/:month/:day/:title/"

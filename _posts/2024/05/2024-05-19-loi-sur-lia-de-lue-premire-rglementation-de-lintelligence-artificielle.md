@@ -9,7 +9,7 @@ description: L'utilisation de l'intelligence artificielle dans l'UE sera réglem
   elle vous protégera.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - législation

@@ -11,7 +11,7 @@ description: Apple a lancé ce soir SF Symbols 5, la révision annuelle de son j
   d'animations.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - apple
 - design

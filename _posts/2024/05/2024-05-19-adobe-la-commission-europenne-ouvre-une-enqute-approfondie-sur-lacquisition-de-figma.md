@@ -12,7 +12,7 @@ description: "« Adobe sort le carnet de chèques pour étouffer la concurrence 
   « une enquête approfondie » sur ce projet d’acquisition."
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - design

@@ -9,7 +9,7 @@ description: Notre capacité d’attention souffre de nos multiples outils de co
   et du multitasking. Des menaces que les scientifiques cherchent à mieux cerner.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - technologie

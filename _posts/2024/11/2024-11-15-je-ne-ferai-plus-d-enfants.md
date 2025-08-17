@@ -8,7 +8,7 @@ description: Je ne ferai plus d’enfants. J’ai 37 ans, et je viens de passer 
   pour une vasectomie. Une page se tourne.
 language: fr
 categories:
-- Liens
+- articles
 tags: santé
 og-tags: santé
 permalink: "/:categories/:year/:month/:day/:title/"

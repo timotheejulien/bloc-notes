@@ -10,7 +10,7 @@ description: Bugs and development go hand in hand. As code matures, it contends 
   come with lurking JavaScript errors.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - open-source
 og-tags: Open source

@@ -12,7 +12,7 @@ description: Vous devez le savoir, en matière de facturation, le papier vit ses
   des «vraies» factures conformes sous format électronique. D’ailleurs, chez Dougs,
   on travaille déjà sur le sujet, on vous explique tout !
 language: fr
-categories: Liens
+categories: articles
 tags: freelance
 og-tags: freelance
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -9,7 +9,7 @@ description: 'Le moteur de recherche envisageait de rendre invisibles certains a
   de jeudi. Le tribunal de commerce de Paris lui a ordonné de renoncer à ce projet. '
 language: fr
 categories:
-- Liens
+- articles
 tags: google législation presse journalisme
 og-tags: google législation presse journalisme
 permalink: "/:categories/:year/:month/:day/:title/"

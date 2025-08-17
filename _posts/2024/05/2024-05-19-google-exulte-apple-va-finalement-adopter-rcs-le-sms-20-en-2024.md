@@ -9,7 +9,7 @@ description: Après l'avoir ostensiblement ignoré pendant des années, Apple va
   en 2024.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - android
 - messagerie

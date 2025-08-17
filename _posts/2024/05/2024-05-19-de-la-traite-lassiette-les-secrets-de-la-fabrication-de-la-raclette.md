@@ -9,7 +9,7 @@ description: 'Comment la Raclette est fabriquée ? Très bonne question ! On vou
   à l’affinage des fromages, ON VOUS DIT TOUT.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - fromage
 og-tags: fromage

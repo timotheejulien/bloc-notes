@@ -13,7 +13,7 @@ description: S’il y’a bien un logiciel propriétaire difficile à lâcher, c
   je propose une explication et une analyse des solutions libres.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - google

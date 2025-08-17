@@ -7,7 +7,7 @@ published_date: 25/07/2024
 description: A process for creating a unified brand experience through iconography
 language: en
 categories:
-- Liens
+- articles
 tags: design design-system icônes
 og-tags: design design-system icônes
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -13,7 +13,7 @@ description: Le numérique représente 10 % de la consommation d’électricité
   dans une tribune dans Les Échos à « un pilotage européen des impacts environnementaux
   du numérique ».
 language: fr
-categories: Liens
+categories: articles
 tags: ia numérique écologie
 og-tags: ia numérique écologie
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -13,7 +13,7 @@ description: Des journalistes de CBC News ont découvert que 9 des 16 technicien
   un mode réparation se prépare enfin.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - hacking

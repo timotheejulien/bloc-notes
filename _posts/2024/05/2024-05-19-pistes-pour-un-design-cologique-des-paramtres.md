@@ -10,7 +10,7 @@ description: |-
   Ces idées ne cherchent pas non plus à simplement réduire directement la consommation d’une application, mais s’intéressent aussi à la manière dont le paramétrage conditionne nos usages numériques et nous permet d’en comprendre leurs effets ou changer notre rapport au vieillissement, à la qualité, à la performance.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - éco-conception

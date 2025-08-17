@@ -13,7 +13,7 @@ description: 'Les discussions viennent de recommencer à l’Assemblée national
   et en particulier Bruno Retailleau. Concernant le chiffrement, celui-ci n’hésite
   pas à aligner les mensonges pour justifier la disposition. Petite (re)mise au point.'
 language: fr
-categories: Liens
+categories: articles
 tags: chiffrement surveillance législation vie-privée
 og-tags: chiffrement surveillance législation vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

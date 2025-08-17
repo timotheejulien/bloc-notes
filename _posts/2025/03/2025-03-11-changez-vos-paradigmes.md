@@ -8,7 +8,7 @@ description: |-
   Il faut se passer de voiture pendant un certain temps pour réellement comprendre au plus profond de soi que la solution à beaucoup de nos problèmes sociétaux n’est pas une voiture électrique, mais une ville cyclable.
   Nous ne devons pas chercher des « alternatives équivalentes » à ce que nous offre le marché, nous devons changer les paradigmes, les fondements. Si on ne change pas le problème, si on ne revoit pas en profondeur nos attentes et nos besoins, on obtiendra toujours la même solution.
 language: fr
-categories: Liens
+categories: articles
 tags: app numérique
 og-tags: app numérique
 permalink: "/:categories/:year/:month/:day/:title/"

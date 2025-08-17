@@ -14,7 +14,7 @@ description: Google has rolled out « Privacy Sandbox », a Chrome feature fir
   internet use for Google’s behavioral advertising.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - google

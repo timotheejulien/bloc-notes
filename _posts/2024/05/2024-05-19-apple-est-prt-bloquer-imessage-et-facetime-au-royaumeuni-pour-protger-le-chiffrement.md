@@ -11,7 +11,7 @@ description: Apple est très critique contre la dernière initiative du Royaume-
   législatives de Londres passent.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - gafam

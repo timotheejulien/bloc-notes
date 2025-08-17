@@ -10,7 +10,7 @@ description: 'Deux choses sont à retenir : Le feu arrière « ne doit pas être
   même caractéristique que ceux du vélo. Autrement dit, vous pouvez avoir un gilet
   ou un casque avec un feu blanc fixe à l’avant et un feu rouge fixe à l’arrière.'
 language: fr
-categories: Liens
+categories: articles
 tags: vélo législation
 og-tags: vélo législation
 permalink: "/:categories/:year/:month/:day/:title/"

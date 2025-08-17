@@ -7,7 +7,7 @@ published_date: 29/08/2023
 description: How we created an international type library for everyone, everywhere.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

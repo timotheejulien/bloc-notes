@@ -13,7 +13,7 @@ description: Pierre Huyghebaert est ancien étudiant de l’Erg, enseignant à L
   fonderies d’inclusivité et de bien d’autres choses encore…
 language: fr
 categories:
-- Liens
+- articles
 tags: design open-source font
 og-tags: design, open-source, font
 permalink: "/:categories/:year/:month/:day/:title/"

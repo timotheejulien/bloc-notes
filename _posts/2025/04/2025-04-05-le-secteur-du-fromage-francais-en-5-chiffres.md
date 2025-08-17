@@ -9,7 +9,7 @@ description: C’est en France que l’on trouve les meilleurs fromages et on n'
   pour ce produit aussi convivial que culturel. Zoom sur cinq chiffres qui démontrent
   que le marché du fromage flaire bon la réussite.
 language: fr
-categories: Liens
+categories: articles
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

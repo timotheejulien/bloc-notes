@@ -11,7 +11,7 @@ description: Sauf cas exceptionnel et explicitement précisé, je m’exprime en
   intelligence, cette séparation essentielle entre monde du travail et exercice de
   ma citoyenneté (et plus précisément, de ma liberté d’expression).
 language: fr
-categories: Liens
+categories: articles
 tags: réseau-social numérique
 og-tags: réseau-social numérique
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -10,7 +10,7 @@ description: Selon Bloomberg, Netflix a décidé de ne pas développer d’appli
   s’imposer.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - gafam
 - apple

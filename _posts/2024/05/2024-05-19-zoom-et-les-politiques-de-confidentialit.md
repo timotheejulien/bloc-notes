@@ -9,7 +9,7 @@ description: Une récente polémique sur la capacité de Zoom à entraîner des 
   les petits caractères
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

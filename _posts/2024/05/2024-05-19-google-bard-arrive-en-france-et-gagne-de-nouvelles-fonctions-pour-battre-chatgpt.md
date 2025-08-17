@@ -11,7 +11,7 @@ description: À Paris, Numerama a pu discuter avec Jack Krawczyk, le directeur p
   conversations.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - google

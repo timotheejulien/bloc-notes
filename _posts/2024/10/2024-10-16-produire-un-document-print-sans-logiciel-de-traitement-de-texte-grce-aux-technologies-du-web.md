@@ -9,7 +9,7 @@ description: Comment produire du texte et le mettre en forme sans utiliser d'out
   propriétaires ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - web
 - numérique

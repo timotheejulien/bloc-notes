@@ -11,7 +11,7 @@ description: Ce billet d’anticipation se demande si le navigateur Google Chrom
   victimes collatérales pourrait bien être Firefox.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - google

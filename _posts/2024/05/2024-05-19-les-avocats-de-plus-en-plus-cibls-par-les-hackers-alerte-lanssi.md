@@ -10,7 +10,7 @@ description: L’Agence nationale de la sécurité des systèmes d’information
   mine d’or de données que contient un document juridique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 og-tags: vie-privée

@@ -8,7 +8,7 @@ description: Effective alt text describes the meaning and context of images for 
   reader users
 language: en
 categories:
-- Liens
+- articles
 tags:
 - accessibilité
 og-tags: accessibilité

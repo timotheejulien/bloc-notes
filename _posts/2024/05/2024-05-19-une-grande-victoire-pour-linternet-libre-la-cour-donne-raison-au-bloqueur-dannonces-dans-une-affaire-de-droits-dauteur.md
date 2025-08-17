@@ -12,7 +12,7 @@ description: eyeo, la société à l'origine d'Adblock Plus, a remporté une nou
   pour bloquer les publicités.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

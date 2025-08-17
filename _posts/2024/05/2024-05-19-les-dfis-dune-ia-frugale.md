@@ -8,7 +8,7 @@ description: Alors que le développement de l’intelligence artificielle (IA) v
   toujours plus d’énergie, comment limiter son impact sur le changement climatique ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - ia
 - écologie

@@ -14,7 +14,7 @@ description: Trois gigas par semaine c’est sa peau contre ma peau et je suis a
   et à commencer à revivre, enfin. » Voilà voilà voilà.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 - société

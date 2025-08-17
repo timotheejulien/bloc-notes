@@ -8,7 +8,7 @@ description: New EU rules mean WhatsApp and Messenger must be interoperable with
   chat apps. Here’s how that will work.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - whatsapp
 - chiffrement

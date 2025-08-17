@@ -10,7 +10,7 @@ description: Certains commerçants offriront de remplacer ce ticket en papier pa
   que sur celui de l’impact écologique.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - écologie

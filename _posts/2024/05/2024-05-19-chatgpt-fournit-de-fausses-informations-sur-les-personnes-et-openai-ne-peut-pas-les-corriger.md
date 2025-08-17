@@ -8,7 +8,7 @@ published_date: 19/05/2024
 description: ''
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - ia

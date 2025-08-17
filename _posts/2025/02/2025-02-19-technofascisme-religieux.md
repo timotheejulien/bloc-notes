@@ -11,7 +11,7 @@ description: 'Sur Mastodon, David Chisnall fait le point sur une année d’util
   ne seraient jamais arrivés s’il avait écrit le code lui-même en premier lieu ou,
   au pire, qu’il aurait pu détecter beaucoup plus vite.'
 language: fr
-categories: Liens
+categories: articles
 tags: ia technologie développement
 og-tags: ia technologie développement
 permalink: "/:categories/:year/:month/:day/:title/"

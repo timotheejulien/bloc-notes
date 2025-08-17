@@ -10,7 +10,7 @@ description: Amoureuse des livres, je me suis rendu compte ces dernières année
   une place, en douceur, à la lecture dans vos semaines.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - livre
 - méthodologie

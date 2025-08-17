@@ -10,7 +10,7 @@ description: Les autorités françaises ont milité pour que des technologies ul
   une enquête menée par Disclose et Investigate Europe.
 language: fr
 categories:
-- Liens
+- articles
 tags: politique ia surveillance vie-privée
 og-tags: politique ia surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

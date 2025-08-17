@@ -9,7 +9,7 @@ description: 'Quel est le lien entre jour et nuit, et DIEU et RIEN, anges & dém
   se lisent par symétrie. Restez là, on vous explique tout.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - font

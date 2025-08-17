@@ -9,7 +9,7 @@ description: Over 100 participants attended our live session on digital accessib
   understand and accessible as possible.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - web
 - technologie

@@ -9,7 +9,7 @@ description: Discover the techniques used to create the fluid gestural interface
   making your app a delight to use.
 language: en
 categories:
-- Vidéos
+- vidéos
 tags:
 - apple
 - design

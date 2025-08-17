@@ -13,7 +13,7 @@ description: 'Un lecteur a attiré notre attention sur une question intéressant
   sans regret si l’on s’aperçoit d’un usage malveillant.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - apple
 og-tags: apple

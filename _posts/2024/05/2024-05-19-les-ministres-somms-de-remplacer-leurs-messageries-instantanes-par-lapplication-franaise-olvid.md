@@ -10,7 +10,7 @@ description: Les services d’Elisabeth Borne ont donné jusqu’au 8 décembre 
   « grand public » (WhatsApp, Telegram, Signal).
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - app
 - surveillance

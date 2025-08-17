@@ -13,7 +13,7 @@ description: It seems to be the way that most people start their design system. 
   system ». I think we’re doing it wrong.
 language: en
 categories:
-- Liens
+- articles
 tags: design design-system méthodologie
 og-tags: design design-system méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"

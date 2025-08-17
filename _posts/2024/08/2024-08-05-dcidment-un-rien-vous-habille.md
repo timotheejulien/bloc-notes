@@ -7,7 +7,7 @@ published_date: 05/08/2024
 description: Petit éloge de la nudité
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 og-tags: société

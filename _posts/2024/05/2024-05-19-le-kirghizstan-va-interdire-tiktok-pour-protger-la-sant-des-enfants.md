@@ -10,7 +10,7 @@ description: "« Nous avons reçu de nombreuses demandes inquiètes de la part d
   des enfants », assure le ministère de la culture."
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - réseau-social

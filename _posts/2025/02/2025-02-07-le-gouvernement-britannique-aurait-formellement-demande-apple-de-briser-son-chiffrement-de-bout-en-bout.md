@@ -15,7 +15,7 @@ description: 'Le gouvernement britannique veut la peau du chiffrement de bout en
   leur service n’est plus entièrement sécurisé.'
 language: fr
 categories:
-- Liens
+- articles
 tags: apple législation chiffrement vie-privée surveillance
 og-tags: apple législation chiffrement vie-privée surveillance
 permalink: "/:categories/:year/:month/:day/:title/"

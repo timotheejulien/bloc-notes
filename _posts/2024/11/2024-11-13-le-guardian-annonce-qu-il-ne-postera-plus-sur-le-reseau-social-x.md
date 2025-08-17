@@ -9,7 +9,7 @@ description: "« Pourquoi le Guardian ne poste plus sur X ». Dans un court arti
   d’abonnés sur X (ex-Twitter), a annoncé quitter le réseau social, propriété d’Elon
   Musk."
 language: fr
-categories: Liens
+categories: articles
 tags: presse x réseau-social
 og-tags: presse x réseau-social
 permalink: "/:categories/:year/:month/:day/:title/"

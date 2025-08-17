@@ -11,7 +11,7 @@ description: A design system is a collection of reusable components, guidelines,
   language throughout an organization.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - design-system

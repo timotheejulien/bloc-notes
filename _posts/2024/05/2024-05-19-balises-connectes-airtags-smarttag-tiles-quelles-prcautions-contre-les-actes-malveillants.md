@@ -10,7 +10,7 @@ description: Les balises connectées peuvent faire l’objet d’une utilisation
   vous trouvez une balise qui ne vous appartient pas dans vos affaires ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - hacking

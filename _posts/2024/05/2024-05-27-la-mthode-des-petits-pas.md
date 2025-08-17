@@ -11,7 +11,7 @@ description: Ou comment mettre en place des cycles très courts dans un projet U
   des étapes l’implication des utilisateurs et un livrable.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - design
 - ux

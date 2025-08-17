@@ -11,7 +11,7 @@ description: Aujourd’hui, je vous propose trois graphiques bien parlants pour 
   pas à cet impact (il y a aussi la pollution des sols, la consommation d’eau, etc.).
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - écologie
 og-tags: écologie

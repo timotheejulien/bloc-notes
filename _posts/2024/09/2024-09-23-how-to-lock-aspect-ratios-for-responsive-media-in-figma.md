@@ -7,7 +7,7 @@ published_date: 23/09/2024
 description: Tips & tricks for responsive design & media.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - design
 - ui

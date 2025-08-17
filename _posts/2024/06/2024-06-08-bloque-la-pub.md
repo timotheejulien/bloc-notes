@@ -8,7 +8,7 @@ description: Pourquoi bloquer ? La publicité pollue nos écrans, nos pensées e
   impose une vision stéréotypée de la société.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

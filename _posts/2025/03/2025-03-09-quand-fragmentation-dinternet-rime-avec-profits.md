@@ -11,7 +11,7 @@ description: Alors qu’à l’origine, Internet devait se construire sur un mod
   par des intérêts commerciaux privés.
 language: fr
 categories:
-- Liens
+- articles
 tags: internet
 og-tags: internet
 permalink: "/:categories/:year/:month/:day/:title/"

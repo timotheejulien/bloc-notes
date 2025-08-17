@@ -13,7 +13,7 @@ description: Contentsquare is a global leader in digital analytics. After acquir
   how people engage with digital products.
 language: en
 categories:
-- Liens
+- articles
 tags: design branding
 og-tags: design branding
 permalink: "/:categories/:year/:month/:day/:title/"

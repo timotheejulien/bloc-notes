@@ -8,7 +8,7 @@ description: Voilà des arguments très simples et concrets rassemblés par @rak
   vs Signal, quel est le problème ?
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - whatsapp

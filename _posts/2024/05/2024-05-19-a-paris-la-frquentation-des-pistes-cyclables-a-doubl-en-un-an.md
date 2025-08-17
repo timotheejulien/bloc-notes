@@ -9,7 +9,7 @@ description: L’usage des voies cyclables continue de progresser fortement depu
   voitures sur certains axes représentatifs de la capitale.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - société
 - vélo

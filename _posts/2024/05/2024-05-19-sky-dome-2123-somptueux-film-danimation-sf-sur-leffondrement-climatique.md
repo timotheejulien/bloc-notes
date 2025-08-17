@@ -11,7 +11,7 @@ description: Récompensé d’un Méliès d’argent à Strasbourg, Sky Dome 212
   que par son animation singulière. À découvrir en salle ce mercredi 24 avril.
 language: fr
 categories:
-- Vidéos
+- vidéos
 tags:
 - écologie
 - société

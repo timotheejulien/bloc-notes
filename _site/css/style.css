@@ -549,19 +549,19 @@ body {
 }
 
 .article-icon-bookBookmark {
-   background-image: url( '/assets/images/icon-book-bookmark-light.svg' );
+   background-image: url( '/assets/images/icon-bookmarks-light.svg' );
 }
 
-.article-icon-Liens {
-   background-image: url( '/assets/images/icon-link-light.svg' );
+.article-icon-articles {
+   background-image: url( '/assets/images/icon-articles-light.svg' );
 }
 
-.article-icon-Citations {
+.article-icon-citations {
    background-image: url( '/assets/images/icon-quotes-light.svg' );
 }
 
-.article-icon-Vidéos {
-   background-image: url( '/assets/images/icon-play-circle-light.svg' );
+.article-icon-vidéos {
+   background-image: url( '/assets/images/icon-play-light.svg' );
 }
 
 .article-meta {
@@ -1068,19 +1068,19 @@ ul.footer-nav li {
    }
 
    .article-icon-bookBookmark {
-      background-image: url( '/assets/images/icon-book-bookmark-dark.svg' );
+      background-image: url( '/assets/images/icon-bookmark-dark.svg' );
    }
 
-   .article-icon-Liens {
-      background-image: url( '/assets/images/icon-link-dark.svg' );
+   .article-icon-articles {
+      background-image: url( '/assets/images/icon-articles-dark.svg' );
    }
    
-   .article-icon-Citations {
+   .article-icon-citations {
       background-image: url( '/assets/images/icon-quotes-dark.svg' );
    }
 
-   .article-icon-Vidéos {
-      background-image: url( '/assets/images/icon-play-circle-dark.svg' );
+   .article-icon-vidéos {
+      background-image: url( '/assets/images/icon-play-dark.svg' );
    }
 
    .nav-mobile {

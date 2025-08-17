@@ -14,7 +14,7 @@ description: Que pensez-vous de la vitesse à laquelle évolue la plateforme web
   ces deux états coexistent. La plateforme web évolue à la fois extrêmement lentement
   et très rapidement.
 language: fr
-categories: Liens
+categories: articles
 tags: web développement
 og-tags: web développement
 permalink: "/:categories/:year/:month/:day/:title/"

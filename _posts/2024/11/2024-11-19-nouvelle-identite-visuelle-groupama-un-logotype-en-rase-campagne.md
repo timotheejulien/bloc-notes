@@ -9,7 +9,7 @@ description: Il y a de cela quelques semaines, nous avons pu apercevoir en ligne
   officiel, mais il est là ce nouveau logo. Il a pris ses fonctions sans bruit et
   remplace un logotype qui officiait et était reconnu depuis plus de 20 ans.
 language: fr
-categories: Liens
+categories: articles
 tags: design graphisme
 og-tags: design graphisme
 permalink: "/:categories/:year/:month/:day/:title/"

@@ -7,7 +7,7 @@ published_date: 14/11/2034
 description: Retours d’expérience et pistes de réflexions pour un Fediverse soutenable
 language: fr
 categories:
-- Liens
+- articles
 tags: réseau-social mastodon fediverse
 og-tags: réseau-social mastodon fediverse
 permalink: "/:categories/:year/:month/:day/:title/"

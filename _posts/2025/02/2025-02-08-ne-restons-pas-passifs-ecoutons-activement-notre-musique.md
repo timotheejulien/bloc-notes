@@ -11,7 +11,7 @@ description: Depuis environ deux ans, j’ai observé une énorme baisse des éc
   moins bien que les précédentes. Ce n’était donc plus une question de qualité ou
   de promotion qui pouvait expliquer cette baisse généralisée.
 language: fr
-categories: Liens
+categories: articles
 tags: musique
 og-tags: musique
 permalink: "/:categories/:year/:month/:day/:title/"

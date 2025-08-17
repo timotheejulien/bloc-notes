@@ -10,7 +10,7 @@ description: Les cookies tiers se font de plus en plus rares sur les navigateurs
   par Didomi en exclusivité pour Minted.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance

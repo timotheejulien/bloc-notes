@@ -8,7 +8,7 @@ published_date: 20/04/2024
 description: On dirait que pas mal de techniques CSS ne sont pas assez connues de
   nombreux designers. Voici donc un compilation que j’alimenterai au cours du temps.
 language: fr
-categories: Liens
+categories: articles
 tags: design web développement css
 og-tags: design web développement css
 permalink: "/:categories/:year/:month/:day/:title/"

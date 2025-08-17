@@ -9,7 +9,7 @@ description: "[Spoiler]: Avant que le communauté des utilisateurs irréductible
   de contexte."
 language: fr
 categories:
-- Liens
+- articles
 tags: vie-privée chiffrement technologie numérique
 og-tags: vie-privée chiffrement technologie numérique
 permalink: "/:categories/:year/:month/:day/:title/"

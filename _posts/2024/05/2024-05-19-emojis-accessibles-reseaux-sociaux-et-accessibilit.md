@@ -14,7 +14,7 @@ description: L’étude Réseaux sociaux et collectivités locales françaises, 
   nécessaire pour garantir le droit à l’information des personnes handicapées.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - réseau-social
 - accessibilité

@@ -9,7 +9,7 @@ description: 'Cette manipulation, demandée avant d’accorder des prêts à la 
   permettait à la banque de s’assurer de l’authenticité des documents, explique-t-elle. '
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - cnil

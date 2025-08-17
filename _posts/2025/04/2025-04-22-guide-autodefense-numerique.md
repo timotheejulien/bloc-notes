@@ -7,7 +7,7 @@ published_date: 22/04/2025
 description: Quelques bonnes pratiques à mettre en place pour protéger sa vie numérique,
   selon son modèle de menace.
 language: fr
-categories: Liens
+categories: articles
 tags: surveillance numérique vie-privée
 og-tags: surveillance numérique vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"

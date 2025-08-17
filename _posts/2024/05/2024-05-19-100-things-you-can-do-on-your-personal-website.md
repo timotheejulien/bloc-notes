@@ -11,7 +11,7 @@ description: One of my favourite things to do in my free time is to tinker with 
   my website, and more.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - indie
 - blog

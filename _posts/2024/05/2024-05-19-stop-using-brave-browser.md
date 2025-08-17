@@ -12,7 +12,7 @@ description: The Brave web browser has carved out a niche over the past few year
   is a mess of a software project, and the company building it is even worse.
 language: en
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - web

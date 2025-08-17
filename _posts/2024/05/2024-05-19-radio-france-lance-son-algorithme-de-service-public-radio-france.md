@@ -11,7 +11,7 @@ description: 'La plateforme de Radio France innove avec une méthode de recomman
   éditoriale.'
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - app

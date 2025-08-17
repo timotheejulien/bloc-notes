@@ -11,7 +11,7 @@ description: Alors que la vidéosurveillance algorithmique va être expériment�
   Entretien.
 language: fr
 categories:
-- Liens
+- articles
 tags:
 - vie-privée
 - surveillance
