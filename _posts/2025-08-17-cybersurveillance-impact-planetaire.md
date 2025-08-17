@@ -8,8 +8,8 @@ description: "Les technologies de cybersurveillance sont de plus en plus discrè
 Le documentaire d’Amnesty International donne la parole aux victimes de logiciels espions, aux experts ainsi qu’aux journalistes qui ont révélé le plus gros scandale d’espionnage depuis l’affaire Snowden. Enquête sur le secteur opaque de la cybersurveillance."
 language: fr
 categories: "vidéos"
-tags: "surveillance vie-privée"
-og-tags: "surveillance vie-privée"
+tags: "documentaire surveillance vie-privée"
+og-tags: "documentaire surveillance vie-privée"
 date: "2025-08-17T23:45:55+02:00"
 permalink: /:categories/:year/:month/:day/:title/
 ---
