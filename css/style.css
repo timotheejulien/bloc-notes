@@ -1095,12 +1095,17 @@ ul.footer-nav li {
       -webkit-backdrop-filter: blur(50px) saturate(10%);
    }
 
+   .search-modal-header {
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      background: #292929;
+   }
+
    #search-modal-close {
-      background: rgba(0, 0, 0, 0.3);
+      background: rgba(255, 255, 255, 0.08);
    }
 
    #search-modal-close:hover {
-      background: rgba(255, 255, 255, 0.05);
+      background: rgba(255, 255, 255, 0.12);
    }
 
    .search-item a::before {
