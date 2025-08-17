@@ -9,7 +9,7 @@ description: De réseaux sociaux en émissions de radio, de plus en plus de voix
   pour appeler à un effort de réduction de la présence des technologies américaines
   dans notre quotidien. Mais est-ce seulement possible ? Et si oui, dans quelle mesure
   ? J'ai (virtuellement) tenté l'exercice, et il n'a rien d'une sinécure.
-language: fr_FR
+language: fr
 categories: Liens
 tags: consommation gafam numérique
 og-tags: consommation gafam numérique
