@@ -6,7 +6,7 @@ author: Kelly Vaughn
 published_date: 18/08/2025
 description: "Un article qui aborde la notion d'aliénation aux technologies. On perd nos compétences et notre faculté d'analyse suite à leur utilisation."
 language: en
-categories: "ia technologie"
+categories: "articles"
 tags: "ia technologie"
 og-tags: "ia technologie"
 date: "2025-08-19T13:59:38+02:00"
