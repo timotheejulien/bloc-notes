@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bienvenue dans le Fédivers"
-link: https://timothee.goguely.com/bienvenue-dans-le-fedivers/
+link: https://timothee.goguely.com/bienvenue-dans-le-fedivers
 author: "Timothée Goguely, Delyo Dobrev"
-published_date: ""
+published_date: "20/08/2025"
 description: "Alternatives libres, fédérées et indépendantes aux réseaux sociaux des Big Tech."
 language: "fr"
 categories: "articles"
