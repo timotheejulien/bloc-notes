@@ -8,8 +8,8 @@ description: "« Maman, papa, tous mes amis ont un téléphone, quand est-ce qu
 Si vous vous sentez dépassé par cette situation, rassurez-vous : c’est parfaitement normal ! L’acquisition du premier téléphone représente aujourd’hui un véritable rite de passage et une étape symbolique entre l’enfance et l’adolescence. Mais comment savoir si c’est le bon moment ? Comment choisir le bon appareil ? Et surtout, comment accompagner votre enfant dans cette découverte ? Suivez le guide !"
 language: "fr"
 categories: "articles"
-tags: "famille numérique"
-og-tags: "famille numérique"
+tags: "éducation famille numérique"
+og-tags: "éducation famille numérique"
 date: "2025-08-29T23:24:27+01:00"
 permalink: /:categories/:year/:month/:day/:title/
 ---
