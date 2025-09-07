@@ -1,6 +1,126 @@
 [
   
   {
+    "title": "L'horreur existentielle de l'usine à trombones.",
+    "url": "/vid%C3%A9os/2025/09/05/usine-a-trombones/",
+    "description": "« Dans cette vidéo, l’auteur explore avec clarté et pédagogie une réflexion captivante sur les implications économiques et éthiques de l’intelligence artificielle (IA), en illustrant les risques potentiels liés à des objectifs mal définis et leurs conséquences inattendues sur notre société et nos ressources. »"
+  },
+  
+  {
+    "title": "Features of your font you had no idea about",
+    "url": "/articles/2025/09/04/features-font-css/",
+    "description": "L’article explore les fonctionnalités souvent méconnues des polices de caractères modernes au-delà des styles classiques. Il met en lumière les capacités avancées du format OpenType, incluant les ornements (swashes), les formes historiques, les ligatures, les fractions, les numéraux tabulaires (alignés verticalement, utiles pour les tableaux), les exposants/indices (ordinals), et bien d’autres."
+  },
+  
+  {
+    "title": "Si regarder en arrière t'inspire du chagrin, et regarder en avant t'inspire de l'inquiétude, alors regarde à côté de toi.",
+    "url": "/citations/2025/09/03/regarde-a-cote-de-toi/",
+    "description": ""
+  },
+  
+  {
+    "title": "Un an après mon départ de Spotify, petit bilan de Nextcloud Music",
+    "url": "/articles/2025/09/03/bilan-nextcloud-music-vs-spotify/",
+    "description": "l y a un peu plus d'un an, je vous annonçais mon départ de Spotify que j'avais alors remplacé par mon propre petit « nuage » autohébergé basé sur Nextcloud Music. Après une bonne année à utiliser mon propre cloud musical, il est temps de faire un petit bilan."
+  },
+  
+  {
+    "title": "Intelligence artificielle : le vrai coût environnemental de la course à l'IA",
+    "url": "/articles/2025/09/03/le-vrai-cout-de-lia/",
+    "description": "Nous commencerons par définir ce qu’est l’intelligence artificielle, son évolution récente, les acteurs qui la sous-tendent et détaillerons le fonctionnement particulier des IA génératives. Puis dans un second temps nous décrirons l’infrastructure matérielle qui la soutient. Loin de flotter au-dessus de toute réalité physique, comme le champ lexical du “cloud” et de la “dématérialisation” aime à nous le faire croire, ces technologies ont des conséquences matérielles très tangibles."
+  },
+  
+  {
+    "title": "Ériger l’image du pénis : anatomie d’un symbole iconique",
+    "url": "/articles/2025/09/02/anatomie-graphique-penis/",
+    "description": "Parlons peu, parlons bite. Derrière le graffiti de chiottes se cache un totem visuel, symbolique, politique et culturel bien plus dense qu'il n'y paraît. Le pénis, ou plutôt son image, est partout, parfois envahissante, souvent banalisée : dans l'art, la rue, les campagnes de pub, la mode, les toilettes, les messages codés, les émoticônes... Il traverse les époques, se déforme, se cache, s'exhibe, s'érige, au gré des civilisations, des styles artistiques, des tabous, des libérations ou des censures."
+  },
+  
+  {
+    "title": "Une vie sans notifications",
+    "url": "/articles/2025/09/02/une-vie-sans-notification/",
+    "description": "Cet article parle de mon expérience avec le Mudita Kompakt, mais, n’étant pas lié à cette firme, je ne répondrai à aucune question concernant cet appareil ni le Hisense A5. Tout ce que j’ai à dire au sujet de cet appareil est dans ce billet. Pour le reste, voyez les nombreuses vidéos et articles sur le Web ou rejoignez le forum de Mudita."
+  },
+  
+  {
+    "title": "Nécrologie de Joe Caroff, créateur du logo de James Bond",
+    "url": "/articles/2025/08/30/necrologie-joe-caroff/",
+    "description": "Lorsqu'on lui a demandé de créer un logo pour le premier film de James Bond, Dr No, en 1962, le graphiste Joe Caroff a remarqué que la tige du dernier chiffre de 007 ressemblait au cul d'un pistolet Walther PPK."
+  },
+  
+  {
+    "title": "Comment gérer l’arrivée d’un téléphone pour ses enfants ?",
+    "url": "/articles/2025/08/30/premier-telephone-enfant/",
+    "description": "« Maman, papa, tous mes amis ont un téléphone, quand est-ce que je pourrais en avoir un ? » Si vous êtes parent, vous avez probablement entendu cette phrase de nombreuses fois… Il est possible que vous ayez pris l’habitude de lui prêter occasionnellement votre téléphone pour voir une photo de la famille, pour jouer à un jeu ou regarder une vidéo. Ensuite, les demandes se sont faites de plus en plus pressantes, les comparaisons avec les camarades de classe se sont multipliées, et les négociations ont commencé… Si vous vous sentez dépassé par cette situation, rassurez-vous : c’est parfaitement normal ! L’acquisition du premier téléphone représente aujourd’hui un véritable rite de passage et une étape symbolique entre l’enfance et l’adolescence. Mais comment savoir si c’est le bon moment ? Comment choisir le bon appareil ? Et surtout, comment accompagner votre enfant dans cette découverte ? Suivez le guide !"
+  },
+  
+  {
+    "title": "Open Source, l’IA ?",
+    "url": "/articles/2025/08/28/open-source-ia/",
+    "description": "On parle beaucoup des données d’entraînements de l’IA générative, mais sans exactement comprendre ce que ces données d’entraînement recouvrent. Et pour cause : les grands modèles de l’IA générative ne communiquent pas sur les données d’entraînements qu’ils utilisent et, du fait de la taille de ces jeux de données, la compréhension de leurs failles et limites, est difficile à saisir. Cette semaine, on vous invite à saisir les limites de l’IA dite « open source » en regardant comment ces jeux de données sont utilisés et comment ils agissent. Mettez votre casque de spéléologue et plongez dans une des grandes bases d’images qui façonnent l’IA, Laion 5B !"
+  },
+  
+  {
+    "title": "Réflexion sur l’auto-hébergement. Petit serveur domestique",
+    "url": "/articles/2025/08/28/reflexion-sur-lauto-hebergement-petit-serveur-domestique/",
+    "description": "L’auto-hébergement c’est un peu le mot fourre-tout pour expliquer qu’on va gérer un service chez soi plutôt que de le mettre chez un prestataire. Quelques rappels nécessaires sur ce qu’est le web, c’est-à-dire l’ordinateur de quelqu’un d’autre."
+  },
+  
+  {
+    "title": "The AI age is the « age of no consent »",
+    "url": "/articles/2025/08/28/the-ai-age-is-the-age-of-no-consent/",
+    "description": "« Inevitability » means design decisions are no longer informed by user needs; now they are unilaterally imposed. The users are the ones being designed."
+  },
+  
+  {
+    "title": "Pas de médaille pour les résistants",
+    "url": "/articles/2025/08/26/pas-de-m%C3%A9dailles-pour-les-resistants/",
+    "description": "Ploum explique dans cet article que « si l’on veut changer le monde, il faut entrer en résistance. Il faut accepter d’agir et de se taire. Il faut accepter de perdre du confort, des opportunités, des relations. Et il ne faut espérer aucune récompense, aucune reconnaissance. »"
+  },
+  
+  {
+    "title": "Pourquoi j'ai quitté Spotify pour Qobuz",
+    "url": "/articles/2025/08/24/pourquoi-jai-quitte-spotify-pour-qobuzz/",
+    "description": "J’ai longtemps été l’archétype de l’utilisateur “verrouillé” chez Spotify: playlists accumulées depuis des années, habitudes bien ancrées, recommandations convenables. Puis 2024–2025 est arrivé avec son lot de signaux faibles devenus bruyants. D’un côté, une plateforme qui durcit ses règles, augmente ses tarifs et s’enlise dans des controverses politiques. De l’autre, un concurrent qui assume une ligne sonore et éditoriale exigeante, met les nouveaux albums du vendredi au cœur de l’expérience, et rémunère mieux les ayants droit. À un moment, il faut choisir ce que l’on cautionne avec son abonnement. J’ai choisi Qobuz."
+  },
+  
+  {
+    "title": "Bienvenue dans le Fédivers",
+    "url": "/articles/2025/08/22/bienvenue-dans-le-fedivers/",
+    "description": "Alternatives libres, fédérées et indépendantes aux réseaux sociaux des Big Tech."
+  },
+  
+  {
+    "title": "Style your underlines",
+    "url": "/articles/2025/08/21/style-your-underlines/",
+    "description": "Quelques astuces CSS pour personnaliser et rendre plus accessible les liens HTML."
+  },
+  
+  {
+    "title": "Comment rendre une conférence ou une présentation accessible ? Bonnes pratiques et outils",
+    "url": "/articles/2025/08/20/conference-presentation-accessible-bonnes-pratiques-outils/",
+    "description": "L’accessibilité numérique est souvent la grande oubliée des conférences et des présentations. Pourtant, il y a des éléments importants à prendre en compte pour que les personnes handicapées puissent accéder aux mêmes informations que les personnes valides tout en ayant une expérience agréable. Cet article devrait vous donner une bonne base de travail pour vos prochaines interventions en public."
+  },
+  
+  {
+    "title": "Why AI and « helpful » tech are making us helpless",
+    "url": "/articles/2025/08/19/why-ai-and-helpful-tech-are-making-us-helpless/",
+    "description": "Un article qui aborde la notion d'aliénation aux technologies. On perd nos compétences et notre faculté d'analyse suite à leur utilisation."
+  },
+  
+  {
+    "title": "La faute de l'orthographe",
+    "url": "/vid%C3%A9os/2025/08/17/la-faute-de-lorthographe/",
+    "description": "Nous avons été prof de français. Sommés de nous offusquer des fautes d'orthographe, nous avons été pris pour les curés de la langue. Nous avons écrit pour dédramatiser, pour réfléchir ensemble et puis aussi parce qu'on a toujours pensé que l'Académie Française avait un vrai potentiel comique. « Les deux belges qui veulent simplifier la langue française » : tout est faux dans cette phrase. Pas « simplifier » mais bien faire preuve d'esprit critique, se demander si tout se vaut dans notre orthographe. Pas deux belges, mais bien deux curieux qui veulent transmettre le travail des linguistes de toute la francophonie, pas même la « langue française », seulement son orthographe. Car l'orthographe, c'est pas la langue, c'est juste le code graphique qui permet de la retranscrire. Passion pour les uns, chemin de croix pour les autres, elle est sacrée pour tous. Et pourtant, il ne s'agit peut-être que d'un énorme malentendu. Arnaud Hoedt et Jérôme Piron sont linguistes de formation. Ils ont vécu 25 ans sans se connaître, mais c’était moins bien. Ils ont ensuite enseigné pendant 15 ans dans la même école. Quand Arnaud participe à la rédaction des programmes de français en Belgique, Jérôme se spécialise en médiation culturelle. En 2016, ils écrivent et mettent en scène le spectacle « La Convivialité », au Théâtre National de Bruxelles. Ce spectacle conférence qui traite de la question du rapport dogmatique à l’orthographe tourne depuis 3 ans dans toute la francophonie. Dans la foulée, ils publient l’ouvrage « La faute de l’orthographe », aux éditions Textuel. Ils se définissent comme suit : « Linguistes dilet(t)antes. Pédagogues en (robe de) chambre. Tentent de corriger le participe passé. Écrivent des trucs. Vrais-Faux Comédiens. Bouffeurs d’Académicien ». À la question « est-ce que ça se dit ? », Arnaud et Jérôme répondent invariablement « oui, tu viens de le faire »."
+  },
+  
+  {
+    "title": "Cybersurveillance, un impact planétaire",
+    "url": "/vid%C3%A9os/2025/08/17/cybersurveillance-impact-planetaire/",
+    "description": "Les technologies de cybersurveillance sont de plus en plus discrètes, invasives, dangereuses pour nos droits. Des Etats les utilisent pour cibler des militants, des journalistes et d'autres membres de la société civile. Derrière ces attaques numériques, il y a des vies humaines. Le documentaire d’Amnesty International donne la parole aux victimes de logiciels espions, aux experts ainsi qu’aux journalistes qui ont révélé le plus gros scandale d’espionnage depuis l’affaire Snowden. Enquête sur le secteur opaque de la cybersurveillance."
+  },
+  
+  {
     "title": "Cognitive biases in UX design",
     "url": "/articles/2025/08/17/cognitive-biases-in-ux-design/",
     "description": "The ultimate collection of cognitive biases that every Product and UX Designer needs to know."
