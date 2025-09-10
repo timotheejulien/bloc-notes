@@ -14,12 +14,11 @@ description: Cet épisode s'inscrit dans une série de mini-épisodes sur la th�
   toujours d’actualité.
 language: fr
 categories:
-- articles
+- podcast
 tags:
 - design
 - ux
-- podcast
-og-tags: design, ux, podcast
+og-tags: design, ux
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---
