@@ -10,14 +10,13 @@ description: Censée faciliter la vie des usagers, comment expliquer que l'appli
   ?
 language: fr
 categories:
-- articles
+- podcast
 tags:
 - app
 - design
 - ux
-- podcast
 - transport
-og-tags: app, design, ux, podcast, transport
+og-tags: app, design, ux, transport
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---
