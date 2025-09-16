@@ -1,6 +1,30 @@
 [
   
   {
+    "title": "Comment l'IA change les comportements de recherche",
+    "url": "/articles/2025/09/16/ai-changing-search-behaviors/",
+    "description": "L’étude montre que l'IA générative est en train de remodeler la recherche, mais les habitudes de longue date persistent. De nombreux utilisateurs restent par défaut à Google, donnant à Gemini une chance de se battre. "
+  },
+  
+  {
+    "title": "C’est le moyen de toucher tout le monde",
+    "url": "/articles/2025/09/15/moyen-de-toucher-tout-le-monde/",
+    "description": ""
+  },
+  
+  {
+    "title": "À la recherche de l’humanité perdue…",
+    "url": "/articles/2025/09/14/a-la-recherche-de-lhumanite-perdue/",
+    "description": ""
+  },
+  
+  {
+    "title": "Design vs IA, la grande rivalité",
+    "url": "/articles/2025/09/09/design-vs-ia-la-grande-rivalite/",
+    "description": "La designer Nolwenn Maudet propose une passionnante analyse du rapport entre IA et design d’interface, expliquant que les limites de l’IA sont liées au recul du design."
+  },
+  
+  {
     "title": "L'horreur existentielle de l'usine à trombones.",
     "url": "/vid%C3%A9os/2025/09/05/usine-a-trombones/",
     "description": "« Dans cette vidéo, l’auteur explore avec clarté et pédagogie une réflexion captivante sur les implications économiques et éthiques de l’intelligence artificielle (IA), en illustrant les risques potentiels liés à des objectifs mal définis et leurs conséquences inattendues sur notre société et nos ressources. »"
@@ -1814,7 +1838,7 @@
   
   {
     "title": "Cantal, Laguiole, Salers on s’y perd !",
-    "url": "/articles/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/",
+    "url": "/podcasts/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/",
     "description": "Cantal, Laguiole, Salers, trois noms qui évoquent l'Aubrac, mais qui sèment parfois un peu la confusion. Pas évident de distinguer les fromages du massif central, pourtant chacun a son caractère, sa texture, son histoire. Cantal, Laguiole, Salers, mais aussi IGP de la Tome fraîche d'Aubrac, on embarque pour une escapade fromagère avec Pierre Coulon."
   },
   
@@ -2044,6 +2068,12 @@
     "title": "Est ce qu'il faut bloquer les chatbots IA sur son site web ?",
     "url": "/articles/2024/11/05/est-ce-qu-il-faut-bloquer-les-chatbots-ia-sur-son-site-web/",
     "description": "Il semble qu'il y ait un débat sur l'opportunité d'empêcher ou non les chatbots ia d'explorer et d'accéder aux sites web. Alors que certains soutiennent que le blocage des robots ia pourrait limiter la visibilité et l'engagement des utilisateurs qui s'appuient sur ces outils pour la découverte et l'interaction de contenu, d'autres s'inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l'IA."
+  },
+  
+  {
+    "title": "À l'ère de la surveillance numérique",
+    "url": "/podcasts/2024/11/05/a-lre-de-la-surveillance-numrique-un-podcast-couter-en-ligne/",
+    "description": "Avec l'Affaire Snowden, le scandale Cambridge Analytica, ou encore les révélations des Spy Files par Wikileaks, j'ai pris conscience que mes activités sur internet étaient surveillées. J'ai beau le savoir, je ne fais pas grand-chose pour l'éviter. Dans ma tête, c'est comme si c'était le prix à payer pour aller sur internet. Je continue à poster mes coups de gueule sur Facebook, je consulte Twitter plusieurs fois par jour, je commande des pizzas sur internet et je fais des milliers de recherches sur google. Mais à cause de l'épidémie de Covid19, quasiment toute ma vie, sociale et professionnelle, passe par mon ordinateur ou mon smartphone. Depuis le premier confinement, les questions se bousculent dans ma tête sans que j'arrive à les ignorer : que sont les données numériques ? Que révèlent-elles sur moi ? Qui les surveille et à quoi peuvent-elles servir ? Dans quelle mesure cette surveillance numérique est-elle problématique ? J'ai donc retroussé mes manches et, armé de mes livres, mon micro et mon clavier, j'ai décidé de mener l'enquête pour comprendre ce qu'il en était."
   },
   
   {
@@ -3008,7 +3038,7 @@
   
   {
     "title": "SNCF de-connect",
-    "url": "/articles/2024/11/05/sncf-deconnect/",
+    "url": "/podcasts/2024/11/05/sncf-deconnect/",
     "description": "Censée faciliter la vie des usagers, comment expliquer que l'application SNCF Connect ait été si pleine de bugs à son lancement en janvier 2022 ? Est-ce le développement en interne qui est à l'origine des problèmes techniques identifiés ?"
   },
   
@@ -3734,7 +3764,7 @@
   
   {
     "title": "Le biais du survivant avec Raphaël Yharrassarry [série biais cognitifs]",
-    "url": "/articles/2024/11/05/le-biais-du-survivant-avec-raphal-yharrassarry-srie-biais-cognitifs/",
+    "url": "/podcasts/2024/11/05/le-biais-du-survivant-avec-raphal-yharrassarry-srie-biais-cognitifs/",
     "description": "Cet épisode s'inscrit dans une série de mini-épisodes sur la thématique des biais. Je crée cette série parce que je suis convaincue qu'explorer les biais permet d'aiguiser notre esprit critique et de prendre des décisions de design plus informées, inclusives et créatives de manière plus consciente. Dans cet épisode, Raphaël Yharrassarry, designer et psychologue, nous explique ce qu’est le biais du survivant, en utilisant une anecdote historique fascinante sur les avions de la seconde guerre mondiale, et en nous exposant comment ce biais est bien et bel toujours d’actualité."
   },
   
@@ -4618,12 +4648,6 @@
     "title": "À paris, la fréquentation des pistes cyclables a doublé en un an",
     "url": "/articles/2024/11/05/a-paris-la-frquentation-des-pistes-cyclables-a-doubl-en-un-an/",
     "description": "L’usage des voies cyclables continue de progresser fortement depuis la pandémie de Covid-19. Aux heures de pointe, les vélos sont plus nombreux que les voitures sur certains axes représentatifs de la capitale."
-  },
-  
-  {
-    "title": "À l'ère de la surveillance numérique : un podcast à écouter en ligne",
-    "url": "/articles/2024/11/05/a-lre-de-la-surveillance-numrique-un-podcast-couter-en-ligne/",
-    "description": "Doit-on s'inquiéter de la surveillance sur Internet ? "
   },
   
   {

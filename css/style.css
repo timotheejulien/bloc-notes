@@ -564,6 +564,10 @@ body {
    background-image: url( '/assets/images/icon-play-light.svg' );
 }
 
+.article-icon-podcasts {
+   background-image: url( '/assets/images/icon-podcasts-light.svg' );
+}
+
 .article-meta {
    font-size: 14px;
    font-weight: 400;
@@ -1081,6 +1085,10 @@ ul.footer-nav li {
 
    .article-icon-vidéos {
       background-image: url( '/assets/images/icon-play-dark.svg' );
+   }
+
+   .article-icon-podcasts {
+      background-image: url( '/assets/images/icon-podcasts-dark.svg' );
    }
 
    .nav-mobile {

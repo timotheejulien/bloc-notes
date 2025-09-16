@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-09-07T18:40:31+02:00</updated>
+   <updated>2025-09-16T21:41:33+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Comment l'IA change les comportements de recherche</title>
+         <link href="http://localhost:4000/articles/2025/09/16/ai-changing-search-behaviors/"/>
+         <updated>2025-09-16T20:58:26+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/16/ai-changing-search-behaviors/</id>
+
+         <content type="html">
+            L’étude montre que l&apos;IA générative est en train de remodeler la recherche, mais les habitudes de longue date persistent. De nombreux utilisateurs restent par défaut à Google, donnant à Gemini une chance de se battre. 
+         </content>
+      </entry>
+   
+      <entry>
+         <title>C’est le moyen de toucher tout le monde</title>
+         <link href="http://localhost:4000/articles/2025/09/15/moyen-de-toucher-tout-le-monde/"/>
+         <updated>2025-09-15T18:57:41+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/15/moyen-de-toucher-tout-le-monde/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>À la recherche de l’humanité perdue…</title>
+         <link href="http://localhost:4000/articles/2025/09/14/a-la-recherche-de-lhumanite-perdue/"/>
+         <updated>2025-09-14T18:36:07+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/14/a-la-recherche-de-lhumanite-perdue/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Design vs IA, la grande rivalité</title>
+         <link href="http://localhost:4000/articles/2025/09/09/design-vs-ia-la-grande-rivalite/"/>
+         <updated>2025-09-09T10:24:30+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/09/design-vs-ia-la-grande-rivalite/</id>
+
+         <content type="html">
+            La designer Nolwenn Maudet propose une passionnante analyse du rapport entre IA et design d’interface, expliquant que les limites de l’IA sont liées au recul du design.
+         </content>
+      </entry>
    
       <entry>
          <title>L'horreur existentielle de l'usine à trombones.</title>
@@ -3342,9 +3386,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>Cantal, Laguiole, Salers on s’y perd !</title>
-         <link href="http://localhost:4000/articles/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/"/>
+         <link href="http://localhost:4000/podcasts/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/"/>
          <updated>2024-11-12T08:58:09+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/</id>
+         <id>http://localhost:4000/podcasts/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/</id>
 
          <content type="html">
             Cantal, Laguiole, Salers, trois noms qui évoquent l&apos;Aubrac, mais qui sèment parfois un peu la confusion. Pas évident de distinguer les fromages du massif central, pourtant chacun a son caractère, sa texture, son histoire. Cantal, Laguiole, Salers, mais aussi IGP de la Tome fraîche d&apos;Aubrac, on embarque pour une escapade fromagère avec Pierre Coulon.
@@ -3766,6 +3810,17 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
 
          <content type="html">
             Il semble qu&apos;il y ait un débat sur l&apos;opportunité d&apos;empêcher ou non les chatbots ia d&apos;explorer et d&apos;accéder aux sites web. Alors que certains soutiennent que le blocage des robots ia pourrait limiter la visibilité et l&apos;engagement des utilisateurs qui s&apos;appuient sur ces outils pour la découverte et l&apos;interaction de contenu, d&apos;autres s&apos;inquiètent des risques potentiels tels que le vol de propriété intellectuelle et la concurrence accrue du contenu généré par l&apos;IA.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>À l'ère de la surveillance numérique</title>
+         <link href="http://localhost:4000/podcasts/2024/11/05/a-lre-de-la-surveillance-numrique-un-podcast-couter-en-ligne/"/>
+         <updated>2024-11-05T20:55:44+01:00</updated>
+         <id>http://localhost:4000/podcasts/2024/11/05/a-lre-de-la-surveillance-numrique-un-podcast-couter-en-ligne/</id>
+
+         <content type="html">
+            Avec l&apos;Affaire Snowden, le scandale Cambridge Analytica, ou encore les révélations des Spy Files par Wikileaks, j&apos;ai pris conscience que mes activités sur internet étaient surveillées. J&apos;ai beau le savoir, je ne fais pas grand-chose pour l&apos;éviter. Dans ma tête, c&apos;est comme si c&apos;était le prix à payer pour aller sur internet. Je continue à poster mes coups de gueule sur Facebook, je consulte Twitter plusieurs fois par jour, je commande des pizzas sur internet et je fais des milliers de recherches sur google. Mais à cause de l&apos;épidémie de Covid19, quasiment toute ma vie, sociale et professionnelle, passe par mon ordinateur ou mon smartphone. Depuis le premier confinement, les questions se bousculent dans ma tête sans que j&apos;arrive à les ignorer : que sont les données numériques ? Que révèlent-elles sur moi ? Qui les surveille et à quoi peuvent-elles servir ? Dans quelle mesure cette surveillance numérique est-elle problématique ? J&apos;ai donc retroussé mes manches et, armé de mes livres, mon micro et mon clavier, j&apos;ai décidé de mener l&apos;enquête pour comprendre ce qu&apos;il en était.
          </content>
       </entry>
    
@@ -5531,9 +5586,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>SNCF de-connect</title>
-         <link href="http://localhost:4000/articles/2024/11/05/sncf-deconnect/"/>
+         <link href="http://localhost:4000/podcasts/2024/11/05/sncf-deconnect/"/>
          <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/sncf-deconnect/</id>
+         <id>http://localhost:4000/podcasts/2024/11/05/sncf-deconnect/</id>
 
          <content type="html">
             Censée faciliter la vie des usagers, comment expliquer que l&apos;application SNCF Connect ait été si pleine de bugs à son lancement en janvier 2022 ? Est-ce le développement en interne qui est à l&apos;origine des problèmes techniques identifiés ?
@@ -6864,9 +6919,9 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
    
       <entry>
          <title>Le biais du survivant avec Raphaël Yharrassarry [série biais cognitifs]</title>
-         <link href="http://localhost:4000/articles/2024/11/05/le-biais-du-survivant-avec-raphal-yharrassarry-srie-biais-cognitifs/"/>
+         <link href="http://localhost:4000/podcasts/2024/11/05/le-biais-du-survivant-avec-raphal-yharrassarry-srie-biais-cognitifs/"/>
          <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/le-biais-du-survivant-avec-raphal-yharrassarry-srie-biais-cognitifs/</id>
+         <id>http://localhost:4000/podcasts/2024/11/05/le-biais-du-survivant-avec-raphal-yharrassarry-srie-biais-cognitifs/</id>
 
          <content type="html">
             Cet épisode s&apos;inscrit dans une série de mini-épisodes sur la thématique des biais. Je crée cette série parce que je suis convaincue qu&apos;explorer les biais permet d&apos;aiguiser notre esprit critique et de prendre des décisions de design plus informées, inclusives et créatives de manière plus consciente. Dans cet épisode, Raphaël Yharrassarry, designer et psychologue, nous explique ce qu’est le biais du survivant, en utilisant une anecdote historique fascinante sur les avions de la seconde guerre mondiale, et en nous exposant comment ce biais est bien et bel toujours d’actualité.
@@ -8487,17 +8542,6 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
 
          <content type="html">
             L’usage des voies cyclables continue de progresser fortement depuis la pandémie de Covid-19. Aux heures de pointe, les vélos sont plus nombreux que les voitures sur certains axes représentatifs de la capitale.
-         </content>
-      </entry>
-   
-      <entry>
-         <title>À l'ère de la surveillance numérique : un podcast à écouter en ligne</title>
-         <link href="http://localhost:4000/articles/2024/11/05/a-lre-de-la-surveillance-numrique-un-podcast-couter-en-ligne/"/>
-         <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/a-lre-de-la-surveillance-numrique-un-podcast-couter-en-ligne/</id>
-
-         <content type="html">
-            Doit-on s&apos;inquiéter de la surveillance sur Internet ? 
          </content>
       </entry>
    

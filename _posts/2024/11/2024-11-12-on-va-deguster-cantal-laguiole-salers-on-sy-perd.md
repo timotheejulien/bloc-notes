@@ -11,7 +11,7 @@ description: Cantal, Laguiole, Salers, trois noms qui évoquent l'Aubrac, mais q
   fromagère avec Pierre Coulon.
 language: fr
 categories:
-- podcast
+- podcasts
 tags: fromage
 og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"

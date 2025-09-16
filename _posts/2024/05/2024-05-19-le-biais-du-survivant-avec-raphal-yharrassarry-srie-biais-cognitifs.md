@@ -14,7 +14,7 @@ description: Cet épisode s'inscrit dans une série de mini-épisodes sur la th�
   toujours d’actualité.
 language: fr
 categories:
-- podcast
+- podcasts
 tags:
 - design
 - ux
