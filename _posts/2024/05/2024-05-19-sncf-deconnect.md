@@ -21,4 +21,4 @@ permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---
 
-<iframe src="https://www.facebook.com/sharer/sharer.php?u=https://www.radiofrance.fr/franceculture/podcasts/superfail/sncf-de-connect-7341235" frameborder="0" width="100%" height="auto"></iframe>
+<iframe src="https://embed.radiofrance.fr/franceculture/diffusion/8762ec1e-cb60-4df0-a799-75b675ca730d" frameborder="0" width="100%" height="auto"></iframe>

@@ -13,3 +13,15 @@ og-tags: vie-privée, surveillance
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---
+
+## (E01) Le capitalisme de surveillance
+<iframe src="https://embed.radiofrance.fr/franceculture/diffusion/b452c683-922d-49e4-8e67-6d1ee8005e65" frameborder="0" width="100%" height="auto"></iframe>
+
+## (E02) Géopolitique de la surveillance numérique
+<iframe src="https://embed.radiofrance.fr/franceculture/diffusion/bb44825f-1b55-46c0-a1fb-678ab993e5b6" frameborder="0" width="100%" height="auto"></iframe>
+
+## (E03) Dans les allées de la safe city
+<iframe src="https://embed.radiofrance.fr/franceculture/diffusion/d6925121-f869-4409-927f-d2abf9e04acd" frameborder="0" width="100%" height="auto"></iframe>
+
+## (E04) Échapper à la surveillance
+<iframe src="https://embed.radiofrance.fr/franceculture/diffusion/3d573ba6-2948-4f53-b793-b90bb3276a3c" frameborder="0" width="100%" height="auto"></iframe>

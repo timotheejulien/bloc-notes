@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-09-16T21:41:33+02:00</updated>
+   <updated>2025-09-17T07:47:55+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -3386,9 +3386,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>Cantal, Laguiole, Salers on s’y perd !</title>
-         <link href="http://localhost:4000/podcasts/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/"/>
+         <link href="http://localhost:4000/podcasts/2024/11/12/cantal-laguiole-salers-on-sy-perd/"/>
          <updated>2024-11-12T08:58:09+01:00</updated>
-         <id>http://localhost:4000/podcasts/2024/11/12/on-va-deguster-cantal-laguiole-salers-on-sy-perd/</id>
+         <id>http://localhost:4000/podcasts/2024/11/12/cantal-laguiole-salers-on-sy-perd/</id>
 
          <content type="html">
             Cantal, Laguiole, Salers, trois noms qui évoquent l&apos;Aubrac, mais qui sèment parfois un peu la confusion. Pas évident de distinguer les fromages du massif central, pourtant chacun a son caractère, sa texture, son histoire. Cantal, Laguiole, Salers, mais aussi IGP de la Tome fraîche d&apos;Aubrac, on embarque pour une escapade fromagère avec Pierre Coulon.

@@ -17,3 +17,5 @@ og-tags: fromage
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-12 08:58:09 +0100'
 ---
+
+<iframe src="https://embed.radiofrance.fr/franceinter/diffusion/5717e6a4-76aa-4e0b-86e1-01fcfc66b5f0" frameborder="0" width="100%" height="auto"></iframe>
