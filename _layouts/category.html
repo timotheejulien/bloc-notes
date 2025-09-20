@@ -11,8 +11,21 @@
       {%- for post in site.categories[page.category] -%}
       <article class="article">
          <header>
-            <div class="article-icon">
-               <img src="https://favicon.im/{{ post.link }}" alt="Favicon" />
+            {% assign category = post.categories | first | slugify %}
+
+            <div class="article-icon category-{{ category }}">
+               {% case category %}
+                  {% when "vidéos" %}
+                     {% include icons/icon-videos.svg %}
+                  {% when "podcasts" %}
+                     {% include icons/icon-podcasts.svg %}
+                  {% when "citations" %}
+                     {% include icons/icon-citations.svg %}
+                  {% when "articles" %}
+                     {% include icons/icon-articles.svg %}
+                  {% else %}
+                     {% include icons/icon-default.svg %}
+            {% endcase %}
             </div>
             <div class="article-meta">
                <p>{{ post.author }} • {{ post.published_date }}</p>
