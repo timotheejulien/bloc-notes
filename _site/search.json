@@ -1,6 +1,12 @@
 [
   
   {
+    "title": "Améliorer l’expérience grâce au journal de bord",
+    "url": "/articles/2025/09/19/ameliorer-lexperience-grace-au-journal-de-bord/",
+    "description": "Cet article est une transcription de ma conférence sur la méthode du journal de bord. Dans le cadre d’un projet de refonte, nous avons plusieurs fois utilisé cette méthode pour évaluer, sur une période de temps, la façon dont nos utilisatrices et utilisateurs interagissaient avec notre outil. Cela nous a permis d’énormément l’améliorer avant son lancement final. Je partage ici mon processus étape par étape – de la mise en place de l’étude à l’analyse des résultats – et les enseignements clés qu’on en a tiré."
+  },
+  
+  {
     "title": "Comment l'IA change les comportements de recherche",
     "url": "/articles/2025/09/16/ai-changing-search-behaviors/",
     "description": "L’étude montre que l'IA générative est en train de remodeler la recherche, mais les habitudes de longue date persistent. De nombreux utilisateurs restent par défaut à Google, donnant à Gemini une chance de se battre. "
