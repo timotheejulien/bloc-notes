@@ -2,8 +2,8 @@
 layout: post
 title: "Benjamin Button reviews macOS"
 link: https://rakhim.exotext.com/benjamin-button-reviews-macos
-author: ""
-published_date: ""
+author: "Rakhim"
+published_date: "17/09/2025"
 description: "Cet article retrace de façon humoristique les différentes évolutions UX et UI de macOS comme ci la première version de macOS était Tahoe."
 language: "en"
 categories: "articles"
