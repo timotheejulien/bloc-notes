@@ -18,8 +18,8 @@ description: Il y a deux ou trois ans, j’ai commencé à me poser beaucoup de 
   claire et simple possible.
 language: fr
 categories: articles
-tags: app message
-og-tags: app message
+tags: app messagerie
+og-tags: app messagerie
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2025-03-24 19:12:41 +0100'
 ---
