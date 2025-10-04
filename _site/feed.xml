@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-09-21T17:34:40+02:00</updated>
+   <updated>2025-10-04T11:48:29+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,72 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Comment reprendre le pouvoir sur notre quotidien ?</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/10/04/comment-reprendre-le-pouvoir-sur-notre-quotidien/"/>
+         <updated>2025-10-04T11:46:00+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/10/04/comment-reprendre-le-pouvoir-sur-notre-quotidien/</id>
+
+         <content type="html">
+            Vous êtes peut-être comme beaucoup, à culpabiliser d&apos;acheter des baskets made in China, des bananes du Costa Rica ou un smartphone assemblé dans les pire condition, mais sans vraiment savoir comment faire autrement. Que ce soit ce qu&apos;on mange, le logement où on vit, où les habits qu&apos;on porte, on réalise que les choses les plus basiques de notre vie nous échappent. En découvrant l&apos;œuvre de Geneviève Pruvost, on peut enfin saisir les ressorts de cette impuissance. Cette sociologue et directrice de recherche à l&apos;EHESS est aussi diplômée de permaculture. Dans son livre Quotidien Politique, elle a rassemblé des pensées méconnues pour comprendre comment notre vie quotidienne nous a échappé. Et à travers cette perspective, elle creuse aussi la façon dont on pourrait reprendre le pouvoir sur nos conditions de vie. Alors, de quoi se compose vraiment la vie quotidienne ? Pourquoi la base matérielle de notre existence nous échappe-t-elle ? Comment reprendre le pouvoir sur notre quotidien ?
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Why I gave the world wide web away for free (Tim Berners-Lee)</title>
+         <link href="http://localhost:4000/articles/2025/09/30/why-i-gave-the-world-wide-web-away-for-free/"/>
+         <updated>2025-09-30T08:42:27+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/30/why-i-gave-the-world-wide-web-away-for-free/</id>
+
+         <content type="html">
+            « Ma vision était fondée sur le partage, et non sur l&apos;exploitation – et voici pourquoi cela vaut toujours la peine de se battre pour cela. »
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Open Printer, une imprimante open source simple et réparable</title>
+         <link href="http://localhost:4000/articles/2025/09/29/open-printer/"/>
+         <updated>2025-09-29T17:38:47+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/29/open-printer/</id>
+
+         <content type="html">
+            Vous en avez marre du manque de fiabilité de votre imprimante, des cartouches onéreuses et craignez d’éventuelles failles de sécurité ? Un autre monde existe, ou tout du moins existera bientôt : Open Printer. Ce projet vise à simplifier le concept d’imprimante avec un modèle open source facile à utiliser et à réparer. Le projet a été partagé sur Crowd Supply, où on peut lire que l’accessoire se base sur un petit Raspberry Pi Zero W s’occupant de toute la partie calculs.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Les citoyens veulent-ils vraiment de la souveraineté numérique ? 10 points sur une enquête mondiale</title>
+         <link href="http://localhost:4000/articles/2025/09/27/souverainete-technologique-10-points/"/>
+         <updated>2025-09-27T16:30:59+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/27/souverainete-technologique-10-points/</id>
+
+         <content type="html">
+            Dans l’Union européenne, au Royaume-Uni, aux États-Unis ou au Japon, la souveraineté technologique s’est désormais imposée comme une priorité politique incontournable. Mais qu’en pense réellement l’opinion publique ? Un vaste sondage mené dans six pays montre une sensibilité profonde au sujet — mais expose des divergences potentiellement bloquantes.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La 7e limite planétaire est officiellement dépassée : l'acidification des océans</title>
+         <link href="http://localhost:4000/articles/2025/09/25/7eme-limite-planetaire-atteinte/"/>
+         <updated>2025-09-25T12:39:54+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/25/7eme-limite-planetaire-atteinte/</id>
+
+         <content type="html">
+            C’est officiel, nous avons dépassé la 7e limite planétaire, celle de l’acidification des océans. L’étude de Findlay &amp; al. (2025) annonçait déjà en juin 2025 que la limite planétaire de l’acidification des océans était dépassée. C’est cette fois une évaluation scientifique du Postdam Institute for Climate Impact Research (PIK) et l’équipe emmenée par Johan Rockström qui le confirme pour de bon.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Benjamin Button reviews macOS</title>
+         <link href="http://localhost:4000/articles/2025/09/22/benjamin-button-reviews-macos/"/>
+         <updated>2025-09-22T21:25:01+02:00</updated>
+         <id>http://localhost:4000/articles/2025/09/22/benjamin-button-reviews-macos/</id>
+
+         <content type="html">
+            Cet article retrace de façon humoristique les différentes évolutions UX et UI de macOS comme ci la première version de macOS était Tahoe.
+         </content>
+      </entry>
    
       <entry>
          <title>Améliorer l’expérience grâce au journal de bord</title>
