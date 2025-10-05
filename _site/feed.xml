@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-10-04T11:48:29+02:00</updated>
+   <updated>2025-10-05T09:59:46+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,17 @@
 
    
       <entry>
+         <title>Intelligence artificielle : comment ChatGPT est entré dans nos vies</title>
+         <link href="http://localhost:4000/articles/2025/10/05/comment-chatgpt-s-est-impose-dans-notre-quotidien/"/>
+         <updated>2025-10-05T09:50:02+02:00</updated>
+         <id>http://localhost:4000/articles/2025/10/05/comment-chatgpt-s-est-impose-dans-notre-quotidien/</id>
+
+         <content type="html">
+            Conseils parentaux, recherche de logement, cuisine, santé, sport : ChatGPT et ses concurrents sont utilisés au quotidien par des millions de personnes. Une intimité croissante avec les chatbots qui soulève des questions vertigineuses.
+         </content>
+      </entry>
+   
+      <entry>
          <title>Comment reprendre le pouvoir sur notre quotidien ?</title>
          <link href="http://localhost:4000/vid%C3%A9os/2025/10/04/comment-reprendre-le-pouvoir-sur-notre-quotidien/"/>
          <updated>2025-10-04T11:46:00+02:00</updated>
@@ -21,6 +32,17 @@
 
          <content type="html">
             Vous êtes peut-être comme beaucoup, à culpabiliser d&apos;acheter des baskets made in China, des bananes du Costa Rica ou un smartphone assemblé dans les pire condition, mais sans vraiment savoir comment faire autrement. Que ce soit ce qu&apos;on mange, le logement où on vit, où les habits qu&apos;on porte, on réalise que les choses les plus basiques de notre vie nous échappent. En découvrant l&apos;œuvre de Geneviève Pruvost, on peut enfin saisir les ressorts de cette impuissance. Cette sociologue et directrice de recherche à l&apos;EHESS est aussi diplômée de permaculture. Dans son livre Quotidien Politique, elle a rassemblé des pensées méconnues pour comprendre comment notre vie quotidienne nous a échappé. Et à travers cette perspective, elle creuse aussi la façon dont on pourrait reprendre le pouvoir sur nos conditions de vie. Alors, de quoi se compose vraiment la vie quotidienne ? Pourquoi la base matérielle de notre existence nous échappe-t-elle ? Comment reprendre le pouvoir sur notre quotidien ?
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Chat Control : on fait le point</title>
+         <link href="http://localhost:4000/articles/2025/10/03/chat-control/"/>
+         <updated>2025-10-03T14:45:52+02:00</updated>
+         <id>http://localhost:4000/articles/2025/10/03/chat-control/</id>
+
+         <content type="html">
+            Au cours de l’été 2025, le dossier « Chat Control » est devenu un sujet brûlant dans le débat public. Lors d’un vote très important, le 14 octobre prochain, les gouvernements des États membres de l’UE décideront d’approuver ou de rejeter un texte qui veut instaurer une surveillance de masse, briser le chiffrement des communications et mettre fin à l’anonymat en ligne : le règlement CSAR. Mais nous avons encore une bonne occasion d’empêcher l’adoption de ces mesures qui contrôleraient nos conversations, car le système législatif européen nous laisse encore des possibilités de contrepouvoirs démocratiques.
          </content>
       </entry>
    
@@ -97,7 +119,7 @@
          <id>http://localhost:4000/articles/2025/09/16/ai-changing-search-behaviors/</id>
 
          <content type="html">
-            L’étude montre que l&apos;IA générative est en train de remodeler la recherche, mais les habitudes de longue date persistent. De nombreux utilisateurs restent par défaut à Google, donnant à Gemini une chance de se battre. 
+            L’étude montre que l&apos;IA générative est en train de remodeler la recherche, mais les habitudes de longue date persistent. De nombreux utilisateurs restent par défaut à Google, donnant à Gemini une chance de se battre.
          </content>
       </entry>
    
