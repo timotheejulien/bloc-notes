@@ -10,7 +10,7 @@ categories:
    - vidéos
 tags: "design"
 og-tags: "design"
-date: "2025-10-07 09:57:00 +0200"
+date: "2025-10-11 16:57:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
