@@ -2,9 +2,9 @@
 layout: post
 title: "The age of the design hacker"
 link: https://medium.com/microsoft-design/the-age-of-the-design-hacker-7023878d8f24
-author: ""
-published_date: ""
-description: "L'article explore l'émergence de la figure du "design hacker" dans le domaine de la conception d'interfaces utilisateur. Cette nouvelle tendance met l'accent sur l'importance de la créativité, de l'expérimentation et de l'itération rapide dans le processus de conception."
+author: "Microsoft Design"
+published_date: "17/11/2025"
+description: "L'article explore l'émergence de la figure du « design hacker » dans le domaine de la conception d'interfaces utilisateur. Cette nouvelle tendance met l'accent sur l'importance de la créativité, de l'expérimentation et de l'itération rapide dans le processus de conception."
 language: "en"
 categories: "articles"
 tags: "design hacking"
