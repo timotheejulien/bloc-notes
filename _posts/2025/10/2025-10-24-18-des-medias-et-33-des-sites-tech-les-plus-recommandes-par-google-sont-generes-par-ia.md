@@ -10,6 +10,6 @@ categories:
    - articles
 tags: "google ia presse"
 og-tags: "google ia presse"
-date: "2025-10-07 09:57:00 +0200"
+date: "2025-10-24 09:04:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
