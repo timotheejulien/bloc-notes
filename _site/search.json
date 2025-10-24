@@ -1,9 +1,39 @@
 [
   
   {
+    "title": "Pourquoi vous devriez lancer un blog",
+    "url": "/articles/2025/10/23/pourquoi-vous-devriez-lancer-un-blog/",
+    "description": "Après avoir relancé mon blog, je me devais d’essayer de vous convaincre à votre tour de lancer votre propre blog dans un contexte auquel les réseaux sociaux deviennent de plus en plus toxiques et où la désinformation règne. Tenir un blog est un excellent projet créatif et de liberté d’expression ancré dans les racines d’Internet. Mais avant de rentrer dans les détails, laissez-moi vous faire un petit point historique."
+  },
+  
+  {
+    "title": "Just how bad would an AI bubble be?",
+    "url": "/articles/2025/10/23/just-how-bad-would-an-ai-bubble-be/",
+    "description": "L'ensemble de l'économie américaine est soutenu par la promesse de gains de productivité par l'IA qui semblent très loin de se concrétiser."
+  },
+  
+  {
     "title": "50 years of design at Microsoft",
     "url": "/vid%C3%A9os/2025/10/19/50-years-of-design-at-microsoft/",
     "description": "Parce que certains paradigmes étaient en avance sur leur temps... nous levons notre verre à la conception des 50 prochaines années avec vous."
+  },
+  
+  {
+    "title": "The age of the design hacker",
+    "url": "/articles/2025/10/18/the-age-of-the-design-hacker/",
+    "description": "L'article explore l'émergence de la figure du « design hacker » dans le domaine de la conception d'interfaces utilisateur. Cette nouvelle tendance met l'accent sur l'importance de la créativité, de l'expérimentation et de l'itération rapide dans le processus de conception."
+  },
+  
+  {
+    "title": "Liquid Glass is cracked, and usability suffers in iOS 26",
+    "url": "/articles/2025/10/12/liquid-glass/",
+    "description": "Le langage visuel d'iOS 26 occulte le contenu au lieu de le mettre en avant. De nouveaux modèles de conception (mais pas toujours meilleurs) remplacent les conventions établies."
+  },
+  
+  {
+    "title": "Design is how it works",
+    "url": "/vid%C3%A9os/2025/10/11/design-is-how-it-works/",
+    "description": "« La plupart des gens commettent l'erreur de penser que le design se résume à l'apparence... Le design ne se résume pas à l'apparence et à la sensation. Le design, c'est la façon dont cela fonctionne ». Steve Jobs, The New York Times, 2003"
   },
   
   {
@@ -13,9 +43,9 @@
   },
   
   {
-    "title": "Design is how it works",
-    "url": "/vid%C3%A9os/2025/10/07/design-is-how-it-works/",
-    "description": "« La plupart des gens commettent l'erreur de penser que le design se résume à l'apparence... Le design ne se résume pas à l'apparence et à la sensation. Le design, c'est la façon dont cela fonctionne ». Steve Jobs, The New York Times, 2003"
+    "title": "18% des médias et 33% des sites tech les plus recommandés par Google sont générés par IA",
+    "url": "/articles/2025/10/07/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/",
+    "description": "L'algorithme Discover de « recommandation de contenus » de Google, principale source de trafic des sites journalistiques français, est devenu une « pompe à fric » pour les sites monétisés par la publicité, majoritairement financés par... la régie publicitaire de Google. Au point que près de 20 % des 1 000 sites d'info les plus recommandés par Google Discover, et 33 % des 120 sites les plus recommandés par Google News, à la rubrique Technologie, sont générés par IA."
   },
   
   {

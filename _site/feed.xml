@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-10-19T12:13:17+02:00</updated>
+   <updated>2025-10-24T09:02:44+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -14,6 +14,28 @@
 
    
       <entry>
+         <title>Pourquoi vous devriez lancer un blog</title>
+         <link href="http://localhost:4000/articles/2025/10/23/pourquoi-vous-devriez-lancer-un-blog/"/>
+         <updated>2025-10-23T13:58:47+02:00</updated>
+         <id>http://localhost:4000/articles/2025/10/23/pourquoi-vous-devriez-lancer-un-blog/</id>
+
+         <content type="html">
+            Après avoir relancé mon blog, je me devais d’essayer de vous convaincre à votre tour de lancer votre propre blog dans un contexte auquel les réseaux sociaux deviennent de plus en plus toxiques et où la désinformation règne. Tenir un blog est un excellent projet créatif et de liberté d’expression ancré dans les racines d’Internet. Mais avant de rentrer dans les détails, laissez-moi vous faire un petit point historique.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Just how bad would an AI bubble be?</title>
+         <link href="http://localhost:4000/articles/2025/10/23/just-how-bad-would-an-ai-bubble-be/"/>
+         <updated>2025-10-23T09:11:44+02:00</updated>
+         <id>http://localhost:4000/articles/2025/10/23/just-how-bad-would-an-ai-bubble-be/</id>
+
+         <content type="html">
+            L&apos;ensemble de l&apos;économie américaine est soutenu par la promesse de gains de productivité par l&apos;IA qui semblent très loin de se concrétiser.
+         </content>
+      </entry>
+   
+      <entry>
          <title>50 years of design at Microsoft</title>
          <link href="http://localhost:4000/vid%C3%A9os/2025/10/19/50-years-of-design-at-microsoft/"/>
          <updated>2025-10-19T12:10:00+02:00</updated>
@@ -21,6 +43,39 @@
 
          <content type="html">
             Parce que certains paradigmes étaient en avance sur leur temps... nous levons notre verre à la conception des 50 prochaines années avec vous.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>The age of the design hacker</title>
+         <link href="http://localhost:4000/articles/2025/10/18/the-age-of-the-design-hacker/"/>
+         <updated>2025-10-18T12:53:31+02:00</updated>
+         <id>http://localhost:4000/articles/2025/10/18/the-age-of-the-design-hacker/</id>
+
+         <content type="html">
+            L&apos;article explore l&apos;émergence de la figure du « design hacker » dans le domaine de la conception d&apos;interfaces utilisateur. Cette nouvelle tendance met l&apos;accent sur l&apos;importance de la créativité, de l&apos;expérimentation et de l&apos;itération rapide dans le processus de conception.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Liquid Glass is cracked, and usability suffers in iOS 26</title>
+         <link href="http://localhost:4000/articles/2025/10/12/liquid-glass/"/>
+         <updated>2025-10-12T18:45:03+02:00</updated>
+         <id>http://localhost:4000/articles/2025/10/12/liquid-glass/</id>
+
+         <content type="html">
+            Le langage visuel d&apos;iOS 26 occulte le contenu au lieu de le mettre en avant. De nouveaux modèles de conception (mais pas toujours meilleurs) remplacent les conventions établies.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Design is how it works</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/10/11/design-is-how-it-works/"/>
+         <updated>2025-10-11T16:57:00+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/10/11/design-is-how-it-works/</id>
+
+         <content type="html">
+            « La plupart des gens commettent l&apos;erreur de penser que le design se résume à l&apos;apparence... Le design ne se résume pas à l&apos;apparence et à la sensation. Le design, c&apos;est la façon dont cela fonctionne ». Steve Jobs, The New York Times, 2003
          </content>
       </entry>
    
@@ -36,13 +91,13 @@
       </entry>
    
       <entry>
-         <title>Design is how it works</title>
-         <link href="http://localhost:4000/vid%C3%A9os/2025/10/07/design-is-how-it-works/"/>
+         <title>18% des médias et 33% des sites tech les plus recommandés par Google sont générés par IA</title>
+         <link href="http://localhost:4000/articles/2025/10/07/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/"/>
          <updated>2025-10-07T09:57:00+02:00</updated>
-         <id>http://localhost:4000/vid%C3%A9os/2025/10/07/design-is-how-it-works/</id>
+         <id>http://localhost:4000/articles/2025/10/07/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/</id>
 
          <content type="html">
-            « La plupart des gens commettent l&apos;erreur de penser que le design se résume à l&apos;apparence... Le design ne se résume pas à l&apos;apparence et à la sensation. Le design, c&apos;est la façon dont cela fonctionne ». Steve Jobs, The New York Times, 2003
+            L&apos;algorithme Discover de « recommandation de contenus » de Google, principale source de trafic des sites journalistiques français, est devenu une « pompe à fric » pour les sites monétisés par la publicité, majoritairement financés par... la régie publicitaire de Google. Au point que près de 20 % des 1 000 sites d&apos;info les plus recommandés par Google Discover, et 33 % des 120 sites les plus recommandés par Google News, à la rubrique Technologie, sont générés par IA.
          </content>
       </entry>
    
