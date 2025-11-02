@@ -1,6 +1,54 @@
 [
   
   {
+    "title": "Bulle de l'IA : 70 % du cloud est contrôlé par trois entreprises américaines",
+    "url": "/articles/2025/11/02/bulle-ia-meredith-whittaker/",
+    "description": "Aveuglés par les faux miracles de ChatGPT, nous sommes en train d’abdiquer une nouvelle fois devant les seigneurs de la Tech.Pourtant, le modèle économique de l’IA n’a rien de nouveau. Meredith Whittaker, présidente de la messagerie cryptée Signal, met en garde contre les conséquences que pourrait avoir l’explosion d’une bulle."
+  },
+  
+  {
+    "title": "Quand éclatera la bulle IA…",
+    "url": "/articles/2025/11/02/eclatement-bulle-ia/",
+    "description": "Comme le souligne Ed Zitron, toute la bulle actuelle est basée sur 7 ou 8 entreprises qui s’échangent des promesses de s’échanger des milliards d’euros lorsque tous les habitants de la planète dépenseront en moyenne 100€ par mois pour utiliser ChatGPT. Ce qui, pour éviter une cascade de faillites, doit arriver dans les 4 ans au plus tard."
+  },
+  
+  {
+    "title": "Agentic AI and security",
+    "url": "/articles/2025/10/31/agentic-ai-security/",
+    "description": "Les systèmes d'IA agentique présentent des défis uniques en matière de sécurité. La faiblesse fondamentale des LLM en matière de sécurité réside dans l'absence de moyen rigoureux de séparer les instructions des données, de sorte que tout ce qu'ils lisent est potentiellement une instruction. Cela conduit à la « triple menace » : données sensibles, contenu non fiable et communication externe - le risque que le LLM lise des instructions cachées qui divulguent des données sensibles aux attaquants. Nous devons prendre des mesures explicites pour atténuer ce risque en minimisant l'accès à chacun de ces trois éléments. Il est utile d'exécuter les LLM dans des conteneurs contrôlés et de diviser les tâches de manière à ce que chaque sous-tâche bloque au moins un des trois éléments. Avant tout, procédez par petites étapes qui peuvent être contrôlées et vérifiées par des humains."
+  },
+  
+  {
+    "title": "Les médecins face à l'IA : « C’est le stéthoscope du XXIème siècle »",
+    "url": "/articles/2025/10/30/ia-en-medecine/",
+    "description": "Pour comprendre ce que change concrètement l’intégration des IA dans le monde professionnel, Usbek & Rica lance une série d’articles consacrée à différents métiers. Dans ce premier épisode de « Les métiers face à l’IA », trois médecins témoignent."
+  },
+  
+  {
+    "title": "Le défi d'éduquer à un numérique acceptable",
+    "url": "/articles/2025/10/30/le-defi-deduquer-a-un-numerique-acceptable-article/",
+    "description": "Cet article a été écrit en écho à mes conférences regroupées sous le titre éponyme, « le défi d'éduquer à un numérique acceptable ». Il s'agit d'une mise à jour de mon exploration croisée de l'éducation au numérique d'une part, et du numérique acceptable d'autre part."
+  },
+  
+  {
+    "title": "IA : dépasser le mythe de l'outil",
+    "url": "/articles/2025/10/28/ia-depasser-le-mythe-de-loutil/",
+    "description": "Non, l’IA n’est pas « simplement un outil ». Cette technologie, comme avant elle la machine à vapeur ou l’imprimerie, engendre des changements profonds dont les impacts sur la production et les usages dépassent largement sa fonction initiale, explique Jean-Louis Frechin."
+  },
+  
+  {
+    "title": "Plongée dans l’algorithme de TikTok France : nos révélations",
+    "url": "/articles/2025/10/26/plongee-dans-l-algorithme-de-tiktok-france-rapport/",
+    "description": "Que montre TikTok aux adolescent·es français ? Pour le savoir, nos équipes ont recréé leurs profils et se sont entretenues avec des adolescent·es et des familles concernées. Nos résultats sont accablants : malgré la législation européenne, TikTok inonde encore les écrans des ados vulnérables de contenus dangereux pouvant aller jusqu’à encourager l’automutilation ou le suicide. Voici notre enquête."
+  },
+  
+  {
+    "title": "18% des médias et 33% des sites tech les plus recommandés par Google sont générés par IA",
+    "url": "/articles/2025/10/24/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/",
+    "description": "L'algorithme Discover de « recommandation de contenus » de Google, principale source de trafic des sites journalistiques français, est devenu une « pompe à fric » pour les sites monétisés par la publicité, majoritairement financés par... la régie publicitaire de Google. Au point que près de 20 % des 1 000 sites d'info les plus recommandés par Google Discover, et 33 % des 120 sites les plus recommandés par Google News, à la rubrique Technologie, sont générés par IA."
+  },
+  
+  {
     "title": "Pourquoi vous devriez lancer un blog",
     "url": "/articles/2025/10/23/pourquoi-vous-devriez-lancer-un-blog/",
     "description": "Après avoir relancé mon blog, je me devais d’essayer de vous convaincre à votre tour de lancer votre propre blog dans un contexte auquel les réseaux sociaux deviennent de plus en plus toxiques et où la désinformation règne. Tenir un blog est un excellent projet créatif et de liberté d’expression ancré dans les racines d’Internet. Mais avant de rentrer dans les détails, laissez-moi vous faire un petit point historique."
@@ -40,12 +88,6 @@
     "title": "Comment je résiste avec ce site ?",
     "url": "/articles/2025/10/08/comment-je-resiste-avec-ce-site/",
     "description": "Un site personnel c’est le reflet de valeurs et de croyances. Le défi est de passer du dire au faire et ce d’autant plus quand on fait des choix qui se démarquent des schémas de compétition imposés par les géants du Web. Sans intégrisme, il y a un moment où il faut l’assumer de façon explicite. Comment je résiste avec ce site ? En commençant par questionner et modifier ma pratique…"
-  },
-  
-  {
-    "title": "18% des médias et 33% des sites tech les plus recommandés par Google sont générés par IA",
-    "url": "/articles/2025/10/07/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/",
-    "description": "L'algorithme Discover de « recommandation de contenus » de Google, principale source de trafic des sites journalistiques français, est devenu une « pompe à fric » pour les sites monétisés par la publicité, majoritairement financés par... la régie publicitaire de Google. Au point que près de 20 % des 1 000 sites d'info les plus recommandés par Google Discover, et 33 % des 120 sites les plus recommandés par Google News, à la rubrique Technologie, sont générés par IA."
   },
   
   {

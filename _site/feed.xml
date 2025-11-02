@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-10-24T09:02:44+02:00</updated>
+   <updated>2025-11-02T13:45:02+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,95 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Bulle de l'IA : 70 % du cloud est contrôlé par trois entreprises américaines</title>
+         <link href="http://localhost:4000/articles/2025/11/02/bulle-ia-meredith-whittaker/"/>
+         <updated>2025-11-02T13:37:10+01:00</updated>
+         <id>http://localhost:4000/articles/2025/11/02/bulle-ia-meredith-whittaker/</id>
+
+         <content type="html">
+            Aveuglés par les faux miracles de ChatGPT, nous sommes en train d’abdiquer une nouvelle fois devant les seigneurs de la Tech.
+Pourtant, le modèle économique de l’IA n’a rien de nouveau. Meredith Whittaker, présidente de la messagerie cryptée Signal, met en garde contre les conséquences que pourrait avoir l’explosion d’une bulle.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Quand éclatera la bulle IA…</title>
+         <link href="http://localhost:4000/articles/2025/11/02/eclatement-bulle-ia/"/>
+         <updated>2025-11-02T12:43:00+01:00</updated>
+         <id>http://localhost:4000/articles/2025/11/02/eclatement-bulle-ia/</id>
+
+         <content type="html">
+            Comme le souligne Ed Zitron, toute la bulle actuelle est basée sur 7 ou 8 entreprises qui s’échangent des promesses de s’échanger des milliards d’euros lorsque tous les habitants de la planète dépenseront en moyenne 100€ par mois pour utiliser ChatGPT. Ce qui, pour éviter une cascade de faillites, doit arriver dans les 4 ans au plus tard.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Agentic AI and security</title>
+         <link href="http://localhost:4000/articles/2025/10/31/agentic-ai-security/"/>
+         <updated>2025-10-31T10:27:29+01:00</updated>
+         <id>http://localhost:4000/articles/2025/10/31/agentic-ai-security/</id>
+
+         <content type="html">
+            Les systèmes d&apos;IA agentique présentent des défis uniques en matière de sécurité. La faiblesse fondamentale des LLM en matière de sécurité réside dans l&apos;absence de moyen rigoureux de séparer les instructions des données, de sorte que tout ce qu&apos;ils lisent est potentiellement une instruction. Cela conduit à la « triple menace » : données sensibles, contenu non fiable et communication externe - le risque que le LLM lise des instructions cachées qui divulguent des données sensibles aux attaquants. Nous devons prendre des mesures explicites pour atténuer ce risque en minimisant l&apos;accès à chacun de ces trois éléments. Il est utile d&apos;exécuter les LLM dans des conteneurs contrôlés et de diviser les tâches de manière à ce que chaque sous-tâche bloque au moins un des trois éléments. Avant tout, procédez par petites étapes qui peuvent être contrôlées et vérifiées par des humains.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Les médecins face à l'IA : « C’est le stéthoscope du XXIème siècle »</title>
+         <link href="http://localhost:4000/articles/2025/10/30/ia-en-medecine/"/>
+         <updated>2025-10-30T14:14:25+01:00</updated>
+         <id>http://localhost:4000/articles/2025/10/30/ia-en-medecine/</id>
+
+         <content type="html">
+            Pour comprendre ce que change concrètement l’intégration des IA dans le monde professionnel, Usbek &amp; Rica lance une série d’articles consacrée à différents métiers. Dans ce premier épisode de « Les métiers face à l’IA », trois médecins témoignent.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Le défi d'éduquer à un numérique acceptable</title>
+         <link href="http://localhost:4000/articles/2025/10/30/le-defi-deduquer-a-un-numerique-acceptable-article/"/>
+         <updated>2025-10-30T08:09:48+01:00</updated>
+         <id>http://localhost:4000/articles/2025/10/30/le-defi-deduquer-a-un-numerique-acceptable-article/</id>
+
+         <content type="html">
+            Cet article a été écrit en écho à mes conférences regroupées sous le titre éponyme, « le défi d&apos;éduquer à un numérique acceptable ». Il s&apos;agit d&apos;une mise à jour de mon exploration croisée de l&apos;éducation au numérique d&apos;une part, et du numérique acceptable d&apos;autre part.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>IA : dépasser le mythe de l'outil</title>
+         <link href="http://localhost:4000/articles/2025/10/28/ia-depasser-le-mythe-de-loutil/"/>
+         <updated>2025-10-28T10:21:32+01:00</updated>
+         <id>http://localhost:4000/articles/2025/10/28/ia-depasser-le-mythe-de-loutil/</id>
+
+         <content type="html">
+            Non, l’IA n’est pas « simplement un outil ». Cette technologie, comme avant elle la machine à vapeur ou l’imprimerie, engendre des changements profonds dont les impacts sur la production et les usages dépassent largement sa fonction initiale, explique Jean-Louis Frechin.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Plongée dans l’algorithme de TikTok France : nos révélations</title>
+         <link href="http://localhost:4000/articles/2025/10/26/plongee-dans-l-algorithme-de-tiktok-france-rapport/"/>
+         <updated>2025-10-26T10:47:28+01:00</updated>
+         <id>http://localhost:4000/articles/2025/10/26/plongee-dans-l-algorithme-de-tiktok-france-rapport/</id>
+
+         <content type="html">
+            Que montre TikTok aux adolescent·es français ? Pour le savoir, nos équipes ont recréé leurs profils et se sont entretenues avec des adolescent·es et des familles concernées. Nos résultats sont accablants : malgré la législation européenne, TikTok inonde encore les écrans des ados vulnérables de contenus dangereux pouvant aller jusqu’à encourager l’automutilation ou le suicide. Voici notre enquête.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>18% des médias et 33% des sites tech les plus recommandés par Google sont générés par IA</title>
+         <link href="http://localhost:4000/articles/2025/10/24/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/"/>
+         <updated>2025-10-24T09:04:00+02:00</updated>
+         <id>http://localhost:4000/articles/2025/10/24/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/</id>
+
+         <content type="html">
+            L&apos;algorithme Discover de « recommandation de contenus » de Google, principale source de trafic des sites journalistiques français, est devenu une « pompe à fric » pour les sites monétisés par la publicité, majoritairement financés par... la régie publicitaire de Google. Au point que près de 20 % des 1 000 sites d&apos;info les plus recommandés par Google Discover, et 33 % des 120 sites les plus recommandés par Google News, à la rubrique Technologie, sont générés par IA.
+         </content>
+      </entry>
    
       <entry>
          <title>Pourquoi vous devriez lancer un blog</title>
@@ -87,17 +176,6 @@
 
          <content type="html">
             Un site personnel c’est le reflet de valeurs et de croyances. Le défi est de passer du dire au faire et ce d’autant plus quand on fait des choix qui se démarquent des schémas de compétition imposés par les géants du Web. Sans intégrisme, il y a un moment où il faut l’assumer de façon explicite. Comment je résiste avec ce site ? En commençant par questionner et modifier ma pratique…
-         </content>
-      </entry>
-   
-      <entry>
-         <title>18% des médias et 33% des sites tech les plus recommandés par Google sont générés par IA</title>
-         <link href="http://localhost:4000/articles/2025/10/07/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/"/>
-         <updated>2025-10-07T09:57:00+02:00</updated>
-         <id>http://localhost:4000/articles/2025/10/07/18-des-medias-et-33-des-sites-tech-les-plus-recommandes-par-google-sont-generes-par-ia/</id>
-
-         <content type="html">
-            L&apos;algorithme Discover de « recommandation de contenus » de Google, principale source de trafic des sites journalistiques français, est devenu une « pompe à fric » pour les sites monétisés par la publicité, majoritairement financés par... la régie publicitaire de Google. Au point que près de 20 % des 1 000 sites d&apos;info les plus recommandés par Google Discover, et 33 % des 120 sites les plus recommandés par Google News, à la rubrique Technologie, sont générés par IA.
          </content>
       </entry>
    
