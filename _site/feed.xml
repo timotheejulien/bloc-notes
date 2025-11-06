@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-11-02T13:45:02+01:00</updated>
+   <updated>2025-11-06T14:12:59+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Croiser le monde dans une grille, avec Léo Barraco</title>
+         <link href="http://localhost:4000/podcasts/2025/11/06/lettres-mobiles-verbicruciste/"/>
+         <updated>2025-11-06T10:23:00+01:00</updated>
+         <id>http://localhost:4000/podcasts/2025/11/06/lettres-mobiles-verbicruciste/</id>
+
+         <content type="html">
+            Léo Barraco, verbicruciste, nous plonge dans l’aura typographique d’une grille de mots croisés ! Découvrez comment on fabrique une grille, comment on jongle avec les contraintes, et ce que Georges Perec et Isaac Asimov ont à voir avec tout ça ! Vous n&apos;allez pas en croire vos oreilles !
+         </content>
+      </entry>
+   
+      <entry>
+         <title> Est-ce que tout bon design doit être minimaliste ?</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/11/06/est-ce-que-tout-bon-design-doit-etre-minimaliste/"/>
+         <updated>2025-11-06T09:48:56+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/11/06/est-ce-que-tout-bon-design-doit-etre-minimaliste/</id>
+
+         <content type="html">
+            Qu’est-ce qu’un bon design ? Pour beaucoup, la réponse semble évidente : il doit être simple, épuré, fonctionnel… en un mot : minimaliste. Mais pourquoi cette esthétique est-elle devenue la référence ? Et à quel moment a-t-on commencé à confondre minimalisme et bon design ?
+         </content>
+      </entry>
    
       <entry>
          <title>Bulle de l'IA : 70 % du cloud est contrôlé par trois entreprises américaines</title>
