@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-11-06T14:12:59+01:00</updated>
+   <updated>2025-11-07T08:44:05+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Stop confusing privacy & anonymity (and security)</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/11/07/stop-confusing-privacy-&-anonymity-and-security/"/>
+         <updated>2025-11-07T07:41:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/11/07/stop-confusing-privacy-&-anonymity-and-security/</id>
+
+         <content type="html">
+            Vous confondez confidentialité, sécurité et anonymat ? Ne vous inquiétez pas, c&apos;est plus courant que vous ne le pensez ! Dans la vidéo de cette semaine, nous analysons chaque terme afin que vous puissiez prendre des décisions éclairées sur les outils qui vous conviennent le mieux.
+         </content>
+      </entry>
    
       <entry>
          <title>Croiser le monde dans une grille, avec Léo Barraco</title>
