@@ -10,7 +10,7 @@ categories:
    - vidéos
 tags: "écologie tech numérique"
 og-tags: "écologie tech numérique"
-date: "2025-10-07 09:57:00 +0200"
+date: "2025-11-14 09:28:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
