@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-11-07T08:44:05+01:00</updated>
+   <updated>2025-11-14T09:25:23+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>La guerre que mènent les robots ascientifiques contre la solitude intellectuelle</title>
+         <link href="http://localhost:4000/articles/2025/11/10/solitude-intellectuelle/"/>
+         <updated>2025-11-10T22:13:48+01:00</updated>
+         <id>http://localhost:4000/articles/2025/11/10/solitude-intellectuelle/</id>
+
+         <content type="html">
+            On entend souvent que l’IA a des avantages et des inconvénients, mais que c’est un changement de paradigme, qu’il faut l’accepter. Qu’on ne peut pas « refuser en bloc ». Pourtant, le refus en bloc a bien eu lieu avec, par exemple, les NFTs. Et c’était, à mon avis, à raison parce que les NFT n’apportaient rien. Je prétends que la frénésie d’IA n’est pas du tout un changement de paradigme. C’est même le contraire. Oui, je le prétends haut et fort, ce qu’on nous vend avec l’IA n’est guère plus utile que les NFT. Tous les « nouveaux usages » sont, dans l’immense majorité, parfaitement stupides, voire hyper dangereux. Et les cas qui seraient potentiellement utiles ne sont tout simplement pas rentables. Si l’internet mobile a été un réel changement de paradigme, les IA ne le sont pas.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>OpenAI, too big to fail ?</title>
+         <link href="http://localhost:4000/articles/2025/11/10/openai-too-big-to-fail/"/>
+         <updated>2025-11-10T09:44:22+01:00</updated>
+         <id>http://localhost:4000/articles/2025/11/10/openai-too-big-to-fail/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La surveillance biométrique à distance ne sert pas à assurer la sécurité (elle ne le permet pas) ou à empêcher les rassemblements (elle ne le peut pas). C’est le seul moyen de contrôle qui reste lorsque la confiance envers la population est ébranlée.</title>
+         <link href="http://localhost:4000/citations/2025/11/07/la-reconnaissance-faciale-indicateur-de-perte-de-confiance/"/>
+         <updated>2025-11-07T08:48:25+01:00</updated>
+         <id>http://localhost:4000/citations/2025/11/07/la-reconnaissance-faciale-indicateur-de-perte-de-confiance/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
    
       <entry>
          <title>Stop confusing privacy & anonymity (and security)</title>
@@ -209,6 +242,17 @@ Pourtant, le modèle économique de l’IA n’a rien de nouveau. Meredith Whitt
 
          <content type="html">
             Un site personnel c’est le reflet de valeurs et de croyances. Le défi est de passer du dire au faire et ce d’autant plus quand on fait des choix qui se démarquent des schémas de compétition imposés par les géants du Web. Sans intégrisme, il y a un moment où il faut l’assumer de façon explicite. Comment je résiste avec ce site ? En commençant par questionner et modifier ma pratique…
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La TECH nous mène à l'EXTINCTION (et personne n'en parle)</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2025/10/07/la-tech-nous-mene-a-lextinction/"/>
+         <updated>2025-10-07T09:57:00+02:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2025/10/07/la-tech-nous-mene-a-lextinction/</id>
+
+         <content type="html">
+            Extractivisme minier, pollution énergétique, colonialisme technologique : le numérique accélère la destruction planétaire sous couvert d&apos;innovation. Dans son dernier livre « L&apos;Envers de la Tech, ce que le numérique fait au monde », Mathilde Saliou révèle comment l&apos;industrie tech masque sa matérialité destructrice derrière des mythes de « dématérialisation » et de recyclage. Cette conversation revient sur nos modes de consommation électronique fous (15 équipements numériques par foyers minimum) qui alimentent indirectement les conflits pour les resources minières en République Démocratique du Congo où ce sont près de 6 millions de morts qui ont été fait pour assurer l&apos;extraction du Coltan de nos téléphones. Elle déconstruit également l&apos;alliance toxique entre libertariens de la Silicon Valley et le pouvoir autoritaire américain qui cherche à développer une Intelligence artificielle absurde que personne n&apos;a demandé. Mathilde Saliou montre notamment comment Musk, Thiel et leurs pairs créent des zones hors-la-loi pour échapper aux régulations démocratiques. Face à cette colonisation technologique, elle prône un retour aux besoins réels plutôt qu&apos;à l&apos;innovation aveugle. Car derrière chaque « révolution » numérique se cachent des montagnes rasées, des forêts détruites et des populations déplacées. L&apos;autonomie technologique devient une urgence démocratique.
          </content>
       </entry>
    
