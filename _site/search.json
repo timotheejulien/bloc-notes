@@ -1,6 +1,30 @@
 [
   
   {
+    "title": "Treejack, comment tester l’arborescence de son site ?",
+    "url": "/articles/2025/12/09/treejack-comment-tester-larborescence-de-son-site/",
+    "description": "L’architecture de l’information d’un site web ou d’une application est souvent testée via un treejack, où les utilisateurs naviguent dans une arborescence pour trouver des informations. Optimalworkshop est un outil populaire pour ce type de test, mais Usabilitree, un projet open source, offre une alternative plus abordable. Pour un test efficace, il est crucial de bien préparer l’arborescence, les tâches et le recrutement des participants. Un test d’arborescence a été réalisé pour évaluer l’efficacité d’un site web. Les résultats, présentés via un dashboard, par participant et par tâche, permettent d’identifier les points faibles de l’arborescence et de proposer des améliorations. L’analyse des parcours utilisateurs et des taux de succès/échec met en évidence des incohérences entre la conception de l’arborescence et les attentes des utilisateurs."
+  },
+  
+  {
+    "title": "Dire au revoir aux GAFAM : journal d’une ancienne instagrammeuse",
+    "url": "/articles/2025/12/09/dire-au-revoir-aux-gafam/",
+    "description": "L’auteure a quitté les réseaux sociaux, notamment Instagram et WhatsApp, en raison de la publicité croissante et de la gestion des données personnelles. Elle a limité son temps d’utilisation, trié ses contacts et sauvegardé ses souvenirs avant de désactiver ses comptes. Elle a également entamé une transition pour se passer de Google, en utilisant des services alternatifs et en triant ses données."
+  },
+  
+  {
+    "title": "Mais c’est plus joli !",
+    "url": "/articles/2025/12/05/mais-cest-joli/",
+    "description": "La nouvelle version de votre site web est inutilisable, vos emails sont longs et illisibles, vos slides et vos graphiques sont creux. Mais j’entends bien votre argument pour justifier toute cette merde :C’est plus joli ! On fout tout en l’air pour faire « joli ». Même les icônes des applications sont devenues indistinguables les unes des autres, car « c’est plus joli »"
+  },
+  
+  {
+    "title": "La fraude fiscale coûte 6 à 10 fois plus à la France que la fraude sociale",
+    "url": "/articles/2025/12/04/la-fraude-fiscale-coute-6-a-10-fois-plus-a-la-france-que-la-fraude-sociale/",
+    "description": "L’article révèle une réalité économique préoccupante pour les finances publiques françaises : la fraude fiscale engendre des pertes bien plus importantes que la fraude sociale. Selon les estimations, cette fraude coûte à la France entre 60 et 100 milliards d’euros annuellement, un montant substantiel qui souligne l’urgence de renforcer les mesures de lutte contre l’évasion et la fraude fiscale. Cette analyse, basée sur des données récentes, met en lumière un enjeu majeur pour l’équité fiscale et la pérennité des finances de l’État, justifiant une surveillance accrue des politiques publiques visant à contrer ce fléau économique. Il est donc crucial de suivre l’évolution des stratégies de détection et de répression de la fraude fiscale, ainsi que leurs impacts concrets sur les recettes de l’État."
+  },
+  
+  {
     "title": "Qu’est-ce que l’outil va faire de moi ?",
     "url": "/articles/2025/12/03/outil-va-faire-de-moi/",
     "description": "L’idée que la pensée façonne le penseur est explorée, remettant en question la dualité platonicienne entre penseurs et exécutants. L’auteur critique la « merdification » des choses, où la pensée devient subalterne à l’idée, et l’influence des outils sur la création. Il encourage à se demander « Qu’est-ce que cet outil va faire de moi ? » plutôt que « Qu’est-ce que cet outil peut faire pour moi ? »."
