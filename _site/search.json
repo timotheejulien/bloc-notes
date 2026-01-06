@@ -1,6 +1,24 @@
 [
   
   {
+    "title": "L’illusion de l’immédiateté – et si le vrai luxe, c’était la pause ?",
+    "url": "/articles/2026/01/06/lillusion-de-limmediatete-et-si-le-vrai-luxe-c-etait-la-pause/",
+    "description": "Le numérique envahit nos vies, nous poussant à une consommation frénétique de contenus et à une quête constante d’efficacité. Malgré ses avantages, il nous prive de temps et d’attention, nous rendant dépendants et nous éloignant de nos intentions. L’industrie numérique, axée sur la performance et la rapidité, contribue à cette course effrénée contre la montre. Le numérique, autrefois perçu comme un outil d’innovation et d’inclusion, est aujourd’hui critiqué pour sa course à l’immédiateté et sa contribution à l’accélérationnisme. L’automatisation et l’IA, bien que prometteuses, sont remises en question pour leur impact sur l’emploi et l’éthique. L’auteur exprime une lassitude face à cette course effrénée et prône un retour à un usage plus réfléchi et éthique de la technologie, en valorisant le temps et la pause."
+  },
+  
+  {
+    "title": "It’s hard to justify Tahoe icons",
+    "url": "/articles/2026/01/05/tahoe-icons/",
+    "description": "Le nouveau macOS Tahoe introduit une pléthore d'icônes dans chaque élément de menu, ce qui est problématique pour plusieurs raisons. Premièrement, le grand nombre d'icônes rend difficile pour les utilisateurs de les différencier, ce qui va à l'encontre de leur objectif principal d'aider à la navigation. Deuxièmement, le manque de cohérence dans la conception des icônes entre les applications et même au sein de la même application crée de la confusion et entrave l'apprentissage des utilisateurs. Enfin, l'utilisation de polices vectorielles pour ces minuscules icônes donne une apparence floue et médiocre, exacerbant encore les problèmes d'utilisabilité."
+  },
+  
+  {
+    "title": "L’autocomplétion de nos intentions",
+    "url": "/articles/2025/12/17/autocompletion-de-nos-intentions/",
+    "description": "L’autocomplétion des smartphones et les suggestions de réponses aux emails influencent nos intentions et notre libre arbitre. Les chatbots, comme ChatGPT, pourraient manipuler les pensées des utilisateurs à des fins lucratives ou politiques, en introduisant des biais dans leurs réponses. Cette manipulation, plus subtile que la publicité ciblée, pourrait être utilisée pour influencer les comportements et les aspirations des individus."
+  },
+  
+  {
     "title": "Treejack, comment tester l’arborescence de son site ?",
     "url": "/articles/2025/12/09/treejack-comment-tester-larborescence-de-son-site/",
     "description": "L’architecture de l’information d’un site web ou d’une application est souvent testée via un treejack, où les utilisateurs naviguent dans une arborescence pour trouver des informations. Optimalworkshop est un outil populaire pour ce type de test, mais Usabilitree, un projet open source, offre une alternative plus abordable. Pour un test efficace, il est crucial de bien préparer l’arborescence, les tâches et le recrutement des participants. Un test d’arborescence a été réalisé pour évaluer l’efficacité d’un site web. Les résultats, présentés via un dashboard, par participant et par tâche, permettent d’identifier les points faibles de l’arborescence et de proposer des améliorations. L’analyse des parcours utilisateurs et des taux de succès/échec met en évidence des incohérences entre la conception de l’arborescence et les attentes des utilisateurs."
@@ -3634,12 +3652,6 @@
     "title": "Méthode de conception d'un caractère typographique à l'usage des lecteurs déficients visuels",
     "url": "/articles/2024/11/05/mthode-de-conception-dun-caractre-typographique-lusage-des-lecteurs-dficients-visuels/",
     "description": "Le projet Luciole a débuté il y a un peu plus de six ans, pour répondre au besoin d’améliorer l’accessibilité des documents scolaires proposés aux jeunes élèves déficients visuels. Une équipe pluridisciplinaire s’est constituée, avec pour objectif la création d’un caractère typographique conçu spécifiquement pour les lecteurs malvoyants."
-  },
-  
-  {
-    "title": "Monaspace : la police monochasse mais pas monotone de GitHub",
-    "url": "/articles/2024/11/05/monaspace-la-police-monochasse-mais-pas-monotone-de-github/",
-    "description": "Les premiers terminaux n’étaient guère plus que des machines à écrire informatisées, dont les capacités (typo)graphiques étaient fort limitées. Les développeurs en ont gardé l’habitude d’utiliser des polices à chasse fixe, qui possèdent l’avantage d’une régularité facilitant l’indentation des blocs de code, mais l’inconvénient d’une monotonie qui peut nuire à la lisibilité. GitHub veut joindre l’utile et l’agréable avec sa police Monaspace, dont certains caractères sont plus égaux que d’autres."
   },
   
   {

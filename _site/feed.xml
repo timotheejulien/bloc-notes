@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2025-12-09T15:51:12+01:00</updated>
+   <updated>2026-01-06T09:25:32+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>L’illusion de l’immédiateté – et si le vrai luxe, c’était la pause ?</title>
+         <link href="http://localhost:4000/articles/2026/01/06/lillusion-de-limmediatete-et-si-le-vrai-luxe-c-etait-la-pause/"/>
+         <updated>2026-01-06T09:23:30+01:00</updated>
+         <id>http://localhost:4000/articles/2026/01/06/lillusion-de-limmediatete-et-si-le-vrai-luxe-c-etait-la-pause/</id>
+
+         <content type="html">
+            Le numérique envahit nos vies, nous poussant à une consommation frénétique de contenus et à une quête constante d’efficacité. Malgré ses avantages, il nous prive de temps et d’attention, nous rendant dépendants et nous éloignant de nos intentions. L’industrie numérique, axée sur la performance et la rapidité, contribue à cette course effrénée contre la montre. Le numérique, autrefois perçu comme un outil d’innovation et d’inclusion, est aujourd’hui critiqué pour sa course à l’immédiateté et sa contribution à l’accélérationnisme. L’automatisation et l’IA, bien que prometteuses, sont remises en question pour leur impact sur l’emploi et l’éthique. L’auteur exprime une lassitude face à cette course effrénée et prône un retour à un usage plus réfléchi et éthique de la technologie, en valorisant le temps et la pause.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>It’s hard to justify Tahoe icons</title>
+         <link href="http://localhost:4000/articles/2026/01/05/tahoe-icons/"/>
+         <updated>2026-01-05T16:03:34+01:00</updated>
+         <id>http://localhost:4000/articles/2026/01/05/tahoe-icons/</id>
+
+         <content type="html">
+            Le nouveau macOS Tahoe introduit une pléthore d&apos;icônes dans chaque élément de menu, ce qui est problématique pour plusieurs raisons. Premièrement, le grand nombre d&apos;icônes rend difficile pour les utilisateurs de les différencier, ce qui va à l&apos;encontre de leur objectif principal d&apos;aider à la navigation. Deuxièmement, le manque de cohérence dans la conception des icônes entre les applications et même au sein de la même application crée de la confusion et entrave l&apos;apprentissage des utilisateurs. Enfin, l&apos;utilisation de polices vectorielles pour ces minuscules icônes donne une apparence floue et médiocre, exacerbant encore les problèmes d&apos;utilisabilité.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’autocomplétion de nos intentions</title>
+         <link href="http://localhost:4000/articles/2025/12/17/autocompletion-de-nos-intentions/"/>
+         <updated>2025-12-17T19:40:13+01:00</updated>
+         <id>http://localhost:4000/articles/2025/12/17/autocompletion-de-nos-intentions/</id>
+
+         <content type="html">
+            L’autocomplétion des smartphones et les suggestions de réponses aux emails influencent nos intentions et notre libre arbitre. Les chatbots, comme ChatGPT, pourraient manipuler les pensées des utilisateurs à des fins lucratives ou politiques, en introduisant des biais dans leurs réponses. Cette manipulation, plus subtile que la publicité ciblée, pourrait être utilisée pour influencer les comportements et les aspirations des individus.
+         </content>
+      </entry>
    
       <entry>
          <title>Treejack, comment tester l’arborescence de son site ?</title>
@@ -6685,17 +6718,6 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
 
          <content type="html">
             Le projet Luciole a débuté il y a un peu plus de six ans, pour répondre au besoin d’améliorer l’accessibilité des documents scolaires proposés aux jeunes élèves déficients visuels. Une équipe pluridisciplinaire s’est constituée, avec pour objectif la création d’un caractère typographique conçu spécifiquement pour les lecteurs malvoyants.
-         </content>
-      </entry>
-   
-      <entry>
-         <title>Monaspace : la police monochasse mais pas monotone de GitHub</title>
-         <link href="http://localhost:4000/articles/2024/11/05/monaspace-la-police-monochasse-mais-pas-monotone-de-github/"/>
-         <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/monaspace-la-police-monochasse-mais-pas-monotone-de-github/</id>
-
-         <content type="html">
-            Les premiers terminaux n’étaient guère plus que des machines à écrire informatisées, dont les capacités (typo)graphiques étaient fort limitées. Les développeurs en ont gardé l’habitude d’utiliser des polices à chasse fixe, qui possèdent l’avantage d’une régularité facilitant l’indentation des blocs de code, mais l’inconvénient d’une monotonie qui peut nuire à la lisibilité. GitHub veut joindre l’utile et l’agréable avec sa police Monaspace, dont certains caractères sont plus égaux que d’autres.
          </content>
       </entry>
    
