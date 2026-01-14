@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-01-08T16:52:02+01:00</updated>
+   <updated>2026-01-14T08:28:42+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Le Fédiverse dérange et est sciemment occulté</title>
+         <link href="http://localhost:4000/articles/2026/01/13/le-fediverse-derange/"/>
+         <updated>2026-01-13T13:13:58+01:00</updated>
+         <id>http://localhost:4000/articles/2026/01/13/le-fediverse-derange/</id>
+
+         <content type="html">
+            Une webconférence sur les dangers des réseaux sociaux a ignoré le Fédiverse, une alternative décentralisée et non publicitaire. Le Fédiverse, avec des plateformes comme Mastodon, offre un espace plus sûr et éthique, loin des dérives des géants du Web. Il est important de promouvoir ces alternatives et de sensibiliser à un numérique plus responsable.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Aesthetics : ce que révèle notre style</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2026/01/13/aesthetics/"/>
+         <updated>2026-01-13T12:57:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2026/01/13/aesthetics/</id>
+
+         <content type="html">
+            À la fois un style, une mode ou bien une forme de direction artistique qu’on adopte pour tout, le concept d’aesthetics révèle un univers où les apparences se font l’enveloppe de modes de vies très riches et codifiés dont les natures et les messages véhiculés oscillent entre l’anodin, le controversé et le nauséabond. Sur la carte du monde, il manque un continent. Il est fait de serveurs, de câbles et d’interactions virtuelles. C’est un continent invisible et pourtant, c’est ici que nous vivons désormais. Dans ce territoire intangible sont apparues de nouvelles esthétiques, de nouvelles pratiques et de nouvelles formes de langages destinés à communiquer nos idées, nos réflexions et nos émotions. Dans cet immense océan composé de 1 et de 0, une autre culture se dévoile, avec ses propres codes, ses propres croyances et autant de visions de la réalité. Si nous nous présentons à vous aujourd’hui, c’est pour vous inviter au plus surprenant des voyages car comme dans tout territoire inexploré, les découvertes y sont riches, fascinantes et parfois effrayantes. Bienvenue dans cette dimension magnifique et vertigineuse, bienvenue dans _UNDERSCORE.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Astuce : des filtres pour compresser rapidement des PDF sous macOS, en réduisant la taille des fichiers</title>
+         <link href="http://localhost:4000/articles/2026/01/13/compresser-pdf-macos/"/>
+         <updated>2026-01-13T08:41:16+01:00</updated>
+         <id>http://localhost:4000/articles/2026/01/13/compresser-pdf-macos/</id>
+
+         <content type="html">
+            Les fichiers PDF créés sur macOS peuvent être volumineux. Il est possible de réduire leur taille en utilisant le filtre “Réduire la taille du fichier” dans Aperçu, ou en modifiant le filtre d’Apple via Utilitaire ColorSync. Des filtres supplémentaires sont disponibles sur GitHub, mais il faut faire attention à la qualité des images compressées.
+         </content>
+      </entry>
    
       <entry>
          <title>L'IA est un problème, et pas celui que vous croyez</title>
