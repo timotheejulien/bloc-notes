@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-01-14T08:28:42+01:00</updated>
+   <updated>2026-01-18T21:10:14+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -65,6 +65,17 @@
 
          <content type="html">
             Avec l&apos;IA, la seule limite, c&apos;est votre imagination&quot; est l’un des poncifs que l’on entend à propos de l’IA générative. Sauf que non, l&apos;IA n&apos;existe pas dans le vide, elle existe sur une planète, laquelle n&apos;est pas sans limites ! S’il est vrai que l&apos;IA étonne par des capacités qui augmentent sans cesse, et nombreux sont ceux qui s&apos;y essayent, soit parce que ça les amuse, soit en espérant neutraliser la menace que l&apos;IA fait peser sur leur métier ou sur leur travail. Mais ce comportement collectif vis-à-vis de l&apos;IA, son déploiement auprès de milliards d&apos;internautes, avec l&apos;empreinte environnementale qu’elle implique, est-elle compatible avec les limites planétaires ? Quelles sont les options possibles pour réduire cette empreinte ? Telles sont les questions abordées lors de cette présentation mêlant technologie et prospective.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>La fabrique à idiots</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2026/01/07/la-fabrique-a-idiots/"/>
+         <updated>2026-01-07T08:57:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2026/01/07/la-fabrique-a-idiots/</id>
+
+         <content type="html">
+            L&apos;IA ne va pas nous remplacer : elle va nous rendre idiots.
          </content>
       </entry>
    
