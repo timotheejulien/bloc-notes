@@ -10,7 +10,7 @@ categories:
    - vidéos
 tags: "ia"
 og-tags: "ia"
-date: "2026-01-07 09:57:00 +0200"
+date: "2026-01-15 21:10:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
