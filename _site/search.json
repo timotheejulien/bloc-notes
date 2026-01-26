@@ -1,6 +1,30 @@
 [
   
   {
+    "title": "Le scénario catastrophe qui inquiète les experts de l’IA.",
+    "url": "/vid%C3%A9os/2026/01/26/le-scenario-catastrophe-qui-inquiete-les-experts-de-l-ia/",
+    "description": "Ce reportage expose les scénarios les plus inquiétants liés à une IA devenue plus intelligente que l’humain. Les experts évoquent des risques d’autonomie stratégique (désinformation, cyberattaques, biologie), de manipulation politique et de comportements d’auto-préservation. La concentration du pouvoir entre États et grandes entreprises aggraverait ces menaces. Sans régulation et alignement éthique, une super-intelligence pourrait échapper au contrôle humain et provoquer des crises majeures, voire un risque existentiel."
+  },
+  
+  {
+    "title": "La fabrique à idiots",
+    "url": "/vid%C3%A9os/2026/01/15/la-fabrique-a-idiots/",
+    "description": "L'IA ne va pas nous remplacer : elle va nous rendre idiots."
+  },
+  
+  {
+    "title": "Tout le Web dépend de l’hébergeur AWS ?",
+    "url": "/articles/2026/01/14/tout-le-web-depend-de-l-hebergeur-aws/",
+    "description": "Le 20 octobre 2025, une panne logicielle chez AWS a causé des dysfonctionnements sur de nombreux services, dont Snapchat. Bien que les pannes soient inévitables dans des systèmes aussi complexes, la robustesse accrue a un coût. Il est important de s’interroger sur la nécessité d’une telle robustesse pour tous les services, notamment ceux non critiques. La panne d’AWS a mis en lumière la vulnérabilité des services publics en ligne et l’importance de l’autonomie numérique. Plutôt que de remplacer AWS par un équivalent national, il est crucial de décentraliser l’Internet pour éviter la concentration du pouvoir et limiter les conséquences des pannes. Les organisations doivent analyser leurs dépendances, préparer des plans B et envisager des solutions non numériques pour les services critiques."
+  },
+  
+  {
+    "title": "I am an AI hater",
+    "url": "/articles/2026/01/14/i-am-an-ai-hater/",
+    "description": "L'auteur est un haineux de l'IA autoproclamé, rejetant les avantages perçus de la technologie et soulignant ses dommages environnementaux, sociaux et éthiques. Ils soutiennent que l'IA est un outil déshumanisant qui érode la créativité humaine, la pensée critique et les connexions significatives. L'auteur pense que le véritable objectif de l'IA est de servir les intérêts de ses créateurs, conduisant à l'exploitation et à la perte de la richesse de la vie."
+  },
+  
+  {
     "title": "Le Fédiverse dérange et est sciemment occulté",
     "url": "/articles/2026/01/13/le-fediverse-derange/",
     "description": "Une webconférence sur les dangers des réseaux sociaux a ignoré le Fédiverse, une alternative décentralisée et non publicitaire. Le Fédiverse, avec des plateformes comme Mastodon, offre un espace plus sûr et éthique, loin des dérives des géants du Web. Il est important de promouvoir ces alternatives et de sensibiliser à un numérique plus responsable."
@@ -28,12 +52,6 @@
     "title": "L'humanité a-t-elle les moyens de s’offrir l’IA ?",
     "url": "/vid%C3%A9os/2026/01/08/humanite-a-t-elle-les-moyens-de-offrir-ia/",
     "description": "Avec l'IA, la seule limite, c'est votre imagination\" est l’un des poncifs que l’on entend à propos de l’IA générative. Sauf que non, l'IA n'existe pas dans le vide, elle existe sur une planète, laquelle n'est pas sans limites ! S’il est vrai que l'IA étonne par des capacités qui augmentent sans cesse, et nombreux sont ceux qui s'y essayent, soit parce que ça les amuse, soit en espérant neutraliser la menace que l'IA fait peser sur leur métier ou sur leur travail. Mais ce comportement collectif vis-à-vis de l'IA, son déploiement auprès de milliards d'internautes, avec l'empreinte environnementale qu’elle implique, est-elle compatible avec les limites planétaires ? Quelles sont les options possibles pour réduire cette empreinte ? Telles sont les questions abordées lors de cette présentation mêlant technologie et prospective."
-  },
-  
-  {
-    "title": "La fabrique à idiots",
-    "url": "/vid%C3%A9os/2026/01/07/la-fabrique-a-idiots/",
-    "description": "L'IA ne va pas nous remplacer : elle va nous rendre idiots."
   },
   
   {
