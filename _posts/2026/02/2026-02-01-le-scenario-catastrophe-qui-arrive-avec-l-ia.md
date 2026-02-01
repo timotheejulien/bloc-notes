@@ -3,7 +3,7 @@ layout: post
 title: "Le scénario catastrophe qui arrive avec l'IA"
 link: "https://youtu.be/ZSvt0NoOlDY?si=WKaq0ykjeeX4MBbM"
 author: "HugoDécrypte"
-published_date: ""
+published_date: "25/01/2026"
 description: HugoDécrypte reçoit l’un des pères de l’intelligence artificielle, Yoshua Bengio. Professeur à l’Université de Montréal, coprésident et directeur scientifique de LoiZéro, il alerte aujourd’hui sur les dangers de l’IA.
 language: "fr"
 categories: 
