@@ -13,3 +13,5 @@ og-tags: "ia design"
 date: "2026-02-01 14:12:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
+
+<iframe title="L’impact psychosocial de l’IA sur le futur de nos métiers du numérique" width="560" height="315" src="https://indymotion.fr/videos/embed/1mxC8UuXzWKKdF63D6NvPS" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
