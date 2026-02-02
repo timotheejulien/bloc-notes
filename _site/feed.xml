@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-02-01T14:14:40+01:00</updated>
+   <updated>2026-02-02T08:53:53+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Résilience numérique européenne et géopolitique 2026</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2026/02/02/resilience-numerique-europeenne-et-geopolitique-2026/"/>
+         <updated>2026-02-02T07:59:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2026/02/02/resilience-numerique-europeenne-et-geopolitique-2026/</id>
+
+         <content type="html">
+            Le juge Guillou revient sur son expérience de vie après avoir été banni des outils numériques américains. Sa vie quotidienne est devenue un enfer.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Résilience numérique européenne et géopolitique 2026</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2026/02/02/resilience-numerique-europeenne-et-geopolitique-2026/"/>
+         <updated>2026-02-02T07:59:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2026/02/02/resilience-numerique-europeenne-et-geopolitique-2026/</id>
+
+         <content type="html">
+            Le juge Guillou revient sur son expérience de vie après avoir été banni des outils numériques américains. Sa vie quotidienne est devenue un enfer.
+         </content>
+      </entry>
    
       <entry>
          <title>L’impact psychosocial de l’IA sur le futur de nos métiers du numérique</title>
