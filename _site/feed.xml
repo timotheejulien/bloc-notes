@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-02-08T10:18:55+01:00</updated>
+   <updated>2026-02-13T08:48:14+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>La trouvaille glaçante d'un journaliste sur nos téléphones</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2026/02/13/la-trouvaille-glacante-d'un-journaliste-sur-nos-telephones/"/>
+         <updated>2026-02-13T07:40:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2026/02/13/la-trouvaille-glacante-d'un-journaliste-sur-nos-telephones/</id>
+
+         <content type="html">
+            Vos données de localisation sont en vente : l&apos;envers du marché publicitaire.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Pourquoi il ne faut pas interdire les réseaux sociaux aux moins de 15 ans (mais réfléchir à interdire CNews aux adultes avec le droit de vote)</title>
+         <link href="http://localhost:4000/articles/2026/02/10/pourquoi-il-ne-faut-pas-interdire-les-les-reseaux-sociaux-aux-moins-de-15-ans-mais-reflechir-a-interdire-cnews-aux-adultes-avec-le-droit-de-vote/"/>
+         <updated>2026-02-10T13:36:49+01:00</updated>
+         <id>http://localhost:4000/articles/2026/02/10/pourquoi-il-ne-faut-pas-interdire-les-les-reseaux-sociaux-aux-moins-de-15-ans-mais-reflechir-a-interdire-cnews-aux-adultes-avec-le-droit-de-vote/</id>
+
+         <content type="html">
+            Emmanuel Macron souhaite interdire les réseaux sociaux aux moins de 15 ans, malgré l’absence de consensus scientifique sur une addiction aux écrans. Cette interdiction, jugée irrationnelle et inefficace, pourrait être contournée et serait contre-productive. Plutôt que d’interdire, il est proposé de réguler les plateformes en les reconnaissant comme éditrices de contenu, limitant ainsi leur pouvoir de nuisance. L’interdiction des réseaux sociaux aux moins de 15 ans pourrait paradoxalement favoriser la dérégulation de ces plateformes. En déplaçant la responsabilité de la vérification d’âge sur les parents ou l’État, les plateformes pourraient se délester de leur responsabilité éditoriale. De plus, cette interdiction pourrait pousser les jeunes vers des plateformes moins régulées, aggravant ainsi le problème. La régulation des accès des mineurs aux plateformes en ligne est complexe. Interdire les réseaux sociaux aux moins de 15 ans est inapplicable et nuirait aux libertés individuelles. La seule solution viable est de responsabiliser les plateformes en les traitant comme des éditeurs, plutôt que comme des hébergeurs.
+         </content>
+      </entry>
    
       <entry>
          <title>Résilience numérique européenne et géopolitique 2026</title>
