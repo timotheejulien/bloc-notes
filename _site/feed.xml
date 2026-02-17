@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-02-13T08:48:14+01:00</updated>
+   <updated>2026-02-17T09:43:10+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>L’IA va-t-elle nous mettre au chômage ?</title>
+         <link href="http://localhost:4000/podcasts/2026/02/17/l-ia-va-t-elle-nous-mettre-au-chomage/"/>
+         <updated>2026-02-17T08:41:00+01:00</updated>
+         <id>http://localhost:4000/podcasts/2026/02/17/l-ia-va-t-elle-nous-mettre-au-chomage/</id>
+
+         <content type="html">
+            « Dans un futur pas si lointain », 30 à 40 % des tâches que nous effectuons aujourd’hui seront probablement réalisées par des IA, assurait Sam Altman, le patron d’OpenAI, en septembre 2025. S’agit-il d’une estimation au doigt mouillé ou bien faut-il prendre cette prophétie au pied de la lettre ? La réponse dans ce deuxième épisode de notre série consacrée aux prédictions sur l’IA.
+         </content>
+      </entry>
    
       <entry>
          <title>La trouvaille glaçante d'un journaliste sur nos téléphones</title>
