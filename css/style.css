@@ -27,6 +27,9 @@
    --space-x-large: 48px;
    --space-xx-large: 64px;
    --space-xxx-large: 96px;
+
+/* RADIUS TOKEN */
+   --radius-default: 8px;
 }
 
 body {
@@ -618,13 +621,13 @@ p.article-description {
 }
 
 .tag {
-   padding: var(--space-xx-small) var(--space-small) var(--space-xx-small) var(--space-small);
+   padding: var(--space-none) var(--space-small) var(--space-xx-small) var(--space-small);
    font-size: 14px;
    line-height: 18px;
    list-style: none;
    background-color: var(--color-background-elevated);
    border: 1px solid var(--color-divider);
-   border-radius: 4px;
+   border-radius: 100px;
 }
 
 ul.listing {
@@ -677,6 +680,7 @@ ul.listing li {
    text-decoration: none;
    color: var(--color-text-primary);
    border: 1px solid var(--color-divider);
+   border-radius: var(--radius-default);
 }
 
 .pagination ul li a:hover {
@@ -737,6 +741,7 @@ a#pagination-active {
    margin-top: var(--space-xxx-large);
    padding: var(--space-medium) var(--space-medium) var(--space-regular) var(--space-medium);
    border: 1px solid var(--color-divider);
+   border-radius: var(--radius-default);
 }
 
 ul.footer-nav {
