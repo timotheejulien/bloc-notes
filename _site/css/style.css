@@ -565,7 +565,7 @@ body {
 }
 
 .article-icon-vidéos {
-   background-image: url( '/assets/images/icon-play-light.svg' );
+   background-image: url( '/assets/images/icon-videos-light.svg' );
 }
 
 .article-icon-podcasts {
@@ -1088,7 +1088,7 @@ ul.footer-nav li {
    }
 
    .article-icon-vidéos {
-      background-image: url( '/assets/images/icon-play-dark.svg' );
+      background-image: url( '/assets/images/icon-videos-dark.svg' );
    }
 
    .article-icon-podcasts {
