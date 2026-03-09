@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explosion des relations avec les IA : le danger d’un formatage de masse"
+title: "Explosion des relations avec les IA : le danger d’un formatage de masse"
 link: "https://lareleveetlapeste.fr/les-relations-avec-les-compagnons-ia-formatent-les-humains-a-leur-insu"
 author: Léonore Suied
 published_date: 17/02/2026
