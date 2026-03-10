@@ -10,7 +10,7 @@
    --color-divider: #DEDEDE;
    --color-divider-elevated: #BABABA;
    --color-text-primary: #202020;
-   --color-text-secondary: #707070;
+   --color-text-secondary: #5C5C5C;
    --color-text-third: #BABABA;
    --color-focus: #202020;
    --color-primary: #019074;
@@ -118,6 +118,49 @@ a {
 
 a:hover {
    text-decoration: none;
+}
+
+/* SKIP LINK */
+.skip-link {
+   position: absolute;
+   top: -100%;
+   left: 0;
+   padding: var(--space-small) var(--space-regular);
+   background: var(--color-background);
+   color: var(--color-text-primary);
+   text-decoration: none;
+   font-family: UncutSans-Variable, sans-serif;
+   font-weight: 500;
+   z-index: 9999;
+   border: 2px solid var(--color-focus);
+}
+
+.skip-link:focus {
+   top: 0;
+}
+
+/* SCREEN READER ONLY */
+.sr-only {
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   padding: 0;
+   margin: -1px;
+   overflow: hidden;
+   clip: rect(0, 0, 0, 0);
+   white-space: nowrap;
+   border: 0;
+}
+
+/* FOCUS VISIBLE */
+:focus-visible {
+   outline: 2px solid var(--color-focus);
+   outline-offset: 2px;
+   border-radius: 2px;
+}
+
+:focus:not(:focus-visible) {
+   outline: none;
 }
 
 blockquote {
@@ -244,9 +287,15 @@ body {
    left: 0;
    bottom: 0;
    z-index: 800;
-   background: rgba(251, 251, 251, 0.85);
-   backdrop-filter: blur(10px) saturate(120%);
-   -webkit-backdrop-filter: blur(10px) saturate(120%);
+   background: rgba(251, 251, 251, 0.97);
+}
+
+@supports (backdrop-filter: blur(10px)) {
+   .nav-mobile {
+      background: rgba(251, 251, 251, 0.85);
+      backdrop-filter: blur(10px) saturate(120%);
+      -webkit-backdrop-filter: blur(10px) saturate(120%);
+   }
 }
 
 .nav-mobile > ul {
@@ -284,6 +333,7 @@ body {
    line-height: 1.4;
    letter-spacing: 0px; 
    text-decoration: none;
+   color: var(--color-text-primary);
 }
 
 .nav-item svg {
@@ -300,6 +350,7 @@ body {
 
 .nav-item-label {
    width: 100%;
+   color: var(--color-text-primary);
 }
 
 .nav-item-value {
@@ -308,6 +359,15 @@ body {
    color: var(--color-text-secondary);
    border: 1px solid var(--color-divider);
    border-radius: 100px;
+}
+
+/* Reset button styles for nav buttons */
+.nav-item[role], button.nav-item, button#search-button {
+   background: none;
+   border: none;
+   cursor: pointer;
+   text-align: left;
+   font-family: UncutSans-Variable, sans-serif;
 }
 
 #search-button:hover {
@@ -379,7 +439,8 @@ body {
    color: var(--color-text-secondary);
 }
 
-#search-input:focus {
+#search-input:focus,
+#search-input:focus-visible {
    outline: none;
 }
 
@@ -388,9 +449,10 @@ body {
    min-width: 42px;
    height: 42px;
    min-height: 42px;
-   padding: 9px 9px 0 0;
+   padding: var(--space-x-small) var(--space-none) var(--space-none) var(--space-none);
    border-radius: 100px;
    background: rgba(0, 0, 0, 0.05);
+   border: none;
 }
 
 #results-container {
@@ -796,6 +858,10 @@ ul.footer-nav li {
 
    .nav-mobile {
       display: none;
+   }
+
+   button.nav-item, button#search-button {
+      width: 100%;
    }
 
    .nav-desktop {

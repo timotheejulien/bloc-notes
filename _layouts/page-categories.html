@@ -4,7 +4,7 @@
    {% include nav.html %}
 
    <h1 id="page-categories-title" class="h2">Catégories</h1>
-   <div class="page-categories-mobile">
+   <div id="main-content" class="page-categories-mobile">
       <ul class="sort-by-alphabetical">
          {%- assign sorted_categories = site.categories | sort -%}
          {%- for category in sorted_categories -%}

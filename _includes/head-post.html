@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html lang="fr">
-    <head>
+   <head>
       <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"> 
-      <title>{{ page.title }} | Bloc-notes</title>
-      <meta name="description" content="{{ page.tags-preview }}">
-      <link rel="stylesheet" href="/css/style.css">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-      <meta property="og:locale"  content="fr_FR" />
-      <meta property="og:site_name" content="{{ page.title }} | Bloc-notes">
-      <meta property="og:image" content="/cover.jpg"/>
-      <meta property="og:description" content="{{ page.tags-preview }}" />
-      <meta property="og:url" content="{{ page.url }}">
-      <meta name="fediverse:creator" content="@timothee@mastodon.design" />
+      <title>{{ page.title }} | Bloc-notes</title>
+      <meta name="description" content="{{ page.description | default: site.description }}">
+      <link rel="canonical" href="{{ page.url | absolute_url }}">
+      <link rel="preload" href="/assets/fonts/UncutSans-Variable.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="stylesheet" href="/css/style.css">
+      <meta property="og:locale" content="fr_FR">
+      <meta property="og:site_name" content="Bloc-notes">
+      <meta property="og:title" content="{{ page.title }}">
+      <meta property="og:image" content="{{ site.url }}/cover.jpg">
+      <meta property="og:description" content="{{ page.description | default: site.description }}">
+      <meta property="og:url" content="{{ page.url | absolute_url }}">
+      <meta name="theme-color" content="#FBFBFB" media="(prefers-color-scheme: light)">
+      <meta name="theme-color" content="#202020" media="(prefers-color-scheme: dark)">
+      <meta name="fediverse:creator" content="@timothee@mastodon.design">
       <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
-      <script src="/assets/js/script.js"></script>
       <script src="/assets/js/simple-jekyll-search.min.js"></script>
-      <script src="/assets/js/search.js"></script>
+      <script src="/assets/js/script.js" defer></script>
       {% include analytics.html %}
-    </head>
-</html>
+   </head>
 <body>
+<a class="skip-link" href="#main-content">Aller au contenu principal</a>

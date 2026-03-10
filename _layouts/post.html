@@ -3,7 +3,7 @@
 <main class="main container">
    {% include nav.html %}
 
-   <section class="section list-article">
+   <section id="main-content" class="section list-article">
       <article class="article">
          <header>
             {% assign category = page.categories | first | slugify %}
@@ -23,7 +23,7 @@
             </div>
             <div class="article-meta">
                <p>{{ page.author }} • {{ page.published_date }}</p>
-               <a href="{{ page.link }}" target="_blank">{{ page.link }}</a>
+               <a href="{{ page.link }}" target="_blank" rel="noopener noreferrer">{{ page.link }}</a>
             </div>
          </header>
          <h1 class="h2">{{ page.title }}</h1>
