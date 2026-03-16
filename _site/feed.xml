@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-03-12T17:53:21+01:00</updated>
+   <updated>2026-03-16T13:17:54+01:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,17 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>1089 pixels pour comprendre que vous n'existez pas.</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2026/03/16/1089-pixels-pour-comprendre-que-vous-nexistez-pas/"/>
+         <updated>2026-03-16T12:16:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2026/03/16/1089-pixels-pour-comprendre-que-vous-nexistez-pas/</id>
+
+         <content type="html">
+            Hop un pixel. Hop un deuxième. Hop un mille quatre-vingt-neuvième.
+         </content>
+      </entry>
    
       <entry>
          <title>IA : on sacrifie l’eau potable pour la surveillance de masse</title>
