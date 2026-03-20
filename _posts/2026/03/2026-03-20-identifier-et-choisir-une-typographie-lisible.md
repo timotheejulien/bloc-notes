@@ -13,3 +13,5 @@ og-tags: "design font"
 date: "2026-03-20 11:10:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
+
+<iframe title="Identifier et choisir une typographie lisible" width="560" height="315" src="https://indymotion.fr/videos/embed/d2pvogVomwTGzJMz4w6DdU" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
