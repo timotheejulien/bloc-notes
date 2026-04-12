@@ -14,12 +14,11 @@ description: Les enjeux, les normes et les bonnes pratiques de l’accessibilit�
   je vous partage ici une sélection des meilleures d’entre elles.
 language: fr
 categories:
-- articles
+- ressources
 tags:
 - design
 - accessibilité
-- ressources
-og-tags: design, accessibilité, ressources
+og-tags: design, accessibilité
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

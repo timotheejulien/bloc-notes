@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-03-16T13:17:54+01:00</updated>
+   <updated>2026-04-12T13:12:52+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Paperasse : skills IA pour la comptabilité et fiscalité française</title>
+         <link href="http://localhost:4000/ressources/2026/04/12/paperrasse-skills/"/>
+         <updated>2026-04-12T09:36:02+02:00</updated>
+         <id>http://localhost:4000/ressources/2026/04/12/paperrasse-skills/</id>
+
+         <content type="html">
+            Paperasse est un projet open-source de skills pour agents IA (Claude Code, Codex, Cursor, etc.) spécialisés dans la comptabilité, la fiscalité et l&apos;audit des entreprises françaises. Chaque skill transforme un agent IA en copilote expert : il connaît les textes (CGI, BOFiP, NEP), les formulaires, les échéances, et le Plan Comptable Général.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Ne rien avoir à penser</title>
+         <link href="http://localhost:4000/articles/2026/04/10/ne-rien-avoir-a-penser/"/>
+         <updated>2026-04-10T17:01:46+02:00</updated>
+         <id>http://localhost:4000/articles/2026/04/10/ne-rien-avoir-a-penser/</id>
+
+         <content type="html">
+            L’auteur critique l’omniprésence des smartphones et de l’IA, notamment en lien avec les pratiques de Google et Meta, et dénonce la manipulation publicitaire et la dévalorisation de l’intellectualité. Il compare la situation à une compétition sponsorisée par une marque de bière et critique l’attitude passive des professeurs face à l’addiction aux smartphones. L’auteur critique l’impact des technologies modernes sur l’intellectualité, affirmant que la facilité d’accès à l’information via les chatbots et Internet réduit l’engagement cognitif. Il compare cette situation à l’effet Google, où la disponibilité de l’information en ligne diminue la mémorisation. L’auteur préfère la recherche d’information dans les livres, qu’il considère comme un exercice cognitif stimulant et créatif.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>WordPress + IA : enfin, l’internet dont personne ne voulait</title>
+         <link href="http://localhost:4000/articles/2026/04/07/wordpress-ia-enfin-l-internet-dont-personne-ne-voulait/"/>
+         <updated>2026-04-07T17:40:35+02:00</updated>
+         <id>http://localhost:4000/articles/2026/04/07/wordpress-ia-enfin-l-internet-dont-personne-ne-voulait/</id>
+
+         <content type="html">
+            WordPress intègre désormais une IA capable de rédiger, éditer et publier automatiquement des articles, rendant obsolète la création de contenu humain. Cette automatisation, bien que pratique, soulève des questions sur l’avenir de l’expression personnelle et la place des humains dans un web dominé par les machines. Malgré les garanties de WordPress, l’article critique cette évolution, la qualifiant de mélancolique et d’ironique.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Identifier et choisir une typographie lisible</title>
+         <link href="http://localhost:4000/vid%C3%A9os/2026/03/20/identifier-et-choisir-une-typographie-lisible/"/>
+         <updated>2026-03-20T10:10:00+01:00</updated>
+         <id>http://localhost:4000/vid%C3%A9os/2026/03/20/identifier-et-choisir-une-typographie-lisible/</id>
+
+         <content type="html">
+            L’utilisation du terme « accessibilité » dans le domaine de la typographie est très récent, mais la question de la lisibilité est aussi ancienne que l’écriture elle-même. Dans cette présentation nous ferons un pas de côté par rapport au sujet de l’accessibilité pour revenir aux bases de la création typographique, de son histoire et des formes qui favorisent la lisibilité et le confort de lecture. L’objectif de la présentation étant de donner les clés qui permettent d’identifier et de choisir une typographie lisible qui participe à l’accessibilité numérique.
+         </content>
+      </entry>
    
       <entry>
          <title>1089 pixels pour comprendre que vous n'existez pas.</title>
@@ -4796,9 +4840,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>Rejoindre le fediverse !</title>
-         <link href="http://localhost:4000/articles/2024/11/05/rejoindre-le-fediverse/"/>
+         <link href="http://localhost:4000/ressources/2024/11/05/rejoindre-le-fediverse/"/>
          <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/rejoindre-le-fediverse/</id>
+         <id>http://localhost:4000/ressources/2024/11/05/rejoindre-le-fediverse/</id>
 
          <content type="html">
             Site qui explique ce qu&apos;est le fediverse
@@ -5148,9 +5192,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>Formations et ressources en accessibilité web et numérique</title>
-         <link href="http://localhost:4000/articles/2024/11/05/formations-et-ressources-en-accessibilit-web-et-numrique/"/>
+         <link href="http://localhost:4000/ressources/2024/11/05/formations-et-ressources-en-accessibilit-web-et-numrique/"/>
          <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/formations-et-ressources-en-accessibilit-web-et-numrique/</id>
+         <id>http://localhost:4000/ressources/2024/11/05/formations-et-ressources-en-accessibilit-web-et-numrique/</id>
 
          <content type="html">
             Les enjeux, les normes et les bonnes pratiques de l’accessibilité web (et numérique plus généralement) sont malheureusement encore trop méconnues par nombre d’enseignant·es et de profesionnel·les du design, du développement et de la rédaction web. N’ayant pas du tout été sensibilisé à ce sujet durant mes études, j’ai voulu progressivement monter en compétences ces dernières années, en suivant certaines formations et en parcourant livres, blogs, sites et autres ressources spécialisées. Afin d’encourager et de faciliter cet apprentissage par tout un chacun, je vous partage ici une sélection des meilleures d’entre elles.
@@ -5478,9 +5522,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>Guide de survie des aventures sur internet</title>
-         <link href="http://localhost:4000/articles/2024/11/05/guide-de-survie-des-aventures-sur-internet/"/>
+         <link href="http://localhost:4000/ressources/2024/11/05/guide-de-survie-des-aventures-sur-internet/"/>
          <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/guide-de-survie-des-aventures-sur-internet/</id>
+         <id>http://localhost:4000/ressources/2024/11/05/guide-de-survie-des-aventures-sur-internet/</id>
 
          <content type="html">
             Comment protéger ses libertés en milieu numérique « hostile »
@@ -5577,9 +5621,9 @@ L’économiste Timothée Parrique répond à ces questions qui alimentent les d
    
       <entry>
          <title>Echap, association de lutte contre les cyberviolences sexistes</title>
-         <link href="http://localhost:4000/articles/2024/11/05/echap-association-de-lutte-contre-les-cyberviolences-sexistes/"/>
+         <link href="http://localhost:4000/ressources/2024/11/05/echap-association-de-lutte-contre-les-cyberviolences-sexistes/"/>
          <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/echap-association-de-lutte-contre-les-cyberviolences-sexistes/</id>
+         <id>http://localhost:4000/ressources/2024/11/05/echap-association-de-lutte-contre-les-cyberviolences-sexistes/</id>
 
          <content type="html">
             Nous sommes un collectif hacker-féministe qui lutte contre l’utilisation de la technologie dans les violences sexistes et sexuelles. Créée en 2020, Echap s’est constituée en association loi 1901 afin d’apporter des ressources et du soutien aux associations luttant contre les violences faites aux femmes et aux minorités de genre.
@@ -8340,9 +8384,9 @@ Ces idées ne cherchent pas non plus à simplement réduire directement la conso
    
       <entry>
          <title>Framer components inspired by dieter rams' principles</title>
-         <link href="http://localhost:4000/articles/2024/11/05/framer-components-inspired-by-dieter-rams-principles/"/>
+         <link href="http://localhost:4000/ressources/2024/11/05/framer-components-inspired-by-dieter-rams-principles/"/>
          <updated>2024-11-05T20:55:44+01:00</updated>
-         <id>http://localhost:4000/articles/2024/11/05/framer-components-inspired-by-dieter-rams-principles/</id>
+         <id>http://localhost:4000/ressources/2024/11/05/framer-components-inspired-by-dieter-rams-principles/</id>
 
          <content type="html">
             Welcome to Drams, where Framer components meet Dieter Rams&apos; timeless design ethos. Dive into our curated collection, remix, and submit your creations for a chance to be featured. Join us in shaping the future of less, but better.

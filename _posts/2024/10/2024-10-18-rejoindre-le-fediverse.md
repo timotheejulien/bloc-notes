@@ -7,11 +7,10 @@ published_date: 18/10/2024
 description: Site qui explique ce qu'est le fediverse
 language: fr
 categories:
-- articles
-tags:
 - ressources
+tags:
 - fediverse
-og-tags: ressources, fediverse
+og-tags: fediverse
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

@@ -9,12 +9,11 @@ description: Welcome to Drams, where Framer components meet Dieter Rams' timeles
   for a chance to be featured. Join us in shaping the future of less, but better.
 language: en
 categories:
-- articles
+- ressources
 tags:
 - design
 - ui
-- ressources
-og-tags: design, ui, ressources
+og-tags: design, ui
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

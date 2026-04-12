@@ -11,12 +11,11 @@ description: Nous sommes un collectif hacker-féministe qui lutte contre l’uti
   de genre.
 language: fr
 categories:
-- articles
+- ressources
 tags:
 - vie-privée
 - surveillance
-- ressources
-og-tags: vie-privée, surveillance, ressources
+og-tags: vie-privée, surveillance
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

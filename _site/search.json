@@ -1,6 +1,30 @@
 [
   
   {
+    "title": "Paperasse : skills IA pour la comptabilité et fiscalité française",
+    "url": "/ressources/2026/04/12/paperrasse-skills/",
+    "description": "Paperasse est un projet open-source de skills pour agents IA (Claude Code, Codex, Cursor, etc.) spécialisés dans la comptabilité, la fiscalité et l'audit des entreprises françaises. Chaque skill transforme un agent IA en copilote expert : il connaît les textes (CGI, BOFiP, NEP), les formulaires, les échéances, et le Plan Comptable Général."
+  },
+  
+  {
+    "title": "Ne rien avoir à penser",
+    "url": "/articles/2026/04/10/ne-rien-avoir-a-penser/",
+    "description": "L’auteur critique l’omniprésence des smartphones et de l’IA, notamment en lien avec les pratiques de Google et Meta, et dénonce la manipulation publicitaire et la dévalorisation de l’intellectualité. Il compare la situation à une compétition sponsorisée par une marque de bière et critique l’attitude passive des professeurs face à l’addiction aux smartphones. L’auteur critique l’impact des technologies modernes sur l’intellectualité, affirmant que la facilité d’accès à l’information via les chatbots et Internet réduit l’engagement cognitif. Il compare cette situation à l’effet Google, où la disponibilité de l’information en ligne diminue la mémorisation. L’auteur préfère la recherche d’information dans les livres, qu’il considère comme un exercice cognitif stimulant et créatif."
+  },
+  
+  {
+    "title": "WordPress + IA : enfin, l’internet dont personne ne voulait",
+    "url": "/articles/2026/04/07/wordpress-ia-enfin-l-internet-dont-personne-ne-voulait/",
+    "description": "WordPress intègre désormais une IA capable de rédiger, éditer et publier automatiquement des articles, rendant obsolète la création de contenu humain. Cette automatisation, bien que pratique, soulève des questions sur l’avenir de l’expression personnelle et la place des humains dans un web dominé par les machines. Malgré les garanties de WordPress, l’article critique cette évolution, la qualifiant de mélancolique et d’ironique."
+  },
+  
+  {
+    "title": "Identifier et choisir une typographie lisible",
+    "url": "/vid%C3%A9os/2026/03/20/identifier-et-choisir-une-typographie-lisible/",
+    "description": "L’utilisation du terme « accessibilité » dans le domaine de la typographie est très récent, mais la question de la lisibilité est aussi ancienne que l’écriture elle-même. Dans cette présentation nous ferons un pas de côté par rapport au sujet de l’accessibilité pour revenir aux bases de la création typographique, de son histoire et des formes qui favorisent la lisibilité et le confort de lecture. L’objectif de la présentation étant de donner les clés qui permettent d’identifier et de choisir une typographie lisible qui participe à l’accessibilité numérique."
+  },
+  
+  {
     "title": "1089 pixels pour comprendre que vous n'existez pas.",
     "url": "/vid%C3%A9os/2026/03/16/1089-pixels-pour-comprendre-que-vous-nexistez-pas/",
     "description": "Hop un pixel. Hop un deuxième. Hop un mille quatre-vingt-neuvième."
@@ -2606,7 +2630,7 @@
   
   {
     "title": "Rejoindre le fediverse !",
-    "url": "/articles/2024/11/05/rejoindre-le-fediverse/",
+    "url": "/ressources/2024/11/05/rejoindre-le-fediverse/",
     "description": "Site qui explique ce qu'est le fediverse"
   },
   
@@ -2798,7 +2822,7 @@
   
   {
     "title": "Formations et ressources en accessibilité web et numérique",
-    "url": "/articles/2024/11/05/formations-et-ressources-en-accessibilit-web-et-numrique/",
+    "url": "/ressources/2024/11/05/formations-et-ressources-en-accessibilit-web-et-numrique/",
     "description": "Les enjeux, les normes et les bonnes pratiques de l’accessibilité web (et numérique plus généralement) sont malheureusement encore trop méconnues par nombre d’enseignant·es et de profesionnel·les du design, du développement et de la rédaction web. N’ayant pas du tout été sensibilisé à ce sujet durant mes études, j’ai voulu progressivement monter en compétences ces dernières années, en suivant certaines formations et en parcourant livres, blogs, sites et autres ressources spécialisées. Afin d’encourager et de faciliter cet apprentissage par tout un chacun, je vous partage ici une sélection des meilleures d’entre elles."
   },
   
@@ -2978,7 +3002,7 @@
   
   {
     "title": "Guide de survie des aventures sur internet",
-    "url": "/articles/2024/11/05/guide-de-survie-des-aventures-sur-internet/",
+    "url": "/ressources/2024/11/05/guide-de-survie-des-aventures-sur-internet/",
     "description": "Comment protéger ses libertés en milieu numérique « hostile »"
   },
   
@@ -3032,7 +3056,7 @@
   
   {
     "title": "Echap, association de lutte contre les cyberviolences sexistes",
-    "url": "/articles/2024/11/05/echap-association-de-lutte-contre-les-cyberviolences-sexistes/",
+    "url": "/ressources/2024/11/05/echap-association-de-lutte-contre-les-cyberviolences-sexistes/",
     "description": "Nous sommes un collectif hacker-féministe qui lutte contre l’utilisation de la technologie dans les violences sexistes et sexuelles. Créée en 2020, Echap s’est constituée en association loi 1901 afin d’apporter des ressources et du soutien aux associations luttant contre les violences faites aux femmes et aux minorités de genre."
   },
   
@@ -4538,7 +4562,7 @@
   
   {
     "title": "Framer components inspired by dieter rams' principles",
-    "url": "/articles/2024/11/05/framer-components-inspired-by-dieter-rams-principles/",
+    "url": "/ressources/2024/11/05/framer-components-inspired-by-dieter-rams-principles/",
     "description": "Welcome to Drams, where Framer components meet Dieter Rams' timeless design ethos. Dive into our curated collection, remix, and submit your creations for a chance to be featured. Join us in shaping the future of less, but better."
   },
   
