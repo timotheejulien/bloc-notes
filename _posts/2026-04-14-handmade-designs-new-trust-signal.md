@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Handmade designs: the new trust signal"
-link: https://www.nngroup.com/articles/handmade-designs/
-author: ""
-published_date: ""
+link: https://www.nngroup.com/articles/handmade-designs
+author: "Megan Chan (NN Group)"
+published_date: "10/04/2026"
 description: "Les tendances du design se tournent vers l'esthétique faite à la main, motivée par la fatigue numérique et de l'IA. Ce style, caractérisé par des imperfections et une touche humaine, gagne en popularité alors que le public recherche l'authenticité. Des marques comme Hermès, les Jeux olympiques de Paris et Acne Studios intègrent des éléments faits à la main pour transmettre la fiabilité et l'humanité."
-language: ""
+language: "en"
 categories: "articles"
 tags: "design ui"
 og-tags: "design ui"
