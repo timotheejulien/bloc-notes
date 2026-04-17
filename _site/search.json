@@ -1,6 +1,30 @@
 [
   
   {
+    "title": "Comment TikTok et les Reels abîment notre cerveau ?",
+    "url": "/articles/2026/04/16/comment-tiktok-et-les-reels-abiment-notre-cerveau/",
+    "description": "Scroll infini, recommandations algorithmiques ultra-personnalisées, gratification dopaminergique immédiate. Une méta-analyse portant sur 98 299 participants révèle que l'usage de vidéos courtes — TikTok, Instagram Reels, YouTube Shorts — s'associe à des déficits cognitifs modérés et à une dégradation de la santé mentale. Plus troublant encore : l'usage multi-plateforme se révèle plus toxique que TikTok seul. De quoi engager la responsabilité de l'écosystème tout entier dans la conception délibérée de mécanismes captologiques."
+  },
+  
+  {
+    "title": "Des verbes",
+    "url": "/articles/2026/04/14/des-verbes/",
+    "description": "Une développeuse web exprime son dégoût pour les IA génératives, qu’elle juge destructrices pour l’environnement, l’humanité et son métier. Elle aime le développement logiciel pour sa dimension créative, son aspect pédagogique et la possibilité de transmettre ses connaissances. Elle valorise la compréhension du code, qu’elle écrit elle-même ou qu’elle maintient, et l’importance de connaître son auteur et son utilisateur. L’IA générative détruit le lien humain présent dans le code, rendant la lecture et la compréhension plus difficiles. L’apprentissage continu, essentiel au métier, est perturbé par l’absence de contexte et d’interactions humaines. L’auteure envisage de quitter le développement logiciel pour explorer d’autres métiers, notamment sage-femme, en raison de ces préoccupations."
+  },
+  
+  {
+    "title": "Handmade designs: the new trust signal",
+    "url": "/articles/2026/04/14/handmade-designs-new-trust-signal/",
+    "description": "Les tendances du design se tournent vers l'esthétique faite à la main, motivée par la fatigue numérique et de l'IA. Ce style, caractérisé par des imperfections et une touche humaine, gagne en popularité alors que le public recherche l'authenticité. Des marques comme Hermès, les Jeux olympiques de Paris et Acne Studios intègrent des éléments faits à la main pour transmettre la fiabilité et l'humanité."
+  },
+  
+  {
+    "title": "Is this really needed?",
+    "url": "/articles/2026/04/13/is-this-really-needed/",
+    "description": "Le principe de « supprimer avant d'ajouter » met l'accent sur le pouvoir de la soustraction dans la conception. En dépouillant un produit à son essentiel, les concepteurs peuvent obtenir des informations plus claires sur le comportement des utilisateurs et créer des expériences plus percutantes. Cette approche favorise la confiance au sein des équipes, car chaque élément du produit est délibérément inclus, et elle s'étend à la conception visuelle, favorisant la clarté et la fonctionnalité."
+  },
+  
+  {
     "title": "Paperasse : skills IA pour la comptabilité et fiscalité française",
     "url": "/ressources/2026/04/12/paperrasse-skills/",
     "description": "Paperasse est un projet open-source de skills pour agents IA (Claude Code, Codex, Cursor, etc.) spécialisés dans la comptabilité, la fiscalité et l'audit des entreprises françaises. Chaque skill transforme un agent IA en copilote expert : il connaît les textes (CGI, BOFiP, NEP), les formulaires, les échéances, et le Plan Comptable Général."

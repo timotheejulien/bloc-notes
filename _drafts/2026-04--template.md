@@ -10,6 +10,7 @@ categories:
    - articles
    - citations
    - podcasts
+   - ressources
    - vidéos
 tags: ""
 og-tags: ""

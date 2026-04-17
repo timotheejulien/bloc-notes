@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-04-12T13:12:52+02:00</updated>
+   <updated>2026-04-17T10:26:21+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,50 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Comment TikTok et les Reels abîment notre cerveau ?</title>
+         <link href="http://localhost:4000/articles/2026/04/16/comment-tiktok-et-les-reels-abiment-notre-cerveau/"/>
+         <updated>2026-04-16T10:34:45+02:00</updated>
+         <id>http://localhost:4000/articles/2026/04/16/comment-tiktok-et-les-reels-abiment-notre-cerveau/</id>
+
+         <content type="html">
+            Scroll infini, recommandations algorithmiques ultra-personnalisées, gratification dopaminergique immédiate. Une méta-analyse portant sur 98 299 participants révèle que l&apos;usage de vidéos courtes — TikTok, Instagram Reels, YouTube Shorts — s&apos;associe à des déficits cognitifs modérés et à une dégradation de la santé mentale. Plus troublant encore : l&apos;usage multi-plateforme se révèle plus toxique que TikTok seul. De quoi engager la responsabilité de l&apos;écosystème tout entier dans la conception délibérée de mécanismes captologiques.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Des verbes</title>
+         <link href="http://localhost:4000/articles/2026/04/14/des-verbes/"/>
+         <updated>2026-04-14T17:28:17+02:00</updated>
+         <id>http://localhost:4000/articles/2026/04/14/des-verbes/</id>
+
+         <content type="html">
+            Une développeuse web exprime son dégoût pour les IA génératives, qu’elle juge destructrices pour l’environnement, l’humanité et son métier. Elle aime le développement logiciel pour sa dimension créative, son aspect pédagogique et la possibilité de transmettre ses connaissances. Elle valorise la compréhension du code, qu’elle écrit elle-même ou qu’elle maintient, et l’importance de connaître son auteur et son utilisateur. L’IA générative détruit le lien humain présent dans le code, rendant la lecture et la compréhension plus difficiles. L’apprentissage continu, essentiel au métier, est perturbé par l’absence de contexte et d’interactions humaines. L’auteure envisage de quitter le développement logiciel pour explorer d’autres métiers, notamment sage-femme, en raison de ces préoccupations.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Handmade designs: the new trust signal</title>
+         <link href="http://localhost:4000/articles/2026/04/14/handmade-designs-new-trust-signal/"/>
+         <updated>2026-04-14T17:24:58+02:00</updated>
+         <id>http://localhost:4000/articles/2026/04/14/handmade-designs-new-trust-signal/</id>
+
+         <content type="html">
+            Les tendances du design se tournent vers l&apos;esthétique faite à la main, motivée par la fatigue numérique et de l&apos;IA. Ce style, caractérisé par des imperfections et une touche humaine, gagne en popularité alors que le public recherche l&apos;authenticité. Des marques comme Hermès, les Jeux olympiques de Paris et Acne Studios intègrent des éléments faits à la main pour transmettre la fiabilité et l&apos;humanité.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Is this really needed?</title>
+         <link href="http://localhost:4000/articles/2026/04/13/is-this-really-needed/"/>
+         <updated>2026-04-13T16:12:48+02:00</updated>
+         <id>http://localhost:4000/articles/2026/04/13/is-this-really-needed/</id>
+
+         <content type="html">
+            Le principe de « supprimer avant d&apos;ajouter » met l&apos;accent sur le pouvoir de la soustraction dans la conception. En dépouillant un produit à son essentiel, les concepteurs peuvent obtenir des informations plus claires sur le comportement des utilisateurs et créer des expériences plus percutantes. Cette approche favorise la confiance au sein des équipes, car chaque élément du produit est délibérément inclus, et elle s&apos;étend à la conception visuelle, favorisant la clarté et la fonctionnalité.
+         </content>
+      </entry>
    
       <entry>
          <title>Paperasse : skills IA pour la comptabilité et fiscalité française</title>
