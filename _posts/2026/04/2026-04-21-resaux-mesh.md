@@ -14,4 +14,4 @@ date: "2026-04-21 12:55:00 +0200"
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
-<iframe title="Tracks" allowfullscreen="true" style="border:none;width:100%;height:100%;transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" src="https://www.arte.tv/embeds/fr/126484-047-A?autoplay=true&mute=0"></iframe>
+<iframe title="Tracks" allowfullscreen="true" style="border:none;width:100%;height:100%;transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" src="https://www.arte.tv/embeds/fr/126484-047-A?autoplay=false&mute=0"></iframe>
