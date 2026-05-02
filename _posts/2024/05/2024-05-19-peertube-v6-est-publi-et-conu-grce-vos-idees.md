@@ -14,9 +14,9 @@ categories:
 tags:
 - app
 - web
-- peertube
 - fediverse
-og-tags: app, web, peertube, fediverse
+- streaming
+og-tags: app, web, fediverse, streaming
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

@@ -16,9 +16,8 @@ tags:
 - vie-privée
 - réseau-social
 - meta
-- facebook
 - instagram
-og-tags: vie-privée, réseau-social, meta, facebook, instagram
+og-tags: vie-privée, réseau-social, meta, instagram
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

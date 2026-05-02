@@ -11,9 +11,8 @@ categories:
 - articles
 tags:
 - ia
-- openai
 - livre
-og-tags: ia, openai, livre
+og-tags: ia, livre
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

@@ -11,9 +11,9 @@ language: fr
 categories:
 - articles
 tags:
+- numérique
 - écologie
-- device
-og-tags: écologie, device
+og-tags: numérique, écologie
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

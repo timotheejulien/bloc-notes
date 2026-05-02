@@ -12,8 +12,8 @@ description: Associated Press, Le Monde, The Atlantic… Les médias ont-ils rai
 language: fr
 categories:
 - articles
-tags: ia presse journalisme openai
-og-tags: ia presse journalisme openai
+tags: ia presse journalisme
+og-tags: ia presse journalisme
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-13 08:48:13 +0100'
 ---

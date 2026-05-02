@@ -7,8 +7,8 @@ published_date: "05/10/2025"
 description: "Conseils parentaux, recherche de logement, cuisine, santé, sport : ChatGPT et ses concurrents sont utilisés au quotidien par des millions de personnes. Une intimité croissante avec les chatbots qui soulève des questions vertigineuses."
 language: "fr"
 categories: "articles"
-tags: "ia openai société numérique"
-og-tags: "ia openai société numérique"
+tags: "ia société numérique"
+og-tags: "ia société numérique"
 date: "2025-10-05T09:50:02+02:00"
 permalink: /:categories/:year/:month/:day/:title/
 ---

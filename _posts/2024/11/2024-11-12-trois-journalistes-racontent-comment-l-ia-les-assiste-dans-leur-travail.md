@@ -11,8 +11,8 @@ description: Et si, plutôt que de tenter de les remplacer, l’IA devenait une 
 language: fr
 categories:
 - articles
-tags: ia presse journalisme openai
-og-tags: ia presse journalisme openai
+tags: ia presse journalisme
+og-tags: ia presse journalisme
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-13 08:50:58 +0100'
 ---

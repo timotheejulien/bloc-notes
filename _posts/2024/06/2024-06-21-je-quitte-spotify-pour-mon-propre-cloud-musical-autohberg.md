@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Je quitte spotify pour mon propre cloud musical autohébergé !
+title: Je quitte Spotify pour mon propre cloud musical autohébergé !
 link: https://blog.flozz.fr/2024/06/21/je-quitte-spotify-pour-mon-propre-cloud-musical-autoheberge/
 author: Flozz
 published_date: 21/06/2024
@@ -12,9 +12,11 @@ language: fr
 categories:
 - articles
 tags:
+- app
 - musique
 - auto-hébergement
-og-tags: musique, auto-hébergement
+- streaming
+og-tags: app, musique, auto-hébergement, streaming
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

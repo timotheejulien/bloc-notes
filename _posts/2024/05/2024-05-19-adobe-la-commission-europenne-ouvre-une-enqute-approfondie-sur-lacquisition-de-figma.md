@@ -16,9 +16,8 @@ categories:
 tags:
 - app
 - design
-- adobe
 - figma
-og-tags: app, design, adobe, figma
+og-tags: app, design, figma
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

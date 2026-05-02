@@ -16,8 +16,7 @@ tags:
 - vie-privée
 - surveillance
 - société
-- jeux-olympiques
-og-tags: vie-privée, surveillance, société, jeux-olympiques
+og-tags: vie-privée, surveillance, société
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

@@ -18,8 +18,8 @@ description: 'En tant qu’enseignante-chercheuse en informatique, j’ai lu l�
   supérieur ou ailleurs, précisons un peu le sujet.'
 language: fr
 categories: articles
-tags: ia openai
-og-tags: ia openai
+tags: ia
+og-tags: ia
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2025-02-03 18:56:05 +0100'
 ---

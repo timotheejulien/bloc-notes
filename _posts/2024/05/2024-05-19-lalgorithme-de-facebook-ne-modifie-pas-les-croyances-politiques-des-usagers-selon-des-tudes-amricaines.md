@@ -15,8 +15,7 @@ tags:
 - réseau-social
 - meta
 - société
-- facebook
-og-tags: gafam, Réseau social, meta, société, facebook
+og-tags: gafam, réseau social, meta, société
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

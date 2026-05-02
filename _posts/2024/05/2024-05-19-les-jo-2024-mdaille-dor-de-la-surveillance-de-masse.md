@@ -13,8 +13,7 @@ categories:
 tags:
 - vie-privée
 - société
-- jeux-olympiques
-og-tags: vie-privée, société, jeux-olympiques
+og-tags: vie-privée, société
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

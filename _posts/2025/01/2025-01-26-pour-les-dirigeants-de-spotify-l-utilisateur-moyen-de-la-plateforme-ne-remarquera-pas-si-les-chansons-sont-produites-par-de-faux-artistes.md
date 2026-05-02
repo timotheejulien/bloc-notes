@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "« Pour les dirigeants de Spotify, l’utilisateur moyen de la plateforme ne
-  remarquera pas si les chansons sont produites par de faux artistes »"
+title: "« Pour les dirigeants de Spotify, l’utilisateur moyen de la plateforme ne remarquera pas si les chansons sont produites par de faux artistes »"
 link: https://www.lemonde.fr/pixels/article/2025/01/26/pour-les-dirigeants-de-spotify-l-utilisateur-moyen-de-la-plateforme-ne-remarquera-pas-si-les-chansons-sont-produites-par-de-faux-artistes_6517164_4408996.html
 author: Hélène Pagesy
 published_date: 26/01/2025

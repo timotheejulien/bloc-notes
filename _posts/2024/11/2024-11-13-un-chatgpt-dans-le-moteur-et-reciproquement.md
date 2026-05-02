@@ -11,8 +11,8 @@ description: 'Dans quel cycle historique inscrire ChatGPT ? Deux interprétation
   de ces deux acteurs car son processus de réécriture permanente n’est pas traçable.'
 language: fr
 categories: articles
-tags: ia numérique openai
-og-tags: ia numérique openai
+tags: ia numérique
+og-tags: ia numérique
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-13 08:46:37 +0100'
 ---

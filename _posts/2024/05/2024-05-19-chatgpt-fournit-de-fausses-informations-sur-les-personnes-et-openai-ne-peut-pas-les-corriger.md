@@ -14,8 +14,7 @@ tags:
 - ia
 - surveillance
 - législation
-- openai
-og-tags: vie-privée, ia, surveillance, législation, openai
+og-tags: vie-privée, ia, surveillance, législation
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

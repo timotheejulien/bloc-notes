@@ -12,8 +12,8 @@ description: Méconnu en France, le philosophe des techniques Vilém Flusser (19
   Citton, qui en signe la préface.
 language: fr
 categories: articles
-tags: ia openai technologie numérique écologie
-og-tags: ia openai technologie numérique écologie
+tags: ia technologie numérique écologie
+og-tags: ia technologie numérique écologie
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-12-03 08:50:26 +0100'
 ---

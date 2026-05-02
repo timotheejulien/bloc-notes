@@ -15,8 +15,7 @@ tags:
 - design-system
 - ui
 - méthodologie
-- adobe
-og-tags: design, design-system, ui, méthodologie, adobe
+og-tags: design, design-system, ui, méthodologie
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

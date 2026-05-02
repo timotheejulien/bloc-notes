@@ -16,8 +16,8 @@ description: Les modèles d'intelligence artificielle d'OpenAI représentent une
   avec la volonté de passer le texte généré au peigne fin.
 language: fr
 categories: articles
-tags: openai ia éthique
-og-tags: openai ia éthique
+tags: ia éthique
+og-tags: ia éthique
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-18 14:01:59 +0100'
 ---

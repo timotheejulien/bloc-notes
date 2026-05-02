@@ -13,8 +13,8 @@ description: At EFF we spend a lot of time thinking about Street Level Surveilla
   out CSS around the world.
 language: en
 categories: articles
-tags: surveillance device
-og-tags: surveillance device
+tags: surveillance vie-privée
+og-tags: surveillance vie-privée
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2025-03-10 19:53:46 +0100'
 ---

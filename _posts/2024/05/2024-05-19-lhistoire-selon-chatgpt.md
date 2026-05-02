@@ -13,8 +13,7 @@ categories:
 - articles
 tags:
 - ia
-- openai
-og-tags: ia, openai
+og-tags: ia
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

@@ -16,8 +16,7 @@ tags:
 - design-system
 - ui
 - ux
-- adobe
-og-tags: design, design-system, ui, ux, adobe
+og-tags: design, design-system, ui, ux
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

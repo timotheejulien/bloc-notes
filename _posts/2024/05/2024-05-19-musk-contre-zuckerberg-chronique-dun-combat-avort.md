@@ -10,8 +10,8 @@ description: Le match de « mixed martial arts » (MMA) entre les deux patrons a
 language: fr
 categories:
 - articles
-tags: facebook web
-og-tags: facebook web
+tags: meta web
+og-tags: meta web
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'Mails, alertes, messageries, pop-ups : le multitasking, ce nouvel ennemi du
-  cerveau'
+title: 'Mails, alertes, messageries, pop-ups : le multitasking, ce nouvel ennemi du cerveau'
 link: https://www.lexpress.fr/sciences-sante/mails-alertes-messageries-pop-ups-les-nouveaux-ennemis-de-notre-cerveau-EVKXGQTFZZHQRLYORR6B5ELS6Y
 author: Victor Garcia
 published_date: 28/11/2023
@@ -13,9 +12,9 @@ categories:
 tags:
 - société
 - technologie
-- notification
+- messagerie
 - travail
-og-tags: société, technologie, notification, travail
+og-tags: société, technologie, messagerie, travail
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

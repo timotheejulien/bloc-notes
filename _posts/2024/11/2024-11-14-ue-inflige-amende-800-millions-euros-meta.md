@@ -9,8 +9,8 @@ description: Meta, accusé d’abuser de sa position dominante pour imposer la F
 language: fr
 categories:
 - articles
-tags: meta législation facebook
-og-tags: meta législation facebook
+tags: meta législation
+og-tags: meta législation
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-14 17:13:33 +0100'
 ---

@@ -11,8 +11,8 @@ description: Quel est le rôle exact joué par la désinformation dans la victoi
   « fake news » pour s’imposer sur les réseaux sociaux et dans les médias traditionnels.
 language: fr
 categories: articles
-tags: politique désinformation numérique
-og-tags: politique désinformation numérique
+tags: politique numérique
+og-tags: politique numérique
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-11 20:38:45 +0100'
 ---

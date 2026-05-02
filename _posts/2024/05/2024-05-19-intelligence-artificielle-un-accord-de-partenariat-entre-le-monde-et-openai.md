@@ -16,8 +16,7 @@ tags:
 - ia
 - données-personnelles
 - presse
-- openai
-og-tags: ia, Données personnelles, presse, openai
+og-tags: ia, Données personnelles, presse
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

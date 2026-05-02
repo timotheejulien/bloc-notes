@@ -20,8 +20,7 @@ categories:
 tags:
 - design
 - graphisme
-- jeux-olympiques
-og-tags: design, graphisme, jeux-olympiques
+og-tags: design, graphisme
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

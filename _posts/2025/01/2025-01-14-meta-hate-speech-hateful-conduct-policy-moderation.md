@@ -10,8 +10,8 @@ description: Meta’s policy changes allow calling gay and trans people « ment
 language: en
 categories:
 - articles
-tags: facebook instagram meta éthique
-og-tags: facebook instagram meta éthique
+tags: instagram meta éthique
+og-tags: instagram meta éthique
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2025-01-14 09:16:41 +0100'
 ---

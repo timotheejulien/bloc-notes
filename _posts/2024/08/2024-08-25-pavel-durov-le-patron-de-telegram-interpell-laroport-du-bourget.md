@@ -16,8 +16,7 @@ tags:
 - législation
 - messagerie
 - telegram
-- modération
-og-tags: app, réseau-social, législation, messagerie, telegram, modération
+og-tags: app, réseau-social, législation, messagerie, telegram
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

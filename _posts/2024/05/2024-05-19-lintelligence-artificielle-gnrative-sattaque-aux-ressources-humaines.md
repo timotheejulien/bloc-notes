@@ -11,8 +11,8 @@ description: Popularisée par le robot conversationnel ChatGPT, l’IA générat
 language: fr
 categories:
 - articles
-tags: openai ia
-og-tags: openai ia
+tags: ia
+og-tags: ia
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2024-11-05 20:55:44 +0100'
 ---

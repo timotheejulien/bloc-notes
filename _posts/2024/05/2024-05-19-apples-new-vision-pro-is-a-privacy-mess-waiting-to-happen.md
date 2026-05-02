@@ -9,8 +9,8 @@ description: 'The Vision Pro brings us a whole new dimension of privacy risks. A
 language: en
 categories:
 - articles
-tags: vie-privée surveillance apple device
-og-tags: vie-privée, surveillance, apple, device
+tags: vie-privée surveillance apple
+og-tags: vie-privée, surveillance, apple
 permalink: "/:categories/:year/:month/:day/:title/"
 date: '2025-02-03 18:56:05 +0100'
 ---
