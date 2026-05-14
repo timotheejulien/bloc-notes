@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-05-02T09:59:15+02:00</updated>
+   <updated>2026-05-14T20:21:11+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,61 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Shaping the future of AI interaction by reimagining the mouse pointer</title>
+         <link href="http://localhost:4000/articles/2026/05/13/ai-pointer/"/>
+         <updated>2026-05-13T14:28:40+02:00</updated>
+         <id>http://localhost:4000/articles/2026/05/13/ai-pointer/</id>
+
+         <content type="html">
+            Google développe un pointeur compatible avec l&apos;IA qui comprend le contexte et l&apos;intention, permettant aux utilisateurs d&apos;interagir avec l&apos;IA de manière transparente sur toutes les applications. Ce nouveau pointeur, alimenté par Gemini, élimine le besoin d&apos;invites complexes en capturant le contexte visuel et sémantique, permettant aux utilisateurs de faire des demandes en utilisant un langage et des gestes naturels. Les principes qui guident ce développement comprennent le maintien du flux d&apos;utilisateurs, la rationalisation des interactions avec l&apos;IA, l&apos;exploitation du contexte et du pointage, et la transformation des pixels en entités exploitables.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Les gourous de la tech multiplient les propositions de « New Deal » pour affronter les conséquences sociales destructrices de l’IA</title>
+         <link href="http://localhost:4000/articles/2026/05/11/les-gourous-de-la-tech-multiplient-les-propositions-de-new-deal/"/>
+         <updated>2026-05-11T11:46:57+02:00</updated>
+         <id>http://localhost:4000/articles/2026/05/11/les-gourous-de-la-tech-multiplient-les-propositions-de-new-deal/</id>
+
+         <content type="html">
+            Conscients du potentiel ravageur de leur technologie sur l’emploi, les dirigeants d’OpenAI et d’Anthropic développent des idées progressistes pour maintenir la cohésion sociale, telles que la taxation du capital, le revenu universel et la réduction du temps de travail. 
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Contribuer au logiciel libre en tant que designer</title>
+         <link href="http://localhost:4000/articles/2026/05/07/contribuer-au-logiciel-libre-en-tant-que-designer/"/>
+         <updated>2026-05-07T18:59:53+02:00</updated>
+         <id>http://localhost:4000/articles/2026/05/07/contribuer-au-logiciel-libre-en-tant-que-designer/</id>
+
+         <content type="html">
+            Les designers contribuent peu au logiciel libre, malgré son potentiel d’écoconception et de protection des données. Les obstacles incluent la méconnaissance mutuelle entre designers et développeurs, et des modes de contribution inadaptés au design. Des solutions incluent la recherche UX, la clarification des contributions possibles et le maintien de fichiers de design ouverts.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>AI fatigue is real and nobody talks about it</title>
+         <link href="http://localhost:4000/articles/2026/05/06/ai-fatigue-is-real/"/>
+         <updated>2026-05-06T13:24:45+02:00</updated>
+         <id>http://localhost:4000/articles/2026/05/06/ai-fatigue-is-real/</id>
+
+         <content type="html">
+            Les outils d&apos;IA, tout en améliorant l&apos;efficacité des tâches individuelles, augmentent paradoxalement la charge de travail globale et la charge cognitive pour les ingénieurs. Le passage de la création à la révision du code généré par l&apos;IA, associé à la nature non déterministe des résultats de l&apos;IA, entraîne une fatigue décisionnelle et un besoin constant de vigilance. Ceci, combiné à la pression pour suivre l&apos;évolution rapide des capacités d&apos;IA, contribue à l&apos;épuisement professionnel et au sentiment d&apos;être dépassé. Le rythme rapide du développement d&apos;outils d&apos;IA, en particulier dans les agents de codage, conduit à des changements constants et à une dégradation des connaissances. Ce taux de désabonnement constant, couplé à la « spirale rapide » d&apos;essayer de perfectionner la production de l&apos;IA, peut être contre-productif. Au lieu de cela, se concentrer sur l&apos;infrastructure sous-jacente et traiter les résultats de l&apos;IA comme point de départ peut être plus efficace. L&apos;auteur souligne l&apos;importance d&apos;une approche équilibrée de l&apos;utilisation de l&apos;IA en ingénierie. Bien que l&apos;IA soit un outil puissant, la dépendance excessive peut conduire à l&apos;épuisement professionnel et à une compréhension superficielle. L&apos;auteur préconise des sessions d&apos;IA délibérées et chronométrées, séparant le temps de réflexion de l&apos;exécution de l&apos;IA, et acceptant que la sortie de l&apos;IA n&apos;a pas besoin d&apos;être parfaite.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>9 accessibility myths and pushbacks (and how to answer them)</title>
+         <link href="http://localhost:4000/articles/2026/05/04/9-accessibility-myths-and-pushbacks-and-how-to-answer-them/"/>
+         <updated>2026-05-04T08:46:25+02:00</updated>
+         <id>http://localhost:4000/articles/2026/05/04/9-accessibility-myths-and-pushbacks-and-how-to-answer-them/</id>
+
+         <content type="html">
+            L&apos;article aborde les refoulements courants auxquels les concepteurs sont confrontés lorsqu&apos;ils plaident pour l&apos;accessibilité, tels que les idées fausses sur les utilisateurs handicapés et la réflexion à court terme sur le coût et le calendrier. Il fournit des stratégies pour recadrer ces arguments, en utilisant des données et des preuves pour mettre en évidence les avantages commerciaux de l&apos;accessibilité, y compris l&apos;augmentation de la satisfaction des clients, de la rétention et des taux de conversion. L&apos;article souligne que l&apos;accessibilité est une responsabilité partagée dans tous les rôles du processus de conception et de développement. L&apos;accessibilité est souvent négligée en raison d&apos;idées fausses sur le coût, la complexité et l&apos;innovation. Cependant, donner la priorité à l&apos;accessibilité dès le départ est cruciale pour la conformité juridique, l&apos;expansion du marché et l&apos;expérience utilisateur. En collaborant avec les développeurs et en recadre l&apos;accessibilité comme une opportunité commerciale et un catalyseur d&apos;innovation, les concepteurs peuvent créer des produits inclusifs et performants. Le texte répond aux objections courantes à la mise en œuvre de l&apos;accessibilité dans la conception, telles que les préoccupations concernant l&apos;identité de la marque et la complexité des directives d&apos;accessibilité. Il suggère de refaire ces objections en soulignant que l&apos;accessibilité élargit l&apos;identité de la marque et peut être réalisée de manière progressive. Le texte souligne également l&apos;importance pour les concepteurs de prendre l&apos;initiative de promouvoir l&apos;accessibilité, en commençant par de petits objectifs réalisables et en créant progressivement de l&apos;élan et du soutien. L&apos;accessibilité est un droit universel, pas une caractéristique ou une réflexion après coup. Il s&apos;agit de dignité et de s&apos;assurer que chacun peut utiliser les produits et services sans barrières.
+         </content>
+      </entry>
    
       <entry>
          <title>ChatGPT : OpenAI officialise la surveillance de vos conversations dans un billet de blog surréaliste</title>

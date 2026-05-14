@@ -1,6 +1,36 @@
 [
   
   {
+    "title": "Shaping the future of AI interaction by reimagining the mouse pointer",
+    "url": "/articles/2026/05/13/ai-pointer/",
+    "description": "Google développe un pointeur compatible avec l'IA qui comprend le contexte et l'intention, permettant aux utilisateurs d'interagir avec l'IA de manière transparente sur toutes les applications. Ce nouveau pointeur, alimenté par Gemini, élimine le besoin d'invites complexes en capturant le contexte visuel et sémantique, permettant aux utilisateurs de faire des demandes en utilisant un langage et des gestes naturels. Les principes qui guident ce développement comprennent le maintien du flux d'utilisateurs, la rationalisation des interactions avec l'IA, l'exploitation du contexte et du pointage, et la transformation des pixels en entités exploitables."
+  },
+  
+  {
+    "title": "Les gourous de la tech multiplient les propositions de « New Deal » pour affronter les conséquences sociales destructrices de l’IA",
+    "url": "/articles/2026/05/11/les-gourous-de-la-tech-multiplient-les-propositions-de-new-deal/",
+    "description": "Conscients du potentiel ravageur de leur technologie sur l’emploi, les dirigeants d’OpenAI et d’Anthropic développent des idées progressistes pour maintenir la cohésion sociale, telles que la taxation du capital, le revenu universel et la réduction du temps de travail. "
+  },
+  
+  {
+    "title": "Contribuer au logiciel libre en tant que designer",
+    "url": "/articles/2026/05/07/contribuer-au-logiciel-libre-en-tant-que-designer/",
+    "description": "Les designers contribuent peu au logiciel libre, malgré son potentiel d’écoconception et de protection des données. Les obstacles incluent la méconnaissance mutuelle entre designers et développeurs, et des modes de contribution inadaptés au design. Des solutions incluent la recherche UX, la clarification des contributions possibles et le maintien de fichiers de design ouverts."
+  },
+  
+  {
+    "title": "AI fatigue is real and nobody talks about it",
+    "url": "/articles/2026/05/06/ai-fatigue-is-real/",
+    "description": "Les outils d'IA, tout en améliorant l'efficacité des tâches individuelles, augmentent paradoxalement la charge de travail globale et la charge cognitive pour les ingénieurs. Le passage de la création à la révision du code généré par l'IA, associé à la nature non déterministe des résultats de l'IA, entraîne une fatigue décisionnelle et un besoin constant de vigilance. Ceci, combiné à la pression pour suivre l'évolution rapide des capacités d'IA, contribue à l'épuisement professionnel et au sentiment d'être dépassé. Le rythme rapide du développement d'outils d'IA, en particulier dans les agents de codage, conduit à des changements constants et à une dégradation des connaissances. Ce taux de désabonnement constant, couplé à la « spirale rapide » d'essayer de perfectionner la production de l'IA, peut être contre-productif. Au lieu de cela, se concentrer sur l'infrastructure sous-jacente et traiter les résultats de l'IA comme point de départ peut être plus efficace. L'auteur souligne l'importance d'une approche équilibrée de l'utilisation de l'IA en ingénierie. Bien que l'IA soit un outil puissant, la dépendance excessive peut conduire à l'épuisement professionnel et à une compréhension superficielle. L'auteur préconise des sessions d'IA délibérées et chronométrées, séparant le temps de réflexion de l'exécution de l'IA, et acceptant que la sortie de l'IA n'a pas besoin d'être parfaite."
+  },
+  
+  {
+    "title": "9 accessibility myths and pushbacks (and how to answer them)",
+    "url": "/articles/2026/05/04/9-accessibility-myths-and-pushbacks-and-how-to-answer-them/",
+    "description": "L'article aborde les refoulements courants auxquels les concepteurs sont confrontés lorsqu'ils plaident pour l'accessibilité, tels que les idées fausses sur les utilisateurs handicapés et la réflexion à court terme sur le coût et le calendrier. Il fournit des stratégies pour recadrer ces arguments, en utilisant des données et des preuves pour mettre en évidence les avantages commerciaux de l'accessibilité, y compris l'augmentation de la satisfaction des clients, de la rétention et des taux de conversion. L'article souligne que l'accessibilité est une responsabilité partagée dans tous les rôles du processus de conception et de développement. L'accessibilité est souvent négligée en raison d'idées fausses sur le coût, la complexité et l'innovation. Cependant, donner la priorité à l'accessibilité dès le départ est cruciale pour la conformité juridique, l'expansion du marché et l'expérience utilisateur. En collaborant avec les développeurs et en recadre l'accessibilité comme une opportunité commerciale et un catalyseur d'innovation, les concepteurs peuvent créer des produits inclusifs et performants. Le texte répond aux objections courantes à la mise en œuvre de l'accessibilité dans la conception, telles que les préoccupations concernant l'identité de la marque et la complexité des directives d'accessibilité. Il suggère de refaire ces objections en soulignant que l'accessibilité élargit l'identité de la marque et peut être réalisée de manière progressive. Le texte souligne également l'importance pour les concepteurs de prendre l'initiative de promouvoir l'accessibilité, en commençant par de petits objectifs réalisables et en créant progressivement de l'élan et du soutien. L'accessibilité est un droit universel, pas une caractéristique ou une réflexion après coup. Il s'agit de dignité et de s'assurer que chacun peut utiliser les produits et services sans barrières."
+  },
+  
+  {
     "title": "ChatGPT : OpenAI officialise la surveillance de vos conversations dans un billet de blog surréaliste",
     "url": "/articles/2026/05/02/chatgpt-openai-officialise-la-surveillance-de-vos-conversations/",
     "description": "Dans un très curieux billet de blog, OpenAI détaille pour la première fois l'infrastructure qu'elle déploie pour scanner, analyser et potentiellement signaler aux autorités les échanges de ses abonnés. Sous couvert de prévention des violences, l'entreprise officialise un dispositif de renseignement comportemental privé, sans cadre juridique contraignant ni contrôle extérieur."
