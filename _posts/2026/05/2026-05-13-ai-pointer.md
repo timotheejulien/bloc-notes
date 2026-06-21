@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shaping the future of AI interaction by reimagining the mouse pointer"
-link: https://deepmind.google/blog/ai-pointer/
+link: https://deepmind.google/blog/ai-pointer
 author: "Adrien Baranes
 Rob Marchant"
 published_date: "12/05/2026"
