@@ -1,6 +1,12 @@
 [
   
   {
+    "title": "How to create PWA icons that look correct on all browsers and devices",
+    "url": "/articles/2026/07/07/how-to-create-pwa-icons-that-look-correct-on-all-platforms-and-devices/",
+    "description": "Les applications Web progressives (PWA) nécessitent des icônes différentes pour iOS/iPadOS, macOS et Chrome. iOS/iPadOS utilise l'icône Apple-touch, tandis que macOS et Chrome utilisent des icônes manifestes. Pour assurer une apparence cohérente sur toutes les plateformes, créez une icône masquée à l'aide de Maskable.app, en ajustant le remplissage si nécessaire pour correspondre à l'icône macOS."
+  },
+  
+  {
     "title": "L’heure de l’IA au lycée. Buvez des données et mangez des tokens.",
     "url": "/articles/2026/06/21/lheure-de-lia-au-lycee-buvez-des-donnees-et-mangez-des-tokens/",
     "description": "L’annonce d’une heure hebdomadaire d’enseignement sur l’IA en classe de seconde, sans concertation ni financement, est critiquée. Cette mesure, perçue comme une “mesure fantôme”, s’ajoute à d’autres initiatives non financées et mal définies, contribuant à la déconstruction des collectifs enseignants et lycéens. L’auteur dénonce une approche superficielle et opportuniste de l’éducation, contrastant avec les enjeux réels du système éducatif."
@@ -52,12 +58,6 @@
     "title": "9 accessibility myths and pushbacks (and how to answer them)",
     "url": "/articles/2026/05/04/9-accessibility-myths-and-pushbacks-and-how-to-answer-them/",
     "description": "L'article aborde les refoulements courants auxquels les concepteurs sont confrontés lorsqu'ils plaident pour l'accessibilité, tels que les idées fausses sur les utilisateurs handicapés et la réflexion à court terme sur le coût et le calendrier. Il fournit des stratégies pour recadrer ces arguments, en utilisant des données et des preuves pour mettre en évidence les avantages commerciaux de l'accessibilité, y compris l'augmentation de la satisfaction des clients, de la rétention et des taux de conversion. L'article souligne que l'accessibilité est une responsabilité partagée dans tous les rôles du processus de conception et de développement. L'accessibilité est souvent négligée en raison d'idées fausses sur le coût, la complexité et l'innovation. Cependant, donner la priorité à l'accessibilité dès le départ est cruciale pour la conformité juridique, l'expansion du marché et l'expérience utilisateur. En collaborant avec les développeurs et en recadre l'accessibilité comme une opportunité commerciale et un catalyseur d'innovation, les concepteurs peuvent créer des produits inclusifs et performants. Le texte répond aux objections courantes à la mise en œuvre de l'accessibilité dans la conception, telles que les préoccupations concernant l'identité de la marque et la complexité des directives d'accessibilité. Il suggère de refaire ces objections en soulignant que l'accessibilité élargit l'identité de la marque et peut être réalisée de manière progressive. Le texte souligne également l'importance pour les concepteurs de prendre l'initiative de promouvoir l'accessibilité, en commençant par de petits objectifs réalisables et en créant progressivement de l'élan et du soutien. L'accessibilité est un droit universel, pas une caractéristique ou une réflexion après coup. Il s'agit de dignité et de s'assurer que chacun peut utiliser les produits et services sans barrières."
-  },
-  
-  {
-    "title": "ChatGPT : OpenAI officialise la surveillance de vos conversations dans un billet de blog surréaliste",
-    "url": "/articles/2026/05/02/chatgpt-openai-officialise-la-surveillance-de-vos-conversations/",
-    "description": "Dans un très curieux billet de blog, OpenAI détaille pour la première fois l'infrastructure qu'elle déploie pour scanner, analyser et potentiellement signaler aux autorités les échanges de ses abonnés. Sous couvert de prévention des violences, l'entreprise officialise un dispositif de renseignement comportemental privé, sans cadre juridique contraignant ni contrôle extérieur."
   },
   
   {
@@ -499,12 +499,6 @@
   },
   
   {
-    "title": "Intelligence artificielle : comment ChatGPT est entré dans nos vies",
-    "url": "/articles/2025/10/05/comment-chatgpt-s-est-impose-dans-notre-quotidien/",
-    "description": "Conseils parentaux, recherche de logement, cuisine, santé, sport : ChatGPT et ses concurrents sont utilisés au quotidien par des millions de personnes. Une intimité croissante avec les chatbots qui soulève des questions vertigineuses."
-  },
-  
-  {
     "title": "Comment reprendre le pouvoir sur notre quotidien ?",
     "url": "/vid%C3%A9os/2025/10/04/comment-reprendre-le-pouvoir-sur-notre-quotidien/",
     "description": "Vous êtes peut-être comme beaucoup, à culpabiliser d'acheter des baskets made in China, des bananes du Costa Rica ou un smartphone assemblé dans les pire condition, mais sans vraiment savoir comment faire autrement. Que ce soit ce qu'on mange, le logement où on vit, où les habits qu'on porte, on réalise que les choses les plus basiques de notre vie nous échappent. En découvrant l'œuvre de Geneviève Pruvost, on peut enfin saisir les ressorts de cette impuissance. Cette sociologue et directrice de recherche à l'EHESS est aussi diplômée de permaculture. Dans son livre Quotidien Politique, elle a rassemblé des pensées méconnues pour comprendre comment notre vie quotidienne nous a échappé. Et à travers cette perspective, elle creuse aussi la façon dont on pourrait reprendre le pouvoir sur nos conditions de vie. Alors, de quoi se compose vraiment la vie quotidienne ? Pourquoi la base matérielle de notre existence nous échappe-t-elle ? Comment reprendre le pouvoir sur notre quotidien ?"
@@ -820,12 +814,6 @@
     "title": "From flat to feel",
     "url": "/articles/2025/07/02/from-flat-to-feel/",
     "description": "Long-held beliefs about simplicity, realism, and the role of emotion in digital design have evolved. Here’s a look at what’s new—and why it matters."
-  },
-  
-  {
-    "title": "ChatGPT est-il en train de casser le cerveau humain ? 5 points sur le preprint du MIT sur les effets de l’IA",
-    "url": "/articles/2025/06/25/chatgpt-cerveau-etude-mit/",
-    "description": "Dans un preprint de 206 pages publié par le MIT Media Lab, Nataliya Kosmyna et ses co-auteurs (disponible intégralement à ce lien) présentent pour la première fois de manière aussi précise les effets de l’utilisation des modèles de langage (LLM) comme ChatGPT sur le cerveau humain."
   },
   
   {
@@ -1393,12 +1381,6 @@
   },
   
   {
-    "title": "L'IA open source peut-elle tuer ChatGPT ? (interview Mistral AI)",
-    "url": "/vid%C3%A9os/2025/02/28/lia-open-source-peut-elle-tuer-chatgpt/",
-    "description": "Retour d'expérience sur la création de Mistral AI"
-  },
-  
-  {
     "title": "Susan Kare, celle qui a rendu l'informatique « humain »",
     "url": "/articles/2025/02/27/susan-kare/",
     "description": "Une main pour déplacer un élément, une poubelle pour jeter des fichiers, un pot de peinture pour colorier, le travail de Susan Kare représente, semblerait-il, le langage le plus universel que nous connaissions à l’heure actuelle : les icônes informatiques. Au sein de l’enseigne mondiale Apple, elle a créé un moyen de rendre des fonctions complexes en visuels compréhensifs pour tous. Voici Susan Kare, l’une des pionnières du Pixel Art et précurseuse des émojis."
@@ -1588,12 +1570,6 @@
     "title": "The paradox of UX personalization",
     "url": "/articles/2025/02/03/the-paradox-of-ux-personalization/",
     "description": "AI-driven UX curates familiarity, but in doing so, it narrows the path to new experiences."
-  },
-  
-  {
-    "title": "Pourquoi je n’utilise pas ChatGPT",
-    "url": "/articles/2025/02/03/pourquoi-je-nutiliserai-pas-chatgpt/",
-    "description": "En tant qu’enseignante-chercheuse en informatique, j’ai lu l’article fondateur On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?1 en 2021. Tous les effets négatifs observés des grands modèles de langage et des IAs génératives sont annoncés dans cet article, comme le dit d’ailleurs l’une des autrices dans un entretien récent. Quand j’ai été confrontée personnellement à des textes rendus par des étudiant·es et écrits par ChatGPT, dès janvier 2023, ma méfiance a priori pour cette branche du numérique a commencé à s’incarner dans l’expérience personnelle. Depuis j’accumule des articles et des prises de position sur ce phénomène, mais je n’ai jamais été tentée d’essayer moi-même. Avant de faire un tour d’horizon des divers arguments qui m’ont fait refuser absolument l’usage — et critiquer vertement le développement — des IAs génératives en tout genre, que ce soit dans l’enseignement supérieur ou ailleurs, précisons un peu le sujet."
   },
   
   {
@@ -2113,12 +2089,6 @@
   },
   
   {
-    "title": "« On devient fonctionnaire d’OpenAI sitôt que l’on utilise ChatGPT »",
-    "url": "/articles/2024/12/03/on-devient-fonctionnaire-openai-sitot-quon-utilise-chatgpt/",
-    "description": "Méconnu en France, le philosophe des techniques Vilém Flusser (1920–1991) a pensé, avec plusieurs longueurs d’avance, ce que peut être l’écologie dans un monde ultra-technologisé. À l’occasion de la parution d’une collection de ses textes aux éditions Wildproject, Nous sommes les enfants de Marie Curie, nous avons décortiqué sa vision du futur en compagnie du théoricien de la littérature et des médias Yves Citton, qui en signe la préface."
-  },
-  
-  {
     "title": "La psychologie au service des défis environnementaux et climatiques",
     "url": "/articles/2024/12/03/la-psychologie-au-service-des-defis-environnementaux-et-climatiques/",
     "description": "Savez-vous que l’information factuelle n’est guère efficace pour inciter à des gestes écologiques ? Que les résumés des rapports du GIEC peuvent être compris de travers ? Que des États reproduisent parfois les mêmes blocages mentaux que des individus ? La recherche actuelle en psychologie s’attaque à ces problèmes cruciaux. Petit tour d’horizon de solutions présentées dans une conférence récente."
@@ -2371,12 +2341,6 @@
   },
   
   {
-    "title": "Un Chat(GPT) dans le moteur, et réciproquement",
-    "url": "/articles/2024/11/13/un-chatgpt-dans-le-moteur-et-reciproquement/",
-    "description": "Dans quel cycle historique inscrire ChatGPT ? Deux interprétations sont possibles : dans l’une, il constitue la troisième étape d’un processus marqué par l’invention du télégraphe, puis par celle des réseaux sociaux ; dans l’autre, il prolonge l’invention de Google, puis de Wikipédia. Mais ChatGPT se différencie aussi de ces deux acteurs car son processus de réécriture permanente n’est pas traçable."
-  },
-  
-  {
     "title": "Surveillance sur internet : le gouvernement va-t-il tous nous ficher ?",
     "url": "/articles/2024/11/13/surveillance-sur-internet-le-gouvernement-va-t-il-tous-nous-ficher/",
     "description": "À l’heure où le monde politico-médiatique fait l’objet d’une défiance grandissante, l’exécutif s’apprête à scruter davantage l’opinion publique en renforçant sa surveillance des activités en ligne des Français. Guillaume Champeau, fondateur de Numerama, pointe « un risque fort de surveillance massive et de fichage de données sensibles »."
@@ -2458,12 +2422,6 @@
     "title": "La majorité préfère les bloqueurs de pub aux sites web payants",
     "url": "/articles/2024/11/08/la-majorite-prefere-les-bloqueurs-de-pub-aux-sites-web-payants/",
     "description": "Dans un monde où tout semble truffé d'annonces, les utilisateurs se posent tout le temps la question « que faire? » pour les éliminer. L'une des options consiste à payer un site web pour bénéficier d'une expérience sans publicité (par exemple, YouTube ou Netflix proposent de telles options), l'autre consiste à supporter les publicités, et une autre encore consiste à s'armer d'un bloqueur de publicités, qu'il s'agisse d'une extension ou d'une application. Ce dernier ne bloquera pas seulement les publicités dans un navigateur, mais sur tous les sites web où les règles de filtrage du bloqueur de publicités s'appliquent."
-  },
-  
-  {
-    "title": "ChatGPT Isn’t « Hallucinating »— It’s Bullshitting!",
-    "url": "/articles/2024/11/08/chatgpt-isnt-hallucinating-its-bullshitting/",
-    "description": "It’s important that we use accurate terminology when discussing how AI chatbots make up information"
   },
   
   {
@@ -4063,12 +4021,6 @@
   },
   
   {
-    "title": "L’histoire selon ChatGPT",
-    "url": "/articles/2024/11/05/lhistoire-selon-chatgpt/",
-    "description": "Une fois par mois, Le Devoir d’éducation veut proposer des contributions enrichissantes, qu’elles proviennent de chercheurs et de praticiens du milieu de l’enseignement ou d’autres personnes qui ont réfléchi à l’état de notre système d’éducation."
-  },
-  
-  {
     "title": "Let’s make the indie web easier",
     "url": "/articles/2024/11/05/lets-make-the-indie-web-easier/",
     "description": "We need more than Wordpress"
@@ -4237,12 +4189,6 @@
   },
   
   {
-    "title": "Le « New York Times » poursuit en justice Microsoft et OpenAI, créateur de ChatGPT, pour violation de droits d’auteur",
-    "url": "/articles/2024/11/05/le-new-york-times-poursuit-en-justice-microsoft-et-openai-crateur-de-chatgpt-pour-violation-de-droits-dauteur/",
-    "description": "« Si Microsoft et OpenAI veulent utiliser notre travail pour un usage commercial, la loi les oblige à demander d’abord la permission », a dénoncé une porte-parole du journal américain."
-  },
-  
-  {
     "title": "Le mystère de la vidéo satisfaisante",
     "url": "/vid%C3%A9os/2024/11/05/le-mystre-de-la-vido-satisfaisante/",
     "description": "Une pâte de sable rose est malaxée, aplatie puis coupée de façon parfaitement symétrique. Postée sur tiktok en janvier 2022, cette vidéo a été vue plusieurs millions de fois. À vous de jouer maintenant : appuyez sur “play“. Alors, plus détendu ? Apparu sur un forum de partage il y a dix ans, le genre visuel des “vidéos satisfaisantes“ est toujours en tête des vues sur les réseaux sociaux. Il existe une multitude de catégories, mais certains codes se distinguent : des gestes précis, des formes géométriques, un fond sonore agréable. Ces contenus visuels, parfois absurdes mais souvent ludiques, font appel à nos cinq sens. Le créateur de cette vidéo, Cyrille Guérineau, nous explique la fabrication de ces images. Selon lui, elles sont tout aussi satisfaisantes à voir qu'à réaliser. Le docteur en neurosciences cognitives, Albert Moukheiber, analyse les mécanismes à l'œuvre dans notre perception et dans notre corps quand nous regardons ces vidéos."
@@ -4294,12 +4240,6 @@
     "title": "Et Dieu créa l'IA ?",
     "url": "/vid%C3%A9os/2024/11/05/le-dessous-des-images-et-dieu-cra-lia/",
     "description": "Deux êtres qui se saluent du bout de l'index, un fond bleuté, du code informatique : les ingrédients habituels utilisés pour représenter l'intelligence artificielle. Une image sans aucun rapport avec sa réalité technique et sociale ! Présenté par Sonia Devillers, le magazine qui analyse les images de notre époque. Depuis 2020, elle est partout. Dans les médias d'actualité ou consacrés à la technologie, sur les sites des gouvernements ou des banques... Cette illustration à succès fait partie des images de l'agence Getty à disposition des médias et des communicants. Elle convoque des références bibliques et un univers futuriste qui en disent plus sur nous que sur l'intelligence artificielle. Rebecca Swift, vice-présidente et responsable internationale des stratégies créatives chez Getty, nous explique les dessous de cette illustration. Antonio Casilli, chercheur en sociologie, décrypte les symboles contenus dans ce type d'images... et nous en propose d'autres, plus proches de la réalité !"
-  },
-  
-  {
-    "title": "Le début de la fin pour ChatGPT ? OpenAI pourrait faire faillite dès 2024",
-    "url": "/articles/2024/11/05/le-dbut-de-la-fin-pour-chatgpt-openai-pourrait-faire-faillite-ds-2024/",
-    "description": "ChatGPT demande énormément d'argent à OpenAI pour fonctionner, alors que l'entreprise a du mal à générer des revenus suffisants pour compenser les dépenses. Les pertes sont abyssales, et l'avenir d'OpenAI est même remis en cause."
   },
   
   {
@@ -4642,12 +4582,6 @@
     "title": "Google Chrome m’a tuer ou le probable déclin de Firefox si nous n’y faisons rien",
     "url": "/articles/2024/11/05/google-chrome-ma-tuer-ou-le-probable-dclin-de-firefox-si-nous-ny-faisons-rien/",
     "description": "Ce billet d’anticipation se demande si le navigateur Google Chrome n’est pas en route pour doucement mais sûrement tout écraser sur son passage et si la communauté du Libre peut ou doit y faire quelque chose, sachant que l’une des principales victimes collatérales pourrait bien être Firefox."
-  },
-  
-  {
-    "title": "google bard arrive en france et gagne de nouvelles fonctions pour battre chat-gpt",
-    "url": "/articles/2024/11/05/google-bard-arrive-en-france-et-gagne-de-nouvelles-fonctions-pour-battre-chatgpt/",
-    "description": "À Paris, Numerama a pu discuter avec Jack Krawczyk, le directeur produit en charge de Google Bard. Il nous annonce l’arrivée de l’intelligence artificielle dans l’Union européenne, l’ajout de la reconnaissance d’images, la possibilité de lui parler vocalement et l’introduction d’un historique, pour revenir sur d’anciennes conversations."
   },
   
   {
@@ -5002,30 +4936,6 @@
     "title": "Choisir le HTML natif pour mettre fin aux hacks css dans la création de formulaires",
     "url": "/articles/2024/11/05/choisir-le-html-natif-pour-mettre-fin-aux-hacks-css-dans-la-cration-de-formulaires/",
     "description": "Le besoin de prendre le contrôle de l’apparence d’éléments natifs a toujours été présent chez les développeurs et les développeuses. Par envie de vouloir des éléments à l’apparence unique, parfois par obligation, car l’interface doit être identique aux maquettes."
-  },
-  
-  {
-    "title": "ChatGPT : on a testé sa version expérimentale audio et photo",
-    "url": "/articles/2024/11/05/chatgpt-on-a-test-sa-version-exprimentale-audio-et-photo/",
-    "description": "Cette édition bêta de l’intelligence artificielle d’OpenAI peut désormais déchiffrer, souvent assez mal, les images qu’on lui soumet, mais aussi discuter à l’oral de façon bien plus convaincante."
-  },
-  
-  {
-    "title": "chat-gpt is getting « memory » to remember who you are and what you like",
-    "url": "/articles/2024/11/05/chatgpt-is-getting-memory-to-remember-who-you-are-and-what-you-like/",
-    "description": "As its chatbot gets more powerful, OpenAI is also letting it get more personal. But it says users are still in control."
-  },
-  
-  {
-    "title": "chat-gpt fournit de fausses informations sur les personnes, et openai ne peut pas les corriger",
-    "url": "/articles/2024/11/05/chatgpt-fournit-de-fausses-informations-sur-les-personnes-et-openai-ne-peut-pas-les-corriger/",
-    "description": ""
-  },
-  
-  {
-    "title": "ChatGPT avait-il le droit de s'entraîner sur toutes ces données ? la justice va trancher",
-    "url": "/articles/2024/11/05/chatgpt-avaitil-le-droit-de-sentraner-sur-toutes-ces-donnes-la-justice-va-trancher/",
-    "description": "OpenAI, l’entreprise derrière ChatGPT, est assignée en justice. Une action collective menée par un cabinet d’avocats estime que l’intelligence artificielle n’avait pas le droit de s’entraîner sur des publications en accès libres, comme des articles Wikipedia ou des commentaires sur les réseaux sociaux."
   },
   
   {
