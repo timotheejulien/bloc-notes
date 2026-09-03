@@ -1,6 +1,36 @@
 [
   
   {
+    "title": "I don’t have a smartphone…",
+    "url": "/articles/2026/09/03/i-dont-have-a-smartphone/",
+    "description": "L'auteur évite d'utiliser des applications pour smartphone en prétendant ne pas posséder de smartphone, soulignant les nombreuses hypothèses requises pour la fonctionnalité de l'application. Malgré cela, l'auteur utilise un smartphone minimaliste (Mudita Kompakt) pour des applications spécifiques et un téléphone secondaire avec /e/OS pour les applications nécessitant des services Google. L'auteur s'inquiète de la dépendance croissante aux smartphones et du potentiel de comptes Google obligatoires, préconisant des alternatives axées sur la confidentialité."
+  },
+  
+  {
+    "title": "DuckDuckGo research: the AI privacy problem",
+    "url": "/articles/2026/09/03/the-ai-problem/",
+    "description": "Une enquête DuckDuckGo révèle que de nombreux utilisateurs d'IA partagent des informations personnelles avec l'IA, ignorant la façon dont les entreprises gèrent leurs données. 32 % des utilisateurs d'IA ont partagé des informations qu'ils ont gardées auprès de personnes de confiance, et 43 % des parents qui utilisent l'IA s'y sont confiés plus que quiconque. Une fois informées des pratiques en matière de données, 58 % des personnes sont mal à l'aise avec l'utilisation de leurs conversations pour former l'IA."
+  },
+  
+  {
+    "title": "Statistical significance isn’t the same as practical significance",
+    "url": "/articles/2026/08/20/statistical-significance/",
+    "description": "La signification statistique indique que les résultats sont peu probables en raison du hasard, tandis que la signification pratique évalue l'impact réel. De grands échantillons peuvent donner une signification triviale ; de petits échantillons peuvent cacher des modèles significatifs. Les deux guident les décisions d'UX en équilibrant la fiabilité avec la valeur de l'utilisateur et de l'entreprise."
+  },
+  
+  {
+    "title": "Apple is the king of AI and nobody knows it",
+    "url": "/articles/2026/08/19/apple-is-the-king-of-ai/",
+    "description": "L’idée centrale de l’article est qu’Apple pourrait devenir le vrai gagnant de l’IA, non pas grâce à ses modèles, mais grâce à son matériel. Les modèles open source deviennent rapidement assez performants pour être exécutés localement, ce qui pourrait déplacer l’IA des datacenters vers nos propres machines. Le principal problème devient alors la mémoire, et l’architecture Apple avec sa mémoire unifiée serait particulièrement adaptée aux modèles géants. Selon l’auteur, un Mac Studio pourrait faire tourner des modèles qu’un GPU NVIDIA seul ne peut tout simplement pas contenir, avec un coût et une consommation bien inférieurs. Si cette tendance se confirme, NVIDIA resterait incontournable pour entraîner les modèles, mais pourrait perdre une grande partie du marché de l’inférence. Apple bénéficierait aussi de l’intérêt croissant pour une IA locale, privée et indépendante du cloud. L’auteur estime donc que le marché sous-estime complètement le potentiel d’Apple et surestime la pérennité du modèle des gigantesques datacenters NVIDIA."
+  },
+  
+  {
+    "title": "L’onanisme des utilisateurs de chatbots",
+    "url": "/articles/2026/08/18/onanisme-utilisateurs-chatbot/",
+    "description": "L’analogie de Guitar Hero souligne l’aspect amusant mais inutile des chatbots, sans apprentissage ni gain de temps réel. L’usage génère une pollution d’outputs, notamment dans l’open source, où les contributions masquent les problèmes. Le partage d’outputs de chatbot, comparé à la masturbation ou à des singes dactylographes, empêche l’apprentissage et la clarté. Les patchs générés nuisent aux projets Open Source, contrairement aux contributions humaines. L’écriture fixe les idées."
+  },
+  
+  {
     "title": "How to create PWA icons that look correct on all browsers and devices",
     "url": "/articles/2026/07/07/how-to-create-pwa-icons-that-look-correct-on-all-platforms-and-devices/",
     "description": "Les applications Web progressives (PWA) nécessitent des icônes différentes pour iOS/iPadOS, macOS et Chrome. iOS/iPadOS utilise l'icône Apple-touch, tandis que macOS et Chrome utilisent des icônes manifestes. Pour assurer une apparence cohérente sur toutes les plateformes, créez une icône masquée à l'aide de Maskable.app, en ajustant le remplissage si nécessaire pour correspondre à l'icône macOS."

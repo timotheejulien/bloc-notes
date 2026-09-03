@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-07-28T20:25:30+02:00</updated>
+   <updated>2026-09-03T10:54:40+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,61 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>I don’t have a smartphone…</title>
+         <link href="http://localhost:4000/articles/2026/09/03/i-dont-have-a-smartphone/"/>
+         <updated>2026-09-03T10:11:20+02:00</updated>
+         <id>http://localhost:4000/articles/2026/09/03/i-dont-have-a-smartphone/</id>
+
+         <content type="html">
+            L&apos;auteur évite d&apos;utiliser des applications pour smartphone en prétendant ne pas posséder de smartphone, soulignant les nombreuses hypothèses requises pour la fonctionnalité de l&apos;application. Malgré cela, l&apos;auteur utilise un smartphone minimaliste (Mudita Kompakt) pour des applications spécifiques et un téléphone secondaire avec /e/OS pour les applications nécessitant des services Google. L&apos;auteur s&apos;inquiète de la dépendance croissante aux smartphones et du potentiel de comptes Google obligatoires, préconisant des alternatives axées sur la confidentialité.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>DuckDuckGo research: the AI privacy problem</title>
+         <link href="http://localhost:4000/articles/2026/09/03/the-ai-problem/"/>
+         <updated>2026-09-03T09:25:03+02:00</updated>
+         <id>http://localhost:4000/articles/2026/09/03/the-ai-problem/</id>
+
+         <content type="html">
+            Une enquête DuckDuckGo révèle que de nombreux utilisateurs d&apos;IA partagent des informations personnelles avec l&apos;IA, ignorant la façon dont les entreprises gèrent leurs données. 32 % des utilisateurs d&apos;IA ont partagé des informations qu&apos;ils ont gardées auprès de personnes de confiance, et 43 % des parents qui utilisent l&apos;IA s&apos;y sont confiés plus que quiconque. Une fois informées des pratiques en matière de données, 58 % des personnes sont mal à l&apos;aise avec l&apos;utilisation de leurs conversations pour former l&apos;IA.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Statistical significance isn’t the same as practical significance</title>
+         <link href="http://localhost:4000/articles/2026/08/20/statistical-significance/"/>
+         <updated>2026-08-20T11:23:58+02:00</updated>
+         <id>http://localhost:4000/articles/2026/08/20/statistical-significance/</id>
+
+         <content type="html">
+            La signification statistique indique que les résultats sont peu probables en raison du hasard, tandis que la signification pratique évalue l&apos;impact réel. De grands échantillons peuvent donner une signification triviale ; de petits échantillons peuvent cacher des modèles significatifs. Les deux guident les décisions d&apos;UX en équilibrant la fiabilité avec la valeur de l&apos;utilisateur et de l&apos;entreprise.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Apple is the king of AI and nobody knows it</title>
+         <link href="http://localhost:4000/articles/2026/08/19/apple-is-the-king-of-ai/"/>
+         <updated>2026-08-19T09:53:06+02:00</updated>
+         <id>http://localhost:4000/articles/2026/08/19/apple-is-the-king-of-ai/</id>
+
+         <content type="html">
+            L’idée centrale de l’article est qu’Apple pourrait devenir le vrai gagnant de l’IA, non pas grâce à ses modèles, mais grâce à son matériel. Les modèles open source deviennent rapidement assez performants pour être exécutés localement, ce qui pourrait déplacer l’IA des datacenters vers nos propres machines. Le principal problème devient alors la mémoire, et l’architecture Apple avec sa mémoire unifiée serait particulièrement adaptée aux modèles géants. Selon l’auteur, un Mac Studio pourrait faire tourner des modèles qu’un GPU NVIDIA seul ne peut tout simplement pas contenir, avec un coût et une consommation bien inférieurs. Si cette tendance se confirme, NVIDIA resterait incontournable pour entraîner les modèles, mais pourrait perdre une grande partie du marché de l’inférence. Apple bénéficierait aussi de l’intérêt croissant pour une IA locale, privée et indépendante du cloud. L’auteur estime donc que le marché sous-estime complètement le potentiel d’Apple et surestime la pérennité du modèle des gigantesques datacenters NVIDIA.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>L’onanisme des utilisateurs de chatbots</title>
+         <link href="http://localhost:4000/articles/2026/08/18/onanisme-utilisateurs-chatbot/"/>
+         <updated>2026-08-18T09:02:56+02:00</updated>
+         <id>http://localhost:4000/articles/2026/08/18/onanisme-utilisateurs-chatbot/</id>
+
+         <content type="html">
+            L’analogie de Guitar Hero souligne l’aspect amusant mais inutile des chatbots, sans apprentissage ni gain de temps réel. L’usage génère une pollution d’outputs, notamment dans l’open source, où les contributions masquent les problèmes. Le partage d’outputs de chatbot, comparé à la masturbation ou à des singes dactylographes, empêche l’apprentissage et la clarté. Les patchs générés nuisent aux projets Open Source, contrairement aux contributions humaines. L’écriture fixe les idées.
+         </content>
+      </entry>
    
       <entry>
          <title>How to create PWA icons that look correct on all browsers and devices</title>
