@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-09-03T10:54:40+02:00</updated>
+   <updated>2026-09-10T20:02:44+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,39 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>Utiliser l'IA, c'est comme une dépendance honteuse à la drogue ou un fétichisme sexuel bizarre. Si vous voulez l'utiliser en privé ou entre adultes consentant·es, c'est votre affaire. Tant que vous ne vous en vantez pas, je ne vous jugerai pas. Assurez-vous simplement que je n'aie pas à interagir avec ça.</title>
+         <link href="http://localhost:4000/citations/2026/09/10/utilisation-ia-par-les-autres/"/>
+         <updated>2026-09-10T14:42:25+02:00</updated>
+         <id>http://localhost:4000/citations/2026/09/10/utilisation-ia-par-les-autres/</id>
+
+         <content type="html">
+            
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Autistici/Inventati, une leçon à tirer</title>
+         <link href="http://localhost:4000/articles/2026/09/09/autistici-inventati-une-lecon-a-tirer/"/>
+         <updated>2026-09-09T14:31:48+02:00</updated>
+         <id>http://localhost:4000/articles/2026/09/09/autistici-inventati-une-lecon-a-tirer/</id>
+
+         <content type="html">
+            Autistici/Inventati a cessé ses activités après l’inscription par les États-Unis sur la liste terroriste, entraînant blocage de domaine, piratage et retrait bancaire. L’anonymat est attaqué ; il faut cesser de faire confiance aux services américains. L’autonomie numérique exige d’apprendre l’infrastructure, de privilégier CHATONS et de multiplier les services alternatifs, dont le Fediverse. L’action collective, locale ou européenne, doit contrer l’hégémonie américaine. Autistici/Inventati inspire cette résilience.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Your navigation menu doesn’t need Miller’s 7±2 rule</title>
+         <link href="http://localhost:4000/articles/2026/09/08/your-menu-doesnt-need-millers-7-plus-minus-2-rule/"/>
+         <updated>2026-09-08T19:26:38+02:00</updated>
+         <id>http://localhost:4000/articles/2026/09/08/your-menu-doesnt-need-millers-7-plus-minus-2-rule/</id>
+
+         <content type="html">
+            Le « 7±2 » de Miller fait référence à la mémoire à court terme, et non à la conception de l&apos;interface, et Miller l&apos;a qualifié de coïncidence. Les travaux ultérieurs suggèrent une capacité proche de quatre ; le découpage reste utile pour regrouper le contenu. Évitez de traiter les slogans comme des règles UX universelles.
+         </content>
+      </entry>
    
       <entry>
          <title>I don’t have a smartphone…</title>
