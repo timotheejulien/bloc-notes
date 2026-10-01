@@ -3,7 +3,7 @@
    <title type="text" xml:lang="fr">Bloc-notes</title>
    <link type="application/atom+xml" href="http://localhost:4000/feed.xml" rel="self"/>
    <link type="text/html" href="http://localhost:4000/feed" rel="alternate"/>
-   <updated>2026-09-24T09:01:19+02:00</updated>
+   <updated>2026-10-01T10:23:55+02:00</updated>
    <id>https://bloc-notes.timotheejulien.fr/feed.xml</id>
    <author>
       <email>email@timotheejulien.fr</email>
@@ -12,6 +12,28 @@
    <generator uri="https://jekyllrb.com/" version="v4.3.4">Jekyll v4.3.4</generator>
    <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
 
+   
+      <entry>
+         <title>IA : des impacts insoutenables, multipliés par 7 d’ici 2030</title>
+         <link href="http://localhost:4000/articles/2026/10/01/ia-des-impacts-insoutenables-multiplies-par-7-dici-2030/"/>
+         <updated>2026-10-01T09:51:52+02:00</updated>
+         <id>http://localhost:4000/articles/2026/10/01/ia-des-impacts-insoutenables-multiplies-par-7-dici-2030/</id>
+
+         <content type="html">
+            L’étude de Green IT prévoit que l’IA multipliera ses impacts par sept d’ici 2030, dépassant les limites planétaires. La production d’électricité concentre 96 % des effets. Cinq mesures, dont la sobriété et l’écoconception, sont proposées.
+         </content>
+      </entry>
+   
+      <entry>
+         <title>Ah ouais, quand même, on en est là !</title>
+         <link href="http://localhost:4000/articles/2026/09/24/ah-ouais-quand-meme-on-en-est-la/"/>
+         <updated>2026-09-24T09:08:25+02:00</updated>
+         <id>http://localhost:4000/articles/2026/09/24/ah-ouais-quand-meme-on-en-est-la/</id>
+
+         <content type="html">
+            Une application belge de canicule, « vibecodée » sans fondement, illustre l’absurdité de l’IA imposée par les patrons. Cory Doctorow souligne l’absence de succès concret, tandis que l’idée seule, sans confrontation, reste vaine. Les chatbots, comparés au génie d’Aladin par Marcello Vitali-Rosati, trompent les « Juliuses » en simulant l’exécution d’idées floues. Seuls des utilisateurs compétents en tirent un gain limité, tandis que les contributions automatisées envahissent l’Open Source.
+         </content>
+      </entry>
    
       <entry>
          <title>Regarder pour mieux voir</title>
