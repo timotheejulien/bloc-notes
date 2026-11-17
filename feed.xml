@@ -9,15 +9,15 @@ layout: null
 
   <link rel="self"
         type="application/atom+xml"
-        href="{{ '/feed.xml' | absolute_url }}" />
+        href="{{ '/feed.xml' | absolute_url | xml_escape }}" />
 
   <link rel="alternate"
         type="text/html"
-        href="{{ '/' | absolute_url }}" />
+        href="{{ '/' | absolute_url | xml_escape }}" />
 
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <updated>{{ site.time | date_to_xmlschema | xml_escape }}</updated>
 
-  <id>{{ '/feed.xml' | absolute_url }}</id>
+  <id>{{ '/feed.xml' | absolute_url | xml_escape }}</id>
 
   <author>
     <name>Timothée JULIEN</name>
@@ -25,8 +25,8 @@ layout: null
   </author>
 
   <generator uri="https://jekyllrb.com/"
-             version="{{ jekyll.version }}">
-    Jekyll {{ jekyll.version }}
+             version="{{ jekyll.version | xml_escape }}">
+    Jekyll {{ jekyll.version | xml_escape }}
   </generator>
 
   <rights>MIT license. Copyright © 2024-2025, Timothée JULIEN.</rights>
@@ -38,12 +38,12 @@ layout: null
 
     <link rel="alternate"
           type="text/html"
-          href="{{ post.url | absolute_url }}" />
+          href="{{ post.url | absolute_url | xml_escape }}" />
 
-    <id>{{ post.url | absolute_url }}</id>
+    <id>{{ post.url | absolute_url | xml_escape }}</id>
 
-    <published>{{ post.date | date_to_xmlschema }}</published>
-    <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
+    <published>{{ post.date | date_to_xmlschema | xml_escape }}</published>
+    <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema | xml_escape }}</updated>
 
     <content type="html">{{ post.description | default: post.excerpt | xml_escape }}</content>
 
